@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>বাংলাদেশ News — RSS Aggregator</title>
+<title>The Daily Star — Bangladesh News</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500&family=DM+Mono&display=swap" rel="stylesheet" />
 <style>
@@ -18,7 +18,6 @@
     --green-lt:  #25a862;
     --green-dim: #143d26;
     --red:       #c23a3a;
-    --amber:     #d48c22;
     --text:      #e8ead8;
     --muted:     #7a8470;
     --accent:    #b8d48a;
@@ -28,350 +27,83 @@
   }
 
   html { font-size: 16px; }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    font-weight: 300;
-    min-height: 100vh;
-  }
+  body { background: var(--bg); color: var(--text); font-family: var(--sans); font-weight: 300; min-height: 100vh; }
 
-  /* ── Masthead ── */
-  .masthead {
-    border-bottom: 1px solid var(--green);
-    background: var(--surface);
-    padding: 0 1.5rem;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
-  .masthead-inner {
-    max-width: 1280px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    height: 56px;
-  }
-  .logo {
-    font-family: var(--serif);
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: var(--accent);
-    letter-spacing: -0.02em;
-    flex-shrink: 0;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  .logo-flag {
-    width: 26px;
-    height: 17px;
-    border-radius: 2px;
-    overflow: hidden;
-    flex-shrink: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #006a4e;
-    position: relative;
-  }
-  .logo-flag::after {
-    content: '';
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background: #f42a41;
-    position: absolute;
-    left: 9px;
-  }
-  .masthead-right {
-    margin-left: auto;
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-  }
-  #refresh-btn {
-    font-family: var(--sans);
-    font-size: 0.8rem;
-    font-weight: 500;
-    background: var(--green-dim);
-    color: var(--green-lt);
-    border: 1px solid var(--green);
-    border-radius: 6px;
-    padding: 0.35rem 0.75rem;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    transition: background 0.15s;
-  }
+  .masthead { border-bottom: 1px solid var(--green); background: var(--surface); padding: 0 1.5rem; position: sticky; top: 0; z-index: 100; }
+  .masthead-inner { max-width: 1280px; margin: 0 auto; display: flex; align-items: center; gap: 1rem; height: 56px; }
+  .logo { font-family: var(--serif); font-size: 1.3rem; font-weight: 700; color: var(--accent); letter-spacing: -0.02em; flex-shrink: 0; display: flex; align-items: center; gap: 0.5rem; }
+  .logo-flag { width: 26px; height: 17px; border-radius: 2px; overflow: hidden; flex-shrink: 0; background: #006a4e; position: relative; display: flex; align-items: center; }
+  .logo-flag::after { content: ''; width: 10px; height: 10px; border-radius: 50%; background: #f42a41; position: absolute; left: 9px; }
+  .masthead-right { margin-left: auto; display: flex; align-items: center; gap: 0.75rem; }
+  #refresh-btn { font-family: var(--sans); font-size: 0.8rem; font-weight: 500; background: var(--green-dim); color: var(--green-lt); border: 1px solid var(--green); border-radius: 6px; padding: 0.35rem 0.75rem; cursor: pointer; display: flex; align-items: center; gap: 0.4rem; transition: background 0.15s; }
   #refresh-btn:hover { background: var(--green); color: #fff; }
   #refresh-btn.spinning svg { animation: spin 0.8s linear infinite; }
   @keyframes spin { to { transform: rotate(360deg); } }
-  .last-updated {
-    font-size: 0.72rem;
-    color: var(--muted);
-    font-family: var(--mono);
-  }
+  .last-updated { font-size: 0.72rem; color: var(--muted); font-family: var(--mono); }
 
-  /* ── Source Filter Bar ── */
-  .filter-bar {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 0 1.5rem;
-  }
-  .filter-bar-inner {
-    max-width: 1280px;
-    margin: 0 auto;
-    display: flex;
-    gap: 0.4rem;
-    padding: 0.6rem 0;
-    overflow-x: auto;
-    scrollbar-width: none;
-  }
+  .filter-bar { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 1.5rem; }
+  .filter-bar-inner { max-width: 1280px; margin: 0 auto; display: flex; gap: 0.4rem; padding: 0.6rem 0; overflow-x: auto; scrollbar-width: none; }
   .filter-bar-inner::-webkit-scrollbar { display: none; }
-  .chip {
-    font-size: 0.75rem;
-    font-weight: 500;
-    font-family: var(--sans);
-    padding: 0.3rem 0.8rem;
-    border-radius: 999px;
-    border: 1px solid var(--border);
-    background: transparent;
-    color: var(--muted);
-    cursor: pointer;
-    white-space: nowrap;
-    transition: all 0.15s;
-    flex-shrink: 0;
-  }
+  .chip { font-size: 0.75rem; font-weight: 500; font-family: var(--sans); padding: 0.3rem 0.8rem; border-radius: 999px; border: 1px solid var(--border); background: transparent; color: var(--muted); cursor: pointer; white-space: nowrap; transition: all 0.15s; flex-shrink: 0; }
   .chip:hover { border-color: var(--green-lt); color: var(--green-lt); }
-  .chip.active {
-    background: var(--green);
-    border-color: var(--green);
-    color: #fff;
-  }
+  .chip.active { background: var(--green); border-color: var(--green); color: #fff; }
 
-  /* ── Layout ── */
-  .page {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 1.5rem;
-  }
-
-  /* Status bar */
-  .status-bar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1.2rem;
-    font-size: 0.8rem;
-    color: var(--muted);
-  }
+  .page { max-width: 1280px; margin: 0 auto; padding: 1.5rem; }
+  .status-bar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.2rem; font-size: 0.8rem; color: var(--muted); }
   .status-count { font-family: var(--mono); }
-  .status-dot {
-    width: 7px; height: 7px;
-    border-radius: 50%;
-    background: var(--green-lt);
-    display: inline-block;
-    margin-right: 0.4rem;
-    animation: pulse 2s infinite;
-  }
-  @keyframes pulse {
-    0%,100% { opacity: 1; }
-    50% { opacity: 0.3; }
-  }
+  .status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green-lt); display: inline-block; margin-right: 0.4rem; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
 
-  /* ── Grid ── */
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-    gap: 1rem;
-  }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1rem; }
 
-  /* ── Card ── */
-  .card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    transition: border-color 0.2s, transform 0.15s;
-    cursor: pointer;
-    text-decoration: none;
-    color: inherit;
-  }
-  .card:hover {
-    border-color: var(--green-lt);
-    transform: translateY(-2px);
-  }
-  .card-thumb {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    background: var(--surface);
-    display: block;
-    border-bottom: 1px solid var(--border);
-  }
-  .card-thumb-placeholder {
-    width: 100%;
-    height: 120px;
-    background: linear-gradient(135deg, var(--green-dim) 0%, var(--surface) 100%);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-bottom: 1px solid var(--border);
-    font-size: 2rem;
-    opacity: 0.4;
-  }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; transition: border-color 0.2s, transform 0.15s; cursor: pointer; text-decoration: none; color: inherit; }
+  .card:hover { border-color: var(--green-lt); transform: translateY(-2px); }
+  .card-thumb { width: 100%; height: 180px; object-fit: cover; background: var(--surface); display: block; border-bottom: 1px solid var(--border); }
+  .card-thumb-placeholder { width: 100%; height: 120px; background: var(--green-dim); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--border); opacity: 0.4; }
   .card-body { padding: 1rem 1.1rem; flex: 1; display: flex; flex-direction: column; }
-  .card-source {
-    font-size: 0.68rem;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    margin-bottom: 0.5rem;
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-  }
-  .source-dot {
-    width: 6px; height: 6px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-  .card-title {
-    font-family: var(--serif);
-    font-size: 1rem;
-    font-weight: 600;
-    line-height: 1.45;
-    color: var(--text);
-    margin-bottom: 0.6rem;
-    flex: 1;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .card-desc {
-    font-size: 0.8rem;
-    color: var(--muted);
-    line-height: 1.55;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    margin-bottom: 0.75rem;
-  }
-  .card-meta {
-    font-size: 0.72rem;
-    color: var(--muted);
-    font-family: var(--mono);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: auto;
-    padding-top: 0.6rem;
-    border-top: 1px solid var(--border);
-  }
-  .card-time { }
+  .card-source { font-size: 0.68rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.4rem; }
+  .source-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+  .card-title { font-family: var(--serif); font-size: 1rem; font-weight: 600; line-height: 1.45; color: var(--text); margin-bottom: 0.6rem; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .card-desc { font-size: 0.8rem; color: var(--muted); line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 0.75rem; }
+  .card-meta { font-size: 0.72rem; color: var(--muted); font-family: var(--mono); display: flex; align-items: center; justify-content: space-between; margin-top: auto; padding-top: 0.6rem; border-top: 1px solid var(--border); }
   .card-arrow { color: var(--green-lt); font-size: 0.9rem; }
 
-  /* ── Featured Card (first article) ── */
-  .card.featured {
-    grid-column: 1 / -1;
-    flex-direction: row;
-  }
-  .card.featured .card-thumb {
-    width: 380px;
-    min-width: 380px;
-    height: auto;
-    border-bottom: none;
-    border-right: 1px solid var(--border);
-  }
-  .card.featured .card-body { padding: 1.5rem 1.5rem; }
-  .card.featured .card-title {
-    font-size: 1.5rem;
-    -webkit-line-clamp: 4;
-  }
+  .card.featured { grid-column: 1 / -1; flex-direction: row; }
+  .card.featured .card-thumb { width: 380px; min-width: 380px; height: auto; border-bottom: none; border-right: 1px solid var(--border); }
+  .card.featured .card-body { padding: 1.5rem; }
+  .card.featured .card-title { font-size: 1.5rem; -webkit-line-clamp: 4; }
   .card.featured .card-desc { -webkit-line-clamp: 3; }
-  @media (max-width: 700px) {
-    .card.featured { flex-direction: column; }
-    .card.featured .card-thumb { width: 100%; min-width: 0; height: 200px; border-right: none; border-bottom: 1px solid var(--border); }
-  }
+  @media (max-width: 700px) { .card.featured { flex-direction: column; } .card.featured .card-thumb { width: 100%; min-width: 0; height: 200px; border-right: none; border-bottom: 1px solid var(--border); } }
 
-  /* ── Loading / Error States ── */
-  .loading-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-    gap: 1rem;
-  }
-  .skeleton {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    overflow: hidden;
-    animation: shimmer 1.5s infinite;
-  }
+  .loading-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1rem; }
+  .skeleton { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; animation: shimmer 1.5s infinite; }
   .skeleton-thumb { height: 140px; background: var(--surface); }
   .skeleton-body { padding: 1rem; }
-  .skeleton-line {
-    height: 10px;
-    border-radius: 4px;
-    background: var(--surface);
-    margin-bottom: 8px;
-  }
-  @keyframes shimmer {
-    0%,100% { opacity: 1; } 50% { opacity: 0.6; }
-  }
-  .error-banner {
-    background: #2a0f0f;
-    border: 1px solid var(--red);
-    border-radius: 8px;
-    padding: 1rem 1.25rem;
-    color: #f0a0a0;
-    font-size: 0.85rem;
-    margin-bottom: 1rem;
-  }
-  .source-error {
-    font-size: 0.75rem;
-    color: var(--muted);
-    font-style: italic;
-  }
+  .skeleton-line { height: 10px; border-radius: 4px; background: var(--surface); margin-bottom: 8px; }
+  @keyframes shimmer { 0%,100%{opacity:1} 50%{opacity:0.6} }
 
-  /* ── Empty ── */
-  .empty {
-    text-align: center;
-    padding: 4rem 1rem;
-    color: var(--muted);
-    font-size: 0.9rem;
-  }
+  .error-box { background: #2a0f0f; border: 1px solid var(--red); border-radius: 8px; padding: 1.5rem; color: #f0a0a0; margin: 2rem 0; text-align: center; }
+  .error-box h3 { font-family: var(--serif); margin-bottom: 0.5rem; font-size: 1.1rem; }
+  .error-box p { font-size: 0.85rem; line-height: 1.6; }
+  .error-box code { background: rgba(255,255,255,0.1); padding: 0.1rem 0.4rem; border-radius: 4px; font-family: var(--mono); font-size: 0.8rem; }
+
+  .empty { text-align: center; padding: 4rem 1rem; color: var(--muted); font-size: 0.9rem; }
   .empty h3 { font-family: var(--serif); color: var(--text); font-size: 1.2rem; margin-bottom: 0.5rem; }
 
-  /* ── Footer ── */
-  footer {
-    margin-top: 3rem;
-    padding: 1.5rem;
-    text-align: center;
-    font-size: 0.75rem;
-    color: var(--muted);
-    border-top: 1px solid var(--border);
-  }
+  footer { margin-top: 3rem; padding: 1.5rem; text-align: center; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--border); }
 </style>
 </head>
 <body>
 
-<!-- Masthead -->
 <header class="masthead">
   <div class="masthead-inner">
     <div class="logo">
       <div class="logo-flag"></div>
-      বাংলাদেশ Wire
+      The Daily Star
     </div>
     <div class="masthead-right">
       <span class="last-updated" id="last-updated">—</span>
-      <button id="refresh-btn" onclick="loadAll()">
+      <button id="refresh-btn" onclick="loadData()">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
         Refresh
       </button>
@@ -379,66 +111,25 @@
   </div>
 </header>
 
-<!-- Source Filter -->
 <div class="filter-bar">
   <div class="filter-bar-inner" id="filter-bar">
-    <button class="chip active" data-source="all" onclick="setFilter('all', this)">All Sources</button>
+    <button class="chip active" data-source="all" onclick="setFilter('all', this)">All Sections</button>
   </div>
 </div>
 
-<!-- Content -->
 <main class="page">
   <div class="status-bar">
-    <span><span class="status-dot"></span><span id="status-text">Loading feeds…</span></span>
+    <span><span class="status-dot"></span><span id="status-text">Loading…</span></span>
     <span class="status-count" id="article-count"></span>
   </div>
   <div id="feed-container"></div>
 </main>
 
-<footer>বাংলাদেশ Wire — aggregates public RSS feeds from major Bangladeshi news outlets · Refreshes every 15 min</footer>
+<footer>The Daily Star Feed · data refreshed hourly via GitHub Actions · <a href="https://www.thedailystar.net" target="_blank" rel="noopener" style="color:var(--green-lt)">thedailystar.net</a></footer>
 
 <script>
-const PROXY = 'https://api.allorigins.win/get?url=';
-
-const SOURCES = [
-  {
-    id: 'daily-star',
-    name: 'The Daily Star',
-    color: '#1a7a4a',
-    url: 'https://www.thedailystar.net/frontpage/rss.xml',
-    fallbackUrls: ['https://www.thedailystar.net/rss.xml']
-  },
-  {
-    id: 'dhaka-tribune',
-    name: 'Dhaka Tribune',
-    color: '#c23a3a',
-    url: 'https://www.dhakatribune.com/feed/',
-    fallbackUrls: []
-  },
-  {
-    id: 'bdnews24',
-    name: 'bdnews24',
-    color: '#d48c22',
-    url: 'https://bdnews24.com/feed/',
-    fallbackUrls: []
-  },
-  {
-    id: 'new-age',
-    name: 'New Age BD',
-    color: '#5580c0',
-    url: 'https://www.newagebd.net/feed/',
-    fallbackUrls: []
-  },
-  {
-    id: 'financial-express',
-    name: 'Financial Express',
-    color: '#8e5ba8',
-    url: 'https://thefinancialexpress.com.bd/feed/',
-    fallbackUrls: []
-  },
-];
-
 let allArticles = [];
+let allSources = [];
 let activeFilter = 'all';
 
 function timeAgo(dateStr) {
@@ -452,62 +143,14 @@ function timeAgo(dateStr) {
   return Math.floor(diff / 86400) + 'd ago';
 }
 
-function stripHtml(html) {
-  const d = document.createElement('div');
-  d.innerHTML = html || '';
-  return d.textContent || d.innerText || '';
-}
-
-function extractImg(item) {
-  // Try media:content, enclosure, then description img tag
-  const mediaContent = item.querySelector('content');
-  if (mediaContent && mediaContent.getAttribute('url')) return mediaContent.getAttribute('url');
-  const enclosure = item.querySelector('enclosure');
-  if (enclosure && enclosure.getAttribute('url') && enclosure.getAttribute('type')?.startsWith('image')) return enclosure.getAttribute('url');
-  const desc = item.querySelector('description')?.textContent || '';
-  const m = desc.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if (m) return m[1];
-  return null;
-}
-
-function parseRSS(xml, source) {
-  const doc = new DOMParser().parseFromString(xml, 'application/xml');
-  const items = doc.querySelectorAll('item');
-  return Array.from(items).slice(0, 20).map(item => {
-    const title = stripHtml(item.querySelector('title')?.textContent || '').trim();
-    const link = item.querySelector('link')?.textContent?.trim()
-      || item.querySelector('guid')?.textContent?.trim() || '#';
-    const desc = stripHtml(item.querySelector('description')?.textContent || '').slice(0, 200);
-    const pubDate = item.querySelector('pubDate')?.textContent || item.querySelector('date')?.textContent || '';
-    const img = extractImg(item);
-    return { title, link, desc, pubDate, img, source };
-  }).filter(a => a.title);
-}
-
-async function fetchFeed(source) {
-  const urls = [source.url, ...(source.fallbackUrls || [])];
-  for (const url of urls) {
-    try {
-      const res = await fetch(PROXY + encodeURIComponent(url), { signal: AbortSignal.timeout(10000) });
-      if (!res.ok) continue;
-      const json = await res.json();
-      if (!json.contents) continue;
-      const articles = parseRSS(json.contents, source);
-      if (articles.length > 0) return { source, articles, ok: true };
-    } catch (e) { /* try next */ }
-  }
-  return { source, articles: [], ok: false };
-}
-
 function buildFilterBar() {
   const bar = document.getElementById('filter-bar');
-  bar.innerHTML = `<button class="chip ${activeFilter==='all'?'active':''}" data-source="all" onclick="setFilter('all',this)">All Sources</button>`;
-  SOURCES.forEach(s => {
-    const count = allArticles.filter(a => a.source.id === s.id).length;
-    if (count === 0) return;
+  bar.innerHTML = `<button class="chip ${activeFilter==='all'?'active':''}" onclick="setFilter('all',this)">All Sections</button>`;
+  allSources.forEach(s => {
+    const count = allArticles.filter(a => a.sourceId === s.id).length;
+    if (!count) return;
     const btn = document.createElement('button');
     btn.className = 'chip' + (activeFilter === s.id ? ' active' : '');
-    btn.dataset.source = s.id;
     btn.textContent = s.name + ` (${count})`;
     btn.onclick = () => setFilter(s.id, btn);
     bar.appendChild(btn);
@@ -523,35 +166,31 @@ function setFilter(id, el) {
 
 function renderArticles() {
   const container = document.getElementById('feed-container');
-  const articles = activeFilter === 'all'
-    ? allArticles
-    : allArticles.filter(a => a.source.id === activeFilter);
-
+  const articles = activeFilter === 'all' ? allArticles : allArticles.filter(a => a.sourceId === activeFilter);
   document.getElementById('article-count').textContent = articles.length + ' articles';
 
-  if (articles.length === 0) {
-    container.innerHTML = `<div class="empty"><h3>No articles found</h3><p>Try a different source or refresh.</p></div>`;
+  if (!articles.length) {
+    container.innerHTML = `<div class="empty"><h3>No articles</h3><p>Try a different section.</p></div>`;
     return;
   }
 
   const cards = articles.map((a, i) => {
     const isFeatured = i === 0 && activeFilter === 'all';
     const imgHtml = a.img
-      ? `<img class="card-thumb" src="${a.img}" alt="" loading="lazy" onerror="this.parentElement.removeChild(this)">`
+      ? `<img class="card-thumb" src="${a.img}" alt="" loading="lazy" onerror="this.style.display='none'">`
       : `<div class="card-thumb-placeholder">📰</div>`;
-
     return `
-      <a class="card${isFeatured ? ' featured' : ''}" href="${a.link}" target="_blank" rel="noopener">
+      <a class="card${isFeatured?' featured':''}" href="${a.link}" target="_blank" rel="noopener">
         ${imgHtml}
         <div class="card-body">
           <div class="card-source">
-            <span class="source-dot" style="background:${a.source.color}"></span>
-            <span style="color:${a.source.color}">${a.source.name}</span>
+            <span class="source-dot" style="background:${a.sourceColor}"></span>
+            <span style="color:${a.sourceColor}">${a.sourceName}</span>
           </div>
           <div class="card-title">${a.title}</div>
           ${a.desc ? `<div class="card-desc">${a.desc}</div>` : ''}
           <div class="card-meta">
-            <span class="card-time">${timeAgo(a.pubDate) || '—'}</span>
+            <span>${timeAgo(a.pubDate) || '—'}</span>
             <span class="card-arrow">↗</span>
           </div>
         </div>
@@ -568,40 +207,70 @@ function showSkeletons() {
       <div class="skeleton-body">
         <div class="skeleton-line" style="width:40%"></div>
         <div class="skeleton-line" style="width:100%"></div>
-        <div class="skeleton-line" style="width:85%"></div>
-        <div class="skeleton-line" style="width:60%;margin-top:1rem"></div>
+        <div class="skeleton-line" style="width:80%"></div>
+        <div class="skeleton-line" style="width:55%;margin-top:1rem"></div>
       </div>
     </div>`).join('');
   document.getElementById('feed-container').innerHTML = `<div class="loading-grid">${skels}</div>`;
 }
 
-async function loadAll() {
+const SAMPLE_DATA = {
+  fetchedAt: new Date().toISOString(),
+  sources: [
+    { id: 'frontpage',     name: 'Front Page',    color: '#1a7a4a' },
+    { id: 'bangladesh',    name: 'Bangladesh',    color: '#2a7abf' },
+    { id: 'world',         name: 'World',         color: '#7a4abf' },
+    { id: 'business',      name: 'Business',      color: '#bf8a2a' },
+    { id: 'sports',        name: 'Sports',        color: '#c23a3a' },
+    { id: 'entertainment', name: 'Entertainment', color: '#bf2a7a' },
+    { id: 'lifestyle',     name: 'Lifestyle',     color: '#4abf7a' },
+    { id: 'opinion',       name: 'Opinion',       color: '#8a8a6a' },
+  ],
+  articles: [
+    { title: 'Cabinet approves draft of new anti-corruption law amid public pressure', link: 'https://www.thedailystar.net', desc: 'The cabinet on Tuesday approved a draft of the long-awaited anti-corruption legislation following months of civil society advocacy.', pubDate: new Date(Date.now()-1800000).toISOString(), img: null, sourceId: 'frontpage', sourceName: 'Front Page', sourceColor: '#1a7a4a' },
+    { title: 'Dhaka city corporation launches emergency flood relief operations', link: 'https://www.thedailystar.net', desc: 'Relief teams were deployed to low-lying areas across the capital as water levels rose following heavy monsoon rainfall overnight.', pubDate: new Date(Date.now()-3600000).toISOString(), img: null, sourceId: 'bangladesh', sourceName: 'Bangladesh', sourceColor: '#2a7abf' },
+    { title: 'Bangladesh GDP growth forecast revised upward to 6.8% for FY2025', link: 'https://www.thedailystar.net', desc: 'The World Bank has revised its growth projection for Bangladesh citing strong export performance and resilient remittance inflows.', pubDate: new Date(Date.now()-7200000).toISOString(), img: null, sourceId: 'business', sourceName: 'Business', sourceColor: '#bf8a2a' },
+    { title: 'Tigers clinch series against West Indies with dominant batting display', link: 'https://www.thedailystar.net', desc: 'Bangladesh sealed the ODI series 3-1 after a commanding 180-run total was defended comfortably by the pace attack.', pubDate: new Date(Date.now()-10800000).toISOString(), img: null, sourceId: 'sports', sourceName: 'Sports', sourceColor: '#c23a3a' },
+    { title: 'UN calls for immediate ceasefire as Gaza death toll climbs past 45,000', link: 'https://www.thedailystar.net', desc: 'The United Nations Security Council held an emergency session Monday demanding a halt to hostilities as humanitarian conditions deteriorate.', pubDate: new Date(Date.now()-14400000).toISOString(), img: null, sourceId: 'world', sourceName: 'World', sourceColor: '#7a4abf' },
+    { title: 'Shakib Al Hasan announces retirement from Test cricket', link: 'https://www.thedailystar.net', desc: 'The veteran all-rounder confirmed his decision after 17 years of Test cricket, citing the need to focus on limited-overs formats.', pubDate: new Date(Date.now()-18000000).toISOString(), img: null, sourceId: 'sports', sourceName: 'Sports', sourceColor: '#c23a3a' },
+    { title: 'Remittance inflows hit record $2.4 billion in October', link: 'https://www.thedailystar.net', desc: 'Bangladesh Bank reported the highest-ever single-month remittance figure, driven by increased flows from the Middle East and Malaysia.', pubDate: new Date(Date.now()-21600000).toISOString(), img: null, sourceId: 'business', sourceName: 'Business', sourceColor: '#bf8a2a' },
+    { title: 'Govt to invest Tk 12,000 crore in rural electrification by 2026', link: 'https://www.thedailystar.net', desc: 'The power ministry unveiled an ambitious plan to bring 100% electricity coverage to rural households within the next 18 months.', pubDate: new Date(Date.now()-25200000).toISOString(), img: null, sourceId: 'frontpage', sourceName: 'Front Page', sourceColor: '#1a7a4a' },
+    { title: 'Dhaka Film Festival opens with record 200 submissions from 70 countries', link: 'https://www.thedailystar.net', desc: 'The international film festival kicked off at the Bangladesh National Museum with screenings attracting large audiences on the opening day.', pubDate: new Date(Date.now()-28800000).toISOString(), img: null, sourceId: 'entertainment', sourceName: 'Entertainment', sourceColor: '#bf2a7a' },
+    { title: 'Opinion: Why Bangladesh must act now on climate adaptation', link: 'https://www.thedailystar.net', desc: 'With sea levels projected to inundate 17% of the country by 2050, delaying infrastructure investment is no longer an option.', pubDate: new Date(Date.now()-32400000).toISOString(), img: null, sourceId: 'opinion', sourceName: 'Opinion', sourceColor: '#8a8a6a' },
+    { title: 'The art of Eid dressing: how Bangladeshi designers are reclaiming tradition', link: 'https://www.thedailystar.net', desc: 'Local fashion houses are blending jamdani motifs with contemporary silhouettes as demand for homegrown festive wear surges.', pubDate: new Date(Date.now()-36000000).toISOString(), img: null, sourceId: 'lifestyle', sourceName: 'Lifestyle', sourceColor: '#4abf7a' },
+    { title: 'India, Bangladesh sign new water-sharing accord for Teesta river', link: 'https://www.thedailystar.net', desc: 'A landmark agreement was reached on water distribution during the bilateral summit held in New Delhi on Monday.', pubDate: new Date(Date.now()-39600000).toISOString(), img: null, sourceId: 'bangladesh', sourceName: 'Bangladesh', sourceColor: '#2a7abf' },
+  ]
+};
+
+async function loadData() {
   const btn = document.getElementById('refresh-btn');
   btn.classList.add('spinning');
-  document.getElementById('status-text').textContent = 'Fetching feeds…';
+  document.getElementById('status-text').textContent = 'Loading…';
   showSkeletons();
 
-  const results = await Promise.all(SOURCES.map(fetchFeed));
-
-  const failed = results.filter(r => !r.ok).map(r => r.source.name);
-  allArticles = results
-    .flatMap(r => r.articles)
-    .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allArticles = data.articles || [];
+    allSources  = data.sources  || [];
+    const fetched = new Date(data.fetchedAt);
+    document.getElementById('last-updated').textContent = 'Updated ' + fetched.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+    document.getElementById('status-text').textContent = allArticles.length + ' articles loaded';
+  } catch (e) {
+    // data.json not available yet — use sample data so the UI is visible
+    allArticles = SAMPLE_DATA.articles;
+    allSources  = SAMPLE_DATA.sources;
+    document.getElementById('last-updated').textContent = 'sample data';
+    document.getElementById('status-text').textContent = 'Showing sample data — run GitHub Actions to load live articles';
+  }
 
   buildFilterBar();
   renderArticles();
-
-  const now = new Date();
-  document.getElementById('last-updated').textContent =
-    'Updated ' + now.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
-  document.getElementById('status-text').textContent =
-    failed.length ? `${SOURCES.length - failed.length}/${SOURCES.length} sources loaded` : 'All sources loaded';
   btn.classList.remove('spinning');
 }
 
-// Auto-refresh every 15 min
-loadAll();
-setInterval(loadAll, 15 * 60 * 1000);
+loadData();
 </script>
 </body>
 </html>
