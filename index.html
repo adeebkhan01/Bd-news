@@ -9,9 +9,9 @@
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
-  --bg:#0e110e;--surface:#161a16;--card:#1c211c;--border:#2a302a;
-  --green:#1a7a4a;--green-lt:#25a862;--green-dim:#143d26;
-  --red:#c23a3a;--text:#e8ead8;--muted:#7a8470;--accent:#b8d48a;
+  --bg:#f5f2eb;--surface:#edeade;--card:#ffffff;--border:#ddd9cf;
+  --green:#1a7a4a;--green-lt:#1a7a4a;--green-dim:#e6f2ec;
+  --red:#c23a3a;--text:#1a1a18;--muted:#7a7568;--accent:#1a7a4a;
   --serif:'Playfair Display',Georgia,serif;
   --sans:'DM Sans',system-ui,sans-serif;
   --mono:'DM Mono',monospace;
@@ -20,12 +20,12 @@ html{font-size:16px}
 body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:300;min-height:100vh}
 .masthead{border-bottom:1px solid var(--green);background:var(--surface);padding:0 1.5rem;position:sticky;top:0;z-index:100}
 .masthead-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:1rem;height:56px}
-.logo{font-family:var(--serif);font-size:1.3rem;font-weight:700;color:var(--accent);letter-spacing:-0.02em;display:flex;align-items:center;gap:.5rem}
+.logo{font-family:var(--serif);font-size:1.3rem;font-weight:700;color:var(--green);letter-spacing:-0.02em;display:flex;align-items:center;gap:.5rem}
 .logo-flag{width:26px;height:17px;border-radius:2px;background:#006a4e;position:relative;flex-shrink:0}
 .logo-flag::after{content:'';width:10px;height:10px;border-radius:50%;background:#f42a41;position:absolute;top:50%;left:9px;transform:translateY(-50%)}
 .masthead-right{margin-left:auto;display:flex;align-items:center;gap:.75rem}
-#refresh-btn{font-size:.8rem;font-weight:500;background:var(--green-dim);color:var(--green-lt);border:1px solid var(--green);border-radius:6px;padding:.35rem .75rem;cursor:pointer;display:flex;align-items:center;gap:.4rem;transition:background .15s}
-#refresh-btn:hover{background:var(--green);color:#fff}
+#refresh-btn{font-size:.8rem;font-weight:500;background:var(--green);color:#fff;border:1px solid var(--green);border-radius:6px;padding:.35rem .75rem;cursor:pointer;display:flex;align-items:center;gap:.4rem;transition:background .15s}
+#refresh-btn:hover{background:#155f39;color:#fff}
 #refresh-btn.spinning svg{animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 .last-updated{font-size:.72rem;color:var(--muted);font-family:var(--mono)}
@@ -71,7 +71,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:
   .card.featured{flex-direction:column}
   .card.featured .card-thumb{width:100%;min-width:0;height:200px;border-right:none;border-bottom:1px solid var(--border)}
 }
-.highlight{background:rgba(184,212,138,.25);border-radius:2px;padding:0 1px}
+.highlight{background:rgba(26,122,74,.12);border-radius:2px;padding:0 1px}
 
 .loading-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1rem}
 .skeleton{background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden;animation:shimmer 1.5s infinite}
@@ -80,12 +80,25 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:
 .skeleton-line{height:10px;border-radius:4px;background:var(--surface);margin-bottom:8px}
 @keyframes shimmer{0%,100%{opacity:1}50%{opacity:.6}}
 
-.error-box{background:#2a0f0f;border:1px solid var(--red);border-radius:8px;padding:1.5rem;color:#f0a0a0;margin:2rem 0;text-align:center}
+.error-box{background:#fdf0f0;border:1px solid #e8b4b4;border-radius:8px;padding:1.5rem;color:#8b2020;margin:2rem 0;text-align:center}
 .error-box h3{font-family:var(--serif);margin-bottom:.5rem;font-size:1.1rem}
 .error-box p{font-size:.85rem;line-height:1.6}
 .empty{text-align:center;padding:4rem 1rem;color:var(--muted)}
 .empty h3{font-family:var(--serif);color:var(--text);font-size:1.2rem;margin-bottom:.5rem}
 footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:var(--muted);border-top:1px solid var(--border)}
+
+.summary-banner{background:var(--surface);border-bottom:1px solid var(--border);padding:1rem 1.5rem}
+.summary-banner-inner{max-width:1280px;margin:0 auto;display:flex;gap:1rem;align-items:flex-start}
+.summary-label{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--green);white-space:nowrap;padding-top:.15rem;flex-shrink:0}
+.summary-text{font-size:.875rem;line-height:1.65;color:var(--text)}
+.summary-text.loading{color:var(--muted);font-style:italic}
+
+.tooltip{position:fixed;z-index:999;max-width:320px;background:#fff;border:1px solid var(--border);border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.10);padding:1rem 1.1rem;pointer-events:none;opacity:0;transition:opacity .15s;font-size:.8rem;line-height:1.6;color:var(--text)}
+.tooltip.visible{opacity:1}
+.tooltip-source{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.07em;margin-bottom:.5rem}
+.tooltip-summary{color:var(--text);margin-bottom:.5rem}
+.tooltip-opinion{color:var(--muted);font-style:italic;border-top:1px solid var(--border);padding-top:.5rem;margin-top:.5rem}
+.tooltip-loading{color:var(--muted);font-style:italic}
 </style>
 </head>
 <body>
@@ -120,11 +133,22 @@ footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:v
   </div>
 </div>
 
+<div class="summary-banner" id="summary-banner" style="display:none">
+  <div class="summary-banner-inner">
+    <span class="summary-label">AI Briefing</span>
+    <p class="summary-text" id="summary-text"></p>
+  </div>
+</div>
+
 <div class="filter-bar">
   <div class="filter-bar-inner" id="filter-bar">
     <button class="chip active" onclick="setFilter('all',this)">All Sources</button>
   </div>
 </div>
+
+<div class="summary-banner" id="summary-banner" style="display:none"><div class="summary-banner-inner"><span class="summary-label">AI Briefing</span><p class="summary-text" id="summary-text"></p></div></div>
+
+<div id="tooltip" class="tooltip"><div class="tooltip-source" id="tooltip-source"></div><div id="tooltip-body"></div></div>
 
 <main class="page">
   <div class="status-bar">
@@ -242,7 +266,8 @@ function renderArticles() {
       ? '<img class="card-thumb" src="' + a.img + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
       : '';
 
-    return '<a class="card' + (isFeatured ? ' featured' : '') + '" href="' + link + '" target="_blank" rel="noopener">'
+    return '<a class="card' + (isFeatured ? ' featured' : '') + '" href="' + link + '" target="_blank" rel="noopener"'
+      + ' data-idx="' + i + '" onmouseenter="onCardEnter(event,this)" onmouseleave="hideTooltip()">'
       + imgHtml
       + '<div class="card-body">'
       + '<div class="card-source">'
@@ -291,6 +316,7 @@ async function loadData() {
         'Updated ' + fetched.toLocaleTimeString([], {hour: '2-digit', minute: '2-digit'});
     }
 
+    showSummary(data.summary);
     document.getElementById('status-text').textContent = allArticles.length + ' articles loaded';
     buildFilterBar();
     renderArticles();
@@ -310,6 +336,63 @@ async function loadData() {
 }
 
 loadData();
+
+// ── Tooltip ──
+const tooltip     = document.getElementById('tooltip');
+const tooltipSrc  = document.getElementById('tooltip-source');
+const tooltipBody = document.getElementById('tooltip-body');
+let tooltipTimer  = null;
+
+function showTooltip(e, article) {
+  clearTimeout(tooltipTimer);
+  tooltipTimer = setTimeout(function() {
+    tooltipSrc.textContent = article.sourceName || '';
+    tooltipSrc.style.color = article.sourceColor || '#aaa';
+    if (article.aiSummary) {
+      var parts = article.aiSummary.split(/\n+/).filter(Boolean);
+      tooltipBody.innerHTML =
+        '<div class="tooltip-summary">' + escapeHTML(parts[0] || '') + '</div>'
+        + (parts[1] ? '<div class="tooltip-opinion">' + escapeHTML(parts[1]) + '</div>' : '');
+    } else {
+      tooltipBody.innerHTML = '<div class="tooltip-loading">No AI summary available</div>';
+    }
+    positionTooltip(e);
+    tooltip.classList.add('visible');
+  }, 400);
+}
+
+function positionTooltip(e) {
+  var x = e.clientX + 16, y = e.clientY + 16;
+  if (x + 336 > window.innerWidth)  x = e.clientX - 336;
+  if (y + 180 > window.innerHeight) y = e.clientY - 180;
+  tooltip.style.left = x + 'px';
+  tooltip.style.top  = y + 'px';
+}
+
+function hideTooltip() {
+  clearTimeout(tooltipTimer);
+  tooltip.classList.remove('visible');
+}
+
+document.addEventListener('mousemove', function(e) {
+  if (tooltip.classList.contains('visible')) positionTooltip(e);
+});
+
+function onCardEnter(e, el) {
+  var idx = parseInt(el.getAttribute('data-idx'), 10);
+  var q   = searchQuery.toLowerCase();
+  var pool = activeFilter === 'all' ? allArticles : allArticles.filter(function(a){ return a.sourceId === activeFilter; });
+  if (q) pool = pool.filter(function(a){ return (a.title||'').toLowerCase().includes(q)||(a.desc||'').toLowerCase().includes(q); });
+  var article = pool[idx];
+  if (article) showTooltip(e, article);
+}
+
+// ── Summary banner ──
+function showSummary(text) {
+  if (!text) return;
+  document.getElementById('summary-text').textContent = text;
+  document.getElementById('summary-banner').style.display = 'block';
+}
 </script>
 </body>
 </html>
