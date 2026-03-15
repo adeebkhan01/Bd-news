@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-03-15T12:23:37.297Z",
-  "summary": null,
+  "fetchedAt": "2026-03-15T12:34:26.528Z",
+  "summary": "",
   "sources": [
     {
       "id": "dailystar",
@@ -18,8 +18,8 @@
       "color": "#c0392b"
     },
     {
-      "id": "newagebd",
-      "name": "New Age",
+      "id": "tbsnews",
+      "name": "TBS News",
       "color": "#2980b9"
     },
     {
@@ -28,17 +28,23 @@
       "color": "#8e44ad"
     },
     {
-      "id": "independentbd",
-      "name": "The Independent",
+      "id": "dailysun",
+      "name": "Daily Sun",
       "color": "#16a085"
-    },
-    {
-      "id": "bangladeshtoday",
-      "name": "Bangladesh Today",
-      "color": "#d35400"
     }
   ],
   "articles": [
+    {
+      "title": "PM to launch nationwide canal excavation from Dinajpur Monday",
+      "link": "https://en.prothomalo.com/bangladesh/politics/rhe7qszhyc",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 12:07:53 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/k3wusse2/image-369046-1773565689.webp",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
+    },
     {
       "title": "BB raises credit card loan limit to Tk 40 lakh",
       "link": "https://www.thedailystar.net/business/banking/news/bb-raises-credit-card-loan-limit-tk-40-lakh-4129341",
@@ -47,7 +53,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/Bangladesh%20Bank_1.jpg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "Bangladesh–India relations: What lies ahead?",
@@ -57,7 +64,8 @@
       "img": "https://media.prothomalo.com/prothomalo-english/2025-05-18/axcdd9sh/prothomalo-bangla2025-04-099rhz3ub2Flag.avif?w=280",
       "sourceId": "prothomalo",
       "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
     },
     {
       "title": "Trust Bank gets BB exemption for multiple nominee directors",
@@ -67,7 +75,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/Trust%20Bank.jpg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "TOP SHOTS (15 March 2026)",
@@ -77,7 +86,8 @@
       "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/mnlo1izm/%E0%A7%AB.JPG",
       "sourceId": "prothomalo",
       "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
     },
     {
       "title": "PM chairs meeting on ‘Farmer Card’ programme",
@@ -87,7 +97,8 @@
       "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/jqcdl07c/image-368977-1773555781.webp",
       "sourceId": "prothomalo",
       "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
     },
     {
       "title": "Trump says US not ready to agree deal to end Iran war",
@@ -97,7 +108,8 @@
       "img": "https://media.prothomalo.com/prothomalo-english/2025-06-17/hcfcqeky/Trump-G7.jpg",
       "sourceId": "prothomalo",
       "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
     },
     {
       "title": "Islami Bank delays US investor’s entry into mCash subsidiary",
@@ -107,7 +119,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/Islami%20mcash.png",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "Cash, gold can be kept at police station in absence of relatives: DMP",
@@ -117,7 +130,8 @@
       "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/uygfoudk/prothomalo-bangla2026-03-15c6bxukkeDMP-Sarwar.avif?w=280",
       "sourceId": "prothomalo",
       "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
     },
     {
       "title": "Govt lifts restrictions on fuel oil sale",
@@ -127,17 +141,8 @@
       "img": "https://media.prothomalo.com/prothomalo-english/2025-05-25/nuz5h112/prothomalo-bangla2025-05-25dcmbn7q8%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%93-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%B2%E0%A6%B0%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%90%E0%A6%95%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A5%A4-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A7%A8%E0%A7%AB-%E0%A6%AE%E0%A7%87.avif?w=280",
       "sourceId": "prothomalo",
       "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "HSC 2026: Dhaka Board cancels 14 centres, including Bangla College",
-      "link": "https://en.prothomalo.com/youth/education/66742xalce",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 08:06:28 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/x3ll3wix/prothomalo-bangla2024-0716de8283-1ea9-44ee-9495-840962f03a08%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%97%E0%A6%BF%E0%A6%A4-1.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
     },
     {
       "title": "Bangladesh, Türkiye seek stronger ties, sign MoU on diplomatic training",
@@ -147,7 +152,8 @@
       "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/eiqheyi5/WhatsApp-Image-2026-03-15-at-10.28.22-AM.jpeg",
       "sourceId": "prothomalo",
       "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
+      "sourceColor": "#c0392b",
+      "aiSummary": ""
     },
     {
       "title": "US Fed expected to hold rates steady as Iran war roils outlook",
@@ -157,7 +163,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/us_federal_reserve_3.jpg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "TileChalk by DBL Ceramics wins Bronze at Spikes Asia 2026",
@@ -167,7 +174,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/DBL%20Ceramics.jpeg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "Income tax return filing deadline for companies extended to Apr 15",
@@ -177,7 +185,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2026/01/01/nbr_1.jpg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "NBR extends February VAT return deadline to March 29",
@@ -187,7 +196,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-02/NBR_0.jpg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "Govt launches free Wi-Fi trial on intercity trains ahead of Eid travel",
@@ -197,7 +207,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/free%20wifi%20on%20train.png",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "Trade probe: USTR seeks hearing date from Dhaka",
@@ -207,7 +218,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/The-United-States-Trade-Representative-USTR.jpg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "Gulf states can make a financial point to Trump",
@@ -217,7 +229,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/trump_2.jpg",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     },
     {
       "title": "Shafiqul Alam returns to journalism, joins 'The Daily Waadaa' as editor",
@@ -227,7 +240,8 @@
       "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-02/Shafiqul%20Alam.png",
       "sourceId": "dailystar",
       "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
+      "sourceColor": "#1a7a4a",
+      "aiSummary": ""
     }
   ]
 }
