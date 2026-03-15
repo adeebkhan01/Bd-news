@@ -105,6 +105,8 @@ footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:v
   .sidebar{position:static;border-bottom:1px solid var(--border);padding-bottom:1rem;margin-bottom:.5rem}
 }
 
+.page-summary{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1rem 1.25rem;margin-bottom:1.25rem;font-size:.875rem;line-height:1.7;color:var(--text)}
+.page-summary-label{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--green);margin-bottom:.4rem}
 .tooltip{position:fixed;z-index:999;max-width:320px;background:#fff;border:1px solid var(--border);border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.10);padding:1rem 1.1rem;pointer-events:none;opacity:0;transition:opacity .15s;font-size:.8rem;line-height:1.6;color:var(--text)}
 .tooltip.visible{opacity:1}
 .tooltip-source{font-size:.8rem;font-weight:600;color:var(--text);margin-bottom:.5rem;line-height:1.35;font-family:var(--serif)}
@@ -159,6 +161,10 @@ footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:v
     <ul class="headlines-list" id="headlines-list"></ul>
   </aside>
   <div class="main-col">
+    <div id="page-summary" style="display:none" class="page-summary">
+      <div class="page-summary-label">AI Briefing</div>
+      <div id="page-summary-text"></div>
+    </div>
     <div class="status-bar">
       <span><span class="status-dot"></span><span id="status-text">Loading…</span></span>
       <span id="article-count"></span>
@@ -326,6 +332,7 @@ async function loadData() {
     }
 
     showHeadlines(allArticles);
+    showPageSummary(data.summary);
     document.getElementById('status-text').textContent = allArticles.length + ' articles loaded';
     buildFilterBar();
     renderArticles();
@@ -362,8 +369,10 @@ function showTooltip(e, article) {
       tooltipBody.innerHTML =
         '<div class="tooltip-summary">' + escapeHTML(parts[0] || '') + '</div>'
         + (parts[1] ? '<div class="tooltip-opinion">' + escapeHTML(parts[1]) + '</div>' : '');
+    } else if (article.desc) {
+      tooltipBody.innerHTML = '<div class="tooltip-summary">' + escapeHTML(article.desc) + '</div>';
     } else {
-      tooltipBody.innerHTML = '<div class="tooltip-loading">No AI summary available</div>';
+      tooltipBody.innerHTML = '<div class="tooltip-loading">No summary available</div>';
     }
     positionTooltip(e);
     tooltip.classList.add('visible');
@@ -394,6 +403,13 @@ function onCardEnter(e, el) {
   if (q) pool = pool.filter(function(a){ return (a.title||'').toLowerCase().includes(q)||(a.desc||'').toLowerCase().includes(q); });
   var article = pool[idx];
   if (article) showTooltip(e, article);
+}
+
+// ── Page summary ──
+function showPageSummary(text) {
+  if (!text) return;
+  document.getElementById('page-summary-text').textContent = text;
+  document.getElementById('page-summary').style.display = 'block';
 }
 
 // ── Headlines bar ──
