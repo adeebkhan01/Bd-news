@@ -4,11 +4,9 @@ const url   = require('url');
 const fs    = require('fs');
 
 const SOURCES = [
-  // Daily Star section feeds — all merged under one source ID
   { id: 'dailystar', name: 'The Daily Star', color: '#1a7a4a', url: 'https://www.thedailystar.net/business/rss.xml' },
   { id: 'dailystar', name: 'The Daily Star', color: '#1a7a4a', url: 'https://www.thedailystar.net/frontpage/rss.xml' },
   { id: 'dailystar', name: 'The Daily Star', color: '#1a7a4a', url: 'https://www.thedailystar.net/bangladesh/rss.xml' },
-  // Other outlets — no keyword filtering
   { id: 'bdnews24',         name: 'bdnews24',          color: '#e05c1a', url: 'https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true' },
   { id: 'prothomalo',       name: 'Prothom Alo',       color: '#c0392b', url: 'https://en.prothomalo.com/feed/' },
   { id: 'newagebd',         name: 'New Age',           color: '#2980b9', url: 'https://www.newagebd.net/rss' },
@@ -17,7 +15,6 @@ const SOURCES = [
   { id: 'bangladeshtoday',  name: 'Bangladesh Today',  color: '#d35400', url: 'https://www.thebangladeshtoday.com/feed/' },
 ];
 
-// Unique source metadata for the output (deduplicated by id)
 var UNIQUE_SOURCES = [];
 var seenIds = {};
 SOURCES.forEach(function(s) {
@@ -51,7 +48,7 @@ function fetchUrl(requestUrl, redirects) {
     var req = lib.get(requestUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
+        'Accept': 'text/html,application/xhtml+xml,application/xml,*/*',
       },
       timeout: 15000
     }, function(res) {
@@ -69,6 +66,42 @@ function fetchUrl(requestUrl, redirects) {
     req.on('error', reject);
     req.on('timeout', function() { req.destroy(); reject(new Error('Timeout')); });
   });
+}
+
+// Fetch only the first 8kb of a page — enough to find the og:image in <head>
+function fetchHead(requestUrl) {
+  return new Promise(function(resolve) {
+    var lib = requestUrl.startsWith('https') ? https : http;
+    var req = lib.get(requestUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      },
+      timeout: 10000
+    }, function(res) {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        res.destroy();
+        return fetchHead(resolveLocation(res.headers.location, requestUrl)).then(resolve);
+      }
+      var data = '';
+      res.setEncoding('utf8');
+      res.on('data', function(chunk) {
+        data += chunk;
+        // Stop reading once we have enough to find og:image
+        if (data.length > 8000) res.destroy();
+      });
+      res.on('end',  function() { resolve(data); });
+      res.on('close',function() { resolve(data); });
+      res.on('error',function() { resolve(data); });
+    });
+    req.on('error',   function() { resolve(''); });
+    req.on('timeout', function() { req.destroy(); resolve(''); });
+  });
+}
+
+function extractOgImage(html) {
+  var m = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+       || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+  return m ? m[1] : null;
 }
 
 function stripTags(html) {
@@ -151,6 +184,26 @@ function parseFeed(xml, source) {
   return articles;
 }
 
+// Fetch og:image for articles missing one, in batches to avoid hammering servers
+async function enrichImages(articles) {
+  var missing = articles.filter(function(a) { return !a.img && a.link && a.link.startsWith('http'); });
+  console.log('Fetching og:image for', missing.length, 'articles missing images...');
+
+  var BATCH = 5; // fetch 5 at a time
+  for (var i = 0; i < missing.length; i += BATCH) {
+    var batch = missing.slice(i, i + BATCH);
+    await Promise.all(batch.map(async function(a) {
+      try {
+        var html = await fetchHead(a.link);
+        var img  = extractOgImage(html);
+        if (img) a.img = img;
+      } catch(e) {
+        // silently skip — image just won't show
+      }
+    }));
+  }
+}
+
 async function main() {
   var results = [];
   var seen = {};
@@ -163,7 +216,6 @@ async function main() {
       var articles = parseFeed(xml, source)
         .filter(function(a) { return isRecent(a.pubDate); })
         .filter(function(a) {
-          // Deduplicate by link across multiple Daily Star feeds
           if (seen[a.link]) return false;
           seen[a.link] = true;
           return true;
@@ -174,6 +226,9 @@ async function main() {
       console.error('  Failed:', e.message);
     }
   }
+
+  // Scrape og:image for articles missing one
+  await enrichImages(results);
 
   results.sort(function(a, b) { return new Date(b.pubDate) - new Date(a.pubDate); });
 
