@@ -1,0 +1,115 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # runs every hour
+  workflow_dispatch:        # allows manual trigger from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Daily Star RSS feeds
+        run: |
+          node -e "
+          const https = require('https');
+          const fs = require('fs');
+          const { DOMParser } = require('node:vm');
+
+          const SOURCES = [
+            { id: 'frontpage',     name: 'Front Page',    color: '#1a7a4a', url: 'https://www.thedailystar.net/frontpage/rss.xml' },
+            { id: 'bangladesh',    name: 'Bangladesh',    color: '#2a7abf', url: 'https://www.thedailystar.net/bangladesh/rss.xml' },
+            { id: 'world',         name: 'World',         color: '#7a4abf', url: 'https://www.thedailystar.net/world/rss.xml' },
+            { id: 'business',      name: 'Business',      color: '#bf8a2a', url: 'https://www.thedailystar.net/business/rss.xml' },
+            { id: 'sports',        name: 'Sports',        color: '#c23a3a', url: 'https://www.thedailystar.net/sports/rss.xml' },
+            { id: 'entertainment', name: 'Entertainment', color: '#bf2a7a', url: 'https://www.thedailystar.net/entertainment/rss.xml' },
+            { id: 'lifestyle',     name: 'Lifestyle',     color: '#4abf7a', url: 'https://www.thedailystar.net/lifestyle/rss.xml' },
+            { id: 'opinion',       name: 'Opinion',       color: '#8a8a6a', url: 'https://www.thedailystar.net/opinion/rss.xml' },
+          ];
+
+          function fetchUrl(url) {
+            return new Promise((resolve, reject) => {
+              const req = https.get(url, {
+                headers: { 'User-Agent': 'Mozilla/5.0 (compatible; RSSBot/1.0)' },
+                timeout: 15000
+              }, res => {
+                if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+                  return fetchUrl(res.headers.location).then(resolve).catch(reject);
+                }
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => resolve(data));
+              });
+              req.on('error', reject);
+              req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
+            });
+          }
+
+          function stripHtml(html) {
+            return (html || '').replace(/<[^>]+>/g, '').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'\"').replace(/&#39;/g,\"'\").replace(/&nbsp;/g,' ').trim();
+          }
+
+          function extractImg(xml) {
+            const m = xml.match(/<enclosure[^>]+url=[\"']([^\"']+)[\"'][^>]+type=[\"']image/i)
+                   || xml.match(/<media:content[^>]+url=[\"']([^\"']+)[\"']/i)
+                   || xml.match(/<img[^>]+src=[\"']([^\"']+)[\"']/i);
+            return m ? m[1] : null;
+          }
+
+          function parseRSS(xml, source) {
+            const items = [];
+            const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+            let match;
+            while ((match = itemRegex.exec(xml)) !== null && items.length < 15) {
+              const block = match[1];
+              const get = tag => {
+                const m = block.match(new RegExp('<' + tag + '(?:[^>]*)><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/' + tag + '>'))
+                        || block.match(new RegExp('<' + tag + '(?:[^>]*)>([\\s\\S]*?)<\\/' + tag + '>'));
+                return m ? m[1].trim() : '';
+              };
+              const title = stripHtml(get('title'));
+              if (!title) continue;
+              const link = get('link') || get('guid') || '';
+              const desc = stripHtml(get('description')).slice(0, 200);
+              const pubDate = get('pubDate') || get('dc:date') || '';
+              const img = extractImg(block);
+              items.push({ title, link, desc, pubDate, img, sourceId: source.id, sourceName: source.name, sourceColor: source.color });
+            }
+            return items;
+          }
+
+          async function main() {
+            const results = [];
+            for (const source of SOURCES) {
+              try {
+                console.log('Fetching:', source.name);
+                const xml = await fetchUrl(source.url);
+                const articles = parseRSS(xml, source);
+                console.log('  Got', articles.length, 'articles');
+                results.push(...articles);
+              } catch(e) {
+                console.error('  Failed:', e.message);
+              }
+            }
+            results.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+            const output = { fetchedAt: new Date().toISOString(), sources: SOURCES, articles: results };
+            fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
+            console.log('Saved', results.length, 'total articles to data.json');
+          }
+
+          main().catch(e => { console.error(e); process.exit(1); });
+          "
+
+      - name: Commit data.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "chore: refresh feeds $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
