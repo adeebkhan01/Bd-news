@@ -1,18 +1,8 @@
 {
-  "fetchedAt": "2026-03-15T10:57:50.777Z",
+  "fetchedAt": "2026-03-15T11:14:54.979Z",
   "sources": [
     {
-      "id": "ds-business",
-      "name": "The Daily Star",
-      "color": "#1a7a4a"
-    },
-    {
-      "id": "ds-frontpage",
-      "name": "The Daily Star",
-      "color": "#1a7a4a"
-    },
-    {
-      "id": "ds-bangladesh",
+      "id": "dailystar",
       "name": "The Daily Star",
       "color": "#1a7a4a"
     },
@@ -54,9 +44,39 @@
       "desc": "The bank has only one sponsor shareholder—the Army Welfare Trust",
       "pubDate": "Sun, 15 Mar 26 16:32:41 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
+    },
+    {
+      "title": "TOP SHOTS (15 March 2026)",
+      "link": "https://en.prothomalo.com/photo/bangladesh/2y6flw0srn",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 10:31:38 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/mnlo1izm/%E0%A7%AB.JPG",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
+    },
+    {
+      "title": "PM chairs meeting on ‘Farmer Card’ programme",
+      "link": "https://en.prothomalo.com/bangladesh/mf3203u73k",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 10:28:13 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/jqcdl07c/image-368977-1773555781.webp",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
+    },
+    {
+      "title": "Trump says US not ready to agree deal to end Iran war",
+      "link": "https://en.prothomalo.com/international/y31utl3mum",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 10:24:57 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2025-06-17/hcfcqeky/Trump-G7.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
     },
     {
       "title": "Islami Bank delays US investor’s entry into mCash subsidiary",
@@ -64,9 +84,79 @@
       "desc": "Earlier, on March 9, the company announced that the paid-up capital of mCash Ltd would be increased in phases up to Tk 500 crore",
       "pubDate": "Sun, 15 Mar 26 15:38:07 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
+    },
+    {
+      "title": "Cash, gold can be kept at police station in absence of relatives: DMP",
+      "link": "https://en.prothomalo.com/bangladesh/ql3ckcibuh",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 08:54:09 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/uygfoudk/prothomalo-bangla2026-03-15c6bxukkeDMP-Sarwar.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
+    },
+    {
+      "title": "Govt lifts restrictions on fuel oil sale",
+      "link": "https://en.prothomalo.com/bangladesh/government/g85pkx5akc",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 08:31:23 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2025-05-25/nuz5h112/prothomalo-bangla2025-05-25dcmbn7q8%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%93-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%B2%E0%A6%B0%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%90%E0%A6%95%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A5%A4-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A7%A8%E0%A7%AB-%E0%A6%AE%E0%A7%87.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
+    },
+    {
+      "title": "HSC 2026: Dhaka Board cancels 14 centres, including Bangla College",
+      "link": "https://en.prothomalo.com/youth/education/66742xalce",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 08:06:28 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/x3ll3wix/prothomalo-bangla2024-0716de8283-1ea9-44ee-9495-840962f03a08%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%97%E0%A6%BF%E0%A6%A4-1.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
+    },
+    {
+      "title": "Bangladesh, Türkiye seek stronger ties, sign MoU on diplomatic training",
+      "link": "https://en.prothomalo.com/bangladesh/government/hvjxe298cw",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 07:42:38 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/eiqheyi5/WhatsApp-Image-2026-03-15-at-10.28.22-AM.jpeg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
+    },
+    {
+      "title": "US Fed expected to hold rates steady as Iran war roils outlook",
+      "link": "https://www.thedailystar.net/business/news/us-fed-expected-hold-rates-steady-iran-war-roils-outlook-4129146",
+      "desc": "The Fed will start its two-day meeting on Tuesday",
+      "pubDate": "Sun, 15 Mar 26 13:29:36 +0600",
+      "img": null,
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a"
+    },
+    {
+      "title": "Eid travel sufferings: Advance preparation, management vital",
+      "link": "https://en.prothomalo.com/opinion/editorial/dag3qkxarm",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 07:27:42 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2021-02/e8160531-2df9-40b1-a76f-5306c0520223/ed.png",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
+    },
+    {
+      "title": "Air ambulance carrying Mirza Abbas leaves for Singapore",
+      "link": "https://en.prothomalo.com/bangladesh/ybjmtk1abb",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 07:26:20 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2022-10/8e45be21-b4c5-4043-b487-7ea14360e382/Mirza_Abbas.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
     },
     {
       "title": "Income tax return filing deadline for companies extended to Apr 15",
@@ -74,7 +164,7 @@
       "desc": "Previously, the deadline for filing returns for the 2025–26 tax year was set for March 15",
       "pubDate": "Sun, 15 Mar 26 12:47:01 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
@@ -84,7 +174,7 @@
       "desc": "The revenue authority said the decision was taken in the public interest",
       "pubDate": "Sun, 15 Mar 26 11:55:55 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
@@ -94,7 +184,7 @@
       "desc": "Rehan Asad, adviser to the prime minister on ICT and telecommunications, confirmed the development",
       "pubDate": "Sun, 15 Mar 26 11:04:19 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
@@ -104,7 +194,7 @@
       "desc": "The United States Trade Representative (USTR) has sought a date from Bangladesh for a hearing as part of the US’s twin investigations into trade and forced labour.",
       "pubDate": "Sun, 15 Mar 26 02:50:43 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
@@ -114,7 +204,17 @@
       "desc": "‘The defense of Saudi Arabia is vital to the defense of the United States’.",
       "pubDate": "Sun, 15 Mar 26 00:00:00 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a"
+    },
+    {
+      "title": "Dollar rises broadly",
+      "link": "https://www.thedailystar.net/business/global-economy/news/dollar-rises-broadly-4128706",
+      "desc": "The US dollar rose across the board on Friday, set ​for a second straight weekly gain, as the war in the Middle East drove investors toward safe-haven assets and weighed on ‌energy-sensitive currencie",
+      "pubDate": "Sun, 15 Mar 26 00:00:00 +0600",
+      "img": null,
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
@@ -124,97 +224,17 @@
       "desc": "Eastern Bank PLC (EBL) honoured SME women entrepreneurs who successfully repaid their loans under the Small Enterprise Refinance Scheme for Women Entrepreneurs and received incentives from Bangladesh ",
       "pubDate": "Sun, 15 Mar 26 00:00:00 +0600",
       "img": null,
-      "sourceId": "ds-business",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
-      "title": "Khaleda Zia’s legacy honoured in Washington National Press Club",
-      "link": "https://www.thedailystar.net/news/khaleda-zias-legacy-honoured-washington-national-press-club-4080366",
-      "desc": "Diplomats, policymakers, media pay tribute to the late premier",
-      "pubDate": "Tue, 13 Jan 26 23:10:13 +0600",
+      "title": "Shafiqul Alam returns to journalism, joins 'The Daily Waadaa' as editor",
+      "link": "https://www.thedailystar.net/miscellaneous/bangladesh/news/shafiqul-alam-returns-journalism-joins-the-daily-waadaa-editor-4109141",
+      "desc": "Former press secretary says new English daily has secured registration",
+      "pubDate": "Wed, 18 Feb 26 16:13:56 +0600",
       "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Surrendering to those obstructing reform is like walking backwards: Mahfuj Alam",
-      "link": "https://www.thedailystar.net/news/surrendering-those-obstructing-reform-walking-backwards-mahfuj-alam-4080356",
-      "desc": "Former adviser metaphorically criticises NCP’s decision to join alliance",
-      "pubDate": "Tue, 13 Jan 26 22:55:04 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Old Dhaka readies for Sakrain as kites, lanterns and memories return to winter skies",
-      "link": "https://www.thedailystar.net/news/old-dhaka-readies-sakrain-kites-lanterns-memories-return-winter-skies-tomorrow-4079976",
-      "desc": "Markets, rooftops and riverbanks buzz with excitement ahead of kite festival tomorrow",
-      "pubDate": "Tue, 13 Jan 26 16:06:26 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Rohingya genocide case to proceed",
-      "link": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971",
-      "desc": "The World Court yesterday rejected Myanmar’s objections to a genocide case over its treatment of the Muslim Rohingya minority, paving the way for the case to be heard in full.",
-      "pubDate": "Fri, 22 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Need 1 week to assess situation",
-      "link": "https://www.thedailystar.net/news/bangladesh/news/need-1-week-assess-situation-3076976",
-      "desc": "Admitting that the Power Division could not impose schedule-wise power cuts across the country, State Minister for Power, Energy and Mineral Resources Nasrul Hamid yesterday sought one week’s time to ",
-      "pubDate": "Fri, 22 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Yet-to-start mega projects: Consider putting them on hold",
-      "link": "https://www.thedailystar.net/news/bangladesh/news/yet-start-mega-projects-consider-putting-them-hold-3076221",
-      "desc": "Given the current economic situation, the government should consider suspending mega projects the physical work of which has yet to begin, economist Debapriya Bhattacharya said yesterday.",
-      "pubDate": "Thu, 21 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "‘You cannot remain silent’",
-      "link": "https://www.thedailystar.net/news/bangladesh/news/you-cannot-remain-silent-3076231",
-      "desc": "The High Court yesterday came down hard on Bangladesh Railway for mismanagement, ticket scalping and carrying passengers on the train roofs.",
-      "pubDate": "Thu, 21 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Electricity crisis may worsen",
-      "link": "https://www.thedailystar.net/news/bangladesh/news/power-crisis-may-worsen-3075341",
-      "desc": "The government’s plan for one to two hours of daily power cuts is failing, especially in the north, and the signs are that the electricity crisis may worsen across the country in the coming days.",
-      "pubDate": "Wed, 20 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "EC’s dialogue hits a snag as BNP skips it",
-      "link": "https://www.thedailystar.net/news/bangladesh/politics/news/ecs-dialogue-parties-runs-snag-3075346",
-      "desc": "The BNP yesterday skipped Election Commission’s dialogue seeking recommendations of political parties on how to hold a free and fair general election.",
-      "pubDate": "Wed, 20 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
+      "sourceId": "dailystar",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     }
