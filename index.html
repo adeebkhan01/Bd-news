@@ -46,7 +46,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:
 .chip:hover{border-color:var(--green-lt);color:var(--green-lt)}
 .chip.active{background:var(--green);border-color:var(--green);color:#fff}
 
-.page{max-width:1280px;margin:0 auto;padding:1.5rem}
+
 .status-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.2rem;font-size:.8rem;color:var(--muted)}
 .status-dot{width:7px;height:7px;border-radius:50%;background:var(--green-lt);display:inline-block;margin-right:.4rem;animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
@@ -87,16 +87,23 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:
 .empty h3{font-family:var(--serif);color:var(--text);font-size:1.2rem;margin-bottom:.5rem}
 footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:var(--muted);border-top:1px solid var(--border)}
 
-.headlines-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:1.25rem 1.5rem}
-.headlines-bar-inner{max-width:1280px;margin:0 auto}
-.headlines-label{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--green);margin-bottom:.85rem}
-.headlines-list{list-style:none;display:flex;flex-direction:column;gap:.75rem}
-.headline-item{display:flex;align-items:baseline;gap:.75rem}
-.headline-dot{width:6px;height:6px;border-radius:50%;background:var(--muted);flex-shrink:0;margin-bottom:1px}
-.headline-content{display:flex;flex-direction:column;gap:.2rem}
-.headline-time{font-size:.75rem;color:var(--muted);font-family:var(--mono)}
-.headline-title{font-family:var(--serif);font-size:.975rem;font-weight:600;color:var(--text);line-height:1.35;text-decoration:none}
+.content-wrap{max-width:1280px;margin:0 auto;padding:1.5rem;display:grid;grid-template-columns:200px 1fr;gap:1.5rem;align-items:start}
+.sidebar{position:sticky;top:72px}
+.sidebar-label{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--green);margin-bottom:.85rem}
+.headlines-list{list-style:none;display:flex;flex-direction:column}
+.headline-item{padding:.75rem 0;border-bottom:1px solid var(--border)}
+.headline-item:last-child{border-bottom:none}
+.headline-time{font-size:.72rem;color:var(--muted);font-family:var(--mono);margin-bottom:.25rem}
+.headline-title{font-family:var(--serif);font-size:.875rem;font-weight:600;color:var(--text);line-height:1.4;text-decoration:none;display:block}
 .headline-title:hover{color:var(--green)}
+.main-col{min-width:0}
+.status-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.2rem;font-size:.8rem;color:var(--muted)}
+.status-dot{width:7px;height:7px;border-radius:50%;background:var(--green-lt);display:inline-block;margin-right:.4rem;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@media(max-width:768px){
+  .content-wrap{grid-template-columns:1fr}
+  .sidebar{position:static;border-bottom:1px solid var(--border);padding-bottom:1rem;margin-bottom:.5rem}
+}
 
 .tooltip{position:fixed;z-index:999;max-width:320px;background:#fff;border:1px solid var(--border);border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.10);padding:1rem 1.1rem;pointer-events:none;opacity:0;transition:opacity .15s;font-size:.8rem;line-height:1.6;color:var(--text)}
 .tooltip.visible{opacity:1}
@@ -138,13 +145,6 @@ footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:v
   </div>
 </div>
 
-<div class="headlines-bar" id="headlines-bar" style="display:none">
-  <div class="headlines-bar-inner">
-    <div class="headlines-label">Latest</div>
-    <ul class="headlines-list" id="headlines-list"></ul>
-  </div>
-</div>
-
 <div id="tooltip" class="tooltip"><div class="tooltip-source" id="tooltip-source"></div><div id="tooltip-body"></div></div>
 
 <div class="filter-bar">
@@ -153,13 +153,19 @@ footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:v
   </div>
 </div>
 
-<main class="page">
-  <div class="status-bar">
-    <span><span class="status-dot"></span><span id="status-text">Loading…</span></span>
-    <span id="article-count"></span>
+<div class="content-wrap">
+  <aside class="sidebar">
+    <div class="sidebar-label">Latest</div>
+    <ul class="headlines-list" id="headlines-list"></ul>
+  </aside>
+  <div class="main-col">
+    <div class="status-bar">
+      <span><span class="status-dot"></span><span id="status-text">Loading…</span></span>
+      <span id="article-count"></span>
+    </div>
+    <div id="feed-container"></div>
   </div>
-  <div id="feed-container"></div>
-</main>
+</div>
 
 <footer>Bangladesh News Feed · 7 outlets · refreshed hourly via GitHub Actions</footer>
 
@@ -397,14 +403,10 @@ function showHeadlines(articles) {
   var list = document.getElementById('headlines-list');
   list.innerHTML = top5.map(function(a) {
     return '<li class="headline-item">'
-      + '<span class="headline-dot"></span>'
-      + '<div class="headline-content">'
-      + '<span class="headline-time">' + (timeAgo(a.pubDate) || '—') + '</span>'
+      + '<div class="headline-time">' + (timeAgo(a.pubDate) || '—') + '</div>'
       + '<a class="headline-title" href="' + (a.link||'#') + '" target="_blank" rel="noopener">' + escapeHTML(a.title||'') + '</a>'
-      + '</div>'
       + '</li>';
   }).join('');
-  document.getElementById('headlines-bar').style.display = 'block';
 }
 </script>
 </body>
