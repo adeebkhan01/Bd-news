@@ -1,6 +1,11 @@
 {
-  "fetchedAt": "2026-03-15T10:40:49.580Z",
+  "fetchedAt": "2026-03-15T10:56:17.615Z",
   "sources": [
+    {
+      "id": "ds-business",
+      "name": "The Daily Star",
+      "color": "#1a7a4a"
+    },
     {
       "id": "ds-frontpage",
       "name": "The Daily Star",
@@ -8,32 +13,7 @@
     },
     {
       "id": "ds-bangladesh",
-      "name": "DS: Bangladesh",
-      "color": "#1a7a4a"
-    },
-    {
-      "id": "ds-business",
-      "name": "DS: Business",
-      "color": "#1a7a4a"
-    },
-    {
-      "id": "ds-sports",
-      "name": "DS: Sports",
-      "color": "#1a7a4a"
-    },
-    {
-      "id": "ds-entertainment",
-      "name": "DS: Entertainment",
-      "color": "#1a7a4a"
-    },
-    {
-      "id": "ds-lifestyle",
-      "name": "DS: Lifestyle",
-      "color": "#1a7a4a"
-    },
-    {
-      "id": "ds-opinion",
-      "name": "DS: Opinion",
+      "name": "The Daily Star",
       "color": "#1a7a4a"
     },
     {
@@ -69,54 +49,14 @@
   ],
   "articles": [
     {
-      "title": "South Africa tear through New Zealand to win first T20I",
-      "link": "https://www.thedailystar.net/sports/cricket/news/south-africa-tear-through-new-zealand-win-first-t20i-4129291",
-      "desc": "A new-look South Africa scythed through New Zealand's batting lineup to comfortably win Sunday's first Twenty20 international by seven wickets, with 20 balls to spare.",
-      "pubDate": "Sun, 15 Mar 26 16:36:16 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
       "title": "Trust Bank gets BB exemption for multiple nominee directors",
       "link": "https://www.thedailystar.net/business/news/trust-bank-gets-bb-exemption-multiple-nominee-directors-4129286",
       "desc": "The bank has only one sponsor shareholder—the Army Welfare Trust",
       "pubDate": "Sun, 15 Mar 26 16:32:41 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "TOP SHOTS (15 March 2026)",
-      "link": "https://en.prothomalo.com/photo/bangladesh/2y6flw0srn",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 10:31:38 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/mnlo1izm/%E0%A7%AB.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "PM chairs meeting on ‘Farmer Card’ programme",
-      "link": "https://en.prothomalo.com/bangladesh/mf3203u73k",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 10:28:13 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/jqcdl07c/image-368977-1773555781.webp",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "Trump says US not ready to agree deal to end Iran war",
-      "link": "https://en.prothomalo.com/international/y31utl3mum",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 10:24:57 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2025-06-17/hcfcqeky/Trump-G7.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
     },
     {
       "title": "Islami Bank delays US investor’s entry into mCash subsidiary",
@@ -125,178 +65,8 @@
       "pubDate": "Sun, 15 Mar 26 15:38:07 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Cash, gold can be kept at police station in absence of relatives: DMP",
-      "link": "https://en.prothomalo.com/bangladesh/ql3ckcibuh",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 08:54:09 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/uygfoudk/prothomalo-bangla2026-03-15c6bxukkeDMP-Sarwar.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "Rethinking 'Bangu' culture: Perpetual self-denigration will take us nowhere",
-      "link": "https://www.thedailystar.net/opinion/views/news/rethinking-bangu-culture-perpetual-self-denigration-will-take-us-nowhere-4129241",
-      "desc": "There is a difference between constructive criticism and internalised stereotypes resulting in reflexive self-denigration.",
-      "pubDate": "Sun, 15 Mar 26 14:53:37 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "R Madhavan warns fans about fake account impersonating him online",
-      "link": "https://www.thedailystar.net/entertainment/news/r-madhavan-warns-fans-about-fake-account-impersonating-him-online-4129226",
-      "desc": "The actor recently took to Instagram to alert followers that an unidentified individual had created a fraudulent profile using his name.",
-      "pubDate": "Sun, 15 Mar 26 14:47:15 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "No Zico, Cuba as BFF announces preliminary squad for Vietnam, Singapore ties",
-      "link": "https://www.thedailystar.net/sports/football/news/no-zico-cuba-bff-announces-preliminary-squad-vietnam-singapore-ties-4129221",
-      "desc": "The Bangladesh Football Federation (BFF) on Sunday announced a 28-member preliminary squad of the men’s senior team for a training camp in Dhaka ahead of this month’s friendly against Vietnam and an A",
-      "pubDate": "Sun, 15 Mar 26 14:43:51 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Documentary on Bangladeshi architect Rafiq Azam to premiere at Sydney Opera House",
-      "link": "https://www.thedailystar.net/culture/news/documentary-bangladeshi-architect-rafiq-azam-premiere-sydney-opera-house-4129216",
-      "desc": "One of the programme’s highlights will be the world premiere of “Between Light &amp; Earth,” a short film directed by Shankha Dasgupta that explores Azam’s architectural philosophy and its relationshi",
-      "pubDate": "Sun, 15 Mar 26 14:43:30 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Govt lifts restrictions on fuel oil sale",
-      "link": "https://en.prothomalo.com/bangladesh/government/g85pkx5akc",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 08:31:23 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2025-05-25/nuz5h112/prothomalo-bangla2025-05-25dcmbn7q8%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%93-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%B2%E0%A6%B0%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%90%E0%A6%95%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A5%A4-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A7%A8%E0%A7%AB-%E0%A6%AE%E0%A7%87.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "HSC 2026: Dhaka Board cancels 14 centres, including Bangla College",
-      "link": "https://en.prothomalo.com/youth/education/66742xalce",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 08:06:28 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/x3ll3wix/prothomalo-bangla2024-0716de8283-1ea9-44ee-9495-840962f03a08%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%97%E0%A6%BF%E0%A6%A4-1.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "Healthy Ramadan fasting for pregnant and lactating mothers",
-      "link": "https://www.thedailystar.net/life-living/news/healthy-ramadan-fasting-pregnant-and-lactating-mothers-4129201",
-      "desc": "The holy month of Ramadan is very important for every Muslim man and woman. Many people feel a strong emotional connection to fasting during Ramadan. Even pregnant or lactating mothers often have the ",
-      "pubDate": "Sun, 15 Mar 26 14:05:55 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Nutritional Recommendations for Diabetic Patients for Ramadan",
-      "link": "https://www.thedailystar.net/life-living/news/nutritional-recommendations-diabetic-patients-ramadan-4129191",
-      "desc": "With careful planning and evidence-based nutrition strategies, many patients with well-controlled non-insulin-dependent diabetes can fast safely. First of all, we need to understand the metabolic chal",
-      "pubDate": "Sun, 15 Mar 26 14:04:20 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Tanzid brings up 50, opening stand breaks at 105",
-      "link": "https://www.thedailystar.net/sports/cricket/news/tanzid-brings-50-opening-stand-breaks-105-4129186",
-      "desc": "Bangladesh were sent in to bat in the series-deciding third ODI against Pakistan at the Sher-e-Bangla National Cricket Stadium in Mirpur today.",
-      "pubDate": "Sun, 15 Mar 26 13:59:21 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Simple makeup hacks for the busy Bangladeshi woman this Eid",
-      "link": "https://www.thedailystar.net/life-living/fashion-beauty/news/simple-makeup-hacks-the-busy-bangladeshi-woman-eid-4129171",
-      "desc": "Master radiant Eid makeup by evolving your look from a fresh morning glow to evening glamour. Use lightweight BB creams and neutral tones initially, then transition with bold lipsticks and shimmering ",
-      "pubDate": "Sun, 15 Mar 26 13:43:00 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Bangladesh, Türkiye seek stronger ties, sign MoU on diplomatic training",
-      "link": "https://en.prothomalo.com/bangladesh/government/hvjxe298cw",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 07:42:38 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-15/eiqheyi5/WhatsApp-Image-2026-03-15-at-10.28.22-AM.jpeg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "Make a statement this Eid with elegant flowy dresses",
-      "link": "https://www.thedailystar.net/life-living/fashion-beauty/news/make-statement-eid-elegant-flowy-dresses-4129166",
-      "desc": "Celebrate Ramadan's end by embracing fluid Eid fashion trends like embroidered muslin kaftans and abayas. Choose soft peach or ivory hues for daytime grace, then transition into rich teal gowns for so",
-      "pubDate": "Sun, 15 Mar 26 13:41:56 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Japan hammer Philippines 7-0 to sweep into Women's Asian Cup semis",
-      "link": "https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/japan-hammer-philippines-7-0-sweep-womens-asian-cup-semis-4129151",
-      "desc": "Ruthless Japan crushed the Philippines 7-0 on Sunday to book a Women's Asian Cup semi-final with South Korea and keep their bid for a third continental title on track.",
-      "pubDate": "Sun, 15 Mar 26 13:33:23 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "US Fed expected to hold rates steady as Iran war roils outlook",
-      "link": "https://www.thedailystar.net/business/news/us-fed-expected-hold-rates-steady-iran-war-roils-outlook-4129146",
-      "desc": "The Fed will start its two-day meeting on Tuesday",
-      "pubDate": "Sun, 15 Mar 26 13:29:36 +0600",
-      "img": null,
-      "sourceId": "ds-business",
-      "sourceName": "DS: Business",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Eid travel sufferings: Advance preparation, management vital",
-      "link": "https://en.prothomalo.com/opinion/editorial/dag3qkxarm",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 07:27:42 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2021-02/e8160531-2df9-40b1-a76f-5306c0520223/ed.png",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
-    },
-    {
-      "title": "Air ambulance carrying Mirza Abbas leaves for Singapore",
-      "link": "https://en.prothomalo.com/bangladesh/ybjmtk1abb",
-      "desc": "",
-      "pubDate": "Sun, 15 Mar 2026 07:26:20 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2022-10/8e45be21-b4c5-4043-b487-7ea14360e382/Mirza_Abbas.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b"
     },
     {
       "title": "Income tax return filing deadline for companies extended to Apr 15",
@@ -305,58 +75,18 @@
       "pubDate": "Sun, 15 Mar 26 12:47:01 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
-      "title": "Star-studded musical dramas to feature in Eid special ‘Ityadi’",
-      "link": "https://www.thedailystar.net/entertainment/tv-film/news/star-studded-musical-dramas-feature-eid-special-ityadi-4129116",
-      "desc": "These segments have become a signature element of the programme, highlighting different social issues through humour and music.<br>",
-      "pubDate": "Sun, 15 Mar 26 12:36:58 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Vijay Sethupathi confirms new film with Mani Ratnam",
-      "link": "https://www.thedailystar.net/entertainment/tv-film/news/vijay-sethupathi-confirms-new-film-mani-ratnam-4129111",
-      "desc": "Further details about the new film with Ratnam, including its title, cast, and release timeline, have not yet been announced.<br>",
-      "pubDate": "Sun, 15 Mar 26 12:31:09 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "‘Golmaal 5’ announced with Akshay Kumar joining franchise",
-      "link": "https://www.thedailystar.net/entertainment/tv-film/news/golmaal-5-announced-akshay-kumar-joining-franchise-4129096",
-      "desc": "The makers of the popular comedy franchise “Golmaal” have officially announced a new instalment, revealing that Akshay Kumar will join the cast of “Golmaal 5”.",
-      "pubDate": "Sun, 15 Mar 26 12:13:27 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Title race not over, insists Man City boss Guardiola",
-      "link": "https://www.thedailystar.net/sports/football/news/title-race-not-over-insists-man-city-boss-guardiola-4129066",
-      "desc": "Pep Guardiola insisted the Premier League title race is not over despite a damaging 1-1 draw at West Ham that left Manchester City trailing nine points behind leaders Arsenal on Saturday.",
-      "pubDate": "Sun, 15 Mar 26 12:10:00 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "'Sinners' and 'One Battle After Another' face off at drama-filled Oscars",
-      "link": "https://www.thedailystar.net/entertainment/tv-film/news/sinners-and-one-battle-after-another-face-drama-filled-oscars-4129076",
-      "desc": "Top names in Hollywood will gather on Sunday to hand out the annual Academy Awards at a red-carpet ceremony brimming with an unusual amount ​of drama in the major races.",
-      "pubDate": "Sun, 15 Mar 26 11:59:34 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
+      "title": "Fresh tensions over Constitution Reform Council",
+      "link": "https://en.prothomalo.com/bangladesh/politics/xq8jbqf7ne",
+      "desc": "",
+      "pubDate": "Sun, 15 Mar 2026 06:12:31 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-13/goz6biyr/prothomalo-bangla2026-03-13twydwxkxUntitled-1.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b"
     },
     {
       "title": "NBR extends February VAT return deadline to March 29",
@@ -365,17 +95,7 @@
       "pubDate": "Sun, 15 Mar 26 11:55:55 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Medvedev snaps Alcaraz win streak, sets Indian Wells final with Sinner",
-      "link": "https://www.thedailystar.net/sports/more-sports/tennis/news/medvedev-snaps-alcaraz-win-streak-sets-indian-wells-final-sinner-4129056",
-      "desc": "Daniil Medvedev ended Carlos Alcaraz's perfect start to 2026, stunning the world number one 6-3, 7-6 (7/3) Saturday to book an Indian Wells title clash with Jannik Sinner.",
-      "pubDate": "Sun, 15 Mar 26 11:09:39 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
@@ -385,77 +105,7 @@
       "pubDate": "Sun, 15 Mar 26 11:04:19 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "‘Premer Golpo’ featuring Roshan and Chamak to release on Eid day",
-      "link": "https://www.thedailystar.net/entertainment/news/premer-golpo-featuring-roshan-and-chamak-release-eid-day-4129041",
-      "desc": "Such a story is set to be unveiled this upcoming Eid-ul-Fitr through the musical film “Premer Golpo”, sung as a duet by Dilshad Nahar Kona and Sheikh Limon. The song’s lyrics, composition, and music a",
-      "pubDate": "Sun, 15 Mar 26 11:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Jahid Preetom releases Eid short film ‘Home Not Coming’",
-      "link": "https://www.thedailystar.net/entertainment/news/jahid-preetom-releases-eid-short-film-home-not-coming-4129036",
-      "desc": "The film features performances by Meraz Hasan Raian, alongside Arpita Paul, Mahadi Rahman, Moshiur Siam, and Maynul Islam Shuvo, among others. The short film has already been released on social media ",
-      "pubDate": "Sun, 15 Mar 26 10:33:00 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Cox’s Bazar Film Club to host first-ever film festival",
-      "link": "https://www.thedailystar.net/entertainment/news/coxs-bazar-film-club-host-first-ever-film-festival-4129031",
-      "desc": "The organisers said that three films will be screened every evening at Laboni Beach Point in Cox’s Bazar, and the screenings will be open to all.",
-      "pubDate": "Sun, 15 Mar 26 10:25:00 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Tigers hope batters step up in series decider",
-      "link": "https://www.thedailystar.net/sports/cricket/news/tigers-hope-batters-step-series-decider-4128566",
-      "desc": "Bangladesh will desperately hope their batters finally produce their A game when they take on Pakistan in the series-deciding third and final ODI at the Sher-e-Bangla National Cricket Stadium in Mirpu",
-      "pubDate": "Sun, 15 Mar 26 09:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Maradona of the desert",
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/maradona-the-desert-4128471",
-      "desc": "June 29, 1994 FIFA World Cup group stage, Saudi Arabia vs Belgium.",
-      "pubDate": "Sun, 15 Mar 26 08:30:00 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "A captain searching for his place",
-      "link": "https://www.thedailystar.net/sports/cricket/news/captain-searching-his-place-4128556",
-      "desc": "Steve Jobs, the co-founder of Apple, had famously said that individuals who contribute the most in the workplace often end up becoming the best managers.",
-      "pubDate": "Sun, 15 Mar 26 08:10:00 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Man City lose ground with draw at West Ham",
-      "link": "https://www.thedailystar.net/sports/football/news/man-city-lose-ground-draw-west-ham-4128951",
-      "desc": "Manchester City lost further ground on Premier League Arsenal on Saturday as they were held to a 1-1 draw at West Ham United, which left them nine points behind the leaders with a game in hand.",
-      "pubDate": "Sun, 15 Mar 26 04:33:19 +0600",
-      "img": null,
-      "sourceId": "ds-sports",
-      "sourceName": "DS: Sports",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
@@ -465,57 +115,7 @@
       "pubDate": "Sun, 15 Mar 26 02:50:43 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Why the government must prioritise RTI",
-      "link": "https://www.thedailystar.net/opinion/news/why-the-government-must-prioritise-rti-4128796",
-      "desc": "After the first cabinet meeting of the new BNP government on February 18, a 180-day priority plan was announced focusing on controlling commodity prices, maintaining law and order, stabilising supply ",
-      "pubDate": "Sun, 15 Mar 26 00:41:49 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Continued use of post-bail ‘shown arrested’ cases risks repeating past abuses",
-      "link": "https://www.thedailystar.net/opinion/news/continued-use-post-bail-shown-arrested-cases-risks-repeating-past-abuses-4128791",
-      "desc": "It is worth recalling that at his first press conference following BNP’s election victory, Bangladesh’s new prime minister, Tarique Rahman, was asked the following question:",
-      "pubDate": "Sun, 15 Mar 26 00:37:34 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "How tobacco companies target schoolchildren",
-      "link": "https://www.thedailystar.net/opinion/news/how-tobacco-companies-target-schoolchildren-4128786",
-      "desc": "Targeting young children to gain future smokers is a longstanding tactic of tobacco producers globally.<br>",
-      "pubDate": "Sun, 15 Mar 26 00:35:19 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "We need education reforms that actually work",
-      "link": "https://www.thedailystar.net/opinion/news/we-need-education-reforms-actually-work-4128776",
-      "desc": "People’s expectations about real reform in education have been raised by the busy round of meetings and expression of resolve seen in Minister of Education Dr Ehsanul Haque Milon and State Minister fo",
-      "pubDate": "Sun, 15 Mar 26 00:32:28 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Stop landfill fires, open waste burning",
-      "link": "https://www.thedailystar.net/opinion/news/stop-landfill-fires-open-waste-burning-4128771",
-      "desc": "Poor waste management a major source of Dhaka’s air pollution",
-      "pubDate": "Sun, 15 Mar 26 00:28:40 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
@@ -525,17 +125,7 @@
       "pubDate": "Sun, 15 Mar 26 00:00:00 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Dollar rises broadly",
-      "link": "https://www.thedailystar.net/business/global-economy/news/dollar-rises-broadly-4128706",
-      "desc": "The US dollar rose across the board on Friday, set ​for a second straight weekly gain, as the war in the Middle East drove investors toward safe-haven assets and weighed on ‌energy-sensitive currencie",
-      "pubDate": "Sun, 15 Mar 26 00:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-business",
-      "sourceName": "DS: Business",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
@@ -545,157 +135,7 @@
       "pubDate": "Sun, 15 Mar 26 00:00:00 +0600",
       "img": null,
       "sourceId": "ds-business",
-      "sourceName": "DS: Business",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Clumsy execution of fuel rationing is causing crises",
-      "link": "https://www.thedailystar.net/opinion/news/clumsy-execution-fuel-rationing-causing-crises-4128531",
-      "desc": "Every year, as Eid-ul-Fitr approaches, millions of people leave the congested capital of Dhaka for their ancestral homes. Even in normal times, the annual exodus is a logistical nightmare. This year, ",
-      "pubDate": "Sat, 14 Mar 26 21:03:23 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Why slow fashion is the smarter choice for your closet",
-      "link": "https://www.thedailystar.net/life-living/fashion-beauty/news/why-slow-fashion-the-smarter-choice-your-closet-4128421",
-      "desc": "Embrace sustainable fashion by prioritizing quality over quantity with natural fabrics like linen and cotton. Investing in versatile, artisan-crafted pieces reduces waste and ensures timeless style, c",
-      "pubDate": "Sat, 14 Mar 26 13:42:54 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "5 Eid getaways in Bangladesh to reconnect with nature",
-      "link": "https://www.thedailystar.net/life-living/travel/news/5-eid-getaways-bangladesh-reconnect-nature-4128416",
-      "desc": "Escape urban chaos this Eid holiday by exploring Bangladesh's natural wonders. From Cox’s Bazar beaches to Sreemangal tea gardens and Bandarban hills, these serene destinations offer soulful rejuvenat",
-      "pubDate": "Sat, 14 Mar 26 13:42:52 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "From population control to policy by numbers",
-      "link": "https://www.thedailystar.net/opinion/views/news/population-control-policy-numbers-4128126",
-      "desc": "At the heart of Mamdani’s analysis was Khanna, a district in India’s Punjab, where, in the 1960s, a long-term family planning study led by Harvard University was conducted. The objective was direct: i",
-      "pubDate": "Sat, 14 Mar 26 02:28:02 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Why Bangladesh’s vegetable exports fail long before take-off",
-      "link": "https://www.thedailystar.net/opinion/views/news/why-bangladeshs-vegetable-exports-fail-long-take-4128121",
-      "desc": "When we talk about the challenges surrounding our vegetable exports, we often frame the issue as a simple question of export promotion, certification, or country branding. But the real issue is whethe",
-      "pubDate": "Sat, 14 Mar 26 02:25:36 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Hospital buildings must not lie idle",
-      "link": "https://www.thedailystar.net/opinion/editorial/news/hospital-buildings-must-not-lie-idle-4128106",
-      "desc": "It is unfortunate that the services at the new eight-storey building of Narsingdi Sadar Hospital have yet to begin, even after four years of its completion.",
-      "pubDate": "Sat, 14 Mar 26 02:07:28 +0600",
-      "img": null,
-      "sourceId": "ds-opinion",
-      "sourceName": "DS: Opinion",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Gianni Agnelli: Fiat, flair and the fine art of living",
-      "link": "https://www.thedailystar.net/lifestyle/news/gianni-agnelli-fiat-flair-and-the-fine-art-living-4127271",
-      "desc": "The life of Gianni Agnelli fused industry, aristocracy and style into a singular performance of power, glamour and modern Italian identity",
-      "pubDate": "Thu, 12 Mar 26 20:23:19 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "10 types of people you always see at an iftar table",
-      "link": "https://www.thedailystar.net/life-living/news/10-types-people-you-always-see-iftar-table-4127246",
-      "desc": "Explore diverse Ramadan personalities at the iftar table, from health-conscious eaters to alur chop protectors. These humorous archetypes unite through shared traditions, cold shorbot, and heartfelt g",
-      "pubDate": "Thu, 12 Mar 26 19:31:16 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "How Fariya Tazin built Polka Drops through instinct and grit",
-      "link": "https://www.thedailystar.net/life-living/fashion-beauty/news/how-fariya-tazin-built-polka-drops-through-instinct-and-grit-4127236",
-      "desc": "Empower your wardrobe with Polka Drops, where Fariya Tazin blends consumer psychology with premium fashion. Discover exclusive Eid couture and trendy prêt-à-porter designs that balance sophisticated s",
-      "pubDate": "Thu, 12 Mar 26 19:27:02 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Iftar regrets we all know too well (and can't avoid)",
-      "link": "https://www.thedailystar.net/life-living/news/iftar-regrets-we-all-know-too-well-and-cant-avoid-4127221",
-      "desc": "Navigate Dhaka's chaotic iftar culture where Puran Dhaka's Chawkbazar delicacies and premium haleem test spiritual restraint. Discover humorous tales of overhyped street food, corporate gatherings, an",
-      "pubDate": "Thu, 12 Mar 26 19:19:56 +0600",
-      "img": null,
-      "sourceId": "ds-lifestyle",
-      "sourceName": "DS: Lifestyle",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Arzeen’s new song explores futuristic love",
-      "link": "https://www.thedailystar.net/entertainment/music/news/arzeens-new-song-explores-futuristic-love-4129206",
-      "desc": "Bangladeshi singer-songwriter Arzeen released a new track that blends indie pop and folk influences, continuing his effort to connect global sounds with his Bengali musical roots. The song’s audio ver",
-      "pubDate": "Tue, 10 Mar 26 14:14:22 +0600",
-      "img": null,
-      "sourceId": "ds-entertainment",
-      "sourceName": "DS: Entertainment",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Shafiqul Alam returns to journalism, joins 'The Daily Waadaa' as editor",
-      "link": "https://www.thedailystar.net/miscellaneous/bangladesh/news/shafiqul-alam-returns-journalism-joins-the-daily-waadaa-editor-4109141",
-      "desc": "Former press secretary says new English daily has secured registration",
-      "pubDate": "Wed, 18 Feb 26 16:13:56 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Jamaat-led alliance holds emergency meeting without key ally",
-      "link": "https://www.thedailystar.net/historical/politics/news/jamaat-led-alliance-holds-emergency-meeting-without-key-ally-4081671",
-      "desc": "Amid seat sharing tension, Islami Andolan statement says discussions still ongoing",
-      "pubDate": "Thu, 15 Jan 26 15:11:17 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Bangladeshi-origin woman pulled from car by ICE agents in Minneapolis, says New York Post",
-      "link": "https://www.thedailystar.net/historical/news/news/bangladeshi-origin-woman-pulled-car-ice-agents-minneapolis-says-new-york-post-4081596",
-      "desc": "She claimed to be disabled and said she was trying to get to a doctor as agents handcuffed her",
-      "pubDate": "Thu, 15 Jan 26 12:51:31 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Tarique likely to meet CA Yunus today",
-      "link": "https://www.thedailystar.net/bangladesh/news/tarique-likely-meet-ca-yunus-today-4081581",
-      "desc": "The meeting will take place at state guest house Jamuna",
-      "pubDate": "Thu, 15 Jan 26 12:35:22 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
@@ -705,17 +145,7 @@
       "pubDate": "Tue, 13 Jan 26 23:10:13 +0600",
       "img": null,
       "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Yunus urges South Asian academics to align education with youth aspirations",
-      "link": "https://www.thedailystar.net/news/yunus-urges-south-asian-academics-align-education-youth-aspirations-4080361",
-      "desc": "Stresses revival of SAARC",
-      "pubDate": "Tue, 13 Jan 26 23:02:26 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
@@ -725,27 +155,7 @@
       "pubDate": "Tue, 13 Jan 26 22:55:04 +0600",
       "img": null,
       "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Selling diseased meat as 'beef' undermines public trust: Obhoyaronno",
-      "link": "https://www.thedailystar.net/news/selling-diseased-meat-beef-undermines-public-trust-obhoyaronno-4080171",
-      "desc": "Animal welfare group cautions after raid uncovered horse-slaughtering site",
-      "pubDate": "Tue, 13 Jan 26 21:06:52 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Fakhrul condemns Chuadanga BNP leader’s death in custody, demands justice",
-      "link": "https://www.thedailystar.net/news/fakhrul-condemns-chuadanga-bnp-leaders-death-custody-demands-justice-4079986",
-      "desc": "Calls for army intervention and fair probe, terming the killing ‘unacceptable’",
-      "pubDate": "Tue, 13 Jan 26 16:17:08 +0600",
-      "img": null,
-      "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
+      "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
     {
@@ -755,26 +165,6 @@
       "pubDate": "Tue, 13 Jan 26 16:06:26 +0600",
       "img": null,
       "sourceId": "ds-bangladesh",
-      "sourceName": "DS: Bangladesh",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "CU admin identifies 2 molesters",
-      "link": "https://www.thedailystar.net/youth/education/campus/news/cu-admin-identifies-2-molesters-3076956",
-      "desc": "The administration of Chittagong University yesterday claimed to have identified two persons who sexually assaulted a female student on the campus on Sunday night.",
-      "pubDate": "Fri, 22 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Rohingya genocide case to proceed",
-      "link": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971",
-      "desc": "The World Court yesterday rejected Myanmar’s objections to a genocide case over its treatment of the Muslim Rohingya minority, paving the way for the case to be heard in full.",
-      "pubDate": "Fri, 22 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
       "sourceName": "The Daily Star",
       "sourceColor": "#1a7a4a"
     },
@@ -789,30 +179,10 @@
       "sourceColor": "#1a7a4a"
     },
     {
-      "title": "Wasfia 1st Bangladeshi to conquer K2",
-      "link": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981",
-      "desc": "Renowned Bangladeshi mountaineer Wasfia Nazreen conquered the treacherous K2 in Pakistan, becoming the first person from Bangladesh to summit the second-tallest mountain in the world.",
+      "title": "Rohingya genocide case to proceed",
+      "link": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971",
+      "desc": "The World Court yesterday rejected Myanmar’s objections to a genocide case over its treatment of the Muslim Rohingya minority, paving the way for the case to be heard in full.",
       "pubDate": "Fri, 22 Jul 22 18:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "CU sexual assault: Fingers pointed at BCL men",
-      "link": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/cu-sexual-assault-fingers-pointed-bcl-men-3076216",
-      "desc": "Those who sexually assaulted a female student on Chittagong University campus on July 17 night are members of Bangladesh Chhatra League, said police sources and CU BCL insiders.",
-      "pubDate": "Fri, 22 Jul 22 03:00:00 +0600",
-      "img": null,
-      "sourceId": "ds-frontpage",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a"
-    },
-    {
-      "title": "Noab hikes newspaper price by Tk 2 from Jul 25",
-      "link": "https://www.thedailystar.net/news/bangladesh/news/noab-hikes-newspaper-price-tk-2-jul-25-3076201",
-      "desc": "All newspapers owned by the members of Newspaper Owners’ Association of Bangladesh (Noab) will see a price increase of at least Tk 2 per issue from July 25.",
-      "pubDate": "Thu, 21 Jul 22 18:00:00 +0600",
       "img": null,
       "sourceId": "ds-frontpage",
       "sourceName": "The Daily Star",
