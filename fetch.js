@@ -4,9 +4,11 @@ const url   = require('url');
 const fs    = require('fs');
 
 const SOURCES = [
-  { id: 'ds-business',      name: 'The Daily Star',    color: '#1a7a4a', url: 'https://www.thedailystar.net/business/rss.xml' },
-  { id: 'ds-frontpage',     name: 'The Daily Star',    color: '#1a7a4a', url: 'https://www.thedailystar.net/frontpage/rss.xml' },
-  { id: 'ds-bangladesh',    name: 'The Daily Star',    color: '#1a7a4a', url: 'https://www.thedailystar.net/bangladesh/rss.xml' },
+  // Daily Star section feeds — all merged under one source ID
+  { id: 'dailystar', name: 'The Daily Star', color: '#1a7a4a', url: 'https://www.thedailystar.net/business/rss.xml' },
+  { id: 'dailystar', name: 'The Daily Star', color: '#1a7a4a', url: 'https://www.thedailystar.net/frontpage/rss.xml' },
+  { id: 'dailystar', name: 'The Daily Star', color: '#1a7a4a', url: 'https://www.thedailystar.net/bangladesh/rss.xml' },
+  // Other outlets — no keyword filtering
   { id: 'bdnews24',         name: 'bdnews24',          color: '#e05c1a', url: 'https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true' },
   { id: 'prothomalo',       name: 'Prothom Alo',       color: '#c0392b', url: 'https://en.prothomalo.com/feed/' },
   { id: 'newagebd',         name: 'New Age',           color: '#2980b9', url: 'https://www.newagebd.net/rss' },
@@ -15,23 +17,23 @@ const SOURCES = [
   { id: 'bangladeshtoday',  name: 'Bangladesh Today',  color: '#d35400', url: 'https://www.thebangladeshtoday.com/feed/' },
 ];
 
-// Keep only articles matching business / economics / politics topics
-var KEYWORDS = [
-  'economy','economic','gdp','inflation','budget','fiscal','monetary','trade','export','import',
-  'revenue','investment','stock','bank','banking','finance','financial','market','currency','taka',
-  'remittance','garment','rmg','industry','manufacturing','growth','recession','imf','world bank',
-  'commerce','entrepreneur','startup','corporate','profit','loan','interest rate','tax','tariff',
-  'government','minister','ministry','parliament','election','political','party','cabinet','policy',
-  'reform','law','court','constitution','interim','chief adviser','commission','regulation',
-  'diplomacy','foreign','bilateral','sanction','protest','opposition','ruling','vote','democracy',
-];
-
-function isRelevant(article) {
-  var text = (article.title + ' ' + article.desc).toLowerCase();
-  for (var i = 0; i < KEYWORDS.length; i++) {
-    if (text.indexOf(KEYWORDS[i]) !== -1) return true;
+// Unique source metadata for the output (deduplicated by id)
+var UNIQUE_SOURCES = [];
+var seenIds = {};
+SOURCES.forEach(function(s) {
+  if (!seenIds[s.id]) {
+    seenIds[s.id] = true;
+    UNIQUE_SOURCES.push({ id: s.id, name: s.name, color: s.color });
   }
-  return false;
+});
+
+var THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
+
+function isRecent(pubDate) {
+  if (!pubDate) return false;
+  var t = Date.parse(pubDate);
+  if (!t) return false;
+  return (Date.now() - t) < THIRTY_DAYS_MS;
 }
 
 function resolveLocation(location, fromUrl) {
@@ -151,24 +153,36 @@ function parseFeed(xml, source) {
 
 async function main() {
   var results = [];
+  var seen = {};
+
   for (var i = 0; i < SOURCES.length; i++) {
     var source = SOURCES[i];
     try {
       console.log('Fetching:', source.name, '-', source.url);
       var xml = await fetchUrl(source.url);
-      var articles = parseFeed(xml, source).filter(isRelevant);
-      console.log('  Got', articles.length, 'relevant articles');
+      var articles = parseFeed(xml, source)
+        .filter(function(a) { return isRecent(a.pubDate); })
+        .filter(function(a) {
+          // Deduplicate by link across multiple Daily Star feeds
+          if (seen[a.link]) return false;
+          seen[a.link] = true;
+          return true;
+        });
+      console.log('  Got', articles.length, 'recent articles');
       results = results.concat(articles);
     } catch(e) {
       console.error('  Failed:', e.message);
     }
   }
+
   results.sort(function(a, b) { return new Date(b.pubDate) - new Date(a.pubDate); });
+
   var output = {
     fetchedAt: new Date().toISOString(),
-    sources:   SOURCES.map(function(s) { return { id: s.id, name: s.name, color: s.color }; }),
+    sources:   UNIQUE_SOURCES,
     articles:  results
   };
+
   fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
   console.log('Done. Saved', results.length, 'articles to data.json');
 }
