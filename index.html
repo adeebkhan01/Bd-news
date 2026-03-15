@@ -7,90 +7,70 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500&family=DM+Mono&display=swap" rel="stylesheet" />
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-  :root {
-    --bg:        #0e110e;
-    --surface:   #161a16;
-    --card:      #1c211c;
-    --border:    #2a302a;
-    --green:     #1a7a4a;
-    --green-lt:  #25a862;
-    --green-dim: #143d26;
-    --red:       #c23a3a;
-    --text:      #e8ead8;
-    --muted:     #7a8470;
-    --accent:    #b8d48a;
-    --serif:     'Playfair Display', Georgia, serif;
-    --sans:      'DM Sans', system-ui, sans-serif;
-    --mono:      'DM Mono', monospace;
-  }
-
-  html { font-size: 16px; }
-  body { background: var(--bg); color: var(--text); font-family: var(--sans); font-weight: 300; min-height: 100vh; }
-
-  .masthead { border-bottom: 1px solid var(--green); background: var(--surface); padding: 0 1.5rem; position: sticky; top: 0; z-index: 100; }
-  .masthead-inner { max-width: 1280px; margin: 0 auto; display: flex; align-items: center; gap: 1rem; height: 56px; }
-  .logo { font-family: var(--serif); font-size: 1.3rem; font-weight: 700; color: var(--accent); letter-spacing: -0.02em; flex-shrink: 0; display: flex; align-items: center; gap: 0.5rem; }
-  .logo-flag { width: 26px; height: 17px; border-radius: 2px; overflow: hidden; flex-shrink: 0; background: #006a4e; position: relative; display: flex; align-items: center; }
-  .logo-flag::after { content: ''; width: 10px; height: 10px; border-radius: 50%; background: #f42a41; position: absolute; left: 9px; }
-  .masthead-right { margin-left: auto; display: flex; align-items: center; gap: 0.75rem; }
-  #refresh-btn { font-family: var(--sans); font-size: 0.8rem; font-weight: 500; background: var(--green-dim); color: var(--green-lt); border: 1px solid var(--green); border-radius: 6px; padding: 0.35rem 0.75rem; cursor: pointer; display: flex; align-items: center; gap: 0.4rem; transition: background 0.15s; }
-  #refresh-btn:hover { background: var(--green); color: #fff; }
-  #refresh-btn.spinning svg { animation: spin 0.8s linear infinite; }
-  @keyframes spin { to { transform: rotate(360deg); } }
-  .last-updated { font-size: 0.72rem; color: var(--muted); font-family: var(--mono); }
-
-  .filter-bar { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 1.5rem; }
-  .filter-bar-inner { max-width: 1280px; margin: 0 auto; display: flex; gap: 0.4rem; padding: 0.6rem 0; overflow-x: auto; scrollbar-width: none; }
-  .filter-bar-inner::-webkit-scrollbar { display: none; }
-  .chip { font-size: 0.75rem; font-weight: 500; font-family: var(--sans); padding: 0.3rem 0.8rem; border-radius: 999px; border: 1px solid var(--border); background: transparent; color: var(--muted); cursor: pointer; white-space: nowrap; transition: all 0.15s; flex-shrink: 0; }
-  .chip:hover { border-color: var(--green-lt); color: var(--green-lt); }
-  .chip.active { background: var(--green); border-color: var(--green); color: #fff; }
-
-  .page { max-width: 1280px; margin: 0 auto; padding: 1.5rem; }
-  .status-bar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.2rem; font-size: 0.8rem; color: var(--muted); }
-  .status-count { font-family: var(--mono); }
-  .status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green-lt); display: inline-block; margin-right: 0.4rem; animation: pulse 2s infinite; }
-  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
-
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1rem; }
-
-  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; transition: border-color 0.2s, transform 0.15s; cursor: pointer; text-decoration: none; color: inherit; }
-  .card:hover { border-color: var(--green-lt); transform: translateY(-2px); }
-  .card-thumb { width: 100%; height: 180px; object-fit: cover; background: var(--surface); display: block; border-bottom: 1px solid var(--border); }
-  .card-thumb-placeholder { width: 100%; height: 120px; background: var(--green-dim); display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--border); opacity: 0.4; }
-  .card-body { padding: 1rem 1.1rem; flex: 1; display: flex; flex-direction: column; }
-  .card-source { font-size: 0.68rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.4rem; }
-  .source-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
-  .card-title { font-family: var(--serif); font-size: 1rem; font-weight: 600; line-height: 1.45; color: var(--text); margin-bottom: 0.6rem; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-  .card-desc { font-size: 0.8rem; color: var(--muted); line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 0.75rem; }
-  .card-meta { font-size: 0.72rem; color: var(--muted); font-family: var(--mono); display: flex; align-items: center; justify-content: space-between; margin-top: auto; padding-top: 0.6rem; border-top: 1px solid var(--border); }
-  .card-arrow { color: var(--green-lt); font-size: 0.9rem; }
-
-  .card.featured { grid-column: 1 / -1; flex-direction: row; }
-  .card.featured .card-thumb { width: 380px; min-width: 380px; height: auto; border-bottom: none; border-right: 1px solid var(--border); }
-  .card.featured .card-body { padding: 1.5rem; }
-  .card.featured .card-title { font-size: 1.5rem; -webkit-line-clamp: 4; }
-  .card.featured .card-desc { -webkit-line-clamp: 3; }
-  @media (max-width: 700px) { .card.featured { flex-direction: column; } .card.featured .card-thumb { width: 100%; min-width: 0; height: 200px; border-right: none; border-bottom: 1px solid var(--border); } }
-
-  .loading-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1rem; }
-  .skeleton { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; animation: shimmer 1.5s infinite; }
-  .skeleton-thumb { height: 140px; background: var(--surface); }
-  .skeleton-body { padding: 1rem; }
-  .skeleton-line { height: 10px; border-radius: 4px; background: var(--surface); margin-bottom: 8px; }
-  @keyframes shimmer { 0%,100%{opacity:1} 50%{opacity:0.6} }
-
-  .error-box { background: #2a0f0f; border: 1px solid var(--red); border-radius: 8px; padding: 1.5rem; color: #f0a0a0; margin: 2rem 0; text-align: center; }
-  .error-box h3 { font-family: var(--serif); margin-bottom: 0.5rem; font-size: 1.1rem; }
-  .error-box p { font-size: 0.85rem; line-height: 1.6; }
-  .error-box code { background: rgba(255,255,255,0.1); padding: 0.1rem 0.4rem; border-radius: 4px; font-family: var(--mono); font-size: 0.8rem; }
-
-  .empty { text-align: center; padding: 4rem 1rem; color: var(--muted); font-size: 0.9rem; }
-  .empty h3 { font-family: var(--serif); color: var(--text); font-size: 1.2rem; margin-bottom: 0.5rem; }
-
-  footer { margin-top: 3rem; padding: 1.5rem; text-align: center; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--border); }
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0e110e;--surface:#161a16;--card:#1c211c;--border:#2a302a;
+  --green:#1a7a4a;--green-lt:#25a862;--green-dim:#143d26;
+  --red:#c23a3a;--text:#e8ead8;--muted:#7a8470;--accent:#b8d48a;
+  --serif:'Playfair Display',Georgia,serif;
+  --sans:'DM Sans',system-ui,sans-serif;
+  --mono:'DM Mono',monospace;
+}
+html{font-size:16px}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:300;min-height:100vh}
+.masthead{border-bottom:1px solid var(--green);background:var(--surface);padding:0 1.5rem;position:sticky;top:0;z-index:100}
+.masthead-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:1rem;height:56px}
+.logo{font-family:var(--serif);font-size:1.3rem;font-weight:700;color:var(--accent);letter-spacing:-0.02em;display:flex;align-items:center;gap:.5rem}
+.logo-flag{width:26px;height:17px;border-radius:2px;background:#006a4e;position:relative;flex-shrink:0}
+.logo-flag::after{content:'';width:10px;height:10px;border-radius:50%;background:#f42a41;position:absolute;top:50%;left:9px;transform:translateY(-50%)}
+.masthead-right{margin-left:auto;display:flex;align-items:center;gap:.75rem}
+#refresh-btn{font-size:.8rem;font-weight:500;background:var(--green-dim);color:var(--green-lt);border:1px solid var(--green);border-radius:6px;padding:.35rem .75rem;cursor:pointer;display:flex;align-items:center;gap:.4rem;transition:background .15s}
+#refresh-btn:hover{background:var(--green);color:#fff}
+#refresh-btn.spinning svg{animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.last-updated{font-size:.72rem;color:var(--muted);font-family:var(--mono)}
+.filter-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:0 1.5rem}
+.filter-bar-inner{max-width:1280px;margin:0 auto;display:flex;gap:.4rem;padding:.6rem 0;overflow-x:auto;scrollbar-width:none}
+.filter-bar-inner::-webkit-scrollbar{display:none}
+.chip{font-size:.75rem;font-weight:500;padding:.3rem .8rem;border-radius:999px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;white-space:nowrap;transition:all .15s;flex-shrink:0}
+.chip:hover{border-color:var(--green-lt);color:var(--green-lt)}
+.chip.active{background:var(--green);border-color:var(--green);color:#fff}
+.page{max-width:1280px;margin:0 auto;padding:1.5rem}
+.status-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.2rem;font-size:.8rem;color:var(--muted)}
+.status-dot{width:7px;height:7px;border-radius:50%;background:var(--green-lt);display:inline-block;margin-right:.4rem;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1rem}
+.card{background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:border-color .2s,transform .15s}
+.card:hover{border-color:var(--green-lt);transform:translateY(-2px)}
+.card-thumb{width:100%;height:180px;object-fit:cover;background:var(--surface);display:block;border-bottom:1px solid var(--border)}
+.card-thumb-placeholder{width:100%;height:120px;background:var(--green-dim);display:flex;align-items:center;justify-content:center;border-bottom:1px solid var(--border);opacity:.4}
+.card-body{padding:1rem 1.1rem;flex:1;display:flex;flex-direction:column}
+.card-source{font-size:.68rem;font-weight:500;text-transform:uppercase;letter-spacing:.06em;margin-bottom:.5rem;display:flex;align-items:center;gap:.4rem}
+.source-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.card-title{font-family:var(--serif);font-size:1rem;font-weight:600;line-height:1.45;color:var(--text);margin-bottom:.6rem;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-desc{font-size:.8rem;color:var(--muted);line-height:1.55;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:.75rem}
+.card-meta{font-size:.72rem;color:var(--muted);font-family:var(--mono);display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:.6rem;border-top:1px solid var(--border)}
+.card.featured{grid-column:1/-1;flex-direction:row}
+.card.featured .card-thumb{width:380px;min-width:380px;height:auto;border-bottom:none;border-right:1px solid var(--border)}
+.card.featured .card-body{padding:1.5rem}
+.card.featured .card-title{font-size:1.5rem;-webkit-line-clamp:4}
+.card.featured .card-desc{-webkit-line-clamp:3}
+@media(max-width:700px){
+  .card.featured{flex-direction:column}
+  .card.featured .card-thumb{width:100%;min-width:0;height:200px;border-right:none;border-bottom:1px solid var(--border)}
+}
+.loading-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1rem}
+.skeleton{background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden;animation:shimmer 1.5s infinite}
+.skeleton-thumb{height:140px;background:var(--surface)}
+.skeleton-body{padding:1rem}
+.skeleton-line{height:10px;border-radius:4px;background:var(--surface);margin-bottom:8px}
+@keyframes shimmer{0%,100%{opacity:1}50%{opacity:.6}}
+.error-box{background:#2a0f0f;border:1px solid var(--red);border-radius:8px;padding:1.5rem;color:#f0a0a0;margin:2rem 0;text-align:center}
+.error-box h3{font-family:var(--serif);margin-bottom:.5rem;font-size:1.1rem}
+.error-box p{font-size:.85rem;line-height:1.6}
+.empty{text-align:center;padding:4rem 1rem;color:var(--muted)}
+.empty h3{font-family:var(--serif);color:var(--text);font-size:1.2rem;margin-bottom:.5rem}
+footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:var(--muted);border-top:1px solid var(--border)}
 </style>
 </head>
 <body>
@@ -99,12 +79,16 @@
   <div class="masthead-inner">
     <div class="logo">
       <div class="logo-flag"></div>
-      The Daily Star
+      Bangladesh News
     </div>
     <div class="masthead-right">
       <span class="last-updated" id="last-updated">—</span>
       <button id="refresh-btn" onclick="loadData()">
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <polyline points="23 4 23 10 17 10"/>
+          <polyline points="1 20 1 14 7 14"/>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+        </svg>
         Refresh
       </button>
     </div>
@@ -113,45 +97,55 @@
 
 <div class="filter-bar">
   <div class="filter-bar-inner" id="filter-bar">
-    <button class="chip active" data-source="all" onclick="setFilter('all', this)">All Sections</button>
+    <button class="chip active" onclick="setFilter('all',this)">All Sections</button>
   </div>
 </div>
 
 <main class="page">
   <div class="status-bar">
     <span><span class="status-dot"></span><span id="status-text">Loading…</span></span>
-    <span class="status-count" id="article-count"></span>
+    <span id="article-count"></span>
   </div>
   <div id="feed-container"></div>
 </main>
 
-<footer>Bangladesh News Feed · 7 outlets · data refreshed hourly via GitHub Actions</footer>
+<footer>Bangladesh News Feed · 7 outlets · refreshed hourly via GitHub Actions</footer>
 
 <script>
 let allArticles = [];
-let allSources = [];
+let allSources  = [];
 let activeFilter = 'all';
+let loading = false;
+
+function escapeHTML(str) {
+  return String(str || '').replace(/[&<>"']/g, m =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'})[m]
+  );
+}
 
 function timeAgo(dateStr) {
-  if (!dateStr) return '';
-  const d = new Date(dateStr);
-  if (isNaN(d)) return '';
-  const diff = (Date.now() - d) / 1000;
-  if (diff < 60) return 'just now';
-  if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
-  if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
-  return Math.floor(diff / 86400) + 'd ago';
+  const t = Date.parse(dateStr);
+  if (!t) return '';
+  const diff = (Date.now() - t) / 1000;
+  if (diff < 60)    return 'just now';
+  if (diff < 3600)  return Math.floor(diff / 60)    + 'm ago';
+  if (diff < 86400) return Math.floor(diff / 3600)  + 'h ago';
+  return                   Math.floor(diff / 86400) + 'd ago';
 }
 
 function buildFilterBar() {
+  const counts = {};
+  allArticles.forEach(a => { counts[a.sourceId] = (counts[a.sourceId] || 0) + 1; });
+
   const bar = document.getElementById('filter-bar');
-  bar.innerHTML = `<button class="chip ${activeFilter==='all'?'active':''}" onclick="setFilter('all',this)">All Sections</button>`;
+  bar.innerHTML = `<button class="chip ${activeFilter === 'all' ? 'active' : ''}" onclick="setFilter('all',this)">All Sections</button>`;
+
   allSources.forEach(s => {
-    const count = allArticles.filter(a => a.sourceId === s.id).length;
+    const count = counts[s.id] || 0;
     if (!count) return;
     const btn = document.createElement('button');
     btn.className = 'chip' + (activeFilter === s.id ? ' active' : '');
-    btn.textContent = s.name + ` (${count})`;
+    btn.textContent = s.name + ' (' + count + ')';
     btn.onclick = () => setFilter(s.id, btn);
     bar.appendChild(btn);
   });
@@ -166,55 +160,60 @@ function setFilter(id, el) {
 
 function renderArticles() {
   const container = document.getElementById('feed-container');
-  const articles = activeFilter === 'all' ? allArticles : allArticles.filter(a => a.sourceId === activeFilter);
+  const articles = activeFilter === 'all'
+    ? allArticles
+    : allArticles.filter(a => a.sourceId === activeFilter);
+
   document.getElementById('article-count').textContent = articles.length + ' articles';
 
   if (!articles.length) {
-    container.innerHTML = `<div class="empty"><h3>No articles</h3><p>Try a different section.</p></div>`;
+    container.innerHTML = '<div class="empty"><h3>No articles</h3><p>Try a different section.</p></div>';
     return;
   }
 
+  const featuredIndex = activeFilter === 'all' ? articles.findIndex(a => a.img) : -1;
+
   const cards = articles.map((a, i) => {
-    const isFeatured = i === 0 && activeFilter === 'all';
+    const title      = escapeHTML(a.title      || 'Untitled');
+    const desc       = escapeHTML(a.desc       || '');
+    const sourceName = escapeHTML(a.sourceName || 'Unknown');
+    const color      = a.sourceColor || '#aaa';
+    const link       = a.link || '#';
+    const isFeatured = i === featuredIndex;
+
     const imgHtml = a.img
-      ? `<img class="card-thumb" src="${a.img}" alt="" loading="lazy" onerror="this.style.display='none'">`
-      : `<div class="card-thumb-placeholder">📰</div>`;
-    return `
-      <a class="card${isFeatured?' featured':''}" href="${a.link}" target="_blank" rel="noopener">
-        ${imgHtml}
-        <div class="card-body">
-          <div class="card-source">
-            <span class="source-dot" style="background:${a.sourceColor}"></span>
-            <span style="color:${a.sourceColor}">${a.sourceName}</span>
-          </div>
-          <div class="card-title">${a.title}</div>
-          ${a.desc ? `<div class="card-desc">${a.desc}</div>` : ''}
-          <div class="card-meta">
-            <span>${timeAgo(a.pubDate) || '—'}</span>
-            <span class="card-arrow">↗</span>
-          </div>
-        </div>
-      </a>`;
+      ? '<img class="card-thumb" src="' + a.img + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
+      : '<div class="card-thumb-placeholder">📰</div>';
+
+    return '<a class="card' + (isFeatured ? ' featured' : '') + '" href="' + link + '" target="_blank" rel="noopener">'
+      + imgHtml
+      + '<div class="card-body">'
+      + '<div class="card-source">'
+      + '<span class="source-dot" style="background:' + color + '"></span>'
+      + '<span style="color:' + color + '">' + sourceName + '</span>'
+      + '</div>'
+      + '<div class="card-title">' + title + '</div>'
+      + (desc ? '<div class="card-desc">' + desc + '</div>' : '')
+      + '<div class="card-meta">'
+      + '<span>' + (timeAgo(a.pubDate) || '—') + '</span>'
+      + '<span>↗</span>'
+      + '</div>'
+      + '</div>'
+      + '</a>';
   }).join('');
 
-  container.innerHTML = `<div class="grid">${cards}</div>`;
+  container.innerHTML = '<div class="grid">' + cards + '</div>';
 }
 
 function showSkeletons() {
-  const skels = Array.from({length: 9}, () => `
-    <div class="skeleton">
-      <div class="skeleton-thumb"></div>
-      <div class="skeleton-body">
-        <div class="skeleton-line" style="width:40%"></div>
-        <div class="skeleton-line" style="width:100%"></div>
-        <div class="skeleton-line" style="width:80%"></div>
-        <div class="skeleton-line" style="width:55%;margin-top:1rem"></div>
-      </div>
-    </div>`).join('');
-  document.getElementById('feed-container').innerHTML = `<div class="loading-grid">${skels}</div>`;
+  const skel = '<div class="skeleton"><div class="skeleton-thumb"></div><div class="skeleton-body"><div class="skeleton-line" style="width:40%"></div><div class="skeleton-line"></div><div class="skeleton-line" style="width:80%"></div></div></div>';
+  document.getElementById('feed-container').innerHTML = '<div class="loading-grid">' + Array(9).fill(skel).join('') + '</div>';
 }
 
 async function loadData() {
+  if (loading) return;
+  loading = true;
+
   const btn = document.getElementById('refresh-btn');
   btn.classList.add('spinning');
   document.getElementById('status-text').textContent = 'Loading…';
@@ -222,27 +221,35 @@ async function loadData() {
 
   try {
     const base = window.location.pathname.replace(/\/?$/, '/');
-    const res = await fetch(base + 'data.json?t=' + Date.now());
+    const res  = await fetch(base + 'data.json?t=' + Date.now());
     if (!res.ok) throw new Error('HTTP ' + res.status);
-    const data = await res.json();
+
+    const data  = await res.json();
     allArticles = data.articles || [];
     allSources  = data.sources  || [];
-    const fetched = new Date(data.fetchedAt);
-    document.getElementById('last-updated').textContent = 'Updated ' + fetched.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+
+    if (data.fetchedAt) {
+      const fetched = new Date(data.fetchedAt);
+      document.getElementById('last-updated').textContent =
+        'Updated ' + fetched.toLocaleTimeString([], {hour: '2-digit', minute: '2-digit'});
+    }
+
     document.getElementById('status-text').textContent = allArticles.length + ' articles loaded';
     buildFilterBar();
     renderArticles();
+
   } catch (e) {
-    document.getElementById('feed-container').innerHTML = `
-      <div class="error-box">
-        <h3>Waiting for first data fetch</h3>
-        <p>Go to your repo → <strong>Actions</strong> tab → <strong>Fetch RSS Feeds</strong> → <strong>Run workflow</strong>. Once it completes, refresh this page.</p>
-        <p style="margin-top:0.75rem;font-size:0.8rem;opacity:0.7">Error: ${e.message}</p>
-      </div>`;
+    document.getElementById('feed-container').innerHTML =
+      '<div class="error-box">'
+      + '<h3>Waiting for first data fetch</h3>'
+      + '<p>Go to your repo &rarr; <strong>Actions</strong> tab &rarr; <strong>Fetch RSS Feeds</strong> &rarr; <strong>Run workflow</strong>. Once it completes, refresh this page.</p>'
+      + '<p style="margin-top:8px;font-size:12px;opacity:.7">Error: ' + escapeHTML(e.message) + '</p>'
+      + '</div>';
     document.getElementById('status-text').textContent = 'No data yet';
   }
 
   btn.classList.remove('spinning');
+  loading = false;
 }
 
 loadData();
