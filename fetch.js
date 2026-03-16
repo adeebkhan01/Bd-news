@@ -222,11 +222,18 @@ async function enrichNewArticles(newArticles) {
           + '"titleBn": "Bengali translation of the title", '
           + '"descBn": "Bengali translation of the description (or empty string if no description)"}'
         );
-        var parsed = JSON.parse(result.replace(/```json|```/g,'').trim());
+        // Strip any markdown fences Claude may have added
+        var clean = result.replace(/^```[a-z]*\n?/i,'').replace(/```$/,'').trim();
+        // Find the first { and last } to extract just the JSON object
+        var start = clean.indexOf('{');
+        var end   = clean.lastIndexOf('}');
+        if (start === -1 || end === -1) throw new Error('No JSON object found in response');
+        var parsed = JSON.parse(clean.slice(start, end + 1));
         a.aiSummary  = (parsed.summary || '') + (parsed.opinion ? '\n' + parsed.opinion : '');
-        a.titleBn    = parsed.titleBn  || a.title;
+        a.titleBn    = parsed.titleBn  || null;
         a.descBn     = parsed.descBn   || '';
       } catch(e) {
+        console.error('  AI enrichment failed for "' + a.title.slice(0,40) + '":', e.message);
         a.aiSummary = null;
         a.titleBn   = null;
         a.descBn    = null;
@@ -270,11 +277,14 @@ async function main() {
     } catch(e) { console.error('  Failed:', e.message); }
   }
 
-  console.log(freshArticles.length, 'brand new articles to enrich');
+  // ── Also re-enrich existing articles that have null titleBn (from before AI was working) ──
+  var needsEnrichment = existingArticles.filter(function(a) { return a.titleBn === null || a.titleBn === undefined; });
+  console.log(freshArticles.length, 'new articles,', needsEnrichment.length, 'existing articles need AI enrichment');
 
-  // ── Enrich only new articles ──
+  // ── Enrich: new articles + existing ones missing translations ──
+  var toEnrich = freshArticles.concat(needsEnrichment);
   await enrichImages(freshArticles);
-  await enrichNewArticles(freshArticles);
+  await enrichNewArticles(toEnrich);
 
   // ── Merge: new articles + existing (already enriched) ──
   var allArticles = freshArticles.concat(existingArticles);
