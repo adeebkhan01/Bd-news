@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Australian Economy Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&family=DM+Mono&display=swap" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f5f2eb;--surface:#edeade;--card:#ffffff;--border:#ddd9cf;
+  --green:#1a7a4a;--green-lt:#1a7a4a;--green-dim:#e6f2ec;
+  --red:#c23a3a;--red-dim:#fdf0f0;--text:#1a1a18;--muted:#7a7568;
+  --blue:#2563eb;--blue-dim:#eff6ff;--gold:#b8860b;--gold-dim:#fef9ee;
+  --serif:'Playfair Display',Georgia,serif;
+  --sans:'DM Sans',system-ui,sans-serif;
+  --mono:'DM Mono',monospace;
+}
+html{font-size:16px}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:300;min-height:100vh}
+
+/* Masthead */
+.masthead{border-bottom:1px solid var(--green);background:var(--surface);padding:0 1.5rem;position:sticky;top:0;z-index:100}
+.masthead-inner{max-width:1320px;margin:0 auto;display:flex;align-items:center;gap:1rem;height:56px}
+.logo{font-family:var(--serif);font-size:1.3rem;font-weight:700;color:var(--green);letter-spacing:-0.02em;display:flex;align-items:center;gap:.5rem;text-decoration:none}
+.logo-flag{width:30px;height:18px;border-radius:2px;overflow:hidden;flex-shrink:0;position:relative}
+.logo-flag .au-blue{width:100%;height:100%;background:#00008b}
+.logo-flag .au-star{position:absolute;color:#fff;font-size:8px;line-height:1}
+.logo-flag .au-union{position:absolute;top:0;left:0;width:14px;height:9px;background:linear-gradient(to bottom,#c8102e 30%,#fff 30%,#fff 40%,#c8102e 40%,#c8102e 60%,#fff 60%,#fff 70%,#c8102e 70%);opacity:.7}
+.nav-links{display:flex;gap:.5rem;margin-left:1rem}
+.nav-links a{font-size:.78rem;font-weight:500;color:var(--muted);text-decoration:none;padding:.3rem .7rem;border-radius:6px;transition:all .15s}
+.nav-links a:hover,.nav-links a.active{color:var(--green);background:var(--green-dim)}
+.masthead-right{margin-left:auto;display:flex;align-items:center;gap:.75rem}
+.last-updated{font-size:.72rem;color:var(--muted);font-family:var(--mono)}
+#refresh-btn{font-size:.8rem;font-weight:500;background:var(--green);color:#fff;border:1px solid var(--green);border-radius:6px;padding:.35rem .75rem;cursor:pointer;display:flex;align-items:center;gap:.4rem;transition:background .15s}
+#refresh-btn:hover{background:#155f39}
+#refresh-btn.spinning svg{animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Layout */
+.dashboard{max-width:1320px;margin:0 auto;padding:1.5rem}
+.section-title{font-family:var(--serif);font-size:1.1rem;font-weight:600;color:var(--text);margin-bottom:1rem;display:flex;align-items:center;gap:.5rem}
+.section-title .dot{width:8px;height:8px;border-radius:50%;background:var(--green)}
+
+/* Hero metrics row */
+.hero-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.75rem;margin-bottom:1.5rem}
+.metric-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1rem 1.1rem;transition:border-color .2s,transform .15s}
+.metric-card:hover{border-color:var(--green);transform:translateY(-1px)}
+.metric-label{font-size:.7rem;font-weight:500;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:.4rem;display:flex;align-items:center;gap:.35rem}
+.metric-icon{width:16px;height:16px;border-radius:4px;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;flex-shrink:0}
+.metric-value{font-family:var(--serif);font-size:1.6rem;font-weight:700;color:var(--text);line-height:1.2}
+.metric-change{font-size:.78rem;font-weight:500;margin-top:.25rem;display:flex;align-items:center;gap:.25rem}
+.metric-change.up{color:var(--green)}
+.metric-change.down{color:var(--red)}
+.metric-change.neutral{color:var(--muted)}
+.metric-sub{font-size:.68rem;color:var(--muted);margin-top:.15rem;font-family:var(--mono)}
+
+/* Charts */
+.charts-row{display:grid;grid-template-columns:1fr 1fr;gap:.75rem;margin-bottom:1.5rem}
+.chart-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1.1rem;min-height:280px}
+.chart-card h3{font-family:var(--serif);font-size:.95rem;font-weight:600;margin-bottom:.75rem}
+.chart-wrap{position:relative;height:220px}
+@media(max-width:800px){.charts-row{grid-template-columns:1fr}}
+
+/* Commodities */
+.commodities-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.75rem;margin-bottom:1.5rem}
+.commodity-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:.9rem 1rem;display:flex;align-items:center;gap:.8rem;transition:border-color .2s}
+.commodity-card:hover{border-color:var(--gold)}
+.commodity-icon{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:1rem;flex-shrink:0}
+.commodity-info{flex:1;min-width:0}
+.commodity-name{font-size:.72rem;font-weight:500;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.commodity-price{font-family:var(--serif);font-size:1.1rem;font-weight:700}
+.commodity-change{font-size:.72rem;font-weight:500}
+
+/* Economic indicators table */
+.indicators-table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden;margin-bottom:1.5rem}
+.indicators-table thead{background:var(--surface)}
+.indicators-table th{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:.7rem 1rem;text-align:left;border-bottom:1px solid var(--border)}
+.indicators-table td{padding:.7rem 1rem;font-size:.85rem;border-bottom:1px solid var(--border)}
+.indicators-table tr:last-child td{border-bottom:none}
+.indicators-table tr:hover{background:var(--surface)}
+.indicator-name{font-weight:500;display:flex;align-items:center;gap:.5rem}
+.indicator-badge{font-size:.6rem;padding:.15rem .4rem;border-radius:4px;font-weight:600;letter-spacing:.02em}
+
+/* News section */
+.news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:.75rem;margin-bottom:1.5rem}
+.news-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1rem 1.1rem;text-decoration:none;color:inherit;transition:border-color .2s,transform .15s}
+.news-card:hover{border-color:var(--blue);transform:translateY(-1px)}
+.news-source{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:var(--blue);margin-bottom:.3rem}
+.news-title{font-family:var(--serif);font-size:.92rem;font-weight:600;line-height:1.4;margin-bottom:.4rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news-snippet{font-size:.78rem;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:.5rem}
+.news-time{font-size:.68rem;color:var(--muted);font-family:var(--mono)}
+
+/* Loading / Error */
+.loading-overlay{text-align:center;padding:4rem 1rem;color:var(--muted)}
+.loading-overlay h3{font-family:var(--serif);color:var(--text);margin-bottom:.5rem}
+.shimmer{animation:shimmer 1.5s infinite}
+@keyframes shimmer{0%,100%{opacity:1}50%{opacity:.5}}
+.error-box{background:var(--red-dim);border:1px solid #e8b4b4;border-radius:8px;padding:1.5rem;color:#8b2020;text-align:center;margin:2rem 0}
+.error-box h3{font-family:var(--serif);margin-bottom:.5rem;font-size:1.1rem}
+
+/* Footer */
+footer{margin-top:2rem;padding:1.5rem;text-align:center;font-size:.72rem;color:var(--muted);border-top:1px solid var(--border)}
+footer a{color:var(--green);text-decoration:none}
+footer a:hover{text-decoration:underline}
+
+/* Responsive */
+@media(max-width:768px){
+  .hero-grid{grid-template-columns:repeat(2,1fr)}
+  .metric-value{font-size:1.3rem}
+  .dashboard{padding:1rem}
+  .nav-links{display:none}
+}
+@media(max-width:480px){
+  .hero-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="logo" href="finance.html">
+      <div class="logo-flag">
+        <div class="au-blue"></div>
+        <div class="au-union"></div>
+      </div>
+      AU Economy
+    </a>
+    <nav class="nav-links">
+      <a href="finance.html" class="active">Dashboard</a>
+      <a href="index.html">BD News</a>
+    </nav>
+    <div class="masthead-right">
+      <span class="last-updated" id="last-updated">—</span>
+      <button id="refresh-btn" onclick="loadData()">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <polyline points="23 4 23 10 17 10"/>
+          <polyline points="1 20 1 14 7 14"/>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+        </svg>
+        Refresh
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="dashboard" id="dashboard">
+  <div class="loading-overlay shimmer" id="loading">
+    <h3>Loading Australian Economy Data…</h3>
+    <p>Fetching latest market & economic indicators</p>
+  </div>
+</div>
+
+<footer>
+  Australian Economy Dashboard · Data via RBA, ABS, Yahoo Finance · <a href="index.html">Bangladesh News</a>
+</footer>
+
+<script>
+let financeData = null;
+let charts = {};
+let loading = false;
+
+function fmt(n, decimals, prefix, suffix) {
+  if (n == null || isNaN(n)) return '—';
+  prefix = prefix || '';
+  suffix = suffix || '';
+  const abs = Math.abs(n);
+  if (abs >= 1e12) return prefix + (n/1e12).toFixed(1) + 'T' + suffix;
+  if (abs >= 1e9) return prefix + (n/1e9).toFixed(1) + 'B' + suffix;
+  if (abs >= 1e6) return prefix + (n/1e6).toFixed(1) + 'M' + suffix;
+  return prefix + n.toFixed(decimals != null ? decimals : 2) + suffix;
+}
+
+function changeHTML(val, suffix) {
+  if (val == null || isNaN(val)) return '<span class="metric-change neutral">—</span>';
+  suffix = suffix || '';
+  const cls = val > 0 ? 'up' : val < 0 ? 'down' : 'neutral';
+  const arrow = val > 0 ? '▲' : val < 0 ? '▼' : '—';
+  return '<span class="metric-change ' + cls + '">' + arrow + ' ' + Math.abs(val).toFixed(2) + suffix + '</span>';
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return '';
+  const t = Date.parse(dateStr);
+  if (!t) return '';
+  const diff = (Date.now() - t) / 1000;
+  if (diff < 60) return 'just now';
+  if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+  if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+  return Math.floor(diff / 86400) + 'd ago';
+}
+
+function escapeHTML(str) {
+  return String(str || '').replace(/[&<>"']/g, m =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'})[m]);
+}
+
+function renderDashboard(data) {
+  const d = data;
+  const dash = document.getElementById('dashboard');
+
+  // --- Hero Metrics ---
+  let html = '<div class="section-title"><span class="dot"></span>Key Indicators</div>';
+  html += '<div class="hero-grid">';
+
+  const metrics = [
+    {
+      label: 'ASX 200', icon: '📈', iconBg: var_green_dim(),
+      value: fmt(d.asx200?.value, 0, '', ''),
+      change: changeHTML(d.asx200?.changePercent, '%'),
+      sub: d.asx200?.asOf || ''
+    },
+    {
+      label: 'AUD / USD', icon: '$', iconBg: '#eff6ff',
+      value: d.audusd?.value != null ? d.audusd.value.toFixed(4) : '—',
+      change: changeHTML(d.audusd?.changePercent, '%'),
+      sub: d.audusd?.asOf || ''
+    },
+    {
+      label: 'RBA Cash Rate', icon: '%', iconBg: var_green_dim(),
+      value: d.rbaRate?.value != null ? d.rbaRate.value.toFixed(2) + '%' : '—',
+      change: changeHTML(d.rbaRate?.change, ' bps'),
+      sub: d.rbaRate?.asOf || 'Current target'
+    },
+    {
+      label: 'Inflation (CPI)', icon: 'i', iconBg: '#fef9ee',
+      value: d.cpi?.value != null ? d.cpi.value.toFixed(1) + '%' : '—',
+      change: changeHTML(d.cpi?.change, '%'),
+      sub: d.cpi?.period || 'Annual'
+    },
+    {
+      label: 'GDP Growth', icon: 'G', iconBg: var_green_dim(),
+      value: d.gdp?.value != null ? d.gdp.value.toFixed(1) + '%' : '—',
+      change: changeHTML(d.gdp?.change, '%'),
+      sub: d.gdp?.period || 'Annual'
+    },
+    {
+      label: 'Unemployment', icon: 'U', iconBg: '#eff6ff',
+      value: d.unemployment?.value != null ? d.unemployment.value.toFixed(1) + '%' : '—',
+      change: changeHTML(d.unemployment?.change, '%'),
+      sub: d.unemployment?.period || ''
+    },
+    {
+      label: 'Housing (Median)', icon: '🏠', iconBg: '#fef9ee',
+      value: d.housing?.medianPrice != null ? fmt(d.housing.medianPrice, 0, '$', '') : '—',
+      change: changeHTML(d.housing?.changePercent, '%'),
+      sub: d.housing?.city || 'National'
+    },
+    {
+      label: 'Consumer Confidence', icon: 'C', iconBg: '#eff6ff',
+      value: d.consumerConfidence?.value != null ? d.consumerConfidence.value.toFixed(1) : '—',
+      change: changeHTML(d.consumerConfidence?.change, ''),
+      sub: d.consumerConfidence?.period || ''
+    }
+  ];
+
+  metrics.forEach(m => {
+    html += '<div class="metric-card">'
+      + '<div class="metric-label">'
+      + '<span class="metric-icon" style="background:' + m.iconBg + '">' + m.icon + '</span>'
+      + m.label
+      + '</div>'
+      + '<div class="metric-value">' + m.value + '</div>'
+      + m.change
+      + '<div class="metric-sub">' + escapeHTML(m.sub) + '</div>'
+      + '</div>';
+  });
+  html += '</div>';
+
+  // --- Charts ---
+  html += '<div class="section-title"><span class="dot"></span>Trends</div>';
+  html += '<div class="charts-row">'
+    + '<div class="chart-card"><h3>ASX 200 — 30 Day</h3><div class="chart-wrap"><canvas id="chart-asx"></canvas></div></div>'
+    + '<div class="chart-card"><h3>AUD/USD — 30 Day</h3><div class="chart-wrap"><canvas id="chart-aud"></canvas></div></div>'
+    + '</div>';
+
+  // --- Commodities ---
+  html += '<div class="section-title"><span class="dot"></span>Commodities</div>';
+  html += '<div class="commodities-grid">';
+  const commodities = d.commodities || [];
+  commodities.forEach(c => {
+    const cls = (c.changePercent || 0) >= 0 ? 'up' : 'down';
+    html += '<div class="commodity-card">'
+      + '<div class="commodity-icon" style="background:' + (c.iconBg || '#fef9ee') + '">' + (c.icon || '📦') + '</div>'
+      + '<div class="commodity-info">'
+      + '<div class="commodity-name">' + escapeHTML(c.name) + '</div>'
+      + '<div class="commodity-price">' + fmt(c.price, 2, '$', '') + '</div>'
+      + '<div class="commodity-change ' + cls + '">' + (c.changePercent >= 0 ? '▲' : '▼') + ' ' + Math.abs(c.changePercent || 0).toFixed(2) + '%</div>'
+      + '</div></div>';
+  });
+  html += '</div>';
+
+  // --- Economic Indicators Table ---
+  html += '<div class="section-title"><span class="dot"></span>Economic Indicators</div>';
+  html += '<table class="indicators-table"><thead><tr>'
+    + '<th>Indicator</th><th>Value</th><th>Previous</th><th>Change</th><th>Period</th>'
+    + '</tr></thead><tbody>';
+  const indicators = d.indicators || [];
+  indicators.forEach(ind => {
+    const cls = (ind.change || 0) > 0 ? 'up' : (ind.change || 0) < 0 ? 'down' : 'neutral';
+    const badgeColor = ind.category === 'growth' ? 'background:#e6f2ec;color:#1a7a4a'
+      : ind.category === 'labour' ? 'background:#eff6ff;color:#2563eb'
+      : ind.category === 'prices' ? 'background:#fef9ee;color:#b8860b'
+      : 'background:#f3f0f9;color:#7c3aed';
+    html += '<tr>'
+      + '<td><span class="indicator-name"><span class="indicator-badge" style="' + badgeColor + '">' + escapeHTML(ind.category || '').toUpperCase() + '</span>' + escapeHTML(ind.name) + '</span></td>'
+      + '<td style="font-weight:500;font-family:var(--mono)">' + escapeHTML(ind.value) + '</td>'
+      + '<td style="font-family:var(--mono);color:var(--muted)">' + escapeHTML(ind.previous || '—') + '</td>'
+      + '<td><span class="metric-change ' + cls + '" style="font-size:.78rem">'
+        + ((ind.change||0) > 0 ? '▲' : (ind.change||0) < 0 ? '▼' : '—')
+        + ' ' + Math.abs(ind.change||0).toFixed(2) + (ind.unit||'') + '</span></td>'
+      + '<td style="font-size:.78rem;color:var(--muted)">' + escapeHTML(ind.period || '') + '</td>'
+      + '</tr>';
+  });
+  html += '</tbody></table>';
+
+  // --- Financial News ---
+  if (d.news && d.news.length) {
+    html += '<div class="section-title"><span class="dot"></span>Australian Financial News</div>';
+    html += '<div class="news-grid">';
+    d.news.forEach(n => {
+      html += '<a class="news-card" href="' + escapeHTML(n.link) + '" target="_blank" rel="noopener">'
+        + '<div class="news-source">' + escapeHTML(n.source) + '</div>'
+        + '<div class="news-title">' + escapeHTML(n.title) + '</div>'
+        + (n.snippet ? '<div class="news-snippet">' + escapeHTML(n.snippet) + '</div>' : '')
+        + '<div class="news-time">' + timeAgo(n.pubDate) + '</div>'
+        + '</a>';
+    });
+    html += '</div>';
+  }
+
+  dash.innerHTML = html;
+
+  // Render charts
+  renderCharts(d);
+}
+
+function var_green_dim() { return '#e6f2ec'; }
+
+function renderCharts(d) {
+  // Destroy existing
+  Object.values(charts).forEach(c => c.destroy && c.destroy());
+  charts = {};
+
+  const gridColor = '#edeade';
+  const defaults = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { grid: { color: gridColor }, ticks: { font: { family: 'DM Mono', size: 10 }, color: '#7a7568', maxRotation: 0, maxTicksLimit: 6 }},
+      y: { grid: { color: gridColor }, ticks: { font: { family: 'DM Mono', size: 10 }, color: '#7a7568' }}
+    }
+  };
+
+  // ASX 200 chart
+  if (d.asx200?.history?.length) {
+    const ctx = document.getElementById('chart-asx');
+    if (ctx) {
+      const labels = d.asx200.history.map(p => p.date);
+      const values = d.asx200.history.map(p => p.close);
+      const isUp = values[values.length-1] >= values[0];
+      charts.asx = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [{
+            data: values,
+            borderColor: isUp ? '#1a7a4a' : '#c23a3a',
+            backgroundColor: isUp ? 'rgba(26,122,74,.08)' : 'rgba(194,58,58,.08)',
+            fill: true, tension: .3, pointRadius: 0, borderWidth: 2
+          }]
+        },
+        options: defaults
+      });
+    }
+  }
+
+  // AUD/USD chart
+  if (d.audusd?.history?.length) {
+    const ctx = document.getElementById('chart-aud');
+    if (ctx) {
+      const labels = d.audusd.history.map(p => p.date);
+      const values = d.audusd.history.map(p => p.close);
+      const isUp = values[values.length-1] >= values[0];
+      charts.aud = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [{
+            data: values,
+            borderColor: isUp ? '#1a7a4a' : '#c23a3a',
+            backgroundColor: isUp ? 'rgba(26,122,74,.08)' : 'rgba(194,58,58,.08)',
+            fill: true, tension: .3, pointRadius: 0, borderWidth: 2
+          }]
+        },
+        options: defaults
+      });
+    }
+  }
+}
+
+async function loadData() {
+  if (loading) return;
+  loading = true;
+  const btn = document.getElementById('refresh-btn');
+  btn.classList.add('spinning');
+
+  try {
+    const base = window.location.pathname.replace(/[^/]*$/, '');
+    const res = await fetch(base + 'finance-data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+
+    financeData = await res.json();
+
+    if (financeData.fetchedAt) {
+      const fetched = new Date(financeData.fetchedAt);
+      document.getElementById('last-updated').textContent =
+        'Updated ' + fetched.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})
+        + ' · ' + fetched.toLocaleDateString([], {day:'numeric',month:'short'});
+    }
+
+    renderDashboard(financeData);
+
+  } catch(e) {
+    document.getElementById('dashboard').innerHTML =
+      '<div class="error-box">'
+      + '<h3>Waiting for first data fetch</h3>'
+      + '<p>Go to your repo → <strong>Actions</strong> tab → <strong>Fetch Finance Data</strong> → <strong>Run workflow</strong>.</p>'
+      + '<p style="margin-top:8px;font-size:12px;opacity:.7">Error: ' + escapeHTML(e.message) + '</p>'
+      + '</div>';
+  }
+
+  btn.classList.remove('spinning');
+  loading = false;
+}
+
+loadData();
+</script>
+</body>
+</html>
