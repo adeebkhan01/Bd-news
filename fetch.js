@@ -182,8 +182,19 @@ function claudeComplete(systemPrompt, userPrompt) {
       var data = ''; res.setEncoding('utf8');
       res.on('data', function(c) { data += c; });
       res.on('end', function() {
-        try { var json=JSON.parse(data); resolve(json.content&&json.content[0]?json.content[0].text:''); }
-        catch(e) { reject(e); }
+        if (res.statusCode !== 200) {
+          return reject(new Error('Claude API error (' + res.statusCode + '): ' + data.slice(0, 300)));
+        }
+        try {
+          var json = JSON.parse(data);
+          if (json.type === 'error') {
+            return reject(new Error('Claude API: ' + (json.error && json.error.message || data.slice(0, 300))));
+          }
+          if (!json.content || !json.content[0] || !json.content[0].text) {
+            return reject(new Error('Claude API returned empty content'));
+          }
+          resolve(json.content[0].text);
+        } catch(e) { reject(e); }
       });
     });
     req.on('error', reject);
