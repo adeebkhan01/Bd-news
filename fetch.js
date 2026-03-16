@@ -193,58 +193,40 @@ function claudeComplete(systemPrompt, userPrompt) {
   });
 }
 
-async function generatePageSummary(articles) {
-  if (!ANTHROPIC_API_KEY) return null;
-  console.log('Generating page summary...');
-  var titles = articles.slice(0,40).map(function(a,i){ return (i+1)+'. '+a.title; }).join('\n');
-  try {
-    return await claudeComplete(
-      'You are a concise news briefing editor covering Bangladesh. Write in plain prose, no bullet points, no markdown.',
-      'Here are the top headlines from Bangladesh news sources today:\n\n'+titles+'\n\nWrite a 3-4 sentence briefing summarising the key themes and most significant stories. Be direct and informative.'
-    );
-  } catch(e) { console.error('Page summary failed:', e.message); return null; }
-}
-
-// Process only NEW articles that don't already have AI fields
-async function enrichNewArticles(newArticles) {
-  if (!ANTHROPIC_API_KEY || !newArticles.length) return;
-  console.log('Generating AI summaries + Bangla translations for', newArticles.length, 'new articles...');
+// Translate articles to Bangla
+async function translateArticles(articles) {
+  if (!ANTHROPIC_API_KEY || !articles.length) return;
+  console.log('Translating', articles.length, 'articles to Bangla...');
   var BATCH = 5;
-  for (var i=0; i<newArticles.length; i+=BATCH) {
-    await Promise.all(newArticles.slice(i,i+BATCH).map(async function(a) {
+  for (var i=0; i<articles.length; i+=BATCH) {
+    await Promise.all(articles.slice(i,i+BATCH).map(async function(a) {
       try {
         var result = await claudeComplete(
-          'You are a news analyst who also translates to Bengali (Bangla). Be concise. Respond ONLY with valid JSON, no markdown, no explanation.',
-          'Article title: '+a.title+'\nDescription: '+(a.desc||'')+'\n\n'
-          + 'Return a JSON object with exactly these four fields:\n'
-          + '{"summary": "one sentence summary of the article", '
-          + '"opinion": "one sentence analytical opinion on its significance", '
-          + '"titleBn": "Bengali translation of the title", '
+          'You are a Bengali (Bangla) translator. Translate the given English news text to Bengali. Respond ONLY with valid JSON, no markdown, no explanation.',
+          'Title: '+a.title+'\nDescription: '+(a.desc||'')+'\n\n'
+          + 'Return a JSON object with exactly these fields:\n'
+          + '{"titleBn": "Bengali translation of the title", '
           + '"descBn": "Bengali translation of the description (or empty string if no description)"}'
         );
-        // Strip any markdown fences Claude may have added
         var clean = result.replace(/^```[a-z]*\n?/i,'').replace(/```$/,'').trim();
-        // Find the first { and last } to extract just the JSON object
         var start = clean.indexOf('{');
         var end   = clean.lastIndexOf('}');
         if (start === -1 || end === -1) throw new Error('No JSON object found in response');
         var parsed = JSON.parse(clean.slice(start, end + 1));
-        a.aiSummary  = (parsed.summary || '') + (parsed.opinion ? '\n' + parsed.opinion : '');
-        a.titleBn    = parsed.titleBn  || null;
-        a.descBn     = parsed.descBn   || '';
+        a.titleBn = parsed.titleBn || null;
+        a.descBn  = parsed.descBn  || '';
       } catch(e) {
-        console.error('  AI enrichment failed for "' + a.title.slice(0,40) + '":', e.message);
-        a.aiSummary = null;
-        a.titleBn   = null;
-        a.descBn    = null;
+        console.error('  Translation failed for "' + a.title.slice(0,40) + '":', e.message);
+        a.titleBn = null;
+        a.descBn  = null;
       }
     }));
-    if (i+BATCH < newArticles.length) await new Promise(function(r){ setTimeout(r,500); });
+    if (i+BATCH < articles.length) await new Promise(function(r){ setTimeout(r,500); });
   }
 }
 
 async function main() {
-  if (!ANTHROPIC_API_KEY) console.warn('Warning: ANTHROPIC_API_KEY not set — AI features will be skipped');
+  if (!ANTHROPIC_API_KEY) console.warn('Warning: ANTHROPIC_API_KEY not set — Bangla translations will be skipped');
 
   // ── Load existing data.json ──
   var existingArticles = [];
@@ -277,25 +259,20 @@ async function main() {
     } catch(e) { console.error('  Failed:', e.message); }
   }
 
-  // ── Also re-enrich existing articles that have null titleBn (from before AI was working) ──
-  var needsEnrichment = existingArticles.filter(function(a) { return a.titleBn === null || a.titleBn === undefined; });
-  console.log(freshArticles.length, 'new articles,', needsEnrichment.length, 'existing articles need AI enrichment');
+  // ── Translate articles missing Bangla text ──
+  var needsTranslation = existingArticles.filter(function(a) { return a.titleBn === null || a.titleBn === undefined; });
+  console.log(freshArticles.length, 'new articles,', needsTranslation.length, 'existing articles need translation');
 
-  // ── Enrich: new articles + existing ones missing translations ──
-  var toEnrich = freshArticles.concat(needsEnrichment);
+  var toTranslate = freshArticles.concat(needsTranslation);
   await enrichImages(freshArticles);
-  await enrichNewArticles(toEnrich);
+  await translateArticles(toTranslate);
 
-  // ── Merge: new articles + existing (already enriched) ──
+  // ── Merge: new articles + existing ──
   var allArticles = freshArticles.concat(existingArticles);
   allArticles.sort(function(a,b){ return (parseDate(b.pubDate)||0)-(parseDate(a.pubDate)||0); });
 
-  // ── Page summary always regenerated from latest headlines ──
-  var pageSummary = await generatePageSummary(allArticles);
-
   var output = {
     fetchedAt: new Date().toISOString(),
-    summary:   pageSummary,
     sources:   UNIQUE_SOURCES,
     articles:  allArticles
   };
