@@ -192,17 +192,18 @@ function escapeHTML(str) {
   );
 }
 
-// Wrap matched keywords in a highlight span
+function highlight(text, query) {
+  if (!query) return text;
+  var escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return text.replace(new RegExp('(' + escaped + ')', 'gi'), '<span class="highlight">$1</span>');
+}
+
 function toggleLang() {
   langMode = langMode === 'en' ? 'bn' : 'en';
   var btn = document.getElementById('lang-toggle');
   btn.textContent = langMode === 'bn' ? 'English' : 'বাংলা';
   btn.classList.toggle('bn', langMode === 'bn');
   renderArticles();
-}
-  if (!query) return text;
-  var escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  return text.replace(new RegExp('(' + escaped + ')', 'gi'), '<span class="highlight">$1</span>');
 }
 
 function timeAgo(dateStr) {
