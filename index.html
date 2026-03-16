@@ -106,6 +106,13 @@ footer{margin-top:3rem;padding:1.5rem;text-align:center;font-size:.75rem;color:v
   .content-wrap{grid-template-columns:1fr}
   .sidebar{position:static;border-bottom:1px solid var(--border);padding-bottom:1rem;margin-bottom:.5rem}
 }
+@media(max-width:480px){
+  .masthead-inner{flex-wrap:wrap;height:auto;padding:.5rem 0}
+  .logo{font-size:1.1rem}
+  .masthead-right{gap:.5rem}
+  .last-updated{display:none}
+  #refresh-btn,#lang-toggle{font-size:.72rem;padding:.3rem .6rem}
+}
 
 .page-summary{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1rem 1.25rem;margin-bottom:1.25rem;font-size:.875rem;line-height:1.7;color:var(--text)}
 .page-summary-label{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--green);margin-bottom:.4rem}
