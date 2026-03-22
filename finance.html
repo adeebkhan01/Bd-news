@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Australian Economy Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f5f2eb;--surface:#edeade;--card:#ffffff;--border:#ddd9cf;
+  --green:#1a7a4a;--green-lt:#22915c;--green-dim:#e6f2ec;
+  --red:#c23a3a;--red-dim:#fdf0f0;
+  --text:#1a1a18;--muted:#7a7568;
+  --blue:#2563eb;--blue-dim:#eff6ff;
+  --gold:#b8860b;--gold-dim:#fef9ee;
+  --purple:#7c3aed;--purple-dim:#f3f0f9;
+  --serif:'Playfair Display',Georgia,serif;
+  --sans:'DM Sans',system-ui,sans-serif;
+  --mono:'DM Mono',monospace;
+  --radius:10px;
+  --shadow:0 1px 3px rgba(0,0,0,.04);
+  --shadow-lg:0 8px 24px rgba(0,0,0,.08);
+}
+
+/* Dark mode */
+.dark{
+  --bg:#141414;--surface:#1e1e1e;--card:#242424;--border:#333;
+  --text:#e8e6e1;--muted:#8a8578;
+  --green-dim:#1a2e22;--red-dim:#2e1a1a;--blue-dim:#1a1e2e;
+  --gold-dim:#2e2a1a;--purple-dim:#231a2e;
+  --shadow:0 1px 3px rgba(0,0,0,.2);
+  --shadow-lg:0 8px 24px rgba(0,0,0,.3);
+}
+
+html{font-size:16px;scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:300;min-height:100vh;transition:background .3s,color .3s}
+
+/* Masthead */
+.masthead{border-bottom:1px solid var(--border);background:var(--surface);padding:0 1.5rem;position:sticky;top:0;z-index:100;transition:background .3s,border-color .3s}
+.masthead-inner{max-width:1360px;margin:0 auto;display:flex;align-items:center;gap:.75rem;height:54px}
+.logo{font-family:var(--serif);font-size:1.2rem;font-weight:700;color:var(--green);letter-spacing:-0.02em;display:flex;align-items:center;gap:.5rem;text-decoration:none}
+.au-flag{width:28px;height:16px;border-radius:2px;overflow:hidden;flex-shrink:0;position:relative;background:#00008B;border:1px solid rgba(0,0,0,.1)}
+.au-flag svg{width:100%;height:100%}
+.nav-links{display:flex;gap:.35rem;margin-left:.5rem}
+.nav-links a{font-size:.75rem;font-weight:500;color:var(--muted);text-decoration:none;padding:.25rem .6rem;border-radius:6px;transition:all .15s}
+.nav-links a:hover,.nav-links a.active{color:var(--green);background:var(--green-dim)}
+.masthead-right{margin-left:auto;display:flex;align-items:center;gap:.6rem}
+.last-updated{font-size:.68rem;color:var(--muted);font-family:var(--mono)}
+.btn-icon{width:32px;height:32px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--muted);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s}
+.btn-icon:hover{border-color:var(--green);color:var(--green)}
+#refresh-btn{font-size:.75rem;font-weight:500;background:var(--green);color:#fff;border:1px solid var(--green);border-radius:6px;padding:.3rem .65rem;cursor:pointer;display:flex;align-items:center;gap:.35rem;transition:background .15s}
+#refresh-btn:hover{background:#155f39}
+#refresh-btn.spinning svg{animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Market ticker */
+.ticker{background:var(--card);border-bottom:1px solid var(--border);padding:.5rem 1.5rem;overflow:hidden;transition:background .3s}
+.ticker-inner{max-width:1360px;margin:0 auto;display:flex;gap:1.5rem;align-items:center;font-size:.72rem;font-family:var(--mono);overflow-x:auto;scrollbar-width:none}
+.ticker-inner::-webkit-scrollbar{display:none}
+.ticker-item{display:flex;align-items:center;gap:.4rem;white-space:nowrap;flex-shrink:0}
+.ticker-item .name{color:var(--muted);font-weight:500}
+.ticker-item .val{font-weight:500;color:var(--text)}
+.ticker-item .chg.up{color:var(--green)}
+.ticker-item .chg.down{color:var(--red)}
+.ticker-sep{width:1px;height:14px;background:var(--border);flex-shrink:0}
+
+/* Layout */
+.dashboard{max-width:1360px;margin:0 auto;padding:1.25rem 1.5rem}
+.section-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:.85rem}
+.section-title{font-family:var(--serif);font-size:1.05rem;font-weight:600;color:var(--text);display:flex;align-items:center;gap:.5rem}
+.section-title .dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0}
+.section-subtitle{font-size:.7rem;color:var(--muted);font-family:var(--mono)}
+
+/* Hero metrics */
+.hero-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:.65rem;margin-bottom:1.25rem}
+.metric-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:.85rem 1rem;transition:all .2s;position:relative;overflow:hidden;box-shadow:var(--shadow)}
+.metric-card:hover{border-color:var(--green-lt);transform:translateY(-1px);box-shadow:var(--shadow-lg)}
+.metric-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:.35rem}
+.metric-label{font-size:.68rem;font-weight:500;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);display:flex;align-items:center;gap:.3rem}
+.metric-icon{width:18px;height:18px;border-radius:5px;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;flex-shrink:0}
+.metric-spark{width:60px;height:24px}
+.metric-value{font-family:var(--serif);font-size:1.5rem;font-weight:700;color:var(--text);line-height:1.15;letter-spacing:-0.02em}
+.metric-bottom{display:flex;align-items:center;gap:.5rem;margin-top:.2rem}
+.metric-change{font-size:.72rem;font-weight:500;display:flex;align-items:center;gap:.2rem}
+.metric-change.up{color:var(--green)}
+.metric-change.down{color:var(--red)}
+.metric-change.neutral{color:var(--muted)}
+.metric-sub{font-size:.62rem;color:var(--muted);font-family:var(--mono)}
+.metric-card .accent-bar{position:absolute;bottom:0;left:0;right:0;height:2px}
+
+/* Charts */
+.charts-row{display:grid;grid-template-columns:1fr 1fr;gap:.65rem;margin-bottom:1.25rem}
+.chart-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:1rem;box-shadow:var(--shadow)}
+.chart-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:.65rem}
+.chart-header h3{font-family:var(--serif);font-size:.9rem;font-weight:600}
+.chart-range{display:flex;gap:.2rem}
+.chart-range button{font-size:.62rem;font-weight:500;padding:.2rem .45rem;border-radius:4px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:all .15s;font-family:var(--mono)}
+.chart-range button:hover{border-color:var(--green);color:var(--green)}
+.chart-range button.active{background:var(--green);border-color:var(--green);color:#fff}
+.chart-wrap{position:relative;height:200px}
+@media(max-width:800px){.charts-row{grid-template-columns:1fr}}
+
+/* Commodities */
+.commodities-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:.65rem;margin-bottom:1.25rem}
+.commodity-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:.75rem .85rem;transition:all .2s;box-shadow:var(--shadow)}
+.commodity-card:hover{border-color:var(--gold);transform:translateY(-1px)}
+.commodity-top{display:flex;align-items:center;gap:.5rem;margin-bottom:.4rem}
+.commodity-icon{width:30px;height:30px;border-radius:7px;display:flex;align-items:center;justify-content:center;font-size:.9rem;flex-shrink:0}
+.commodity-name{font-size:.65rem;font-weight:500;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);line-height:1.2}
+.commodity-price{font-family:var(--mono);font-size:.95rem;font-weight:500;margin-bottom:.15rem}
+.commodity-change{font-size:.68rem;font-weight:500}
+.commodity-change.up{color:var(--green)}
+.commodity-change.down{color:var(--red)}
+
+/* Indicators */
+.indicators-wrap{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;margin-bottom:1.25rem;box-shadow:var(--shadow)}
+.indicators-tabs{display:flex;gap:0;border-bottom:1px solid var(--border);background:var(--surface);padding:0 .5rem}
+.tab-btn{font-size:.7rem;font-weight:500;padding:.6rem .8rem;border:none;background:transparent;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;transition:all .15s;font-family:var(--sans)}
+.tab-btn:hover{color:var(--text)}
+.tab-btn.active{color:var(--green);border-bottom-color:var(--green)}
+.indicators-table{width:100%;border-collapse:collapse}
+.indicators-table th{font-size:.65rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:.55rem .85rem;text-align:left;border-bottom:1px solid var(--border);background:var(--surface)}
+.indicators-table td{padding:.55rem .85rem;font-size:.8rem;border-bottom:1px solid var(--border);transition:background .15s}
+.indicators-table tr:last-child td{border-bottom:none}
+.indicators-table tr:hover td{background:var(--surface)}
+.indicator-name{font-weight:500;display:flex;align-items:center;gap:.4rem}
+.indicator-badge{font-size:.55rem;padding:.12rem .35rem;border-radius:3px;font-weight:600;letter-spacing:.02em;text-transform:uppercase}
+
+/* News */
+.news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:.65rem;margin-bottom:1.25rem}
+.news-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:.85rem 1rem;text-decoration:none;color:inherit;transition:all .2s;box-shadow:var(--shadow)}
+.news-card:hover{border-color:var(--blue);transform:translateY(-1px);box-shadow:var(--shadow-lg)}
+.news-meta{display:flex;align-items:center;justify-content:space-between;margin-bottom:.35rem}
+.news-source{font-size:.6rem;font-weight:600;text-transform:uppercase;letter-spacing:.05em;padding:.15rem .4rem;border-radius:3px;background:var(--blue-dim);color:var(--blue)}
+.news-time{font-size:.62rem;color:var(--muted);font-family:var(--mono)}
+.news-title{font-family:var(--serif);font-size:.88rem;font-weight:600;line-height:1.4;margin-bottom:.3rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news-snippet{font-size:.74rem;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+/* Loading / Error */
+.loading-overlay{text-align:center;padding:4rem 1rem;color:var(--muted)}
+.loading-overlay h3{font-family:var(--serif);color:var(--text);margin-bottom:.5rem}
+.loading-spinner{width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 1rem}
+.error-box{background:var(--red-dim);border:1px solid #e8b4b4;border-radius:var(--radius);padding:1.5rem;color:#8b2020;text-align:center;margin:2rem 0}
+.error-box h3{font-family:var(--serif);margin-bottom:.5rem;font-size:1.1rem}
+
+/* Footer */
+footer{margin-top:1.5rem;padding:1.2rem 1.5rem;text-align:center;font-size:.68rem;color:var(--muted);border-top:1px solid var(--border);transition:border-color .3s}
+footer a{color:var(--green);text-decoration:none}
+footer a:hover{text-decoration:underline}
+
+/* Responsive */
+@media(max-width:1100px){
+  .hero-grid{grid-template-columns:repeat(2,1fr)}
+  .commodities-grid{grid-template-columns:repeat(3,1fr)}
+}
+@media(max-width:768px){
+  .hero-grid{grid-template-columns:repeat(2,1fr)}
+  .commodities-grid{grid-template-columns:repeat(2,1fr)}
+  .metric-value{font-size:1.2rem}
+  .dashboard{padding:1rem}
+  .nav-links{display:none}
+  .ticker-inner{gap:1rem}
+}
+@media(max-width:480px){
+  .hero-grid{grid-template-columns:1fr}
+  .commodities-grid{grid-template-columns:1fr 1fr}
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="logo" href="finance.html">
+      <div class="au-flag">
+        <svg viewBox="0 0 28 16" xmlns="http://www.w3.org/2000/svg">
+          <rect width="28" height="16" fill="#00008B"/>
+          <!-- Union Jack simplified -->
+          <line x1="0" y1="0" x2="13" y2="8" stroke="#fff" stroke-width="1.5"/>
+          <line x1="13" y1="0" x2="0" y2="8" stroke="#fff" stroke-width="1.5"/>
+          <line x1="0" y1="4" x2="13" y2="4" stroke="#fff" stroke-width="2.5"/>
+          <line x1="6.5" y1="0" x2="6.5" y2="8" stroke="#fff" stroke-width="2.5"/>
+          <line x1="0" y1="4" x2="13" y2="4" stroke="#C8102E" stroke-width="1.2"/>
+          <line x1="6.5" y1="0" x2="6.5" y2="8" stroke="#C8102E" stroke-width="1.2"/>
+          <!-- Commonwealth Star -->
+          <text x="6.5" y="13.5" text-anchor="middle" fill="#fff" font-size="6" font-weight="bold">&#9733;</text>
+          <!-- Southern Cross -->
+          <text x="20" y="4" text-anchor="middle" fill="#fff" font-size="3.5">&#9733;</text>
+          <text x="23" y="7" text-anchor="middle" fill="#fff" font-size="3">&#9733;</text>
+          <text x="20" y="11" text-anchor="middle" fill="#fff" font-size="3.5">&#9733;</text>
+          <text x="17" y="8" text-anchor="middle" fill="#fff" font-size="3">&#9733;</text>
+          <text x="21.5" y="9" text-anchor="middle" fill="#fff" font-size="2">&#9733;</text>
+        </svg>
+      </div>
+      AU Economy
+    </a>
+    <nav class="nav-links">
+      <a href="finance.html" class="active">Dashboard</a>
+      <a href="index.html">BD News</a>
+    </nav>
+    <div class="masthead-right">
+      <span class="last-updated" id="last-updated">—</span>
+      <button class="btn-icon" id="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" id="theme-icon">
+          <circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+        </svg>
+      </button>
+      <button id="refresh-btn" onclick="loadData()">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <polyline points="23 4 23 10 17 10"/>
+          <polyline points="1 20 1 14 7 14"/>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+        </svg>
+        Refresh
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="ticker" id="ticker"></div>
+
+<div class="dashboard" id="dashboard">
+  <div class="loading-overlay">
+    <div class="loading-spinner"></div>
+    <h3>Loading Australian Economy Data</h3>
+    <p style="font-size:.82rem">Fetching latest market & economic indicators</p>
+  </div>
+</div>
+
+<footer>
+  Australian Economy Dashboard · Data via RBA, ABS & Yahoo Finance · Refreshed every 3 hours · <a href="index.html">Bangladesh News</a>
+</footer>
+
+<script>
+let financeData = null;
+let charts = {};
+let loading = false;
+let activeTab = 'all';
+
+// ── Theme ──
+function toggleTheme() {
+  document.body.classList.toggle('dark');
+  const isDark = document.body.classList.contains('dark');
+  localStorage.setItem('au-theme', isDark ? 'dark' : 'light');
+  document.getElementById('theme-icon').innerHTML = isDark
+    ? '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>'
+    : '<circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>';
+  // Re-render charts with updated colors
+  if (financeData) renderCharts(financeData);
+}
+if (localStorage.getItem('au-theme') === 'dark') {
+  document.body.classList.add('dark');
+  document.getElementById('theme-icon').innerHTML = '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>';
+}
+
+// ── Formatting ──
+function fmtNum(n) {
+  if (n == null || isNaN(n)) return '—';
+  return n.toLocaleString('en-AU');
+}
+
+function fmt(n, decimals, prefix, suffix) {
+  if (n == null || isNaN(n)) return '—';
+  prefix = prefix || ''; suffix = suffix || '';
+  const abs = Math.abs(n);
+  if (abs >= 1e12) return prefix + (n/1e12).toFixed(1) + 'T' + suffix;
+  if (abs >= 1e9) return prefix + (n/1e9).toFixed(1) + 'B' + suffix;
+  if (abs >= 1e6) return prefix + (n/1e6).toFixed(1) + 'M' + suffix;
+  return prefix + n.toLocaleString('en-AU', {minimumFractionDigits: decimals, maximumFractionDigits: decimals}) + suffix;
+}
+
+function changeHTML(val, suffix) {
+  if (val == null || isNaN(val)) return '<span class="metric-change neutral">—</span>';
+  suffix = suffix || '';
+  const cls = val > 0 ? 'up' : val < 0 ? 'down' : 'neutral';
+  const arrow = val > 0 ? '&#9650;' : val < 0 ? '&#9660;' : '&#8212;';
+  return '<span class="metric-change ' + cls + '">' + arrow + ' ' + Math.abs(val).toFixed(2) + suffix + '</span>';
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return '';
+  const t = Date.parse(dateStr);
+  if (!t) return '';
+  const diff = (Date.now() - t) / 1000;
+  if (diff < 60) return 'just now';
+  if (diff < 3600) return Math.floor(diff/60) + 'm ago';
+  if (diff < 86400) return Math.floor(diff/3600) + 'h ago';
+  return Math.floor(diff/86400) + 'd ago';
+}
+
+function escapeHTML(str) {
+  return String(str||'').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'})[m]);
+}
+
+// ── Sparkline (mini canvas) ──
+function drawSparkline(canvas, data, color) {
+  if (!canvas || !data || data.length < 2) return;
+  const ctx = canvas.getContext('2d');
+  const w = canvas.width = canvas.offsetWidth * 2;
+  const h = canvas.height = canvas.offsetHeight * 2;
+  ctx.scale(2, 2);
+  const dw = canvas.offsetWidth, dh = canvas.offsetHeight;
+  const min = Math.min(...data), max = Math.max(...data);
+  const range = max - min || 1;
+  const step = dw / (data.length - 1);
+  ctx.beginPath();
+  data.forEach((v, i) => {
+    const x = i * step;
+    const y = dh - ((v - min) / range) * (dh - 4) - 2;
+    i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+  });
+  ctx.strokeStyle = color;
+  ctx.lineWidth = 1.5;
+  ctx.lineJoin = 'round';
+  ctx.stroke();
+}
+
+// ── Ticker ──
+function renderTicker(d) {
+  const items = [];
+  if (d.asx200?.value != null) items.push({name:'ASX 200', val: fmtNum(Math.round(d.asx200.value)), chg: d.asx200.changePercent});
+  if (d.audusd?.value != null) items.push({name:'AUD/USD', val: d.audusd.value.toFixed(4), chg: d.audusd.changePercent});
+  if (d.rbaRate?.value != null) items.push({name:'RBA Rate', val: d.rbaRate.value.toFixed(2) + '%', chg: null});
+  (d.commodities||[]).forEach(c => items.push({name: c.name, val: '$' + fmtNum(c.price), chg: c.changePercent}));
+
+  const el = document.getElementById('ticker');
+  el.innerHTML = '<div class="ticker-inner">' + items.map((item, i) => {
+    const cls = (item.chg||0) >= 0 ? 'up' : 'down';
+    const chgStr = item.chg != null ? '<span class="chg ' + cls + '">' + (item.chg >= 0 ? '+' : '') + item.chg.toFixed(2) + '%</span>' : '';
+    return (i > 0 ? '<span class="ticker-sep"></span>' : '')
+      + '<span class="ticker-item"><span class="name">' + item.name + '</span><span class="val">' + item.val + '</span>' + chgStr + '</span>';
+  }).join('') + '</div>';
+}
+
+// ── Main render ──
+function renderDashboard(d) {
+  const dash = document.getElementById('dashboard');
+  let html = '';
+
+  // Section: Key Indicators
+  html += '<div class="section-header"><div class="section-title"><span class="dot"></span>Key Indicators</div>'
+    + '<div class="section-subtitle">As of ' + escapeHTML(d.asx200?.asOf || d.fetchedAt?.split('T')[0] || '') + '</div></div>';
+  html += '<div class="hero-grid">';
+
+  const metrics = [
+    { label:'ASX 200', icon:'&#9652;', iconBg:'var(--green-dim)', color:'var(--green)',
+      value: d.asx200?.value != null ? fmtNum(Math.round(d.asx200.value)) : '—',
+      change: changeHTML(d.asx200?.changePercent, '%'), sub: 'S&P/ASX 200 Index',
+      sparkData: d.asx200?.history?.map(p=>p.close), sparkColor: (d.asx200?.changePercent||0)>=0?'#1a7a4a':'#c23a3a' },
+    { label:'AUD / USD', icon:'$', iconBg:'var(--blue-dim)', color:'var(--blue)',
+      value: d.audusd?.value != null ? d.audusd.value.toFixed(4) : '—',
+      change: changeHTML(d.audusd?.changePercent, '%'), sub: 'Exchange Rate',
+      sparkData: d.audusd?.history?.map(p=>p.close), sparkColor: (d.audusd?.changePercent||0)>=0?'#1a7a4a':'#c23a3a' },
+    { label:'RBA Cash Rate', icon:'%', iconBg:'var(--gold-dim)', color:'var(--gold)',
+      value: d.rbaRate?.value != null ? d.rbaRate.value.toFixed(2)+'%' : '—',
+      change: changeHTML(d.rbaRate?.change, ' bps'), sub: escapeHTML(d.rbaRate?.asOf || '') },
+    { label:'Inflation (CPI)', icon:'&#8593;', iconBg:'var(--red-dim)', color:'var(--red)',
+      value: d.cpi?.value != null ? d.cpi.value.toFixed(1)+'%' : '—',
+      change: changeHTML(d.cpi?.change, '%'), sub: escapeHTML(d.cpi?.period||'Annual') },
+    { label:'GDP Growth', icon:'G', iconBg:'var(--green-dim)', color:'var(--green)',
+      value: d.gdp?.value != null ? d.gdp.value.toFixed(1)+'%' : '—',
+      change: changeHTML(d.gdp?.change, '%'), sub: escapeHTML(d.gdp?.period||'Annual') },
+    { label:'Unemployment', icon:'U', iconBg:'var(--blue-dim)', color:'var(--blue)',
+      value: d.unemployment?.value != null ? d.unemployment.value.toFixed(1)+'%' : '—',
+      change: changeHTML(d.unemployment?.change, '%'), sub: escapeHTML(d.unemployment?.period||'') },
+    { label:'Housing (Median)', icon:'&#8962;', iconBg:'var(--gold-dim)', color:'var(--gold)',
+      value: d.housing?.medianPrice != null ? '$'+fmtNum(d.housing.medianPrice) : '—',
+      change: changeHTML(d.housing?.changePercent, '%'), sub: escapeHTML(d.housing?.city||'National') },
+    { label:'Consumer Confidence', icon:'C', iconBg:'var(--purple-dim)', color:'var(--purple)',
+      value: d.consumerConfidence?.value != null ? d.consumerConfidence.value.toFixed(1) : '—',
+      change: changeHTML(d.consumerConfidence?.change, ''), sub: escapeHTML(d.consumerConfidence?.period||'') }
+  ];
+
+  metrics.forEach((m, i) => {
+    html += '<div class="metric-card">'
+      + '<div class="metric-top">'
+      + '<div class="metric-label"><span class="metric-icon" style="background:' + m.iconBg + ';color:' + m.color + '">' + m.icon + '</span>' + m.label + '</div>'
+      + (m.sparkData ? '<canvas class="metric-spark" data-spark="' + i + '"></canvas>' : '')
+      + '</div>'
+      + '<div class="metric-value">' + m.value + '</div>'
+      + '<div class="metric-bottom">' + m.change + '<span class="metric-sub">' + m.sub + '</span></div>'
+      + '<div class="accent-bar" style="background:' + m.color + '"></div>'
+      + '</div>';
+  });
+  html += '</div>';
+
+  // Section: Charts
+  html += '<div class="section-header"><div class="section-title"><span class="dot"></span>Market Trends</div></div>';
+  html += '<div class="charts-row">'
+    + '<div class="chart-card"><div class="chart-header"><h3>S&P/ASX 200</h3><div class="chart-range"><button class="active">1M</button></div></div><div class="chart-wrap"><canvas id="chart-asx"></canvas></div></div>'
+    + '<div class="chart-card"><div class="chart-header"><h3>AUD/USD Exchange Rate</h3><div class="chart-range"><button class="active">1M</button></div></div><div class="chart-wrap"><canvas id="chart-aud"></canvas></div></div>'
+    + '</div>';
+
+  // Section: Commodities
+  html += '<div class="section-header"><div class="section-title"><span class="dot"></span>Commodities & Mining</div></div>';
+  html += '<div class="commodities-grid">';
+  (d.commodities||[]).forEach(c => {
+    const cls = (c.changePercent||0) >= 0 ? 'up' : 'down';
+    html += '<div class="commodity-card">'
+      + '<div class="commodity-top"><div class="commodity-icon" style="background:' + (c.iconBg||'#fef9ee') + '">' + (c.icon||'') + '</div>'
+      + '<div class="commodity-name">' + escapeHTML(c.name) + '</div></div>'
+      + '<div class="commodity-price">$' + fmtNum(c.price) + '</div>'
+      + '<div class="commodity-change ' + cls + '">' + (c.changePercent>=0?'&#9650;':'&#9660;') + ' ' + Math.abs(c.changePercent||0).toFixed(2) + '%</div>'
+      + '</div>';
+  });
+  html += '</div>';
+
+  // Section: Economic Indicators
+  html += '<div class="section-header"><div class="section-title"><span class="dot"></span>Economic Indicators</div></div>';
+  html += '<div class="indicators-wrap">';
+  html += '<div class="indicators-tabs">'
+    + '<button class="tab-btn active" onclick="filterIndicators(\'all\',this)">All</button>'
+    + '<button class="tab-btn" onclick="filterIndicators(\'growth\',this)">Growth</button>'
+    + '<button class="tab-btn" onclick="filterIndicators(\'prices\',this)">Prices</button>'
+    + '<button class="tab-btn" onclick="filterIndicators(\'labour\',this)">Labour</button>'
+    + '<button class="tab-btn" onclick="filterIndicators(\'trade\',this)">Trade</button>'
+    + '</div>';
+  html += '<table class="indicators-table"><thead><tr>'
+    + '<th>Indicator</th><th>Value</th><th>Previous</th><th>Change</th><th>Period</th>'
+    + '</tr></thead><tbody id="indicators-body">';
+  (d.indicators||[]).forEach(ind => {
+    html += indicatorRow(ind);
+  });
+  html += '</tbody></table></div>';
+
+  // Section: News
+  if (d.news && d.news.length) {
+    html += '<div class="section-header"><div class="section-title"><span class="dot"></span>Financial News</div>'
+      + '<div class="section-subtitle">' + d.news.length + ' articles</div></div>';
+    html += '<div class="news-grid">';
+    d.news.forEach(n => {
+      html += '<a class="news-card" href="' + escapeHTML(n.link) + '" target="_blank" rel="noopener">'
+        + '<div class="news-meta"><span class="news-source">' + escapeHTML(n.source) + '</span>'
+        + '<span class="news-time">' + timeAgo(n.pubDate) + '</span></div>'
+        + '<div class="news-title">' + escapeHTML(n.title) + '</div>'
+        + (n.snippet ? '<div class="news-snippet">' + escapeHTML(n.snippet) + '</div>' : '')
+        + '</a>';
+    });
+    html += '</div>';
+  }
+
+  dash.innerHTML = html;
+
+  // Draw sparklines
+  metrics.forEach((m, i) => {
+    if (m.sparkData) {
+      const canvas = document.querySelector('[data-spark="' + i + '"]');
+      if (canvas) drawSparkline(canvas, m.sparkData, m.sparkColor);
+    }
+  });
+
+  renderCharts(d);
+}
+
+function indicatorRow(ind) {
+  const cls = (ind.change||0) > 0 ? 'up' : (ind.change||0) < 0 ? 'down' : 'neutral';
+  const badgeColor = ind.category === 'growth' ? 'background:var(--green-dim);color:var(--green)'
+    : ind.category === 'labour' ? 'background:var(--blue-dim);color:var(--blue)'
+    : ind.category === 'prices' ? 'background:var(--gold-dim);color:var(--gold)'
+    : 'background:var(--purple-dim);color:var(--purple)';
+  return '<tr data-cat="' + escapeHTML(ind.category||'') + '">'
+    + '<td><span class="indicator-name"><span class="indicator-badge" style="' + badgeColor + '">' + escapeHTML(ind.category||'').toUpperCase() + '</span>' + escapeHTML(ind.name) + '</span></td>'
+    + '<td style="font-weight:500;font-family:var(--mono)">' + escapeHTML(ind.value) + '</td>'
+    + '<td style="font-family:var(--mono);color:var(--muted)">' + escapeHTML(ind.previous||'—') + '</td>'
+    + '<td><span class="metric-change ' + cls + '" style="font-size:.74rem">'
+      + ((ind.change||0)>0?'&#9650;':(ind.change||0)<0?'&#9660;':'&#8212;')
+      + ' ' + Math.abs(ind.change||0).toFixed(2) + escapeHTML(ind.unit||'') + '</span></td>'
+    + '<td style="font-size:.74rem;color:var(--muted)">' + escapeHTML(ind.period||'') + '</td>'
+    + '</tr>';
+}
+
+function filterIndicators(cat, btn) {
+  activeTab = cat;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('#indicators-body tr').forEach(tr => {
+    tr.style.display = (cat === 'all' || tr.dataset.cat === cat) ? '' : 'none';
+  });
+}
+
+function renderCharts(d) {
+  Object.values(charts).forEach(c => c.destroy && c.destroy());
+  charts = {};
+
+  const isDark = document.body.classList.contains('dark');
+  const gridColor = isDark ? '#333' : '#edeade';
+  const tickColor = isDark ? '#8a8578' : '#7a7568';
+
+  const baseOpts = {
+    responsive: true,
+    maintainAspectRatio: false,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        backgroundColor: isDark ? '#333' : '#fff',
+        titleColor: isDark ? '#e8e6e1' : '#1a1a18',
+        bodyColor: isDark ? '#e8e6e1' : '#1a1a18',
+        borderColor: isDark ? '#444' : '#ddd9cf',
+        borderWidth: 1,
+        padding: 10,
+        titleFont: { family: 'DM Mono', size: 11 },
+        bodyFont: { family: 'DM Mono', size: 12, weight: 500 },
+        displayColors: false,
+        cornerRadius: 6
+      }
+    },
+    scales: {
+      x: { grid: { color: gridColor, drawBorder: false }, ticks: { font: { family: 'DM Mono', size: 9 }, color: tickColor, maxRotation: 0, maxTicksLimit: 6 }},
+      y: { grid: { color: gridColor, drawBorder: false }, ticks: { font: { family: 'DM Mono', size: 9 }, color: tickColor }}
+    }
+  };
+
+  function makeChart(id, historyData) {
+    if (!historyData?.length) return;
+    const ctx = document.getElementById(id);
+    if (!ctx) return;
+    const labels = historyData.map(p => { const d = p.date.split('-'); return d[2]+'/'+d[1]; });
+    const values = historyData.map(p => p.close);
+    const isUp = values[values.length-1] >= values[0];
+    const color = isUp ? '#1a7a4a' : '#c23a3a';
+    const bg = isUp ? 'rgba(26,122,74,.06)' : 'rgba(194,58,58,.06)';
+    return new Chart(ctx, {
+      type: 'line',
+      data: { labels, datasets: [{ data: values, borderColor: color, backgroundColor: bg, fill: true, tension: .35, pointRadius: 0, pointHoverRadius: 4, pointHoverBackgroundColor: color, borderWidth: 2 }] },
+      options: baseOpts
+    });
+  }
+
+  charts.asx = makeChart('chart-asx', d.asx200?.history);
+  charts.aud = makeChart('chart-aud', d.audusd?.history);
+}
+
+async function loadData() {
+  if (loading) return;
+  loading = true;
+  const btn = document.getElementById('refresh-btn');
+  btn.classList.add('spinning');
+
+  try {
+    const base = window.location.pathname.replace(/[^/]*$/, '');
+    const res = await fetch(base + 'finance-data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+
+    financeData = await res.json();
+
+    if (financeData.fetchedAt) {
+      const fetched = new Date(financeData.fetchedAt);
+      document.getElementById('last-updated').textContent =
+        fetched.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})
+        + ' · ' + fetched.toLocaleDateString('en-AU', {day:'numeric',month:'short',year:'numeric'});
+    }
+
+    renderTicker(financeData);
+    renderDashboard(financeData);
+
+  } catch(e) {
+    document.getElementById('dashboard').innerHTML =
+      '<div class="error-box">'
+      + '<h3>Waiting for first data fetch</h3>'
+      + '<p>Go to your repo &#8594; <strong>Actions</strong> tab &#8594; <strong>Fetch Finance Data</strong> &#8594; <strong>Run workflow</strong>.</p>'
+      + '<p style="margin-top:8px;font-size:.72rem;opacity:.7">Error: ' + escapeHTML(e.message) + '</p>'
+      + '</div>';
+  }
+
+  btn.classList.remove('spinning');
+  loading = false;
+}
+
+loadData();
+</script>
+</body>
+</html>
