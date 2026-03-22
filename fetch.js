@@ -258,7 +258,12 @@ async function main() {
     try {
       var existing = JSON.parse(fs.readFileSync('data.json','utf8'));
       existingArticles = (existing.articles || []).filter(function(a) { return isRecent(a.pubDate); });
-      existingArticles.forEach(function(a) { existingByLink[a.link] = true; });
+      existingArticles.forEach(function(a) {
+        // Fix legacy &apos; entities baked into old articles
+        if (a.title) a.title = a.title.replace(/&apos;/g, "'");
+        if (a.desc)  a.desc  = a.desc.replace(/&apos;/g, "'");
+        existingByLink[a.link] = true;
+      });
       console.log('Loaded', existingArticles.length, 'existing articles (after 30-day prune)');
     } catch(e) { console.warn('Could not read existing data.json:', e.message); }
   }
