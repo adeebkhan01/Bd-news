@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-23T19:25:13.748Z",
+  "fetchedAt": "2026-03-23T21:53:29.475Z",
   "asx200": {
     "value": 8365.9,
     "change": -660.1,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.7,
     "change": -0.01,
-    "changePercent": -1.32,
+    "changePercent": -1.43,
     "previousClose": 0.71,
     "asOf": "2026-03-23",
     "history": [
@@ -183,6 +183,10 @@
       {
         "date": "2026-03-23",
         "close": 0.7
+      },
+      {
+        "date": "2026-03-23",
+        "close": 0.7
       }
     ]
   },
@@ -191,9 +195,9 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4411.9,
-      "change": -792.8,
-      "changePercent": -15.23
+      "price": 4410.4,
+      "change": -794.3,
+      "changePercent": -15.26
     },
     {
       "name": "Silver",
@@ -207,17 +211,17 @@
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 87.81,
-      "change": 21.5,
-      "changePercent": 32.42
+      "price": 88.87,
+      "change": 22.56,
+      "changePercent": 34.02
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
       "price": 5.49,
-      "change": -0.28,
-      "changePercent": -4.85
+      "change": -0.29,
+      "changePercent": -4.96
     },
     {
       "name": "BHP Group",
@@ -826,17 +830,31 @@
   ],
   "news": [
     {
-      "title": "The reclusive 43-year-old billionaire owner of OnlyFans dies after cancer battle",
-      "link": "https://www.smh.com.au/business/companies/the-reclusive-43-year-old-billionaire-owner-of-onlyfans-dies-after-cancer-battle-20260324-p5tfjq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Leonid Radvinsky bought a majority stake in the platform in 2018 and turned it into a cultural phenomenon that reshaped the pornography industry.",
-      "pubDate": "Tue, 24 Mar 2026 05:41:22 +1100",
+      "title": "Trump’s post sparks a wild five minutes on markets",
+      "link": "https://www.smh.com.au/business/markets/trump-s-post-sparks-a-wild-five-minutes-on-markets-20260324-p5tpso.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "A post from the president triggered the most volatile trading day on Wall Street since the US-Israeli war on Iran began.",
+      "pubDate": "Tue, 24 Mar 2026 08:39:56 +1100",
       "source": "SMH Business"
+    },
+    {
+      "title": "England's post-Ashes review complete but won't be fully revealed",
+      "link": "https://www.abc.net.au/news/2026-03-24/brendon-mccullum-ben-stokes-keep-jobs-in-england-ashes-review/106489084",
+      "snippet": "",
+      "pubDate": "Mon, 23 Mar 2026 21:02:25 +0000",
+      "source": "ABC News"
     },
     {
       "title": "ASX set to surge, oil tumbles as Trump backs away from Iran threat",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-surge-as-trump-backs-away-from-iran-threat-oil-tumbles-20260324-p5te0x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Relief is flowing through financial markets after President Donald Trump said the United States has talked with Iran about a possible end to their war.",
-      "pubDate": "Tue, 24 Mar 2026 05:11:13 +1100",
+      "pubDate": "Tue, 24 Mar 2026 07:55:27 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "The reclusive 43-year-old billionaire owner of OnlyFans dies after cancer battle",
+      "link": "https://www.smh.com.au/business/companies/the-reclusive-43-year-old-billionaire-owner-of-onlyfans-dies-after-cancer-battle-20260324-p5tfjq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Leonid Radvinsky bought a majority stake in the platform in 2018 and turned it into a cultural phenomenon that reshaped the pornography industry.",
+      "pubDate": "Tue, 24 Mar 2026 05:41:22 +1100",
       "source": "SMH Business"
     },
     {
@@ -894,20 +912,6 @@
       "snippet": "Trump’s threat to strike power plants in Iran prompted a sharp plunge in Australian shares before the market recovered, but it still closed lower.",
       "pubDate": "Mon, 23 Mar 2026 17:27:05 +1100",
       "source": "SMH Business"
-    },
-    {
-      "title": "Lindian workers camp goes live at Malawian rare earths project",
-      "link": "https://www.smh.com.au/business/companies/lindian-workers-camp-goes-live-at-malawian-rare-earths-project-20260323-p5rvuj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Lindian has opened its Tipume camp in Malawi, enabling workforce mobilisation and accelerating construction as the company targets Q4 2026 for its first rare earths production.",
-      "pubDate": "Mon, 23 Mar 2026 17:11:58 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Cricket Australia boss says NZ BBL rejection is not a surprise",
-      "link": "https://www.abc.net.au/news/2026-03-23/cricket-australia-boss-says-nz-bbl-rejection-is-not-a-surprise/106487460",
-      "snippet": "",
-      "pubDate": "Mon, 23 Mar 2026 06:01:26 +0000",
-      "source": "ABC News"
     }
   ]
 }
