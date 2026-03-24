@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-24T19:32:42.541Z",
+  "fetchedAt": "2026-03-24T21:57:12.030Z",
   "asx200": {
     "value": 8379.4,
     "change": -642.9,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.7,
     "change": -0.01,
-    "changePercent": -1.26,
+    "changePercent": -0.92,
     "previousClose": 0.71,
     "asOf": "2026-03-24",
     "history": [
@@ -183,6 +183,10 @@
       {
         "date": "2026-03-24",
         "close": 0.7
+      },
+      {
+        "date": "2026-03-24",
+        "close": 0.7
       }
     ]
   },
@@ -191,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4407,
-      "change": -748.8,
-      "changePercent": -14.52
+      "price": 4474.9,
+      "change": -680.9,
+      "changePercent": -13.21
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 70.11,
-      "change": -17.34,
-      "changePercent": -19.83
+      "price": 71.44,
+      "change": -16.01,
+      "changePercent": -18.31
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 91.39,
-      "change": 25.76,
-      "changePercent": 39.25
+      "price": 88.39,
+      "change": 22.76,
+      "changePercent": 34.68
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.47,
-      "change": -0.45,
-      "changePercent": -7.61
+      "price": 5.56,
+      "change": -0.37,
+      "changePercent": -6.16
     },
     {
       "name": "BHP Group",
@@ -826,17 +830,59 @@
   ],
   "news": [
     {
+      "title": "Former England captains question findings of Ashes review",
+      "link": "https://www.abc.net.au/news/2026-03-25/england-players-react-to-ashes-review/106494160",
+      "snippet": "",
+      "pubDate": "Tue, 24 Mar 2026 21:37:47 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "The $830 million bet on oil minutes before Trump sent markets tumbling",
+      "link": "https://www.smh.com.au/business/markets/the-830-million-bet-on-oil-minutes-before-trump-sent-markets-tumbling-20260325-p5wgge.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "A one-minute flurry of oil trades that occurred before a pivotal Donald Trump social media post has sparked insider trading fears.",
+      "pubDate": "Wed, 25 Mar 2026 08:31:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "'The day has come': Liverpool great announces he is leaving EPL giant",
+      "link": "https://www.abc.net.au/news/2026-03-25/epl-soccer-mo-salah-announces-he-will-leave-liverpool/106494190",
+      "snippet": "",
+      "pubDate": "Tue, 24 Mar 2026 21:04:02 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "ASX set to advance, markets swing on Middle East uncertainty",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-advance-as-markets-swing-on-middle-east-uncertainty-20260325-p5wffq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The US stock market is swinging between losses and gains as uncertainty continues about how long the war with Iran will last.",
+      "pubDate": "Wed, 25 Mar 2026 07:52:06 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Football Australia explains why Matildas' next games are against low-ranked teams",
+      "link": "https://www.abc.net.au/news/2026-03-25/football-australia-defends-matildas-malawi-india-kenya-games/106494056",
+      "snippet": "",
+      "pubDate": "Tue, 24 Mar 2026 20:34:27 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Location of Brisbane's new 63,000-seat stadium unveiled",
+      "link": "https://www.abc.net.au/news/2026-03-25/brisbane-stadium-location-in-victoria-park-gilchrist-avenue/106493336",
+      "snippet": "",
+      "pubDate": "Tue, 24 Mar 2026 20:08:30 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "From domestique to dominance: Conor Leahy nabs 10th national crown",
+      "link": "https://www.abc.net.au/news/2026-03-25/conor-leahy-individual-pursuit-oliver-bleddyn/106493288",
+      "snippet": "",
+      "pubDate": "Tue, 24 Mar 2026 19:30:07 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "The estate of ‘Britain’s Bill Gates’ ordered to pay $1.8 billion to US giant two years after his tragic death",
       "link": "https://www.smh.com.au/business/companies/the-estate-of-britain-s-bill-gates-ordered-to-pay-1-8-billion-two-years-after-tragic-death-20260325-p5wfmf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Mike Lynch died alongside his daughter and five others when his superyacht sank off the coast of Sicily as he celebrated a legal win. Now his estate is facing bankruptcy.",
       "pubDate": "Wed, 25 Mar 2026 06:21:15 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "ASX set to advance as markets swing on Middle East uncertainty",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-advance-as-markets-swing-on-middle-east-uncertainty-20260325-p5wffq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The US stock market is swinging between losses and gains as uncertainty continues about how long the war with Iran will last.",
-      "pubDate": "Wed, 25 Mar 2026 05:25:47 +1100",
       "source": "SMH Business"
     },
     {
@@ -865,48 +911,6 @@
       "link": "https://www.smh.com.au/business/markets/asx-set-to-surge-as-trump-backs-away-from-iran-threat-oil-tumbles-20260324-p5te0x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The Australian sharemarket has closed slightly higher, amid fears of the war in Iran escalating.",
       "pubDate": "Tue, 24 Mar 2026 17:22:43 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Advance unearths fresh gold to grow Victorian footprint",
-      "link": "https://www.smh.com.au/business/companies/advance-unearths-fresh-gold-to-grow-victorian-footprint-20260324-p5uwtz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Advance Metals has hit high-grade gold at its Queen of the Hills prospect, expanding the company’s footprint in Victoria and confirming a potential system-scale opportunity.",
-      "pubDate": "Tue, 24 Mar 2026 17:10:39 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "No 7.30 and plenty of reruns: How a strike will transform the ABC",
-      "link": "https://www.smh.com.au/business/companies/no-7-30-and-plenty-of-reruns-how-a-strike-will-transform-the-abc-20260324-p5uekn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The national broadcaster is expected to ditch local radio programming, replace breakfast radio with the BBC and scrap flagship shows for the day.",
-      "pubDate": "Tue, 24 Mar 2026 17:04:15 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Robertson shrugs off unusual absence, declaring he's all in on Socceroos",
-      "link": "https://www.abc.net.au/news/2026-03-24/socceroos-world-cup-alex-robertson-absence-return-fifa-series/106491170",
-      "snippet": "",
-      "pubDate": "Tue, 24 Mar 2026 05:47:38 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "H3 Energy helium play adds spark to South Australia gas ambitions",
-      "link": "https://www.smh.com.au/business/companies/h3-energy-helium-play-adds-spark-to-south-australia-gas-ambitions-20260324-p5uput.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "H3 Energy has kicked off a helium assessment at its Alinya project, targeting high-value gas upside across multiple South Australia structures to boost project economics.",
-      "pubDate": "Tue, 24 Mar 2026 15:46:09 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Santos halts gas exports from Darwin amid global energy scramble",
-      "link": "https://www.smh.com.au/business/companies/santos-halts-gas-exports-from-darwin-amid-global-energy-scramble-20260324-p5udgx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The oil and gas giant has been forced to suspend shipments from a key Australian gas-export terminal just as the war in Iran ignites demand and prices.",
-      "pubDate": "Tue, 24 Mar 2026 15:43:54 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Auric clinches premium gold sales price to cap WA starter pit run",
-      "link": "https://www.smh.com.au/business/companies/auric-clinches-premium-gold-sales-price-to-cap-wa-starter-pit-run-20260324-p5uns1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Auric has sold its final WA Munda starter pit gold at an average of A$7178 per ounce, with net cash and receivables at $43.5M. Munda has now produced 8886 ounces, 46% above budget.",
-      "pubDate": "Tue, 24 Mar 2026 15:23:09 +1100",
       "source": "SMH Business"
     }
   ]
