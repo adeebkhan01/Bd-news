@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-26T16:38:07.409Z",
+  "fetchedAt": "2026-03-26T19:35:22.200Z",
   "asx200": {
     "value": 8525.7,
     "change": -649.6,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -3.08,
+    "changePercent": -3.31,
     "previousClose": 0.71,
     "asOf": "2026-03-26",
     "history": [
@@ -191,33 +191,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4392,
-      "change": -784.5,
-      "changePercent": -15.16
+      "price": 4385.8,
+      "change": -790.7,
+      "changePercent": -15.27
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 67.72,
-      "change": -19.28,
-      "changePercent": -22.16
+      "price": 67.76,
+      "change": -19.24,
+      "changePercent": -22.12
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 94.93,
-      "change": 29.72,
-      "changePercent": 45.58
+      "price": 94.34,
+      "change": 29.13,
+      "changePercent": 44.67
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.48,
-      "change": -0.47,
-      "changePercent": -7.85
+      "price": 5.46,
+      "change": -0.48,
+      "changePercent": -8.12
     },
     {
       "name": "BHP Group",
@@ -826,6 +826,69 @@
   ],
   "news": [
     {
+      "title": "Wealthy family takes $20m haircut on Collingwood office",
+      "link": "https://www.smh.com.au/business/companies/wealthy-family-takes-20m-haircut-on-collingwood-office-20260326-p5zivs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Melbourne’s wealthy Liberman family has sold its city fringe office building at a sizeable discount.",
+      "pubDate": "Fri, 27 Mar 2026 05:50:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "ASX set to fall, oil prices rise as war uncertainty weighs on markets",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-fall-oil-prices-rise-as-war-uncertainty-weighs-on-markets-20260327-p5zj45.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Uncertainty is weighing on Wall Street about when the war with Iran could end, and stocks are falling as oil prices rise.",
+      "pubDate": "Fri, 27 Mar 2026 05:26:03 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "‘A lot of pressure’: How rising costs are pushing cafe owners to the brink",
+      "link": "https://www.smh.com.au/business/workplace/a-lot-of-pressure-how-rising-costs-are-pushing-cafe-owners-to-the-brink-20260326-p5zixm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Cafes and restaurants are among the most common businesses to go under. So how can you run one successfully?",
+      "pubDate": "Fri, 27 Mar 2026 05:01:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "My colleagues disappear for hours at a time. What should I do?",
+      "link": "https://www.smh.com.au/business/workplace/my-colleagues-disappear-for-hours-at-a-time-what-should-i-do-20260326-p5ziyb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The culture and politics of your team is genuinely strange; the sudden and barely explained departures are illustrative of that.",
+      "pubDate": "Fri, 27 Mar 2026 05:01:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Not ready to retire? Here’s how to re-invent your career after 60",
+      "link": "https://www.smh.com.au/business/workplace/not-ready-to-retire-here-s-how-to-re-invent-your-career-after-60-20260326-p5zizy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "One of the strongest assumptions about ageing is that work should taper off at a certain point. But many people in their 50s and 60s are not ready to retreat.",
+      "pubDate": "Fri, 27 Mar 2026 05:01:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "David Jones is trying to defy retail gravity. It’s causing problems",
+      "link": "https://www.smh.com.au/business/companies/david-jones-is-trying-to-defy-retail-gravity-it-s-causing-problems-20260325-p5wv22.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "David Jones is pushing suppliers to accept payment for goods almost two months after they are sold, in a sign of financial pressure on the chain.",
+      "pubDate": "Fri, 27 Mar 2026 05:00:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Alarm bells ring over future of hallowed Sydney institution",
+      "link": "https://www.smh.com.au/business/consumer-affairs/alarm-bells-ring-over-future-of-hallowed-sydney-institution-20260326-p5ziun.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "When news broke this week that the David Jones department store was delaying payments to its suppliers, a wave of panic swept across the city.",
+      "pubDate": "Fri, 27 Mar 2026 05:00:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "The Guardian’s razor gang gets cutting",
+      "link": "https://www.smh.com.au/business/companies/the-guardian-s-razor-gang-gets-cutting-20260326-p5ziy6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The cartoonist behind First Dog on the Moon, which has been a pillar of the publication for more than a decade, has been put on rolling six-month contracts.",
+      "pubDate": "Fri, 27 Mar 2026 05:00:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Sydney barrister Brian Dooley calls last drinks at Courthouse. It’s yours for around $20m",
+      "link": "https://www.smh.com.au/business/consumer-affairs/sydney-barrister-brian-dooley-calls-last-drinks-at-courthouse-it-s-yours-for-around-20m-20260326-p5ziz0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Another four other venues in Tamworth have changed hands for $160 million.",
+      "pubDate": "Fri, 27 Mar 2026 05:00:00 +1100",
+      "source": "SMH Business"
+    },
+    {
       "title": "Trans women athletes banned from competing in female Olympic events",
       "link": "https://www.abc.net.au/news/2026-03-27/ioc-bans-transgender-participation-in-women-s-events/106500478",
       "snippet": "",
@@ -845,69 +908,6 @@
       "snippet": "",
       "pubDate": "Thu, 26 Mar 2026 07:58:53 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Last-touch non-call labelled 'farce' as Geelong edges Adelaide in thriller",
-      "link": "https://www.abc.net.au/news/2026-03-26/afl-round-3-geelong-cats-adelaide-crows-live-blog/106499520",
-      "snippet": "",
-      "pubDate": "Thu, 26 Mar 2026 07:12:33 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "ASX dips as Iran war uncertainty lingers; oil rises",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-seesaws-20260326-p5zhn3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The Australian sharemarket edged lower on Thursday, as oil prices climbed again amid conflicting comments from the US and Iran on efforts to end their war.",
-      "pubDate": "Thu, 26 Mar 2026 17:53:20 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Pacgold maps monster 30km gold-antimony strike in Queensland",
-      "link": "https://www.smh.com.au/business/companies/pacgold-maps-monster-30km-gold-antimony-strike-in-queensland-20260326-p5zj22.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Pacgold has extended its QLD antimony-gold footprint to over 30km, with rock chips from a new prospect returning high-grade results up to 18.5g/t gold.",
-      "pubDate": "Thu, 26 Mar 2026 17:46:55 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Qantas steps up flights to Europe as travellers scramble for options amid Iran war",
-      "link": "https://www.smh.com.au/business/markets/qantas-steps-up-flights-to-europe-as-travellers-scramble-for-options-in-iran-war-20260326-p5zisx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The airline taps into strong demand for tickets after the war in the Middle East has led to thousands of flight cancellations by airlines using the Persian Gulf as a transit hub.",
-      "pubDate": "Thu, 26 Mar 2026 16:40:10 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Premier1 zeroes in on gravity-driven WA gold drill targets",
-      "link": "https://www.smh.com.au/business/companies/premier1-zeroes-in-on-gravity-driven-wa-gold-drill-targets-20260326-p5zj0g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Premier1 has firmed up drill targets at its Abbotts North gold project in WA, with a new gravity survey confirming gold sitting in a key structural intersection.",
-      "pubDate": "Thu, 26 Mar 2026 16:27:39 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Popovic wants World Cup contenders to play with freedom in final home matches",
-      "link": "https://www.abc.net.au/news/2026-03-26/socceroos-world-cup-fifa-series-cameroon-curacao/106497242",
-      "snippet": "",
-      "pubDate": "Thu, 26 Mar 2026 05:13:06 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Osmond pitches Spanish critical minerals play to feed robotics boom",
-      "link": "https://www.smh.com.au/business/companies/osmond-pitches-spanish-critical-minerals-play-to-feed-robotics-boom-20260326-p5zixk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Osmond Resources has pitched its Orion EU project to the world at a Swiss mining conference, highlighting a major source of critical minerals to feed a future robotics boom.",
-      "pubDate": "Thu, 26 Mar 2026 16:08:40 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Qantas’ turbulence shows why Warren Buffett was wary of investing in airlines",
-      "link": "https://www.smh.com.au/business/companies/qantas-turbulence-shows-why-warren-buffett-was-wary-of-investing-in-airlines-20260326-p5zix9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Investors in airlines around the world are bracing as they attempt to assess the earnings carnage of the war in the Middle East.",
-      "pubDate": "Thu, 26 Mar 2026 15:55:58 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Viking geophysics map giant tungsten targets in Nevada",
-      "link": "https://www.smh.com.au/business/companies/viking-geophysics-map-giant-tungsten-targets-in-nevada-20260326-p5zj09.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Viking Mines’ extended geophysics at its Linka tungsten project in the US has mapped a bigger system than initially thought, with a big untested contact zone offering multiple drill targets.",
-      "pubDate": "Thu, 26 Mar 2026 15:41:08 +1100",
-      "source": "SMH Business"
     }
   ]
 }
