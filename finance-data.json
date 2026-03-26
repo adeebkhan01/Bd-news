@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-26T19:35:22.200Z",
+  "fetchedAt": "2026-03-26T21:50:24.537Z",
   "asx200": {
     "value": 8525.7,
     "change": -649.6,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -3.31,
+    "changePercent": -3.24,
     "previousClose": 0.71,
     "asOf": "2026-03-26",
     "history": [
@@ -183,6 +183,10 @@
       {
         "date": "2026-03-26",
         "close": 0.69
+      },
+      {
+        "date": "2026-03-26",
+        "close": 0.69
       }
     ]
   },
@@ -191,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4385.8,
-      "change": -790.7,
-      "changePercent": -15.27
+      "price": 4376.9,
+      "change": -799.6,
+      "changePercent": -15.45
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 67.76,
-      "change": -19.24,
-      "changePercent": -22.12
+      "price": 68.13,
+      "change": -18.87,
+      "changePercent": -21.69
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 94.34,
-      "change": 29.13,
-      "changePercent": 44.67
+      "price": 93.79,
+      "change": 28.58,
+      "changePercent": 43.83
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.46,
+      "price": 5.47,
       "change": -0.48,
-      "changePercent": -8.12
+      "changePercent": -8.02
     },
     {
       "name": "BHP Group",
@@ -826,17 +830,38 @@
   ],
   "news": [
     {
+      "title": "ASX set to fall as Wall Street suffers biggest drop since war began; Oil prices jump",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-fall-oil-prices-rise-as-war-uncertainty-weighs-on-markets-20260327-p5zj45.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Uncertainty is weighing on Wall Street about when the war with Iran could end, and stocks are falling as oil prices rise.",
+      "pubDate": "Fri, 27 Mar 2026 08:25:14 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Max Verstappen kicks Guardian F1 reporter out of Japanese Grand Prix press conference",
+      "link": "https://www.abc.net.au/news/2026-03-27/max-verstappen-boots-reporter-from-japanese-gp-media-session/106500946",
+      "snippet": "",
+      "pubDate": "Thu, 26 Mar 2026 20:59:53 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "‘It’s a problem’: How soaring fuel prices are playing havoc with Australia’s economy",
+      "link": "https://www.smh.com.au/business/the-economy/how-skyrocketing-fuel-costs-could-fan-the-flames-of-inflation-20260325-p5xo1d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Australia’s high rate of inflation is coming under more pressure as big transport companies including Uber, Qantas and Australia Post increase their prices in response to rising fuel costs.",
+      "pubDate": "Fri, 27 Mar 2026 07:23:05 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Cherry-Evans's return to Brookvale a reminder of Manly's past amid an uncertain future",
+      "link": "https://www.abc.net.au/news/2026-03-27/manly-face-uncertain-future-as-cherry-evans-comes-home/106500208",
+      "snippet": "",
+      "pubDate": "Thu, 26 Mar 2026 20:05:25 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Wealthy family takes $20m haircut on Collingwood office",
       "link": "https://www.smh.com.au/business/companies/wealthy-family-takes-20m-haircut-on-collingwood-office-20260326-p5zivs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Melbourne’s wealthy Liberman family has sold its city fringe office building at a sizeable discount.",
       "pubDate": "Fri, 27 Mar 2026 05:50:00 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "ASX set to fall, oil prices rise as war uncertainty weighs on markets",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-fall-oil-prices-rise-as-war-uncertainty-weighs-on-markets-20260327-p5zj45.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Uncertainty is weighing on Wall Street about when the war with Iran could end, and stocks are falling as oil prices rise.",
-      "pubDate": "Fri, 27 Mar 2026 05:26:03 +1100",
       "source": "SMH Business"
     },
     {
@@ -887,27 +912,6 @@
       "snippet": "Another four other venues in Tamworth have changed hands for $160 million.",
       "pubDate": "Fri, 27 Mar 2026 05:00:00 +1100",
       "source": "SMH Business"
-    },
-    {
-      "title": "Trans women athletes banned from competing in female Olympic events",
-      "link": "https://www.abc.net.au/news/2026-03-27/ioc-bans-transgender-participation-in-women-s-events/106500478",
-      "snippet": "",
-      "pubDate": "Thu, 26 Mar 2026 14:37:55 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "How skyrocketing fuel costs could fan the flames of inflation",
-      "link": "https://www.smh.com.au/business/the-economy/how-skyrocketing-fuel-costs-could-fan-the-flames-of-inflation-20260325-p5xo1d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Uber has raised its prices amid the fuel crisis, but its competitor DoorDash has declared it will cover the cost of fuel assistance for delivery workers itself.",
-      "pubDate": "Thu, 26 Mar 2026 19:30:00 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Cherry-Evans has last laugh as Sea Eagles slump to third-straight defeat",
-      "link": "https://www.abc.net.au/news/2026-03-26/nrl-live-updates-manly-sea-eagles-roosters-daly-cherry-evans/106499234",
-      "snippet": "",
-      "pubDate": "Thu, 26 Mar 2026 07:58:53 +0000",
-      "source": "ABC News"
     }
   ]
 }
