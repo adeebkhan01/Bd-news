@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-26T14:02:15.800Z",
+  "fetchedAt": "2026-03-26T16:38:07.409Z",
   "asx200": {
     "value": 8525.7,
     "change": -649.6,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -2.75,
+    "changePercent": -3.08,
     "previousClose": 0.71,
     "asOf": "2026-03-26",
     "history": [
@@ -191,33 +191,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4455.4,
-      "change": -721.1,
-      "changePercent": -13.93
+      "price": 4392,
+      "change": -784.5,
+      "changePercent": -15.16
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 69.35,
-      "change": -17.65,
-      "changePercent": -20.29
+      "price": 67.72,
+      "change": -19.28,
+      "changePercent": -22.16
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 93.14,
-      "change": 27.93,
-      "changePercent": 42.83
+      "price": 94.93,
+      "change": 29.72,
+      "changePercent": 45.58
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.53,
-      "change": -0.42,
-      "changePercent": -7.03
+      "price": 5.48,
+      "change": -0.47,
+      "changePercent": -7.85
     },
     {
       "name": "BHP Group",
@@ -826,6 +826,13 @@
   ],
   "news": [
     {
+      "title": "Trans women athletes banned from competing in female Olympic events",
+      "link": "https://www.abc.net.au/news/2026-03-27/ioc-bans-transgender-participation-in-women-s-events/106500478",
+      "snippet": "",
+      "pubDate": "Thu, 26 Mar 2026 14:37:55 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "How skyrocketing fuel costs could fan the flames of inflation",
       "link": "https://www.smh.com.au/business/the-economy/how-skyrocketing-fuel-costs-could-fan-the-flames-of-inflation-20260325-p5xo1d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Uber has raised its prices amid the fuel crisis, but its competitor DoorDash has declared it will cover the cost of fuel assistance for delivery workers itself.",
@@ -900,13 +907,6 @@
       "link": "https://www.smh.com.au/business/companies/viking-geophysics-map-giant-tungsten-targets-in-nevada-20260326-p5zj09.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Viking Mines’ extended geophysics at its Linka tungsten project in the US has mapped a bigger system than initially thought, with a big untested contact zone offering multiple drill targets.",
       "pubDate": "Thu, 26 Mar 2026 15:41:08 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "WFH, four-day workweeks: What the war in Iran could mean for your job",
-      "link": "https://www.smh.com.au/business/workplace/wfh-four-day-workweeks-what-the-war-in-iran-could-mean-for-your-job-20260326-p5ziv5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Australian workers fortunately haven’t felt much pain yet, but if the war rages on, some of these measures will eventually arrive here.",
-      "pubDate": "Thu, 26 Mar 2026 15:30:00 +1100",
       "source": "SMH Business"
     }
   ]
