@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-27T16:10:03.503Z",
+  "fetchedAt": "2026-03-27T19:13:46.042Z",
   "asx200": {
     "value": 8516.3,
     "change": -682.3,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -3.03,
+    "changePercent": -3.25,
     "previousClose": 0.71,
     "asOf": "2026-03-27",
     "history": [
@@ -191,33 +191,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4555,
-      "change": -675.5,
-      "changePercent": -12.91
+      "price": 4541.1,
+      "change": -689.4,
+      "changePercent": -13.18
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 70.94,
-      "change": -21.75,
-      "changePercent": -23.46
+      "price": 70.2,
+      "change": -22.48,
+      "changePercent": -24.26
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 98.02,
-      "change": 31,
-      "changePercent": 46.25
+      "price": 99.17,
+      "change": 32.15,
+      "changePercent": 47.97
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.51,
-      "change": -0.5,
-      "changePercent": -8.31
+      "price": 5.47,
+      "change": -0.53,
+      "changePercent": -8.89
     },
     {
       "name": "BHP Group",
@@ -826,6 +826,13 @@
   ],
   "news": [
     {
+      "title": "Fuelled by subsidised diesel, Australia is running dry",
+      "link": "https://www.smh.com.au/business/markets/fuelled-by-subsidised-diesel-australia-is-running-dry-20260326-p5ziyp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The energy shock has put a sharp focus on decades of complacency and misguided subsidies.",
+      "pubDate": "Sat, 28 Mar 2026 05:00:00 +1100",
+      "source": "SMH Business"
+    },
+    {
       "title": "Socceroos snatch late win as teen debutant impresses heading into World Cup",
       "link": "https://www.abc.net.au/news/2026-03-27/football-socceroos-world-cup-fifa-series-jordy-bos-winner/106505248",
       "snippet": "",
@@ -900,13 +907,6 @@
       "link": "https://www.abc.net.au/news/2026-03-27/afl-admits-crucial-umpire-error-late-in-crows-defeat-to-cats/106503360",
       "snippet": "",
       "pubDate": "Fri, 27 Mar 2026 04:04:43 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "AOC backs Olympic transgender rules despite human rights concerns",
-      "link": "https://www.abc.net.au/news/2026-03-27/aoc-backs-ioc-rules-transgender-athletes-human-rights/106502332",
-      "snippet": "",
-      "pubDate": "Fri, 27 Mar 2026 02:06:53 +0000",
       "source": "ABC News"
     }
   ]
