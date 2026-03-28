@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-28T03:19:54.722Z",
+  "fetchedAt": "2026-03-28T05:08:33.551Z",
   "asx200": {
     "value": 8516.3,
     "change": -682.3,
@@ -195,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4521.3,
-      "change": -709.2,
-      "changePercent": -13.56
+      "price": 4524.3,
+      "change": -706.2,
+      "changePercent": -13.5
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 69.77,
-      "change": -22.91,
-      "changePercent": -24.72
+      "price": 69.8,
+      "change": -22.89,
+      "changePercent": -24.69
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 101.18,
-      "change": 34.16,
-      "changePercent": 50.97
+      "price": 99.64,
+      "change": 32.62,
+      "changePercent": 48.67
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.46,
-      "change": -0.54,
-      "changePercent": -9.03
+      "price": 5.5,
+      "change": -0.51,
+      "changePercent": -8.48
     },
     {
       "name": "BHP Group",
@@ -830,6 +830,13 @@
   ],
   "news": [
     {
+      "title": "Live: Knights take control against Bulldogs after shock ambush",
+      "link": "https://www.abc.net.au/news/2026-03-28/nrl-live-updates-bulldogs-eels-panthers-storm/106506846",
+      "snippet": "",
+      "pubDate": "Sat, 28 Mar 2026 03:33:37 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Australia sets record score to claim 1-0 series lead over West Indies",
       "link": "https://www.abc.net.au/news/2026-03-28/australia-women-defeat-west-indies-by-103-runs-in-first-odi/106506858",
       "snippet": "",
@@ -844,7 +851,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Saints and Lions take war of words onto the field for heated clash",
+      "title": "Live: Lions flex some premiership muscle to beat Saints in heated clash",
       "link": "https://www.abc.net.au/news/2026-03-28/afl-round-three-saturday-live-blog-stk-bris-freo-rich-ess-nm/106504564",
       "snippet": "",
       "pubDate": "Sat, 28 Mar 2026 01:14:56 +0000",
@@ -905,13 +912,6 @@
       "snippet": "The energy shock has put a sharp focus on decades of complacency and misguided subsidies.",
       "pubDate": "Sat, 28 Mar 2026 05:00:00 +1100",
       "source": "SMH Business"
-    },
-    {
-      "title": "Socceroos snatch late win as teen debutant impresses heading into World Cup",
-      "link": "https://www.abc.net.au/news/2026-03-27/football-socceroos-world-cup-fifa-series-jordy-bos-winner/106505248",
-      "snippet": "",
-      "pubDate": "Fri, 27 Mar 2026 12:51:37 +0000",
-      "source": "ABC News"
     }
   ]
 }
