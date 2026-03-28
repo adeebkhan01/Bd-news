@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-28T05:08:33.551Z",
+  "fetchedAt": "2026-03-28T07:27:03.521Z",
   "asx200": {
     "value": 8516.3,
     "change": -682.3,
@@ -186,6 +186,10 @@
       },
       {
         "date": "2026-03-27",
+        "close": 0.69
+      },
+      {
+        "date": "2026-03-28",
         "close": 0.69
       }
     ]
@@ -830,7 +834,14 @@
   ],
   "news": [
     {
-      "title": "Live: Knights take control against Bulldogs after shock ambush",
+      "title": "Trump’s humiliation would cost us all dearly",
+      "link": "https://www.smh.com.au/business/the-economy/trump-s-humiliation-would-cost-us-all-dearly-20260327-p5zj46.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Donald Trump has a long list of critics determined to see him embarrassed in his war with Iran. It doesn’t seem to bother them that any such outcome would be disastrous for America and the West.",
+      "pubDate": "Sat, 28 Mar 2026 16:30:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Live: Penrith punish Parramatta in brutal first-half blitz",
       "link": "https://www.abc.net.au/news/2026-03-28/nrl-live-updates-bulldogs-eels-panthers-storm/106506846",
       "snippet": "",
       "pubDate": "Sat, 28 Mar 2026 03:33:37 +0000",
@@ -851,7 +862,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Lions flex some premiership muscle to beat Saints in heated clash",
+      "title": "Live: Dockers take control against Tigers as AFL probes Saint's alleged slur",
       "link": "https://www.abc.net.au/news/2026-03-28/afl-round-three-saturday-live-blog-stk-bris-freo-rich-ess-nm/106504564",
       "snippet": "",
       "pubDate": "Sat, 28 Mar 2026 01:14:56 +0000",
@@ -905,13 +916,6 @@
       "snippet": "",
       "pubDate": "Fri, 27 Mar 2026 19:37:22 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Fuelled by subsidised diesel, Australia is running dry",
-      "link": "https://www.smh.com.au/business/markets/fuelled-by-subsidised-diesel-australia-is-running-dry-20260326-p5ziyp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The energy shock has put a sharp focus on decades of complacency and misguided subsidies.",
-      "pubDate": "Sat, 28 Mar 2026 05:00:00 +1100",
-      "source": "SMH Business"
     }
   ]
 }
