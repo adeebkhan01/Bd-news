@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-29T19:06:34.161Z",
+  "fetchedAt": "2026-03-29T21:51:41.816Z",
   "asx200": {
     "value": 8516.3,
     "change": -682.3,
@@ -100,7 +100,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -3.18,
+    "changePercent": -3.39,
     "previousClose": 0.71,
     "asOf": "2026-03-29",
     "history": [
@@ -223,9 +223,9 @@
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.5,
+      "price": 5.49,
       "change": -0.51,
-      "changePercent": -8.48
+      "changePercent": -8.49
     },
     {
       "name": "BHP Group",
@@ -834,7 +834,21 @@
   ],
   "news": [
     {
-      "title": "ASX set for more losses, oil poised to rise again",
+      "title": "Kerr and Carpenter hit the ground running for Chelsea in Asian Cup return",
+      "link": "https://www.abc.net.au/news/2026-03-30/sam-kerr-returns-to-chelsea-with-goal-against-aston-villa/106509770",
+      "snippet": "",
+      "pubDate": "Sun, 29 Mar 2026 20:37:08 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Kylie Minogue to lead AFL grand final entertainment, ending Aussie drought",
+      "link": "https://www.abc.net.au/news/2026-03-30/kylie-minogue-named-afl-grand-final-pre-game-entertainment/106509752",
+      "snippet": "",
+      "pubDate": "Sun, 29 Mar 2026 19:52:33 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "ASX set for more losses, oil poised to rise again; Rio Tinto pushes for tariffs refund",
       "link": "https://www.smh.com.au/business/markets/asx-set-for-more-losses-oil-poised-to-rise-again-20260330-p5zjq4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The Australian sharemarket is set to decline on Monday as Wall Street finished off a fifth-straight losing week, its longest such streak in nearly four years.",
       "pubDate": "Mon, 30 Mar 2026 05:24:05 +1100",
@@ -876,7 +890,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Dragons playmaker Flanagan hospitalised following head knock against Gold Coast",
+      "title": "Shane Flanagan on the challenge of coaching on after son's scary neck injury",
       "link": "https://www.abc.net.au/news/2026-03-29/nrl-live-updates-raiders-harks-titans-dragons/106508782",
       "snippet": "",
       "pubDate": "Sun, 29 Mar 2026 04:38:31 +0000",
@@ -901,20 +915,6 @@
       "link": "https://www.abc.net.au/news/2026-03-29/f1-live-japanese-grand-prix-oscar-piastri/106009308",
       "snippet": "",
       "pubDate": "Sun, 29 Mar 2026 02:57:12 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Demons overwhelm Blues in late MCG surge",
-      "link": "https://www.abc.net.au/news/2026-03-29/afl-round-three-sunday-live-blog-port-wce-carl-melb/106504820",
-      "snippet": "",
-      "pubDate": "Sun, 29 Mar 2026 01:06:12 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Late wickets give South Australia edge in absorbing Shield final",
-      "link": "https://www.abc.net.au/news/2026-03-29/sheffield-shield-final-live-scores-victoria-sa-day-four/106496594",
-      "snippet": "",
-      "pubDate": "Sat, 28 Mar 2026 23:05:01 +0000",
       "source": "ABC News"
     }
   ]
