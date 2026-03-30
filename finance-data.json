@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-30T19:31:22.724Z",
+  "fetchedAt": "2026-03-30T22:00:49.340Z",
   "asx200": {
     "value": 8461,
     "change": -737.6,
@@ -94,9 +94,9 @@
     ]
   },
   "audusd": {
-    "value": 0.68,
-    "change": -0.03,
-    "changePercent": -3.63,
+    "value": 0.69,
+    "change": -0.02,
+    "changePercent": -3.51,
     "previousClose": 0.71,
     "asOf": "2026-03-30",
     "history": [
@@ -181,8 +181,12 @@
         "close": 0.69
       },
       {
+        "date": "2026-03-29",
+        "close": 0.69
+      },
+      {
         "date": "2026-03-30",
-        "close": 0.68
+        "close": 0.69
       }
     ]
   },
@@ -191,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4525.1,
-      "change": -705.4,
-      "changePercent": -13.49
+      "price": 4540.4,
+      "change": -690.1,
+      "changePercent": -13.19
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 69.81,
-      "change": -22.88,
-      "changePercent": -24.68
+      "price": 70.18,
+      "change": -22.5,
+      "changePercent": -24.28
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 104.06,
-      "change": 37.04,
-      "changePercent": 55.27
+      "price": 105.01,
+      "change": 37.99,
+      "changePercent": 56.68
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.48,
-      "change": -0.53,
-      "changePercent": -8.74
+      "price": 5.49,
+      "change": -0.52,
+      "changePercent": -8.61
     },
     {
       "name": "BHP Group",
@@ -826,7 +830,21 @@
   ],
   "news": [
     {
-      "title": "Massive Matildas hype hasn't translated to A-League Women fandom",
+      "title": "ASX set to edge up as Wall Street seesaws; US oil highest in four years",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-seesaws-oil-mixed-20260331-p5zk2f.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "US stocks are swinging again as oil prices remain high because of uncertainty about when the war with Iran could end.",
+      "pubDate": "Tue, 31 Mar 2026 07:49:58 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "'A complete wizard': 15yo sensation smacks another rapid half-century in IPL",
+      "link": "https://www.abc.net.au/news/2026-03-31/vaibhav-sooryavanshi-hits-rapid-50-in-ipl/106514468",
+      "snippet": "",
+      "pubDate": "Mon, 30 Mar 2026 20:15:01 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Why massive Matildas hype hasn't translated to A-League Women fandom",
       "link": "https://www.abc.net.au/news/2026-03-31/matildas-hype-hasnt-translated-into-league-womens-fandom/106506574",
       "snippet": "",
       "pubDate": "Mon, 30 Mar 2026 18:51:19 +0000",
@@ -838,13 +856,6 @@
       "snippet": "",
       "pubDate": "Mon, 30 Mar 2026 18:47:56 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "ASX set to rise as Wall Street seesaws; Oil mixed",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-seesaws-oil-mixed-20260331-p5zk2f.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "US stocks are swinging again as oil prices remain high because of uncertainty about when the war with Iran could end.",
-      "pubDate": "Tue, 31 Mar 2026 05:28:43 +1100",
-      "source": "SMH Business"
     },
     {
       "title": "Made by Shein: The ultra-fast fashion giant is pitching itself to Aussie clothing labels",
@@ -900,13 +911,6 @@
       "link": "https://www.abc.net.au/news/2026-03-30/wa-parliamentary-inquiry-into-greyhound-racing-begins/106511614",
       "snippet": "",
       "pubDate": "Mon, 30 Mar 2026 07:10:55 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "'Pretty disappointing': Star Manly recruit baffled by Seibold sacking",
-      "link": "https://www.abc.net.au/news/2026-03-30/nrl-jamal-fogarty-manly-anthony-seibold-sacking-disappointing/106513404",
-      "snippet": "",
-      "pubDate": "Mon, 30 Mar 2026 06:34:46 +0000",
       "source": "ABC News"
     }
   ]
