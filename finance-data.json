@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-31T07:47:53.939Z",
+  "fetchedAt": "2026-03-31T10:31:55.815Z",
   "asx200": {
     "value": 8481.8,
     "change": -716.8,
@@ -100,7 +100,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -3.32,
+    "changePercent": -3.46,
     "previousClose": 0.71,
     "asOf": "2026-03-31",
     "history": [
@@ -199,33 +199,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4589,
-      "change": -641.5,
-      "changePercent": -12.26
+      "price": 4586,
+      "change": -644.5,
+      "changePercent": -12.32
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 72.79,
-      "change": -19.89,
-      "changePercent": -21.46
+      "price": 73.01,
+      "change": -19.68,
+      "changePercent": -21.23
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 103.18,
-      "change": 36.16,
-      "changePercent": 53.95
+      "price": 104.51,
+      "change": 37.49,
+      "changePercent": 55.94
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.54,
-      "change": -0.47,
-      "changePercent": -7.76
+      "price": 5.51,
+      "change": -0.5,
+      "changePercent": -8.26
     },
     {
       "name": "BHP Group",
@@ -834,6 +834,20 @@
   ],
   "news": [
     {
+      "title": "WA greyhound racing regulator defends controversial sport at inquiry",
+      "link": "https://www.abc.net.au/news/2026-03-31/greyhound-racing-regulator-defends-record-at-inquiry/106516156",
+      "snippet": "",
+      "pubDate": "Tue, 31 Mar 2026 09:22:48 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Curaçao hit back to level scores with Socceroos in Melbourne",
+      "link": "https://www.abc.net.au/news/2026-03-31/socceroos-vs-cura%C3%A7ao-fifa-series-friendly-melbourne-live-blog/106517182",
+      "snippet": "",
+      "pubDate": "Tue, 31 Mar 2026 08:31:31 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Auric rings till with $5.2m profit after WA gold run",
       "link": "https://www.smh.com.au/business/companies/auric-rings-till-with-5-2m-profit-after-wa-gold-run-20260331-p5zkf7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Auric Mining posted a $5.2M FY2025 profit as revenue jumped 144 per cent on strong gold output from Munda and Jeffreys Find operations.",
@@ -902,20 +916,6 @@
       "snippet": "Infini Resources has finalised maiden drill targets at its Reynolds and Reitenbach uranium projects in Canada, paving the way for a funded Q2 drilling campaign.",
       "pubDate": "Tue, 31 Mar 2026 14:36:54 +1100",
       "source": "SMH Business"
-    },
-    {
-      "title": "ABC and unions expected to reach pay deal after landmark strike",
-      "link": "https://www.smh.com.au/business/companies/unions-close-to-reaching-pay-deal-after-landmark-abc-strike-20260331-p5zkaj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The two unions representing staff are close to agreeing a deal with the broadcaster after it announced an improved pay offer.",
-      "pubDate": "Tue, 31 Mar 2026 14:33:27 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "The 10 pivotal events that led to the downfall of Essendon and Carlton",
-      "link": "https://www.abc.net.au/news/2026-03-31/essendon-carlton-25-years-afl-purgatory-10-key-moments/106463792",
-      "snippet": "",
-      "pubDate": "Tue, 31 Mar 2026 03:30:07 +0000",
-      "source": "ABC News"
     }
   ]
 }
