@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-31T16:32:25.434Z",
+  "fetchedAt": "2026-03-31T19:31:43.804Z",
   "asx200": {
     "value": 8481.8,
     "change": -716.8,
@@ -100,7 +100,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -3.42,
+    "changePercent": -2.94,
     "previousClose": 0.71,
     "asOf": "2026-03-31",
     "history": [
@@ -199,33 +199,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4642.8,
-      "change": -587.7,
-      "changePercent": -11.24
+      "price": 4709.3,
+      "change": -521.2,
+      "changePercent": -9.96
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 74.04,
-      "change": -18.65,
-      "changePercent": -20.12
+      "price": 75.39,
+      "change": -17.3,
+      "changePercent": -18.66
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 104.65,
-      "change": 37.63,
-      "changePercent": 56.15
+      "price": 101.92,
+      "change": 34.9,
+      "changePercent": 52.07
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.58,
-      "change": -0.43,
-      "changePercent": -7.1
+      "price": 5.63,
+      "change": -0.38,
+      "changePercent": -6.26
     },
     {
       "name": "BHP Group",
@@ -834,18 +834,11 @@
   ],
   "news": [
     {
-      "title": "WA greyhound racing regulator defends controversial sport at inquiry",
-      "link": "https://www.abc.net.au/news/2026-03-31/greyhound-racing-regulator-defends-record-at-inquiry/106516156",
-      "snippet": "",
-      "pubDate": "Tue, 31 Mar 2026 09:22:48 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Socceroos thump Curaçao 5-1 in World Cup farewell, as Irankunda electrifies",
-      "link": "https://www.abc.net.au/news/2026-03-31/socceroos-vs-cura%C3%A7ao-fifa-series-friendly-melbourne-live-blog/106517182",
-      "snippet": "",
-      "pubDate": "Tue, 31 Mar 2026 08:31:31 +0000",
-      "source": "ABC News"
+      "title": "ASX set to jump as Wall Street surges on hopes the war will end soon",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-jump-as-wall-street-surges-on-hopes-the-war-will-end-soon-20260401-p5zkgw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "US stocks are jolting higher and recovering a chunk of their wartime losses as optimism entered markets.",
+      "pubDate": "Wed, 01 Apr 2026 05:23:27 +1100",
+      "source": "SMH Business"
     },
     {
       "title": "Auric rings till with $5.2m profit after WA gold run",
@@ -876,25 +869,11 @@
       "source": "SMH Business"
     },
     {
-      "title": "Water Polo Australia looks at 'silver linings' despite star player's defection",
-      "link": "https://www.abc.net.au/news/2026-03-31/australian-water-polo-sharks-luke-pavillard-croatia/106516066",
-      "snippet": "",
-      "pubDate": "Tue, 31 Mar 2026 05:52:08 +0000",
-      "source": "ABC News"
-    },
-    {
       "title": "Viking hits top-tier tungsten grade in Nevada with simple gravity process",
       "link": "https://www.smh.com.au/business/companies/viking-hits-top-tier-tungsten-grade-in-nevada-with-simple-gravity-process-20260331-p5zkcr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Viking Mines has delivered a premium-grade tungsten concentrate from simple gravity separation at its Nevada Linka project, pointing to a low-cost, fast-track path to production.",
       "pubDate": "Tue, 31 Mar 2026 16:46:53 +1100",
       "source": "SMH Business"
-    },
-    {
-      "title": "Lomax 'no stranger' to hostile Brisbane if he makes Super Rugby debut",
-      "link": "https://www.abc.net.au/news/2026-03-31/zac-lomax-western-force-lang-park-queensland-reds/106517164",
-      "snippet": "",
-      "pubDate": "Tue, 31 Mar 2026 05:17:48 +0000",
-      "source": "ABC News"
     },
     {
       "title": "It’s lawyers at 20 paces as Jackie ‘O’ fires $82m salvo at ARN",
@@ -916,6 +895,27 @@
       "snippet": "Infini Resources has finalised maiden drill targets at its Reynolds and Reitenbach uranium projects in Canada, paving the way for a funded Q2 drilling campaign.",
       "pubDate": "Tue, 31 Mar 2026 14:36:54 +1100",
       "source": "SMH Business"
+    },
+    {
+      "title": "ABC and unions expected to reach pay deal after landmark strike",
+      "link": "https://www.smh.com.au/business/companies/unions-close-to-reaching-pay-deal-after-landmark-abc-strike-20260331-p5zkaj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The two unions representing staff are close to agreeing a deal with the broadcaster after it announced an improved pay offer.",
+      "pubDate": "Tue, 31 Mar 2026 14:33:27 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Fast food giant to close Aussie stores",
+      "link": "https://www.news.com.au/finance/business/other-industries/aussie-taco-bell-stores-thrown-lifeline-after-current-owner-planned-to-close-stores-within-weeks/news-story/ffcc877f5de606f91630e617d7a36a44?from=rss-basic",
+      "snippet": "A fast food giant’s Down Under expansion has been plunged into limbo after revelations of multiple store closures – but a lifeline has emerged.",
+      "pubDate": "",
+      "source": "News.com.au"
+    },
+    {
+      "title": "Telstra’s mobile map cut under new rules",
+      "link": "https://www.news.com.au/technology/online/telstra-cuts-one-million-square-km-under-new-rules-forcing-telcos-to-provide-accurate-coverage-maps/news-story/3ff14581716fe61615d702cab6253522?from=rss-basic",
+      "snippet": "Telstra has been forced to cut its coverage map by an area greater than the size of NSW, under strict new rules from the regulator.",
+      "pubDate": "",
+      "source": "News.com.au"
     }
   ]
 }
