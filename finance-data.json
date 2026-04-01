@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-01T19:34:39.696Z",
+  "fetchedAt": "2026-04-01T22:00:45.864Z",
   "asx200": {
     "value": 8671.8,
     "change": -526.8,
@@ -104,7 +104,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -2.55,
+    "changePercent": -2.42,
     "previousClose": 0.71,
     "asOf": "2026-04-01",
     "history": [
@@ -197,6 +197,10 @@
         "close": 0.68
       },
       {
+        "date": "2026-03-31",
+        "close": 0.69
+      },
+      {
         "date": "2026-04-01",
         "close": 0.69
       }
@@ -207,25 +211,25 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4788.7,
-      "change": -505.7,
-      "changePercent": -9.55
+      "price": 4784.6,
+      "change": -509.8,
+      "changePercent": -9.63
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 75.44,
-      "change": -12.84,
-      "changePercent": -14.54
+      "price": 75.2,
+      "change": -13.08,
+      "changePercent": -14.82
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 99.71,
-      "change": 28.48,
-      "changePercent": 39.98
+      "price": 98.91,
+      "change": 27.68,
+      "changePercent": 38.86
     },
     {
       "name": "Copper",
@@ -233,7 +237,7 @@
       "iconBg": "#fef0e6",
       "price": 5.62,
       "change": -0.28,
-      "changePercent": -4.67
+      "changePercent": -4.7
     },
     {
       "name": "BHP Group",
@@ -842,6 +846,27 @@
   ],
   "news": [
     {
+      "title": "Sixers coach denies showing disrespect to 'Australian icon'",
+      "link": "https://www.abc.net.au/news/2026-04-02/nbl-adelaide-36ers-sydney-kings-grand-final-series/106524466",
+      "snippet": "",
+      "pubDate": "Wed, 01 Apr 2026 21:26:33 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "England cricketers let off with warning over NZ nightclub altercation",
+      "link": "https://www.abc.net.au/news/2026-04-02/cricket-england-harry-brook-jacob-bethell-night-club-altercation/106524420",
+      "snippet": "",
+      "pubDate": "Wed, 01 Apr 2026 20:35:38 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Marsh produces IPL fireworks but Rizvi guides Capitals to victory",
+      "link": "https://www.abc.net.au/news/2026-04-02/ipl-sameer-rizvi-delhi-capitals-mitch-marsh-lucknow-super-giants/106524364",
+      "snippet": "",
+      "pubDate": "Wed, 01 Apr 2026 20:01:42 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "‘Money down a black hole’: The alarm bells are ringing at $1.2 trillion giant",
       "link": "https://www.smh.com.au/business/companies/money-down-a-black-hole-the-alarm-bells-are-ringing-at-1-2-trillion-giant-20260331-p5zk2d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "OpenAI has had a meteoric rise but questions are being asked as it burns through cash at a frantic rate.",
@@ -903,27 +928,6 @@
       "snippet": "Larvotto Resources’ drilling of the Metz Mining Centre at its Hillgrove antimony-gold project in NSW has delivered thick antimony-gold zones combined with high-grade tungsten.",
       "pubDate": "Wed, 01 Apr 2026 16:46:34 +1100",
       "source": "SMH Business"
-    },
-    {
-      "title": "Arnold carried in jubilant scenes after Iraq qualifies for World Cup",
-      "link": "https://www.abc.net.au/news/2026-04-01/graham-arnold-coaches-iraq-to-fifa-world-cup/106522826",
-      "snippet": "",
-      "pubDate": "Wed, 01 Apr 2026 05:27:47 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Kmart, Shein sued by Aussie fashion label Sabo Skirt for allegedly ripping off designs",
-      "link": "https://www.smh.com.au/business/companies/kmart-shein-sued-by-aussie-fashion-label-sabo-skirt-for-allegedly-ripping-off-designs-20260401-p5zkn1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "A Brisbane-based womenswear brand has taken local and global juggernauts Shein and Kmart to court for copying the designs of all or some of its clothes.",
-      "pubDate": "Wed, 01 Apr 2026 16:03:20 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Broncos captain says club leaders decided winger needed to stand down",
-      "link": "https://www.abc.net.au/news/2026-04-01/brisbane-broncos-winger-josiah-karapani-dropped-for-match/106522458",
-      "snippet": "",
-      "pubDate": "Wed, 01 Apr 2026 05:03:15 +0000",
-      "source": "ABC News"
     }
   ]
 }
