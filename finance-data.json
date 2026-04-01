@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-01T10:32:01.981Z",
+  "fetchedAt": "2026-04-01T14:09:20.840Z",
   "asx200": {
     "value": 8671.8,
     "change": -526.8,
@@ -104,7 +104,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -2.21,
+    "changePercent": -2.28,
     "previousClose": 0.71,
     "asOf": "2026-04-01",
     "history": [
@@ -207,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4750.5,
-      "change": -543.9,
-      "changePercent": -10.27
+      "price": 4767,
+      "change": -527.4,
+      "changePercent": -9.96
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 74.7,
-      "change": -13.58,
-      "changePercent": -15.39
+      "price": 74.91,
+      "change": -13.38,
+      "changePercent": -15.15
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 99.8,
-      "change": 28.57,
-      "changePercent": 40.11
+      "price": 98.95,
+      "change": 27.72,
+      "changePercent": 38.92
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.62,
-      "change": -0.28,
-      "changePercent": -4.73
+      "price": 5.61,
+      "change": -0.29,
+      "changePercent": -4.87
     },
     {
       "name": "BHP Group",
@@ -842,6 +842,13 @@
   ],
   "news": [
     {
+      "title": "Sixers force NBL title decider in Game 4 cliffhanger",
+      "link": "https://www.abc.net.au/news/2026-04-01/adelaide-sixers-force-nbl-decider-in-win-against-kings/106523862",
+      "snippet": "",
+      "pubDate": "Wed, 01 Apr 2026 11:51:05 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Voss says no 'silver bullet' to fix Carlton's second-half blues",
       "link": "https://www.abc.net.au/news/2026-04-01/carlton-players-hurting-after-loss-to-melbourne-michael-voss/106522304",
       "snippet": "",
@@ -916,13 +923,6 @@
       "link": "https://www.smh.com.au/business/consumer-affairs/fuel-prices-fall-as-australian-servos-fast-track-excise-cuts-20260401-p5zkjl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Petrol prices in Australia’s biggest cities have started to fall as retailers move unexpectedly early to pass on the government’s 26¢ excise cut in part or in full.",
       "pubDate": "Wed, 01 Apr 2026 15:56:22 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Work longer shifts: One big business’s idea of a helping hand",
-      "link": "https://www.smh.com.au/business/the-economy/save-on-fuel-by-working-longer-shifts-one-big-business-idea-of-a-helping-hand-20260401-p5zklz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The government and big business are keen to show how they are helping consumers and small businesses navigate the fuel crisis. But this is no COVID-era relief package.",
-      "pubDate": "Wed, 01 Apr 2026 15:42:44 +1100",
       "source": "SMH Business"
     }
   ]
