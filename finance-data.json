@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-01T16:15:27.650Z",
+  "fetchedAt": "2026-04-01T19:34:39.696Z",
   "asx200": {
     "value": 8671.8,
     "change": -526.8,
@@ -104,7 +104,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -2.34,
+    "changePercent": -2.55,
     "previousClose": 0.71,
     "asOf": "2026-04-01",
     "history": [
@@ -207,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4813,
-      "change": -481.4,
-      "changePercent": -9.09
+      "price": 4788.7,
+      "change": -505.7,
+      "changePercent": -9.55
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 75.89,
-      "change": -12.4,
-      "changePercent": -14.04
+      "price": 75.44,
+      "change": -12.84,
+      "changePercent": -14.54
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 99.77,
-      "change": 28.54,
-      "changePercent": 40.07
+      "price": 99.71,
+      "change": 28.48,
+      "changePercent": 39.98
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 5.64,
-      "change": -0.26,
-      "changePercent": -4.39
+      "price": 5.62,
+      "change": -0.28,
+      "changePercent": -4.67
     },
     {
       "name": "BHP Group",
@@ -842,7 +842,21 @@
   ],
   "news": [
     {
-      "title": "Sixers force NBL title decider in Game 4 cliffhanger",
+      "title": "‘Money down a black hole’: The alarm bells are ringing at $1.2 trillion giant",
+      "link": "https://www.smh.com.au/business/companies/money-down-a-black-hole-the-alarm-bells-are-ringing-at-1-2-trillion-giant-20260331-p5zk2d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "OpenAI has had a meteoric rise but questions are being asked as it burns through cash at a frantic rate.",
+      "pubDate": "Thu, 02 Apr 2026 05:10:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "ASX set for more gains as global stocks rally on hopes for an end to the war; Oil falls",
+      "link": "https://www.smh.com.au/business/markets/asx-set-for-more-gains-as-global-stocks-rally-on-hopes-for-an-end-to-the-war-oil-falls-20260402-p5zks5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Stocks are rushing higher worldwide, and oil prices are easing as hopes build that the war with Iran could end soon.",
+      "pubDate": "Thu, 02 Apr 2026 05:05:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Sixers force NBL title decider after beating Kings in cliffhanger",
       "link": "https://www.abc.net.au/news/2026-04-01/adelaide-sixers-force-nbl-decider-in-win-against-kings/106523862",
       "snippet": "",
       "pubDate": "Wed, 01 Apr 2026 11:51:05 +0000",
@@ -910,20 +924,6 @@
       "snippet": "",
       "pubDate": "Wed, 01 Apr 2026 05:03:15 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Foran adamant age and experience no issue as new Sea Eagles coach",
-      "link": "https://www.abc.net.au/news/2026-04-01/kieran-foran-thoughts-before-first-match-manly-coach/106522382",
-      "snippet": "",
-      "pubDate": "Wed, 01 Apr 2026 05:02:08 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Fuel prices fall as Australian servos fast-track excise cuts",
-      "link": "https://www.smh.com.au/business/consumer-affairs/fuel-prices-fall-as-australian-servos-fast-track-excise-cuts-20260401-p5zkjl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Petrol prices in Australia’s biggest cities have started to fall as retailers move unexpectedly early to pass on the government’s 26¢ excise cut in part or in full.",
-      "pubDate": "Wed, 01 Apr 2026 15:56:22 +1100",
-      "source": "SMH Business"
     }
   ]
 }
