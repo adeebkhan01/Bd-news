@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-02T07:45:08.914Z",
+  "fetchedAt": "2026-04-02T10:15:42.926Z",
   "asx200": {
     "value": 8579.5,
     "change": -588,
@@ -108,7 +108,7 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -2.54,
+    "changePercent": -2.69,
     "previousClose": 0.71,
     "asOf": "2026-04-02",
     "history": [
@@ -215,33 +215,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4655.2,
-      "change": -639.2,
-      "changePercent": -12.07
+      "price": 4658.5,
+      "change": -635.9,
+      "changePercent": -12.01
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 71.27,
-      "change": -17.02,
-      "changePercent": -19.28
+      "price": 71.36,
+      "change": -16.92,
+      "changePercent": -19.17
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 106.61,
-      "change": 35.38,
-      "changePercent": 49.67
+      "price": 107.64,
+      "change": 36.41,
+      "changePercent": 51.12
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
       "price": 5.56,
-      "change": -0.33,
-      "changePercent": -5.68
+      "change": -0.34,
+      "changePercent": -5.73
     },
     {
       "name": "BHP Group",
@@ -850,7 +850,28 @@
   ],
   "news": [
     {
-      "title": "Live: Collingwood looking to exact revenge on Brisbane in blockbuster clash",
+      "title": "Matildas players join Japan criticising 'inequality' in prize money",
+      "link": "https://www.abc.net.au/news/2026-04-02/matildas-japan-players-call-out-prize-money-inequality/106528588",
+      "snippet": "",
+      "pubDate": "Thu, 02 Apr 2026 08:36:59 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Did Anthony Albanese kill Peter V’landys’ chances of a $4 billion deal?",
+      "link": "https://www.smh.com.au/business/companies/did-anthony-albanese-kill-peter-v-landys-chances-of-a-4-billion-deal-20260402-p5zkyq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The prime minister finally introduced long-awaited gambling advertising reforms on Thursday. The big footy codes and media companies will not be happy.",
+      "pubDate": "Thu, 02 Apr 2026 19:30:00 +1100",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Live: Sea Eagles smashing 'putrid' Dolphins in Foran's first game as coach",
+      "link": "https://www.abc.net.au/news/2026-04-02/nrl-live-updates-dolphins-sea-eagles-kieran-foran/106527680",
+      "snippet": "",
+      "pubDate": "Thu, 02 Apr 2026 08:04:19 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Ashcroft drills miracle goal as Lions dominate undermanned Pies midfield",
       "link": "https://www.abc.net.au/news/2026-04-02/afl-round-4-brisbane-lions-collingwood-magpies-live-blog/106528154",
       "snippet": "",
       "pubDate": "Thu, 02 Apr 2026 07:10:21 +0000",
@@ -910,27 +931,6 @@
       "link": "https://www.smh.com.au/business/companies/viking-fast-tracks-nevada-tungsten-plan-ahead-of-june-drilling-20260402-p5zkzv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Viking Mines is accelerating the June-quarter program at its Linka tungsten project in Nevada, targeting fresh metallurgy results and finalising 3D drill targets and permit applications.",
       "pubDate": "Thu, 02 Apr 2026 15:17:23 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Beetaloo bags $15.4M R&amp;D refund as NT gas project nears lift-off",
-      "link": "https://www.smh.com.au/business/companies/beetaloo-bags-15-4m-r-and-d-refund-as-nt-gas-project-nears-lift-off-20260402-p5zkzp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Beetaloo Energy has banked a $15.4 million R&amp;D tax refund, providing financial firepower to drive its Carpentaria Pilot gas project towards first production.",
-      "pubDate": "Thu, 02 Apr 2026 15:11:04 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Scott adamant Essendon is not rebuilding despite losing streak",
-      "link": "https://www.abc.net.au/news/2026-04-02/essendon-bombers-brad-scott-says-club-is-not-rebuilding/106526048",
-      "snippet": "",
-      "pubDate": "Thu, 02 Apr 2026 03:32:25 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "How to instantly improve your workplace (without changing jobs)",
-      "link": "https://www.smh.com.au/business/workplace/how-to-instantly-improve-your-workplace-without-changing-jobs-20260402-p5zkxk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "We spend so much time thinking about how to change other people’s behaviour, but what if improving our job started with challenging our own thinking?",
-      "pubDate": "Thu, 02 Apr 2026 14:00:52 +1100",
       "source": "SMH Business"
     }
   ]
