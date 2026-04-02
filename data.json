@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-02T13:25:06.796Z",
-  "summary": "Bangladesh faces mounting economic pressures as fuel shortages ease but energy costs climb sharply, with LPG prices jumping Tk 387 and the government securing additional LNG cargoes amid regional tensions. The domestic economy shows mixed signals: remittances hit an all-time high of $3.75 billion while development spending lags at only 30 percent of budget allocation, and a new Tk 600 crore venture fund backed by 39 banks signals confidence in startup growth. Social measures including mandatory shop closures by 8pm and adoption of Bangla QR codes by banks underscore tighter government oversight during what appears to be a continued transition period. Internationally, escalating US-Iran tensions are creating volatility in global energy markets that directly affects Bangladesh's fuel imports and oil prices.",
+  "fetchedAt": "2026-04-02T16:03:46.765Z",
+  "summary": "Bangladesh faces mounting economic pressures as exports decline for an eighth straight month while fuel shortages continue despite recovery efforts, prompting authorities to rush additional LNG purchases amid regional Middle East tensions. The interim government is pursuing financial accountability measures including money laundering investigations and asset recovery across major industrial groups, while the Chief Prosecutor warns against legal challenges from ousted former PM Sheikh Hasina. Public safety concerns dominate headlines with road fatalities averaging twenty daily during Eid travel and rising disease vectors linked to climate disruptions, while fuel price increases force retailers to curtail operating hours and consumers face inflation across essentials including LPG cylinders. The fintech sector shows resilience with Nagad and banking platforms processing record transaction volumes, though broader economic indicators suggest a cautious outlook requiring careful fiscal management in the coming year.",
   "sources": [
     {
       "id": "dailystar",
@@ -35,6 +35,90 @@
   ],
   "articles": [
     {
+      "title": "Sheikh Hasina has sent no letter to ICT, legal action will follow if anyone does: Chief Prosecutor",
+      "link": "https://en.prothomalo.com/bangladesh/1asvp0iffp",
+      "desc": "",
+      "pubDate": "Thu, 02 Apr 2026 15:03:41 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-02/9uw632ea/prothomalo-bangla2026-03-31568a0314Untitled-4.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "শেখ হাসিনা আইসিটিতে কোনো চিঠি পাঠাননি, যদি কেউ পাঠায় তাহলে আইনি ব্যবস্থা নেওয়া হবে: প্রধান প্রসিকিউটর",
+      "descBn": ""
+    },
+    {
+      "title": "What is Bangla QR?",
+      "link": "https://www.thedailystar.net/business/news/what-bangla-qr-4141941",
+      "desc": "Bangla QR is Bangladesh’s interoperable national quick response (QR) payment standard introduced by Bangladesh Bank.",
+      "pubDate": "Thu, 02 Apr 26 21:01:23 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Bangla%20QR.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "বাংলা QR কি?",
+      "descBn": "বাংলা QR হল বাংলাদেশ ব্যাংক দ্বারা চালু করা বাংলাদেশের আন্তঃপরিচালনযোগ্য জাতীয় দ্রুত প্রতিক্রিয়া (QR) পেমেন্ট মান।"
+    },
+    {
+      "title": "Which countries' ships are hit by Hormuz crisis?",
+      "link": "https://en.prothomalo.com/international/ggqluhzfms",
+      "desc": "",
+      "pubDate": "Thu, 02 Apr 2026 14:38:02 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-22/0ak278hg/Hormuz.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "হরমুজ সংকটে কোন দেশের জাহাজ আঘাত পেয়েছে?",
+      "descBn": ""
+    },
+    {
+      "title": "Bangladesh’s exports fall for eighth consecutive month",
+      "link": "https://www.thedailystar.net/business/news/bangladeshs-exports-fall-eighth-consecutive-month-4141921",
+      "desc": "Merchandise shipment decreased 18% year-on-year to $3.48 billion in March",
+      "pubDate": "Thu, 02 Apr 26 20:11:37 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Merchandise%20export.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "বাংলাদেশের রপ্তানি আটটি ক্রমাগত মাস ধরে হ্রাস পাচ্ছে",
+      "descBn": "পণ্য রপ্তানি মার্চে বছরের তুলনায় ১৮% হ্রাস পেয়ে ৩.৪৮ বিলিয়ন ডলারে নেমে এসেছে"
+    },
+    {
+      "title": "Nagad posts highest ever MFS transaction in Q1",
+      "link": "https://www.thedailystar.net/business/news/nagad-posts-highest-ever-mfs-transaction-q1-4141911",
+      "desc": "The company transacted Tk 111,355 crore in 2026’s first three months, posting a 21% year-on-year growth",
+      "pubDate": "Thu, 02 Apr 26 19:54:31 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Nagad%20Q1.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "নগদ Q1-তে সর্বোচ্চ MFS লেনদেন রেকর্ড করেছে",
+      "descBn": "কোম্পানিটি ২০২৬ সালের প্রথম তিন মাসে ১১,১৩৫৫ কোটি টাকা লেনদেন করেছে, যা বছরের পর বছর ২১% বৃদ্ধি পেয়েছে"
+    },
+    {
+      "title": "Road accidents kill an average of 20 people daily during Eid travel: Road Safety Foundation",
+      "link": "https://en.prothomalo.com/bangladesh/accident/fi2nykkme8",
+      "desc": "",
+      "pubDate": "Thu, 02 Apr 2026 13:27:35 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-02/i07r1xtz/prothomalo-bangla2026-03-21fd2xqsgxChattogramDH073220260321FBIMG1774078111473.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ঈদের যাত্রায় প্রতিদিন গড়ে ২০ জন নিহত হয় সড়ক দুর্ঘটনায়: রোড সেফটি ফাউন্ডেশন",
+      "descBn": ""
+    },
+    {
+      "title": "36 agreements to trace ‘laundered’ money of 6 industrial groups",
+      "link": "https://en.prothomalo.com/business/wzxik3koy0",
+      "desc": "",
+      "pubDate": "Thu, 02 Apr 2026 13:10:38 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-02/u7ys8pzl/WhatsApp-Image-2026-04-02-at-7.09.40-PM.jpeg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "৬টি শিল্প গ্রুপের 'কালো টাকা' ট্রেস করতে ৩৬টি চুক্তি",
+      "descBn": ""
+    },
+    {
       "title": "Minors watching adult-rated movies",
       "link": "https://en.prothomalo.com/entertainment/movies/te2b9mty91",
       "desc": "",
@@ -57,6 +141,18 @@
       "sourceColor": "#1a7a4a",
       "titleBn": "উচ্চ আদালতের আদেশ আবার সিসিসিআই নির্বাচন স্থগিত করেছে",
       "descBn": "আদালত এফবিসিসিআই-এর বিকল্প বিরোধ নিষ্পত্তি ট্রাইব্যুনালের মাধ্যমে ২৬ এপ্রিলের মধ্যে বিরোধ সমাধানের নির্দেশ দিয়েছে"
+    },
+    {
+      "title": "Celebrate Pahela Baishakh at Golden Tulip The Grandmark-Dhaka in 'Bangaliana' style",
+      "link": "https://www.thedailystar.net/business/organisation-news/press-releases/news/celebrate-pahela-baishakh-golden-tulip-the-grandmark-dhaka-bangaliana-style-4141956",
+      "desc": "Buy one get one offers will be available with selected bank cards, while children under five years can dine without charge with parents.",
+      "pubDate": "Thu, 02 Apr 26 17:31:42 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/baishak.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "গোল্ডেন টিউলিপ দ্য গ্র‍্যান্ডমার্ক-ঢাকায় 'বাঙালিয়ানা' স্টাইলে পহেলা বৈশাখ উদযাপন করুন",
+      "descBn": "নির্বাচিত ব্যাংক কার্ডে একটি কিনুন একটি ফ্রি পান অফার পাওয়া যাবে, যখন পাঁচ বছরের নীচের শিশুরা অভিভাবকদের সাথে বিনামূল্যে খাবার উপভোগ করতে পারবে।"
     },
     {
       "title": "11-party to hold protest rally Saturday demanding implementation of referendum verdict",
@@ -141,6 +237,18 @@
       "sourceColor": "#1a7a4a",
       "titleBn": "উপসাগরীয় উত্তেজনার মধ্যে বাংলাদেশ আরও তিনটি এলএনজি কার্গো কেনার জন্য ছুটে যাচ্ছে",
       "descBn": "এই উদ্যোগের মাধ্যমে সরকার ২৮ ফেব্রুয়ারিতে ইরানে মার্কিন-ইসরায়েল যুদ্ধের শুরু থেকে স্পট বাজার থেকে ১২টি এলএনজি কার্গো কেনার জন্য দরপত্র প্রকাশ করেছে"
+    },
+    {
+      "title": "Clean-up drive and discussion on plastic use held in Char Fasson",
+      "link": "https://www.thedailystar.net/business/organisation-news/press-releases/news/clean-drive-and-discussion-plastic-use-held-char-fasson-4141951",
+      "desc": "A discussion session was held on environmental protection, plastic pollution and waste management practices.",
+      "pubDate": "Thu, 02 Apr 26 16:23:09 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Char%20Fasson.jpeg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "চর ফাসনে পরিষ্কার-পরিচ্ছন্নতা অভিযান এবং প্লাস্টিক ব্যবহার সম্পর্কে আলোচনা অনুষ্ঠিত হয়েছে",
+      "descBn": "পরিবেশ সংরক্ষণ, প্লাস্টিক দূষণ এবং বর্জ্য ব্যবস্থাপনা অনুশীলন সম্পর্কে একটি আলোচনা সেশন অনুষ্ঠিত হয়েছিল।"
     },
     {
       "title": "Shopowners to close shops, malls by 8pm",
