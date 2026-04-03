@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-04-02T21:56:33.098Z",
+  "fetchedAt": "2026-04-03T03:31:09.780Z",
   "asx200": {
     "value": 8579.5,
     "change": -588,
     "changePercent": -6.41,
     "previousClose": 9167.5,
-    "asOf": "2026-04-02",
+    "asOf": "2026-04-03",
     "history": [
       {
         "date": "2026-03-01",
@@ -100,6 +100,10 @@
         "close": 8671.8
       },
       {
+        "date": "2026-04-01",
+        "close": 8579.5
+      },
+      {
         "date": "2026-04-02",
         "close": 8579.5
       }
@@ -108,14 +112,10 @@
   "audusd": {
     "value": 0.69,
     "change": -0.02,
-    "changePercent": -2.13,
+    "changePercent": -2.79,
     "previousClose": 0.71,
-    "asOf": "2026-04-02",
+    "asOf": "2026-04-03",
     "history": [
-      {
-        "date": "2026-03-02",
-        "close": 0.71
-      },
       {
         "date": "2026-03-03",
         "close": 0.71
@@ -209,7 +209,7 @@
         "close": 0.69
       },
       {
-        "date": "2026-04-02",
+        "date": "2026-04-03",
         "close": 0.69
       }
     ]
@@ -854,6 +854,27 @@
   ],
   "news": [
     {
+      "title": "Live: Voss on hot seat as Blues tackle Kangaroos to kick off Good Friday",
+      "link": "https://www.abc.net.au/news/2026-04-03/afl-round-4-kangaroos-blues-crows-dockers-live-blog-good-friday/106530078",
+      "snippet": "",
+      "pubDate": "Fri, 03 Apr 2026 03:19:45 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Aussies sweep Windies in ODIs as King reigns supreme",
+      "link": "https://www.abc.net.au/news/2026-04-03/australia-women-vs-west-indies-odi-game-three/106525924",
+      "snippet": "",
+      "pubDate": "Fri, 03 Apr 2026 01:00:29 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Green's IPL woes continue as Head fires for Sunrisers",
+      "link": "https://www.abc.net.au/news/2026-04-03/ipl-cameron-green-travis-head-knight-riders-sunrisers/106529714",
+      "snippet": "",
+      "pubDate": "Thu, 02 Apr 2026 22:38:51 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Kerr shoots down Chelsea exit rumour amid US move speculation",
       "link": "https://www.abc.net.au/news/2026-04-03/matildas-captain-sam-kerr-chelsea-exit-nwsl-denver-summit/106529604",
       "snippet": "",
@@ -875,7 +896,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Police release body cam footage showing Tiger Woods stunned over arrest",
+      "title": "Woods heard telling police he was 'just talking to the president' after crash",
       "link": "https://www.abc.net.au/news/2026-04-03/tiger-woods-police-body-cam-footage-released-car-crash-florida/106529526",
       "snippet": "",
       "pubDate": "Thu, 02 Apr 2026 20:22:28 +0000",
@@ -914,27 +935,6 @@
       "link": "https://www.abc.net.au/news/2026-04-02/matildas-japan-players-call-out-prize-money-inequality/106528588",
       "snippet": "",
       "pubDate": "Thu, 02 Apr 2026 08:36:59 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Did Anthony Albanese kill Peter V’landys’ chances of a $4 billion deal?",
-      "link": "https://www.smh.com.au/business/companies/did-anthony-albanese-kill-peter-v-landys-chances-of-a-4-billion-deal-20260402-p5zkyq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The prime minister finally introduced long-awaited gambling advertising reforms on Thursday. The big footy codes and media companies will not be happy.",
-      "pubDate": "Thu, 02 Apr 2026 19:30:00 +1100",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Foran relieved after Manly's 'whirlwind week' ends with emphatic victory",
-      "link": "https://www.abc.net.au/news/2026-04-02/nrl-live-updates-dolphins-sea-eagles-kieran-foran/106527680",
-      "snippet": "",
-      "pubDate": "Thu, 02 Apr 2026 08:04:19 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Magpies sweating on Daicos's injury after late withdrawal",
-      "link": "https://www.abc.net.au/news/2026-04-02/afl-round-4-brisbane-lions-collingwood-magpies-live-blog/106528154",
-      "snippet": "",
-      "pubDate": "Thu, 02 Apr 2026 07:10:21 +0000",
       "source": "ABC News"
     }
   ]
