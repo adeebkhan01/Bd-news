@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-04T07:07:22.238Z",
-  "summary": "Bangladesh faces a deepening energy crisis as fuel shortages force austerity measures across government operations, with ministers' vehicle fuel cut by thirty percent and new office hours introduced to manage demand, while businesses continue importing alternatives like LPG despite supply constraints. The nation's economy shows signs of stress, with goods exports falling nearly twenty percent in March and commodity prices rising sharply ahead of major celebrations. Regional geopolitical tensions have intensified following escalating military conflict between Iran and the United States, with concerns about potential impacts on Bangladesh's labor market in the Middle East and global food prices. On the domestic front, Bangladesh achieved a sporting milestone by clinching the SAFF U-20 Championship title, while infrastructure development continues with progress on Dhaka airport's third terminal and digital payment initiatives.",
+  "fetchedAt": "2026-04-04T09:43:31.775Z",
+  "summary": "Bangladesh is grappling with an escalating energy crisis that has prompted the central bank to restrict transaction hours to 10am-3pm and sparked fuel austerity measures including a 30 percent cut to ministers' vehicle fuel allocations, while multiple diesel shipments continue arriving to ease the shortage. The country's economy faces mounting pressure from the broader Middle East conflict, with exports falling nearly 20 percent in March and concerns growing about Bangladesh's labor market in the region amid geopolitical tensions. Domestically, authorities are implementing reforms across multiple sectors, including a mandatory digital payment system through Bangla QR and a nationwide measles vaccination drive beginning tomorrow, while infrastructure projects like the Dhaka airport's third terminal advance through fresh high-level negotiations with Japan. The government is simultaneously managing public health concerns including a heatwave affecting 27 districts and food inflation as essential items like hilsa fish become increasingly unaffordable ahead of the Bengali New Year.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,174 @@
     }
   ],
   "articles": [
+    {
+      "title": "New bank transaction hours 10am-3pm from tomorrow",
+      "link": "https://www.thedailystar.net/business/news/new-bank-transaction-hours-10am-3pm-tomorrow-4143181",
+      "desc": "However, bank branches, sub-branches, and booths located in sea, land, and airport port areas will continue to operate 24/7 as per existing directives",
+      "pubDate": "Sat, 04 Apr 26 15:23:10 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-02/Bangladesh%20Bank.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "নতুন ব্যাংক লেনদেনের সময় আগামীকাল থেকে সকাল ১০টা থেকে বিকেল ৩টা",
+      "descBn": "তবে সমুদ্র, স্থল এবং বিমানবন্দর বন্দর এলাকায় অবস্থিত ব্যাংক শাখা, উপশাখা এবং বুথগুলি বিদ্যমান নির্দেশনা অনুযায়ী ২৪/৭ পরিচালনা চালিয়ে যাবে"
+    },
+    {
+      "title": "PM greets Bangladesh U-20 football team",
+      "link": "https://en.prothomalo.com/sports/football/iqudtbkusu",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 08:49:20 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/6ggg4y91/image-374288-1775241960.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "প্রধানমন্ত্রী বাংলাদেশ অনূর্ধ্ব-২০ ফুটবল দলকে অভিনন্দন জানালেন",
+      "descBn": ""
+    },
+    {
+      "title": "Returning to the old law will not restore confidence",
+      "link": "https://en.prothomalo.com/bangladesh/z345qknezr",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 08:45:09 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/vp0zybzv/Md-Nur-Khan.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "পুরানো আইনে ফিরে যাওয়া আস্থা পুনরুদ্ধার করবে না",
+      "descBn": ""
+    },
+    {
+      "title": "Tehran rejected 48-hour ceasefire proposal from US, says Iranian media",
+      "link": "https://en.prothomalo.com/international/middle-east/e6fw7hnsxi",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 08:39:01 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-02/pvpd26nw/CSQJXQI5ONPCHJ2MNYVSMDCSWA.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ইরানী মিডিয়া বলেছে, আমেরিকার ৪৮ ঘণ্টার যুদ্ধবিরতি প্রস্তাব তেহরান প্রত্যাখ্যান করেছে",
+      "descBn": ""
+    },
+    {
+      "title": "14 dead as Russia launches new daytime attacks on Ukraine",
+      "link": "https://en.prothomalo.com/international/europe/wfgefcmood",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 08:37:17 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/rwg1uzs0/417436-01-02.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "রাশিয়া ইউক্রেনে নতুন দিনের আক্রমণ চালায়, ১৪ জন নিহত",
+      "descBn": ""
+    },
+    {
+      "title": "Another vessel carrying 34,000 tonnes of diesel arrives in Bangladesh",
+      "link": "https://en.prothomalo.com/business/local/dmk06yvt34",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 08:16:09 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/63xwdeao/prothomalo-bangla2026-04-04otwb80e4WhatsApp-Image-2026-04-04-at-13.24.02-1.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বাংলাদেশে ৩৪,০০০ টন ডিজেল বহনকারী আরেকটি জাহাজ পৌঁছেছে",
+      "descBn": ""
+    },
+    {
+      "title": "The Iran war is exposing Bangladesh’s economic vulnerabilities",
+      "link": "https://www.thedailystar.net/business/news/the-iran-war-exposing-bangladeshs-economic-vulnerabilities-4143146",
+      "desc": "The Iran war is reaching Bangladesh through the availability and price of fuel, fertiliser, freight, and foreign exchange",
+      "pubDate": "Sat, 04 Apr 26 14:15:37 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/Thakurgaon%20fuel%20crisis.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "ইরান যুদ্ধ বাংলাদেশের অর্থনৈতিক দুর্বলতা প্রকাশ করছে",
+      "descBn": "ইরান যুদ্ধ জ্বালানি, সার, পরিবহন খরচ এবং বিদেশি মুদ্রার প্রাপ্যতা এবং মূল্যের মাধ্যমে বাংলাদেশে পৌঁছাচ্ছে"
+    },
+    {
+      "title": "Ignoring fundamental reforms is suicidal for everyone",
+      "link": "https://en.prothomalo.com/bangladesh/qkcl25pahp",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 08:15:00 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/4zwe3801/iftekharuzzaman.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "মৌলিক সংস্কারকে উপেক্ষা করা সবার জন্য আত্মঘাতী",
+      "descBn": ""
+    },
+    {
+      "title": "Mahbub Morshed leased his own car to BSS through a rent-a-car firm",
+      "link": "https://en.prothomalo.com/bangladesh/8h0iys0f2x",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 07:52:08 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/kgb18dpa/prothomalo-bangla2026-04-0473gae3ddmahbub-morshed-bss-file-photo.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "মাহবুব মোরশেদ একটি ভাড়া-গাড়ি ফার্মের মাধ্যমে নিজের গাড়ি বিএসএসকে ভাড়া দিয়েছেন",
+      "descBn": ""
+    },
+    {
+      "title": "LPG: Omera tops imports, US largest source",
+      "link": "https://en.prothomalo.com/business/local/t6llpnd9gl",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 07:48:57 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/mu0o1tue/ZCX4DF3RZVPL7DR5GPEMPE642I.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "এলপিজি: ওমেরা আমদানিতে শীর্ষ, যুক্তরাষ্ট্র বৃহত্তম উৎস",
+      "descBn": ""
+    },
+    {
+      "title": "Measles vaccination drive begins tomorrow, which upazilas on the list",
+      "link": "https://en.prothomalo.com/bangladesh/6mcem9a88z",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 07:43:58 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-04/wvi93oor/prothomalo-bangla2026-03-30f347qwrlCapture.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "আগামীকাল হাম প্রতিরোধ টিকাকরণ অভিযান শুরু হবে, কোন উপজেলাগুলি তালিকায় রয়েছে",
+      "descBn": ""
+    },
+    {
+      "title": "Setbacks in institutional reforms",
+      "link": "https://en.prothomalo.com/bangladesh/8585xltqul",
+      "desc": "",
+      "pubDate": "Sat, 04 Apr 2026 07:33:20 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-02-22/xsuwu2c8/Parliament-3.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "প্রাতিষ্ঠানিক সংস্কারে বিপর্যয়",
+      "descBn": ""
+    },
+    {
+      "title": "US registers strong job growth in boost to Trump",
+      "link": "https://www.thedailystar.net/business/news/us-registers-strong-job-growth-boost-trump-4143111",
+      "desc": "The world's largest economy gained 178,000 jobs in March",
+      "pubDate": "Sat, 04 Apr 26 13:11:25 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/09/07/afp_us_jobs_jan11.25.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "ট্রাম্পের জন্য শক্তিশালী চাকরির বৃদ্ধি নিবন্ধন করেছে যুক্তরাষ্ট্র",
+      "descBn": "বিশ্বের বৃহত্তম অর্থনীতি মার্চে ১৭৮,০০০ চাকরি অর্জন করেছে"
+    },
+    {
+      "title": "Middle East war: global economic fallout",
+      "link": "https://www.thedailystar.net/business/news/middle-east-war-global-economic-fallout-4143106",
+      "desc": "Bangladesh cut office and shop hours and banned decorative lighting at weddings starting Friday",
+      "pubDate": "Sat, 04 Apr 26 13:08:00 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/israel_iran_war.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "মধ্যপ্রাচ্যের যুদ্ধ: বৈশ্বিক অর্থনৈতিক প্রভাব",
+      "descBn": "বাংলাদেশ শুক্রবার থেকে অফিস এবং দোকানের সময় কমিয়েছে এবং বিবাহে সাজসজ্জামূলক আলো নিষিদ্ধ করেছে"
+    },
     {
       "title": "‘Playing sound boxes or horn speakers will lead to expulsion from mosque, madrasa and graveyard’",
       "link": "https://en.prothomalo.com/bangladesh/local-news/g0cnombv8q",
