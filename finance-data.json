@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-05T03:41:01.215Z",
+  "fetchedAt": "2026-04-05T07:35:22.194Z",
   "asx200": {
     "value": 8579.5,
     "change": -588,
@@ -213,7 +213,7 @@
         "close": 0.69
       },
       {
-        "date": "2026-04-04",
+        "date": "2026-04-05",
         "close": 0.69
       }
     ]
@@ -224,32 +224,32 @@
       "icon": "🥇",
       "iconBg": "#fef9ee",
       "price": 4702.7,
-      "change": -591.7,
-      "changePercent": -11.18
+      "change": -362.6,
+      "changePercent": -7.16
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
       "price": 73.17,
-      "change": -15.11,
-      "changePercent": -17.12
+      "change": -8.52,
+      "changePercent": -10.43
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
       "price": 112.06,
-      "change": 40.83,
-      "changePercent": 57.32
+      "change": 31.05,
+      "changePercent": 38.33
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
       "price": 5.68,
-      "change": -0.21,
-      "changePercent": -3.61
+      "change": -0.07,
+      "changePercent": -1.24
     },
     {
       "name": "BHP Group",
@@ -858,7 +858,42 @@
   ],
   "news": [
     {
-      "title": "Live: Tempestuous NBL Finals comes down to game five between Kings and 36ers",
+      "title": "Inside the office where Trump’s words are turned into millions of dollars",
+      "link": "https://www.smh.com.au/business/markets/inside-the-office-where-trump-s-words-are-turned-into-millions-of-dollars-20260402-p5zky2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "As US B-2 bombers and F-35 fighter jets strafe Iran, another battle rages over the price of oil.",
+      "pubDate": "Sun, 05 Apr 2026 17:30:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Tim Tszyu dominates Denis Nurja to claim title in Wollongong",
+      "link": "https://www.abc.net.au/news/2026-04-05/tim-tszyu-claims-boxing-title-against-denis-nurja/106533078",
+      "snippet": "",
+      "pubDate": "Sun, 05 Apr 2026 06:16:50 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Even if the Strait of Hormuz opened tomorrow, it could take months for fuel prices to come down",
+      "link": "https://www.smh.com.au/business/markets/australia-s-high-petrol-prices-face-long-recovery-to-pre-war-levels-20260331-p5zkcy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Donald Trump says oil prices would fall rapidly if the US ended its war with Iran. Australian fuel companies are preparing for a longer setback.",
+      "pubDate": "Sun, 05 Apr 2026 15:46:30 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Live: Demons in position for upset win at the MCG",
+      "link": "https://www.abc.net.au/news/2026-04-05/afl-easter-sunday-live-blog/106530544",
+      "snippet": "",
+      "pubDate": "Sun, 05 Apr 2026 04:54:38 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Knights turn it on to punish sloppy Raiders",
+      "link": "https://www.abc.net.au/news/2026-04-05/nrl-live-updates-sharks-warriors-knights-raiders/106532864",
+      "snippet": "",
+      "pubDate": "Sun, 05 Apr 2026 03:37:54 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Kings crowned NBL champions after thrilling overtime win over 36ers",
       "link": "https://www.abc.net.au/news/2026-04-05/nbl-finals-live-game-five-sydney-kings-vs-adelaide-36ers/106531510",
       "snippet": "",
       "pubDate": "Sun, 05 Apr 2026 03:20:49 +0000",
@@ -905,41 +940,6 @@
       "snippet": "",
       "pubDate": "Sat, 04 Apr 2026 19:21:14 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Cotton-Davis rivalry has gone global, 36ers coach says ahead of decider",
-      "link": "https://www.abc.net.au/news/2026-04-04/nbl-championship-getting-global-attention-36ers-coach-says/106531442",
-      "snippet": "",
-      "pubDate": "Sat, 04 Apr 2026 06:29:11 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Watch as the Olympic silver medallist destroys the Stawell Gift field",
-      "link": "https://www.abc.net.au/news/2026-04-04/shacarri-richardson-christian-coleman-stawell-gift-heats/106531620",
-      "snippet": "",
-      "pubDate": "Sat, 04 Apr 2026 06:26:31 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Walsh hospitalised following Broncos’ controversial win",
-      "link": "https://www.abc.net.au/news/2026-04-04/nrl-dragons-cowboys-broncos-titans-flanagan-walsh/106531642",
-      "snippet": "",
-      "pubDate": "Sat, 04 Apr 2026 06:18:43 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Eagles back Reid after standing up for teammate in heavy loss to Swans",
-      "link": "https://www.abc.net.au/news/2026-04-04/swans-thump-eagles-port-down-tigers/106530538",
-      "snippet": "",
-      "pubDate": "Sat, 04 Apr 2026 04:48:30 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Apple’s 50-year history has redefined technology, culture and comebacks",
-      "link": "https://www.smh.com.au/business/companies/apple-s-50-year-history-has-redefined-technology-culture-and-comebacks-20260402-p5zktc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "An improbable odyssey began on April Fools’ Day five decades ago, when Steve Jobs and Steve Wozniak signed a two-page document that created Apple Computer Co.",
-      "pubDate": "Sat, 04 Apr 2026 07:00:00 +1100",
-      "source": "SMH Business"
     }
   ]
 }
