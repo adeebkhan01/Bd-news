@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-24T11:05:41.547Z",
-  "summary": "Australian news today is dominated by several significant stories across law enforcement, environmental concerns, and infrastructure development. A potential bird flu case in Queensland has triggered high alert, while a major development boom continues with a new 40-storey tower planned for Brisbane's CBD. Criminal justice matters feature prominently, including investigations into a death during an Adelaide arrest, charges related to AI-generated deepfake material targeting women, and the ongoing trial of YouTube personality Yung Filly on assault allegations. Industrial relations tensions persist as teacher pay negotiations stall following strikes, and environmental issues ranging from the Great Barrier Reef's reprieve from UNESCO's endangered list to wind farm projects reflect ongoing tensions between development and conservation.",
+  "fetchedAt": "2026-07-24T13:52:24.796Z",
+  "summary": "Australia faces a day of serious crime and public safety concerns, with a police officer shot in an active incident, sexual assaults in Melbourne's west, and a death during an Adelaide arrest under police investigation. Environmental and health issues dominate, including Queensland's first suspected bird flu case, declining nutrient levels in food, and a threat to Sydney's queer venue community. The Great Barrier Reef has dodged UNESCO criticism while a major new AUKUS defence deal signals strengthened security ties, and teacher pay negotiations remain stalled after recent strike action. Corporate and political friction continues with KPMG's expulsion of a partner, a Socceroos star's alleged cocaine test, and revelations about a secretive Point Piper dinner involving the Prime Minister.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Nutrients in our food are declining. Can regenerative agriculture save it?",
+      "link": "https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it",
+      "desc": "<p>Approach focuses on rebuilding soil health, increasing biodiversity and restoring natural ecosystems</p><p>For the last few decades, the nutrient content of our crops has been declining. In the lat",
+      "pubDate": "Fri, 24 Jul 2026 12:34:46 GMT",
+      "img": "https://i.guim.co.uk/img/media/e7ce6591a7b0a1f15b55ddd9f8f8d4394a607c5f/711_0_7110_5688/master/7110.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Man arrested after two women sexually assaulted in Hoppers Crossing attacks",
+      "link": "https://www.smh.com.au/national/man-arrested-after-two-women-sexually-assaulted-in-hoppers-crossing-attacks-20260724-p60iej.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 39-year-old has been taken into custody following two frightening sexual assaults in Melbourne's west.",
+      "pubDate": "Fri, 24 Jul 2026 21:42:57 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/98cae7c038273093baa148c94035b5caa4b7b9ad",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Police officer shot, rushed to hospital as suburb locked down",
+      "link": "https://www.smh.com.au/national/queensland/police-officer-shot-rushed-to-hospital-as-suburb-locked-down-20260724-p60if0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "As of 9pm, police remain on the scene and are attempting to engage with the man.",
+      "pubDate": "Fri, 24 Jul 2026 21:10:28 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7931504147770104%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/b596cb51e0deb2f7af375649f31df3a0cd281005",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "‘Total chaos’: the biological wonderland threatened by Trump’s border wall",
       "link": "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species",
@@ -33278,16 +33308,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Farm workers at higher risk amid screwworm outbreak in US south-west",
-      "link": "https://www.theguardian.com/us-news/2026/jun/24/us-south-west-farmers-screwworm-healthcare",
-      "desc": "<p>Those who work with animals are at greater risk for infection, but face challenges in accessing healthcare</p><p>Agricultural workers are among the highest risk group for human infection during the",
-      "pubDate": "Wed, 24 Jun 2026 12:00:44 GMT",
-      "img": "https://i.guim.co.uk/img/media/eab59ce89da172bd105ac844ff9dffb324fb770b/554_0_4755_3803/master/4755.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
