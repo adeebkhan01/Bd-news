@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-24T19:35:01.905Z",
-  "summary": "Australia's political landscape is shifting, with One Nation's rising Sydney presence and questions swirling around South Australian premier Peter Malinauskas's ambitions, while Prime Minister Albanese faces warnings not to underestimate Pauline Hanson. Critical policy debates dominate parliament, including heated disputes over guns buybacks, assisted dying telehealth provisions amid elder abuse concerns, and stalled teacher pay negotiations following recent strikes. On the economic and infrastructure front, Australia is grappling with the rollout of electric vehicle charging networks, major development projects like a forty-storey Brisbane office tower, and a substantial AUKUS defence partnership boost. Serious incidents including a police shooting in a locked-down suburb and allegations of sexual assault in Hoppers Crossing underscore ongoing public safety concerns.",
+  "fetchedAt": "2026-07-24T22:08:31.003Z",
+  "summary": "Australia's manufacturing and industrial future dominates the policy agenda, with reports highlighting factory-built homes as a reindustrialisation opportunity and the NT government backing an AI industry powered by Beetaloo gas. Several significant crime incidents occurred overnight, including a Queensland police officer shot during a welfare check and a teenager stabbed in Sydney's inner-west. Political divisions are sharpening around contentious issues, from Pauline Hanson's controversial comments on domestic violence to broader debates over gun buybacks and voluntary assisted dying via telehealth. Infrastructure development continues apace with major projects like a 40-storey office tower planned for Brisbane and a 1.5 billion dollar wind farm in Queensland progressing despite local opposition.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Factory-built homes could help Australia reindustrialise, report says",
+      "link": "https://www.abc.net.au/news/2026-07-25/manufactured-homes-housing-crisis-labor-john-curtin-think-tank/106950488",
+      "desc": "Factory-built homes could solve Australia's housing crisis and drive reindustrialisation, a Labor think tank report says.",
+      "pubDate": "Fri, 24 Jul 2026 22:00:55 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/859908e5c144f4441b7fec8f1f3cb3de?impolicy=wcms_crop_resize&amp;cropH=3335&amp;cropW=2501&amp;xPos=1249&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Queensland Officer shot during welfare check",
+      "link": "https://www.smh.com.au/national/queensland-officer-shot-during-welfare-check-20260725-p60ig0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A Queensland police officer has been shot during a welfare check, with the alleged shooter found dead shortly after.",
+      "pubDate": "Sat, 25 Jul 2026 07:33:05 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/7c993eb415933f3ae696e52714ff130ee7b7eb6f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Teenager stabbed in the head in Sydney’s inner-west",
+      "link": "https://www.smh.com.au/national/teenager-stabbed-in-the-head-in-sydney-s-inner-west-20260725-p60ifz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 17-year-old has been stabbed in the head in Sydney’s inner-west.",
+      "pubDate": "Sat, 25 Jul 2026 07:31:57 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8e4ef13f96ba41fd4f9830b9c793f79e2998ba4c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man dead after falling from platform in Sydney’s inner-west",
+      "link": "https://www.smh.com.au/national/man-dead-after-falling-from-platform-in-sydney-s-inner-west-20260725-p60ify.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man has been killed after being hit by a train in Sydney's inner west.",
+      "pubDate": "Sat, 25 Jul 2026 07:31:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4e4d12bb9667c5b43f0890960b078f8feb3a52c9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "NT government opens door to AI industry powered by Beetaloo gas",
+      "link": "https://www.abc.net.au/news/rural/2026-07-25/nt-govt-promises-ai-capital-in-the-outback/106952852",
+      "desc": "The Northern Territory government wants to develop the \"data centre capital of the globe\" and says natural gas will be key to succeeding.",
+      "pubDate": "Fri, 24 Jul 2026 21:25:33 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/94ea68dbea7cc7fe739a2ba078ebbed6?impolicy=wcms_crop_resize&amp;cropH=3072&amp;cropW=2304&amp;xPos=2007&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Worker housing for $1.5b Queensland wind farm faces opposition",
+      "link": "https://www.abc.net.au/news/2026-07-25/kingaroy-residents-oppose-worker-housing-qld-tarong-wind-farm/106953774",
+      "desc": "While the worker accommodation would be a $68 million investment in Kingaroy, residents are voicing their opposition to the temporary project.",
+      "pubDate": "Fri, 24 Jul 2026 20:57:20 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/7e42b024706960cd8a087c5bfcd45545?impolicy=wcms_crop_resize&amp;cropH=1333&amp;cropW=1000&amp;xPos=385&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Brisbane’s best behaved schools according to parents, students and teachers",
+      "link": "https://www.smh.com.au/national/queensland/brisbane-s-best-behaved-schools-according-to-parents-students-and-teachers-20260626-p60agf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Despite a spike in suspensions, one Brisbane state school kept 100 per cent of parents satisfied. Cindy Leckey was one of them.",
+      "pubDate": "Sat, 25 Jul 2026 06:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4313%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_362%2C$y_212/t_crop_custom/q_86%2Cf_auto/0de2d1c48284fe4590dea3db18e08cc97e0da8f20e3f8ffbd60a2f2d6fb61697",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Finish line in sight’ for world-leading cat eradication on Kangaroo Island",
+      "link": "https://www.smh.com.au/environment/conservation/finish-line-in-sight-for-world-leading-cat-eradication-on-kangaroo-island-20260723-p60hvt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
+      "desc": "The final piece of the funding puzzle will pay for a renewed push to remove the last 150 cats from the eastern half of the island.",
+      "pubDate": "Sat, 25 Jul 2026 06:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7879%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_46/t_crop_custom/q_86%2Cf_auto/6959eed6b5d544abddddc8d2ad6475e145dfe41df99419c66c0df03b1cc89b17",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Brewery uses solar bitcoin rig to make beer and cover power bills",
       "link": "https://www.abc.net.au/news/2026-07-25/bitcoin-mine-generates-heat-to-produce-beer/106831374",
@@ -33058,186 +33138,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "'ISIS bride' barred from Australia issued permit to return home",
-      "link": "https://www.abc.net.au/news/2026-06-25/isis-bride-syria-return-home-security/106839208",
-      "desc": "The woman, who is an Australian citizen, had been issued a temporary exclusion order and was living in a refugee camp in Syria.",
-      "pubDate": "Wed, 24 Jun 2026 22:04:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/1963c110632418d85b2f1e7b34ff90e4?impolicy=wcms_crop_resize&amp;cropH=4217&amp;cropW=3163&amp;xPos=1323&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Two injured, man arrested after double stabbing in McDonald’s car park",
-      "link": "https://www.smh.com.au/national/victoria/two-injured-man-arrested-after-double-stabbing-in-mcdonald-s-car-park-20260625-p609vo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Crime scenes remain in place at a McDonald’s carpark and outside a Melton ambulance station.",
-      "pubDate": "Thu, 25 Jun 2026 07:41:37 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4313%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e08c7269f5dfc1f514cc1aac7a441c18002005274594ad1e84d6571c06df8efc",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Unemployment rate falls to 4.4pc, ASX falls, Judo crashes — as it happened",
-      "link": "https://www.abc.net.au/news/2026-06-25/asx-markets-business-news-live-updates-jun25/103779008",
-      "desc": "The unemployment rate has fallen to 4.4 per cent in May, down from 4.5 per cent in April. The ASX dropped after a sell-off in miners and banks.",
-      "pubDate": "Wed, 24 Jun 2026 21:20:12 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/f3be55dca0dcf8a2ddd075dd909fb6c7?impolicy=wcms_crop_resize&amp;cropH=1989&amp;cropW=1483&amp;xPos=1071&amp;yPos=8&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Live: Teal MPs launch new Community Strong Australia party",
-      "link": "https://www.abc.net.au/news/2026-06-25/federal-politics-live-blog-teal-political-party/106839082",
-      "desc": "Two Sydney teal independent MPs have launched a new centrist political party, with ambitions of picking up seats in the Senate. Follow live.",
-      "pubDate": "Wed, 24 Jun 2026 21:04:18 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8624cd8b7901828acdb0efe660400e1b?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=675&amp;xPos=463&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia news LIVE: Teals to form new party; ASIO boss criticises terror threat level",
-      "link": "https://www.smh.com.au/national/australia-news-live-teals-to-form-new-party-asio-boss-criticises-terror-threat-level-20260625-p609vp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "We bring you the latest live news updates from Australia and beyond.",
-      "pubDate": "Thu, 25 Jun 2026 06:50:13 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.218%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/2cc77caec6a2dca13a37060776ec7dd835ddfbf1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Zali Steggall and Allegra Spender launch new party aimed at political centre promising ‘reason over rage’",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/25/zali-steggall-and-allegra-spender-launch-new-party-aimed-at-political-centre-promising-reason-over-rage",
-      "desc": "<p>New party dubbed Community Strong Australia follows secret talks about future of community independents</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/25/australia-",
-      "pubDate": "Wed, 24 Jun 2026 20:33:27 GMT",
-      "img": "https://i.guim.co.uk/img/media/e694cf922702e1803fbdac71299176f733f5d645/705_0_5641_4515/master/5641.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Former Liberal vice-president Teena McQueen dies after short illness",
-      "link": "https://www.abc.net.au/news/2026-06-25/teena-mcqueen-liberal-party-one-nation-dies-obituary/106839048",
-      "desc": "Teena McQueen, who served as the federal Liberal Party vice-president from 2017 to 2023, died on Wednesday after a battle with a short but severe medical condition.",
-      "pubDate": "Wed, 24 Jun 2026 20:22:10 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/f3e72c99d3a52df597bcb20c1cc77f05?impolicy=wcms_crop_resize&amp;cropH=878&amp;cropW=658&amp;xPos=580&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "ASIO chief concerned over terrorism threats",
-      "link": "https://www.smh.com.au/national/asio-chief-concerned-over-terrorism-threats-20260625-p609vt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The ASIO director-general says Australia is facing &#34;unprecedented&#34; threats from terrorists.",
-      "pubDate": "Thu, 25 Jun 2026 06:22:08 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/9e1e93702ec189f76333c0edefe9f0793fdd9692",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Teal independent MPs to form new political party",
-      "link": "https://www.smh.com.au/national/teal-independent-mps-to-form-new-political-party-20260625-p609vv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two Teal MPs have joined forces to launch a new political party.",
-      "pubDate": "Thu, 25 Jun 2026 06:21:58 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/58605a877e00433ad9d77137c1707a1ee717a770",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Two men stabbed in Melbourne car park",
-      "link": "https://www.smh.com.au/national/two-men-stabbed-in-melbourne-car-park-20260625-p609vr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A machete has been seized as police investigate the stabbing of two men in a Melbourne car park.",
-      "pubDate": "Thu, 25 Jun 2026 06:17:07 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/90a9f59639c0a8ff51612d03782b31064aa8fc1c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Smoke billowing from warehouse fire",
-      "link": "https://www.smh.com.au/national/smoke-billowing-from-warehouse-fire-20260625-p609vq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Roads remain closed after a giant fire at a warehouse in south-western Sydney.",
-      "pubDate": "Thu, 25 Jun 2026 06:15:14 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1d24c93987ad56d97d79117f7f2e8291203e1c6d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
-      "link": "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex",
-      "desc": "<p>Falling shares push tech mogul back down to billionaire ranks after SpaceX IPO made him world’s first trillionaire</p><p>Elon Musk was no longer a trillionaire by the time markets closed on Wednesd",
-      "pubDate": "Wed, 24 Jun 2026 20:02:33 GMT",
-      "img": "https://i.guim.co.uk/img/media/521f3b049ac5da2f48e391d41a57b861f897c558/2025_702_4753_3802/master/4753.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Scorching heatwaves, torrential rain – all in a matter of days. It’s not just bad luck",
-      "link": "https://theconversation.com/scorching-heatwaves-torrential-rain-all-in-a-matter-of-days-its-not-just-bad-luck-285139",
-      "desc": "Australia’s weather extremes are increasingly arriving back-to-back in a ‘weather whiplash’.",
-      "pubDate": "2026-06-24T19:46:03Z",
-      "img": "https://images.theconversation.com/files/743785/original/file-20260624-57-olqck1.jpg?ixlib=rb-4.1.0&amp;rect=0%2C342%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Extreme heat is harming remote First Nations communities. It’s time we listen to them",
-      "link": "https://theconversation.com/extreme-heat-is-harming-remote-first-nations-communities-its-time-we-listen-to-them-282975",
-      "desc": "Climate change is disproportionately affecting remote First Nations communities – as three experts explain.",
-      "pubDate": "2026-06-24T19:45:51Z",
-      "img": "https://images.theconversation.com/files/742603/original/file-20260617-57-basb65.jpg?ixlib=rb-4.1.0&amp;rect=0%2C252%2C4032%2C2016&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "A ‘direct wave’ from colliding black holes reveals signature of a whirlpool in spacetime",
-      "link": "https://theconversation.com/a-direct-wave-from-colliding-black-holes-reveals-signature-of-a-whirlpool-in-spacetime-286032",
-      "desc": "For the first time, scientists have gained information from the very surface of a newborn black hole.",
-      "pubDate": "2026-06-24T19:45:15Z",
-      "img": "https://images.theconversation.com/files/743780/original/file-20260624-57-8uqh1b.jpg?ixlib=rb-4.1.0&amp;rect=0%2C480%2C7680%2C3840&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Fact-checking is good journalistic practice. But it will do nothing to stop the rise of Pauline Hanson",
-      "link": "https://theconversation.com/fact-checking-is-good-journalistic-practice-but-it-will-do-nothing-to-stop-the-rise-of-pauline-hanson-285937",
-      "desc": "Post-truth politics means emotions trump facts. The major parties would be wise to remember this when trying to combat the rise of One Nation.",
-      "pubDate": "2026-06-24T19:44:34Z",
-      "img": "https://images.theconversation.com/files/743781/original/file-20260624-71-el4msy.jpg?ixlib=rb-4.1.0&amp;rect=0%2C435%2C7806%2C3903&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "The government wants to increase home ownership. But life is tough for many new homeowners",
-      "link": "https://theconversation.com/the-government-wants-to-increase-home-ownership-but-life-is-tough-for-many-new-homeowners-281983",
-      "desc": "Australia has long romanticised home ownership. But with evidence linking mortgage stress to poor mental health, we can’t forget people once they get the keys.",
-      "pubDate": "2026-06-24T19:44:21Z",
-      "img": "https://images.theconversation.com/files/739033/original/file-20260601-102-24ivcs.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1004%2C4674%2C2337&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Small designers hitting roadblocks trying to get support against Shein copies",
-      "link": "https://www.abc.net.au/news/2026-06-25/australian-designers-shein-copy-support-roadblocks/106836492",
-      "desc": "Small Australian fashion designers who have had their designs copied by overseas ultra-fast fashion companies say they have hit continuous roadblocks trying to get support.",
-      "pubDate": "Wed, 24 Jun 2026 19:40:57 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8ad77e06f7bac5cdc7a2714482e3b4ad?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=405&amp;xPos=35&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
     }
   ]
 }

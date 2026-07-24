@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-24T19:35:18.604Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Trump administration pursues aggressive trade and foreign policy measures, imposing sweeping tariffs on numerous partners while threatening investigations into EU tech regulations and signaling conditions on Middle East nuclear deals. The Middle East remains a critical flashpoint, with U.S.-Iran military strikes continuing in the Gulf, Israeli-Palestinian violence intensifying in the West Bank, and Netanyahu preparing a White House meeting amid broader regional instability. In other major developments, Ukraine faces military leadership changes as the war grinds on with continued Russian-Ukrainian clashes, South Africa's president temporarily halts an impeachment inquiry, and Bangladesh's president resigns amid political turmoil. International institutions are under strain, with the ICC prosecutor facing removal and the World Chess Federation imposing sanctions on Russia's leadership.",
+  "fetchedAt": "2026-07-24T22:08:48.751Z",
+  "summary": "Global tensions are escalating across multiple fronts as the Trump administration pursues aggressive tariff policies against trading partners while intensifying military confrontation with Iran, with thirteen consecutive nights of US strikes now underway. The Israel-Palestine conflict is intensifying sharply, with settlers carrying out deadly raids in the West Bank that have killed multiple Palestinians, while Netanyahu prepares to meet Trump amid broader concerns about regional war escalation and a potential US-Saudi nuclear deal. International institutions face mounting pressure, including Venezuela's departure from the International Criminal Court over bias claims and UNESCO's listing of endangered heritage sites in occupied territories. Meanwhile, Ukraine continues its war against Russia with military leadership changes aimed at improving performance, and African nations experience significant political shifts including Bangladesh's presidential resignation and South Africa's temporary halt to impeachment proceedings.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,56 @@
   ],
   "articles": [
     {
+      "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
+      "link": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
+      "desc": "Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.",
+      "pubDate": "Fri, 24 Jul 2026 20:51:13 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25324611093500-1763707940.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
+      "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
+      "desc": "Announcement comes as Venezuela has hewed close to Trump administration, who has pledged to&#039;disable&#039; international court.",
+      "pubDate": "Fri, 24 Jul 2026 20:32:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a63c0b9aa3eb-1784922297.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
+      "link": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
+      "desc": "Houthi-controlled foreign ministry warns that the attack will spark further escalation in the Yemeni conflict.",
+      "pubDate": "Fri, 24 Jul 2026 20:27:16 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-houthi-rally-1784321912.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
+      "desc": "Canada cancelled planned cross-border ribbon-cutting ceremony and the milestone opening was only among Canadians.",
+      "pubDate": "Fri, 24 Jul 2026 20:22:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26205661117834-1784922749.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
+      "link": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
+      "desc": "In a historic first, Afrah al-Zouba was appointed Yemeni foreign minister on July 23.",
+      "pubDate": "Fri, 24 Jul 2026 20:18:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/1731573712323-1784922189.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&amp;at_campaign=rss",
       "desc": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
@@ -33,6 +83,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump threatens EU with tariff probe over Google, tech fines",
+      "link": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-eu-2092-rdf",
+      "desc": "US President Donald Trump has said he will initiate a tariff investigation against the EU in response to fines against US tech companies. He cited the latest case that Google lost on Thursday, as well",
+      "pubDate": "2026-07-24T18:46:00Z",
+      "img": "https://static.dw.com/image/77592190_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
@@ -12713,36 +12773,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Zimbabwe’s Senate approves amendment extending presidential term",
-      "link": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss",
-      "desc": "Constitutional amendment will keep President Mnangagwa in office until 2030 and allow parliament to elect the president.",
-      "pubDate": "Wed, 24 Jun 2026 20:43:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3c37e3-1782331363.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit",
-      "link": "https://www.aljazeera.com/news/2026/6/24/top-european-leaders-vow-strong-support-for-ukraine-ahead-of-nato-summit?traffic_source=rss",
-      "desc": "E5 talks in Berlin took place between heads of state of Britain, France, Italy, Poland and Germany ahead of July summit.",
-      "pubDate": "Wed, 24 Jun 2026 20:24:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3c3352-1782330194.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "De la Espriella pledges to restore Colombia’s relations with Israel",
-      "link": "https://www.aljazeera.com/news/2026/6/24/de-la-espriella-pledges-to-restore-colombias-relations-with-israel?traffic_source=rss",
-      "desc": "The far-right president-elect has pledged to rebuild ties with Israel and the US following tensions under Gustavo Petro.",
-      "pubDate": "Wed, 24 Jun 2026 19:56:41 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3c2db6b991-1782328758.jpg?resize=1920%2C1314",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
