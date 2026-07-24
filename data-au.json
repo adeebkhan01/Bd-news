@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-24T13:52:24.796Z",
-  "summary": "Australia faces a day of serious crime and public safety concerns, with a police officer shot in an active incident, sexual assaults in Melbourne's west, and a death during an Adelaide arrest under police investigation. Environmental and health issues dominate, including Queensland's first suspected bird flu case, declining nutrient levels in food, and a threat to Sydney's queer venue community. The Great Barrier Reef has dodged UNESCO criticism while a major new AUKUS defence deal signals strengthened security ties, and teacher pay negotiations remain stalled after recent strike action. Corporate and political friction continues with KPMG's expulsion of a partner, a Socceroos star's alleged cocaine test, and revelations about a secretive Point Piper dinner involving the Prime Minister.",
+  "fetchedAt": "2026-07-24T16:45:19.327Z",
+  "summary": "Australia faces mounting domestic security and policy challenges, with tensions rising around nuclear submarine plans, teacher strikes, and law enforcement incidents including a police shooting in an unnamed suburb and a death during an Adelaide arrest under investigation. Political pressure is intensifying on Prime Minister Albanese from Pauline Hanson's influence, while controversial comments about domestic violence and multiple sexual assault cases dominate headlines. Environmental concerns loom large, from wildfire threats and Queensland's first suspected bird flu case to declining food nutrients and the Great Barrier Reef's reprieve from UNESCO's danger list. The country grapples with modern social issues including AI-generated deepfake crimes targeting women and children, while major infrastructure projects and AUKUS defense spending push forward despite economic and industrial relations turbulence.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Back to Back Barries: Barnaby bends the media cycle - podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/jul/25/back-to-back-barries-podcast-barnaby-bends-the-media-cycle",
+      "desc": "<p><strong>Tony Barry</strong> and <strong>George Megalogenis</strong> (filling in for Barrie Cassidy) give their view on One Nation MP Barnaby Joyce’s viral moment this week and why they think it pla",
+      "pubDate": "Fri, 24 Jul 2026 15:00:20 GMT",
+      "img": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3750_3000/master/3750.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "A global threat for millennia: experts warn Australia’s nuclear submarine legacy will be weapons-usable uranium cache",
+      "link": "https://www.theguardian.com/world/2026/jul/25/aukus-nuclear-submarines-danger-weapons-grade-uranium",
+      "desc": "<p>Exclusive: Uranium waste from Aukus submarines will be enriched to an estimated 80%: the same level as the bomb dropped on Hiroshima</p><p>Australia’s proposed nuclear submarine fleet will leave be",
+      "pubDate": "Fri, 24 Jul 2026 15:00:19 GMT",
+      "img": "https://i.guim.co.uk/img/media/fbbd97368366d30ca9e63236955b4e9ab359c2dc/895_712_5935_4751/master/5935.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Albanese is fond of saying people underestimate him. He should be careful not to do the same with Pauline Hanson",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/24/albanese-should-not-underestimate-pauline-hanson-one-nation-ntwnfb",
+      "desc": "<p>No politician is as good at evading scrutiny as the One Nation leader, whose actions this week would be disqualifying if she represented any other party</p><ul><li><p>Get our <a href=\"https://www.t",
+      "pubDate": "Fri, 24 Jul 2026 15:00:18 GMT",
+      "img": "https://i.guim.co.uk/img/media/00644e34cfc8197693b4097393cc88c994eccfd9/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Barnaby bends the media cycle – Back to Back Barries podcast",
+      "link": "https://www.theguardian.com/australia-news/video/2026/jul/25/barnaby-bends-the-media-cycle-back-to-back-barries-podcast",
+      "desc": "<p><strong>Tony Barry</strong> and <strong>George Megalogenis</strong> (filling in for Barrie Cassidy) give their view on One Nation MP Barnaby Joyce’s viral moment this week and why they think it pla",
+      "pubDate": "Fri, 24 Jul 2026 15:00:17 GMT",
+      "img": "https://i.guim.co.uk/img/media/462d0140fde7a584a07952ea60e033ec7bd7b49a/298_0_1349_1080/master/1349.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Pauline Hanson’s domestic violence comments were no stumble",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-domestic-violence-comments-mra-mens-rights-activists-ntwnfb",
+      "desc": "<p>The One Nation leader has allied herself with men’s rights activists for years, consistently suggesting women routinely make false allegations of violence </p><ul><li><p><a href=\"https://www.thegua",
+      "pubDate": "Fri, 24 Jul 2026 15:00:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/46324a5862f97a25e115901275920f186a946a57/329_0_3288_2631/master/3288.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "How dangerous are wildfires and how can we stop them from getting worse?",
+      "link": "https://www.theguardian.com/environment/2025/aug/13/how-dangerous-wildfires-stop-them-getting-worse",
+      "desc": "<p>The conditions for ferocious fires are expected to worsen as the planet heats up, putting more people at risk</p><p>Fierce wildfires after back-to-back heatwaves have forced tens of thousands of pe",
+      "pubDate": "Fri, 24 Jul 2026 14:47:43 GMT",
+      "img": "https://i.guim.co.uk/img/media/306c469bee45f0f2fc2b8c49842176af37f57971/283_0_4583_3667/master/4583.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Test your general knowledge with the Good Weekend quiz",
+      "link": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20260721-p60h4t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
+      "pubDate": "Fri, 24 Jul 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.103125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/297b54b43fec49dc75ceb1969fd1a88bc723fd9a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Nutrients in our food are declining. Can regenerative agriculture save it?",
       "link": "https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it",
@@ -33198,116 +33268,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
-      "link": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
-      "desc": "<p>Previously hidden text revealed without unrolling scroll discusses stoic philosophy on ethics, art and human behaviour</p><p>The surviving part of an ancient scroll that was burnt to a crisp when M",
-      "pubDate": "Wed, 24 Jun 2026 15:48:44 GMT",
-      "img": "https://i.guim.co.uk/img/media/749d850b8586ad4f3f041fa8e09bfb555be5f1aa/101_0_4373_3498/master/4373.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Trump says he’s ordered investigation into oil companies over alleged price gouging",
-      "link": "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging",
-      "desc": "<p>Trump says he instructed justice department to investigate oil firms over high gas prices amid Middle East conflict</p><p>Donald Trump said on Wednesday that he had instructed the US Department of ",
-      "pubDate": "Wed, 24 Jun 2026 15:21:25 GMT",
-      "img": "https://i.guim.co.uk/img/media/76be3809948cd4b9dbfa80a9fa5bbd7733c5da35/280_261_4675_3739/master/4675.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "UK records its hottest June day, beating highs from 1957 and 1976",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day",
-      "desc": "<p>Temperature of 35.8C recorded in West Sussex, beating previous record of 35.6C, while France records hottest day nationally</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/24",
-      "pubDate": "Wed, 24 Jun 2026 15:12:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/740b7f7d160e44121b8144e557fff14a2b766f5e/719_0_3664_2933/master/3664.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Labor tax critic deletes anti-immigration AI video reposted from rightwing nationalist account",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/25/anti-immigration-ai-video-rightwing-repost-geoff-wilson-ntwnfb",
-      "desc": "<p>Fund manager Geoff Wilson says he did not watch full video and deleted it after ‘inappropriate associations were identified’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newslet",
-      "pubDate": "Wed, 24 Jun 2026 15:00:49 GMT",
-      "img": "https://i.guim.co.uk/img/media/ff2a634b2415c8b900f7b0867884607327d72995/580_0_6225_4980/master/6225.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Pauline Hanson wants a ‘monocultural’ society. But this version of Australia has never existed | Alan Atkinson",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/24/australia-multicultural-history-never-monocultural-ntwnfb",
-      "desc": "<p>Multiculturalism has always been here. Like it or not, it is part of the way we are</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a",
-      "pubDate": "Wed, 24 Jun 2026 15:00:49 GMT",
-      "img": "https://i.guim.co.uk/img/media/c84e789864ae95eda4a808f6020f954d709464b7/0_743_5152_4122/master/5152.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Capital gains tax changes are already having an impact on wealth inequality – and vested interests are running scared | Greg Jericho",
-      "link": "https://www.theguardian.com/business/grogonomics/2026/jun/25/capital-gains-tax-changes-auction-prices-results-wealth-inequality",
-      "desc": "<p>Weekend house auction results and the official taxation data reveal the arguments from outraged conservatives are hollow</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters",
-      "pubDate": "Wed, 24 Jun 2026 15:00:48 GMT",
-      "img": "https://i.guim.co.uk/img/media/03c0ac239a7260ba7d7fd80171bce6738268e487/1189_0_6663_5333/master/6663.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘Instant connection to the past’: how the Major oak affected those who saw it",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/major-oak-sherwood-forest-readers-remember",
-      "desc": "<p>Readers remember the Sherwood Forest tree that has failed to produce leaves for the first time in 1,000 years</p> <a href=\"https://www.theguardian.com/environment/2026/jun/24/major-oak-sherwood-for",
-      "pubDate": "Wed, 24 Jun 2026 14:47:06 GMT",
-      "img": "https://i.guim.co.uk/img/media/8817a7d6810c5583c6364b5cb9e36307c92d181a/593_0_2835_2268/master/2835.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Musk loses trillionaire status as SpaceX shares ‘come down to earth with a bump’ – business live",
-      "link": "https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates",
-      "desc": "<p>Rolling coverage of the latest economic and financial news, as drops in SpaceX and Tesla’s shares eat into Musk’s wealth</p><p><strong>Segro</strong> have confirmed they have “unequivocally” reject",
-      "pubDate": "Wed, 24 Jun 2026 14:35:03 GMT",
-      "img": "https://i.guim.co.uk/img/media/f8db73e2ae12d6c8df8552b706ef1e01e6588b40/619_0_6207_4966/master/6207.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Sydney, Melbourne tipped to lead housing price drops as market cools",
-      "link": "https://www.abc.net.au/news/2026-06-25/sydney-melbourne-price-falls-forecast-domain-housing-downturn/106836334",
-      "desc": "House price falls of up to 7 and 8 per cent in Sydney and Melbourne have been forecast for the year ahead, according to Domain. But it's far from doom and gloom for existing owners, with resale profit",
-      "pubDate": "Wed, 24 Jun 2026 14:05:07 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/239dac119dd4a0fe31907b1bfca6d243?impolicy=wcms_crop_resize&amp;cropH=1860&amp;cropW=1399&amp;xPos=245&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "A new sensation: INXS ballet to premiere on the Gold Coast",
-      "link": "https://www.smh.com.au/national/queensland/a-new-sensation-inxs-ballet-to-premiere-on-the-gold-coast-20260623-p609c4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Band member Andrew Farriss says the unlikely Queensland Ballet collaboration offers “a fresh artistic interpretation” of INXS’s music.",
-      "pubDate": "Thu, 25 Jun 2026 00:01:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.51708984375%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_44/t_crop_custom/q_86%2Cf_auto/f986e6f42789632a5f885a9187fba9a3eb72cac9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Superquiz, Thursday, June 25",
-      "link": "https://www.smh.com.au/national/superquiz-thursday-june-25-20260624-p609nc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
-      "pubDate": "Wed, 24 Jun 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_285/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
