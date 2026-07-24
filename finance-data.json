@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T09:00:39.093Z",
+  "fetchedAt": "2026-07-24T11:14:54.209Z",
   "asx200": {
     "value": 8772.3,
     "change": -36.1,
@@ -104,7 +104,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.07,
+    "changePercent": 1.14,
     "previousClose": 0.69,
     "asOf": "2026-07-24",
     "history": [
@@ -207,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4057.1,
-      "change": 66.8,
-      "changePercent": 1.67
+      "price": 4064.6,
+      "change": 74.3,
+      "changePercent": 1.86
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.57,
-      "change": 0.51,
-      "changePercent": 0.88
+      "price": 58.68,
+      "change": 0.63,
+      "changePercent": 1.08
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 89.58,
-      "change": 19.24,
-      "changePercent": 27.35
+      "price": 89.81,
+      "change": 19.47,
+      "changePercent": 27.68
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.34,
-      "change": 0.39,
-      "changePercent": 6.61
+      "price": 6.36,
+      "change": 0.42,
+      "changePercent": 7.07
     },
     {
       "name": "BHP Group",
@@ -842,14 +842,21 @@
   ],
   "news": [
     {
-      "title": "Live: Dees take on Cats at MCG ahead of Western Derby",
+      "title": "Uber blasts laws as it’s forced to reinstate banned driver",
+      "link": "https://www.smh.com.au/business/companies/uber-blasts-laws-as-it-s-forced-to-reinstate-banned-driver-20260724-p60i7l.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Twelve complaints against the driver alleged spitting, swearing, inappropriate touching and speeding, but the Fair Work Commission found Uber failed to prove the behaviour.",
+      "pubDate": "Fri, 24 Jul 2026 19:30:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Live: Cats surge against Dees, Eagles up for derby fight against Dockers",
       "link": "https://www.abc.net.au/news/2026-07-24/afl-round-20-live-demons-cats-dockers-eagles/106940694",
       "snippet": "",
       "pubDate": "Fri, 24 Jul 2026 08:50:21 +0000",
       "source": "ABC News"
     },
     {
-      "title": "Live: First medals up for grabs on day one of Commonwealth Games",
+      "title": "Live: Pallister cruises into 400m final as swimming gets underway",
       "link": "https://www.abc.net.au/news/2026-07-24/commonwealth-games-day-1-live-blog/106953152",
       "snippet": "",
       "pubDate": "Fri, 24 Jul 2026 08:36:30 +0000",
@@ -877,7 +884,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Knights lose young gun to serious injury",
+      "title": "Live: Storm shrug off sluggish start to punish Souths",
       "link": "https://www.abc.net.au/news/2026-07-24/nrl-live-updates-knights-roosters-rabbitohs-storm/106956510",
       "snippet": "",
       "pubDate": "Fri, 24 Jul 2026 07:46:39 +0000",
@@ -917,13 +924,6 @@
       "snippet": "KIIS FM owner ARN has won permission to use evidence filed by Sandilands in the company’s ongoing dispute with former co-star Jackie O Henderson.",
       "pubDate": "Fri, 24 Jul 2026 15:20:14 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Brown slams Crows coach for his response to Quaynor booing",
-      "link": "https://www.abc.net.au/news/2026-07-24/isaac-quaynor-booing-mitch-brown-crows-matthew-nicks/106954668",
-      "snippet": "",
-      "pubDate": "Fri, 24 Jul 2026 05:03:22 +0000",
-      "source": "ABC News"
     }
   ]
 }
