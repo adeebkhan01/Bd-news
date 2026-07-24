@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-24T08:32:47.536Z",
-  "summary": "The Middle East remains a central flashpoint as the US and Iran escalate military tensions, with the Trump administration conducting repeated strikes on Iranian targets while Tehran denounces threats to its frozen assets, raising concerns about wider regional conflict. In Ukraine, military leadership changes signal shifting dynamics in the war against Russia, though analysts debate whether new command structures can alter the trajectory of the nearly three-year conflict. Israel's military operations continue in Gaza and Lebanon despite ceasefire agreements, while the broader region faces economic pressures from Houthi disruptions to Red Sea shipping and soaring oil prices. The Trump administration is simultaneously reshaping US foreign policy through defense spending tied to Israeli military cooperation, a proposed nuclear deal with Saudi Arabia contingent on normalization with Israel, and new tariff arrangements with trade partners.",
+  "fetchedAt": "2026-07-24T11:05:58.837Z",
+  "summary": "Tensions between the US and Iran are escalating sharply, with American forces completing their thirteenth consecutive night of strikes while Tehran retaliated across the Gulf, raising concerns about broader regional conflict even as the administration weighs using frozen Iranian assets. Israel continues military operations across multiple fronts, with raids on the West Bank, strikes in southern Lebanon despite an ostensible ceasefire, and bombardments in Gaza, while a UN-backed court pause temporarily halts South Africa's impeachment proceedings against its president. Trump's tariff campaign is expanding significantly, now targeting dozens of trading partners over forced labour concerns, while his incoming administration deepens military ties with Israel through a trillion-dollar defence bill and considers reviving nuclear negotiations with Saudi Arabia conditional on Israeli normalization. Ukraine's military leadership transition and ongoing conflict with Russia, Sudan's humanitarian crisis affecting cancer patients, and the Houthi-driven Red Sea blockade's global economic ripple effects round out major international developments.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "South African court pauses impeachment process against president",
+      "link": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss",
+      "desc": "The &#039;Farmgate&#039; scandal nearly cost President Cyril Ramaphosa the leadership of his African National Congress in 2022.",
+      "pubDate": "Fri, 24 Jul 2026 10:39:47 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260309__A2KA4RW__v1__HighRes__BrazilSafricaDiplomacy-1778509688.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "pubDate": "Fri, 24 Jul 2026 10:34:04 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0b/live/5f10c1f0-873b-11f1-a10e-a5d4f08bc20c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Watch: Are Trump's tariffs delivering on his objectives?",
+      "link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+      "pubDate": "Fri, 24 Jul 2026 10:21:31 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e698/live/f875fc40-873e-11f1-926f-c90d1bcfbc84.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israel’s illegal settlements are Europe’s credibility test",
+      "link": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss",
+      "desc": "The EU has documented accelerating annexation. It must now use its collective power to confront it.",
+      "pubDate": "Fri, 24 Jul 2026 09:59:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a631f7c29ee-1784881020.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
+      "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+      "desc": "One Israeli was also killed near town of Tal in Nablus, according to Israel&#039;s Magen David Adom rescue services.",
+      "pubDate": "Fri, 24 Jul 2026 09:35:39 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6320dc027b-1784881372.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "pubDate": "Fri, 24 Jul 2026 09:20:07 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b45/live/fd31d670-8719-11f1-926f-c90d1bcfbc84.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss",
+      "desc": "Countries accounting for almost all of the US&#039;s trade have been hit with tariffs between 10 and 12.5 percent.",
+      "pubDate": "Fri, 24 Jul 2026 09:13:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26204770162038-1784880691.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US attacks Iran for 13th consecutive night",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
+      "desc": "The US military says it has completed its 13th night of strikes against Iran.",
+      "pubDate": "Fri, 24 Jul 2026 08:39:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784882357.jpg?resize=1920%2C937&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "ICC prosecutor Karim Khan faces removal vote: What’s the case about?",
+      "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-karim-khan-faces-removal-vote-whats-the-case?traffic_source=rss",
+      "desc": "ICC&#039;s 125 member states will vote by secret ballot Friday on the fate of Khan, who faces sexual misconduct allegations.",
+      "pubDate": "Fri, 24 Jul 2026 08:26:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP23194695219507-1784876724.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
       "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
@@ -240,6 +330,16 @@
       "desc": "Japan’s prime minister Sanae Takaichi says she survives on zero to three hours a night, and people are reacting.",
       "pubDate": "Thu, 23 Jul 2026 22:03:09 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b1/live/d2390290-8660-11f1-b976-0b9c15b0ccfc.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl8j37839o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Scottish capital has become the first city in the country to introduce a charge for overnight stays.",
+      "pubDate": "Thu, 23 Jul 2026 21:46:48 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/986c/live/814a9620-86a9-11f1-a0b6-435e4178a497.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -510,6 +610,16 @@
       "desc": "Given they share the world's longest land border, Canada and the US have historically enjoyed fruitful trade relations. But with Donald Trump escalating his tariff war, Canada is looking to the EU and",
       "pubDate": "2026-07-23T13:38:00Z",
       "img": "https://static.dw.com/image/78083458_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
+      "title": "Oil prices jump as Hormuz, Red Sea crises deepen",
+      "link": "https://www.dw.com/en/oil-prices-jump-as-hormuz-red-sea-crises-deepen/a-78078835?maca=en-rss-en-bus-2091-rdf",
+      "desc": "Renewed strikes on shipping in the Gulf and the Red Sea have dealt a fresh double blow to global oil markets, with the price of crude oil once again passing $100 a barrel. DW examines what could push ",
+      "pubDate": "2026-07-23T13:36:00Z",
+      "img": "https://static.dw.com/image/77982432_6.jpg",
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
@@ -12593,56 +12703,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Council tax debt rises to £9bn but here's how you can get help",
-      "link": "https://www.bbc.co.uk/news/articles/c0my4gwe3y2o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "New figures show billions of pounds is owed to councils but the government has plans to reform the system.",
-      "pubDate": "Wed, 24 Jun 2026 10:48:24 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f967/live/41bc0920-6fb2-11f1-9d49-f71d5004325f.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Kenya braces for return of Gen Z protests – how did they begin?",
-      "link": "https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin?traffic_source=rss",
-      "desc": "Two years since Gen Z protests rocked President Ruto&#039;s government, thousands gear up to take to the streets again.",
-      "pubDate": "Wed, 24 Jun 2026 10:41:04 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/GettyImages-2221357631-1782295525.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
-      "link": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
-      "desc": "The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.",
-      "pubDate": "Wed, 24 Jun 2026 10:03:39 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-23T202622Z_672899898_RC2KZLAU6J5S_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RUSSIA-1782296257.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-      "pubDate": "Wed, 24 Jun 2026 09:48:24 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/249bb360-6fba-11f1-8546-8f19e4fe30f4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US to probe petrol price gouging claims, Trump says",
-      "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-      "pubDate": "Wed, 24 Jun 2026 08:54:30 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d7/live/08937340-6f94-11f1-acc7-d7e31563f96c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
