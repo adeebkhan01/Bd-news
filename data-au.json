@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-25T08:11:49.815Z",
-  "summary": "Australia faces mounting security and public safety concerns with reports of a police officer shot during a welfare check in Queensland, a teenager stabbed in Sydney's inner-west, and a fatal fall at a train station, while separate incidents highlight workplace dangers. On the economic front, a controversial herbicide is being withdrawn from the Australian market following bans in seventy countries, and a major Queensland hospitality venue may have operated while insolvent for over a year before closure. The federal government is managing concerns over rising fuel prices despite assuring the public of supply security, and a new bird flu case has been confirmed in Queensland wildlife off Brisbane. Meanwhile, political tensions simmer over Gaza policy with Labor moving to prevent public dissent on the issue, and various infrastructure projects from renewable energy farms to factory-built housing feature prominently in development discussions.",
+  "fetchedAt": "2026-07-25T10:36:54.087Z",
+  "summary": "Australia's cost of living pressures remain acute with household budgets tightening by hundreds of dollars monthly, while Queensland is grappling with its first confirmed bird flu case as the national outbreak spreads. The country is also dealing with multiple serious crimes including alleged sexual assaults, home invasions and a fatal incident at a music festival, alongside transport emergencies that saw a police officer trapped in a speeding vehicle. Political tensions have surfaced within Labor over Gaza debate restrictions, with senior figures accused of stifling discussion of Palestinian issues, as Ed Husic pushes unsuccessfully for genocide recognition. Meanwhile, Australia continues facing economic headwinds including rising fuel prices, job market pressures reflected in the Liberty Bell Bay collapse, and broader questions about industrial reindustrialisation through factory-built housing.",
   "sources": [
     {
       "id": "abcnews",
@@ -30,6 +30,96 @@
   ],
   "articles": [
     {
+      "title": "The two factors that cut $450 from your household’s monthly budget",
+      "link": "https://www.smh.com.au/business/the-economy/the-two-factors-that-cut-450-from-your-household-s-monthly-budget-20260723-p60hyu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Rate hikes and soaring petrol prices have combined to deliver the biggest hit to household budgets in decades.",
+      "pubDate": "Sat, 25 Jul 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0622%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_137/t_crop_custom/q_86%2Cf_auto/1cd9e85aa815305a4e1302f2eeb636eb7b0850726678baa572b6021689330d59",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Warning: Australian politicians are importing the British right’s visions of doom | Jack Jacobs",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/25/warning-australian-politicians-are-importing-the-british-rights-visions-of-doom",
+      "desc": "<p>Having met Nigel Farage, Rupert Lowe and Tommy Robinson, Pauline Hanson is deploying their rhetoric in a country with a very different history of immigration</p><p>In a 1950 essay, the critic AA Ph",
+      "pubDate": "Sat, 25 Jul 2026 09:00:38 GMT",
+      "img": "https://i.guim.co.uk/img/media/24bd0eee32e11a2f783af0f97dd8f6d716767c52/977_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘Terrifying attack’: Accused rapist allegedly ambushed woman working from home",
+      "link": "https://www.smh.com.au/national/victoria/terrifying-attack-accused-rapist-allegedly-ambushed-woman-working-from-home-20260725-p60igg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man accused of forcing himself into a woman’s home and raping her has denied a string of sexual assaults in Melbourne’s outer west, including one at a nearby school.",
+      "pubDate": "Sat, 25 Jul 2026 18:54:31 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_164%2C$y_129/t_crop_custom/q_86%2Cf_auto/a077c4d7c8c09f017fdc1b631be5a8fe47441b3b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Property influencer walks away unscathed after crashing $1m Ferrari",
+      "link": "https://www.smh.com.au/national/property-influencer-walks-away-unscathed-after-crashing-1m-ferrari-20260725-p60ije.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The luxury vehicle was left in pieces following the early morning smash.",
+      "pubDate": "Sat, 25 Jul 2026 18:47:33 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/9ea517e258c0f502b047c91a03656e324d82a693",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Queensland confirms first bird flu case as national outbreak spreads",
+      "link": "https://www.smh.com.au/national/queensland-confirms-first-bird-flu-case-as-national-outbreak-spreads-20260725-p60ijf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Queensland's first case of H5 bird flu has been confirmed by the CSIRO after a petrel washed up on a Moreton Island beach.",
+      "pubDate": "Sat, 25 Jul 2026 18:47:26 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/9966b7db2684f911200390de4bb48036393f2145",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ed Husic accuses senior Labor figures of smothering Palestine debate",
+      "link": "https://www.smh.com.au/national/ed-husic-accuses-senior-labor-figures-of-smothering-palestine-debate-20260725-p60ijc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Outspoken backbencher Ed Husic has hit out at senior Labor figures for quashing debate on Gaza as the party's three-day national conference wrapped up in Adelaide.",
+      "pubDate": "Sat, 25 Jul 2026 18:44:05 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/540192cb72186a65b1008d6be1da634d1b19021c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man accused of home invasion and school rape denied bail",
+      "link": "https://www.smh.com.au/national/man-accused-of-home-invasion-and-school-rape-denied-bail-20260725-p60ij9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Court details have revealed the allegations against a man accused of raping two women in Melbourne's west.",
+      "pubDate": "Sat, 25 Jul 2026 18:37:21 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4ed8c989f7937d9f829b37db0c1b1dca2108d476",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Woman allegedly hits 170km/h in police chase across Sydney's west",
+      "link": "https://www.smh.com.au/national/woman-allegedly-hits-170km-h-in-police-chase-across-sydneys-west-20260725-p60ij8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 24-year-old woman is accused of leading more than 50 police officers on a dangerous pursuit from Campbelltown to Greenacre.&#xA;",
+      "pubDate": "Sat, 25 Jul 2026 18:27:48 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/30a60d8b287638ef0d6d1d7d99ab00781e84bfb2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man dies after stage fall during altercation at Queensland music festival",
+      "link": "https://www.smh.com.au/national/man-dies-after-stage-fall-during-altercation-at-queensland-music-festival-20260725-p60ij7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 40-year-old man has died after allegedly falling up to two metres from a stage during a fight at a bushland music festival near Gympie.",
+      "pubDate": "Sat, 25 Jul 2026 18:26:56 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3ab296cbc7722649268ee396295bce0717853955",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
       "title": "France and Spain race to control wildfires as suburbs of Bordeaux begin evacuation – live",
       "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
       "desc": "<p>Officials in Spain warn winds could worsen fires on Saturday</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/08/tell-us-have-you-been-affected-by-the-wildfires-in-southern-europe\"",
@@ -45,6 +135,16 @@
       "desc": "<p>Campaigners urge government to introduce right of access to water, particularly as heatwaves become more common</p><p>Almost three-quarters of riverbanks in England have no public access, according",
       "pubDate": "Sat, 25 Jul 2026 07:00:37 GMT",
       "img": "https://i.guim.co.uk/img/media/ae074c65871b4164413f03ca19b2a2e8ee01be1a/609_0_4167_3333/master/4167.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘Ozempic face’ and hair loss: what evidence is there for weight-loss drug side-effects?",
+      "link": "https://www.theguardian.com/science/2026/jul/25/weight-loss-drug-side-effects-evidence-nausea-ozempic-face",
+      "desc": "<p>Research into GLP-1 medications is not always robust but complaints such as digestive problems are well known</p><p>Weight loss jabs such as Wegovy and Mounjaro have boomed in popularity, and so ha",
+      "pubDate": "Sat, 25 Jul 2026 07:00:36 GMT",
+      "img": "https://i.guim.co.uk/img/media/d4b8b2444691b428255d1047cf8fdb5a66a26bad/1000_0_5000_4000/master/5000.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -32835,196 +32935,6 @@
       "desc": "Women have alleged sexual harassment, violence and retaliation for speaking out at remote worksites of Fortescue, one of Australia’s biggest mining companies.",
       "pubDate": "Thu, 25 Jun 2026 20:41:21 +1000",
       "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ecdfc5c479a73343907eae824ee8f626678f972d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Datacentres are growing target of global climate-related legal cases, report finds",
-      "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
-      "desc": "<p>LSE analysis highlights litigation linked to energy sources, water consumption and air pollution</p><p>The proliferation of datacentres and AI is increasingly at the forefront of environmental liti",
-      "pubDate": "Thu, 25 Jun 2026 10:03:54 GMT",
-      "img": "https://i.guim.co.uk/img/media/2afc5aee674458b011367ab1b481dc030edca6bd/585_0_3712_2970/master/3712.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Which UK politician is nicknamed the King of the North? Take the Brisbane Times Quiz",
-      "link": "https://www.smh.com.au/national/queensland/which-uk-politician-is-nicknamed-the-king-of-the-north-take-the-brisbane-times-quiz-20260625-p609z5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Catch up on local, national and international stories with our new-look quiz challenge.",
-      "pubDate": "Thu, 25 Jun 2026 19:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/8719d3d6333c5e35a6a1a53ee4e4150bddb6c879",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "How Stefanovic went from Nine’s ‘heart and soul’ to persona non grata",
-      "link": "https://www.smh.com.au/business/companies/how-stefanovic-went-from-nine-s-heart-and-soul-to-persona-non-grata-20260625-p609xl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Karl Stefanovic was Nine’s golden boy. But his bold play to become Australia’s Joe Rogan has led to his ouster from the network.",
-      "pubDate": "Thu, 25 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_49/t_crop_custom/q_86%2Cf_auto/88e4f6a0e88de4124cd1923251ecde508c39820e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The top-performing public schools still taking enrolments",
-      "link": "https://www.smh.com.au/national/victoria/the-top-performing-public-schools-still-taking-enrolments-20260623-p609ac.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Some top VCE performers from right across Melbourne remain open to out-of-zone students. Here’s where to find them.",
-      "pubDate": "Thu, 25 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2729343703703703%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_144%2C$y_242/t_crop_custom/q_86%2Cf_auto/70951ffad328c831d61aeab0fb81041c6fafb13a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Mass sickies and school watch parties: Sydney gears up for Socceroos fever",
-      "link": "https://www.smh.com.au/national/nsw/sydney-schools-offices-and-pubs-brace-for-forecast-of-socceroos-fever-20260625-p60a1b.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Live sites, pubs and parks are expecting hordes of Sydneysiders to brave the rain on Friday as the city tunes in to Australia’s final group-stage game at noon.",
-      "pubDate": "Thu, 25 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.20961995249406176%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_78/t_crop_custom/q_86%2Cf_auto/2c5b75098807546cad61e11fd3d845f46aeec1a7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Go to the bush’: University entry fears for Sydney students",
-      "link": "https://www.smh.com.au/national/nsw/go-to-the-bush-university-entry-fears-for-sydney-students-20260625-p60a1u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Education Minister Jason Clare says more Australians will get a spot at university thanks to the reforms. But not everyone is happy.",
-      "pubDate": "Thu, 25 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.30675730281276803%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_393%2C$y_94/t_crop_custom/q_86%2Cf_auto/2fa5e80fd718ae1cc8510a7fd54e88fbd5d477ad",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Has Cornwall’s housing crisis created a van life generation?",
-      "link": "https://www.theguardian.com/global/video/2026/jun/25/has-cornwalls-housing-crisis-created-a-van-life-generation",
-      "desc": "<p>Cornwall's housing crisis is forcing young people to live in vans. As second homes and short-term holiday lets drive up house prices, a growing number are turning to van life to stay in the place t",
-      "pubDate": "Thu, 25 Jun 2026 09:17:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/da8850d848e1539de3c8ab8cc9b652b6463540f6/0_0_10928_8742/master/10928.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Europe braced for another day of extreme heat as warnings issued across UK, France and Italy – live",
-      "link": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-      "desc": "<p>UK June heat record could be broken for the second consecutive day</p><p><strong>Harriet Richards<br></strong><em>Assistant environment editor</em></p><p><strong>Simon Stiell, the UN climate chief,",
-      "pubDate": "Thu, 25 Jun 2026 09:03:53 GMT",
-      "img": "https://i.guim.co.uk/img/media/149989050219f9d8089289aa55ac3037858df70f/115_0_3333_2667/master/3333.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Elizabeth Warren says ‘tsunami of anger’ could prompt reversal of Trump-era mega mergers",
-      "link": "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers",
-      "desc": "<p>Exclusive: US Senator suggests architects behind ‘frenzy’ of blockbuster corporate deals have ‘badly miscalculated’</p><p>Democratic senator Elizabeth Warren has warned that corporate mergers appro",
-      "pubDate": "Thu, 25 Jun 2026 09:00:10 GMT",
-      "img": "https://i.guim.co.uk/img/media/730995518dc604ca68408dafd8ea8dcfb27a0e23/372_0_5257_4205/master/5257.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Bird with H5 virus 'tried to bite body boarder' before rescue",
-      "link": "https://www.smh.com.au/national/bird-with-h5-virus-tried-to-bite-body-boarder-before-rescue-20260625-p60a77.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A South Australian body boarder says a bird infected with H5 bird flu tried to bite him when he found it struggling in the surf.",
-      "pubDate": "Thu, 25 Jun 2026 18:58:29 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f66e0c89b37aa1941ce933eb3ba596063d5aeeea",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Federal government’s controversial tax changes pass parliament",
-      "link": "https://www.smh.com.au/national/federal-government-s-controversial-tax-changes-pass-parliament-20260625-p60a75.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Albanese government's controversial tax changes have passed through both houses of parliament and are now law.",
-      "pubDate": "Thu, 25 Jun 2026 18:58:15 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/93b2588f8fa833982e544114cd229cb2e695dd29",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Great-grandmother takes doctor to court after claiming duty of care breaches",
-      "link": "https://www.smh.com.au/national/great-grandmother-takes-doctor-to-court-after-claiming-duty-of-care-breaches-20260625-p60a76.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A great-grandmother is taking a doctor to the ACT Supreme Court claiming he breached his duty of care, leaving her with terminal cancer.",
-      "pubDate": "Thu, 25 Jun 2026 18:57:26 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/05ca95f87eff0e9ab6c77ed66b1c36a59f9d8c1a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sydney shark attack survivor out of critical condition",
-      "link": "https://www.smh.com.au/national/sydney-shark-attack-survivor-out-of-critical-condition-20260625-p60a74.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Leah Stewart is no longer in a critical condition after being mauled by a shark at Coogee Beach earlier this month.",
-      "pubDate": "Thu, 25 Jun 2026 18:57:19 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d56ee97d02ef0419e7279535598bce00ccd02eaf",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "South-west Sydney storage blaze continues to rage on",
-      "link": "https://www.smh.com.au/national/south-west-sydney-storage-blaze-continues-to-rage-on-20260625-p60a5v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Hundreds of people are coming to terms with what they've lost in a ferocious fire.",
-      "pubDate": "Thu, 25 Jun 2026 18:55:43 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4661d92c6e7c38ae4ba3a5cf815707e634909ba8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Qantas axes Alice Springs-Melbourne route amid high cost, falling demand",
-      "link": "https://www.abc.net.au/news/2026-06-25/qantas-axes-flights-alice-springs-melbourne-darwin-singapore/106842548",
-      "desc": "Qantas has axed its direct Alice Springs-Melbourne route after \"many decades\", and will also restrict flights between Darwin and Singapore to the peak tourist season.",
-      "pubDate": "Thu, 25 Jun 2026 08:31:33 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/d146a7d006c50524262d9e969b919811?impolicy=wcms_crop_resize&amp;cropH=2735&amp;cropW=2051&amp;xPos=555&amp;yPos=38&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "The new Community Strong Australia party is a welcome option",
-      "link": "https://www.smh.com.au/national/nsw/the-new-community-strong-australia-party-is-a-welcome-option-20260625-p609x6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Community Strong Australia should give voters who are disaffected with the major parties a better choice – the right, the left and this in the centre.",
-      "pubDate": "Thu, 25 Jun 2026 18:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2674%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/91f2ae52e0739810f07ed6e2bd6aef0e8c98d52b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Man charged over Macca’s carpark double stabbing; one fighting for life",
-      "link": "https://www.smh.com.au/national/man-charged-over-macca-s-carpark-double-stabbing-one-fighting-for-life-20260625-p60a5o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man has been charged over a double stabbing in a McDonald’s carpark in Melbourne’s west that left one man fighting for his life and another seriously injured.",
-      "pubDate": "Thu, 25 Jun 2026 18:29:59 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/402dc4054438b6be39b0e1d8b96c367f98584a01",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Ex-umpire committed to stand trial on Brownlow fraud",
-      "link": "https://www.smh.com.au/national/ex-umpire-committed-to-stand-trial-on-brownlow-fraud-20260625-p60a70.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A former AFL umpire and two others have been committed to stand trial over an alleged Brownlow Medal betting fraud.",
-      "pubDate": "Thu, 25 Jun 2026 18:20:54 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8be862ea133e453005f9fc98cf2d7cf357fa1b32",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Teen accused of planning terror attack on Peter Dutton not guilty",
-      "link": "https://www.smh.com.au/national/teen-accused-of-planning-terror-attack-on-peter-dutton-not-guilty-20260625-p60a5t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A teenager accused of plotting a nail bomb attack against then-opposition leader Peter Dutton has been found not guilty of preparing a terrorist act.",
-      "pubDate": "Thu, 25 Jun 2026 18:20:01 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/43b0c2ca269030366cf4657b2b34ad2d4763ac22",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
