@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-25T02:56:47.761Z",
-  "summary": "A teenager has been stabbed multiple times in Sydney's inner-west, one of several violent incidents reported in Australia today alongside a man's death after falling from a platform. The domestic political agenda is dominated by Labor's national conference, where SA Premier Peter Malinauskas features prominently amid speculation about his ambitions, while Ed Husic's push for the party to recognise Gaza genocide claims is set to fail. On economic matters, Trump's tariff threats are rippling through Australian business circles, while domestically there's focus on practical solutions including factory-built homes for reindustrialisation and electric vehicle charging infrastructure. Cultural stories range from a viral canola farm attracting crowds to efforts protecting endangered species like cats on Kangaroo Island.",
+  "fetchedAt": "2026-07-25T05:47:34.417Z",
+  "summary": "Australia faced a volatile news day with several serious incidents dominating coverage, including a Queensland police officer shot during a welfare check, a teenager stabbed in Sydney's inner-west, and fatal traffic accidents in Perth and Sydney. Environmental and industrial issues featured prominently, with CSIRO confirming Queensland's first bird flu case, a chemical manufacturer pulling a controversial herbicide from sale, and tensions emerging over renewable energy projects and housing needs. Economic concerns persist as fuel prices continue climbing despite government assurances of security, while political focus turned to a failed Labor push to recognise Gaza genocide claims and questions surrounding South Australia's premier's ambitions. The briefing underscores an Australia grappling with public safety challenges, environmental pressures, and economic uncertainties amid ongoing infrastructure and energy transition debates.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,146 @@
     }
   ],
   "articles": [
+    {
+      "title": "Police officer trapped in speeding car during arrest",
+      "link": "https://www.smh.com.au/national/police-officer-trapped-in-speeding-car-during-arrest-20260725-p60iif.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A police officer was trapped inside a car after the driver allegedly took off in Melbourne.",
+      "pubDate": "Sat, 25 Jul 2026 15:22:12 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/23144249029ed2e35938b7d49f7add6742140ca2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "My daughter’s bestie wants to use my holiday house for dirty weekend",
+      "link": "https://www.smh.com.au/national/my-daughter-s-bestie-wants-to-use-my-holiday-house-for-dirty-weekend-20260709-p60dzi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Tell them you have a strict family-only policy, or it’s unavailable, forever, advises Modern Guru",
+      "pubDate": "Sat, 25 Jul 2026 15:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_389/t_crop_custom/q_86%2Cf_auto/fcc700c4f8bdefbae3fcbfeacf919202373f4222",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Herbicide banned in 70 countries to be pulled from sale in Australia by chemical maker",
+      "link": "https://www.theguardian.com/environment/2026/jul/25/herbicide-parkinsons-disease-paraquat-pulled-from-sale-australia-syngenta",
+      "desc": "<p>Syngenta says it will stop selling paraquat in Australia after new regulations on chemical linked to Parkinson’s disease</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters",
+      "pubDate": "Sat, 25 Jul 2026 04:59:49 GMT",
+      "img": "https://i.guim.co.uk/img/media/52dd71086b7741f5f037260c1a6774f627181f2b/537_0_4396_3519/master/4396.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Liberty Bell Bay may have been insolvent for more than a year before closing",
+      "link": "https://www.abc.net.au/news/2026-07-25/liberty-bell-bay-administrators-report-insolvent/106957968",
+      "desc": "Administrators say the manganese smelter was insolvent before it was given a $20 million loan by the Tasmanian government.",
+      "pubDate": "Sat, 25 Jul 2026 04:54:08 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/55dabc5042bdc1e70ce6ac89e3ea3a0b?impolicy=wcms_crop_resize&amp;cropH=1000&amp;cropW=750&amp;xPos=375&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Federal government says fuel supply 'solid and secure' as prices climb again",
+      "link": "https://www.abc.net.au/news/2026-07-25/bowen-fuel-supply-solid-and-secure-as-prices-climb-again/106957876",
+      "desc": "The government is reassuring motorists about Australia's fuel supply as petrol prices rise amid renewed clashes in the five-month old war in the Middle East.",
+      "pubDate": "Sat, 25 Jul 2026 04:19:32 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/b12a02b56b28c00dbbe296cda85194c9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=459&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Officer shot, man found dead after 11 police sent to DV callout",
+      "link": "https://www.smh.com.au/national/queensland/officer-shot-man-found-dead-after-11-police-sent-to-dv-callout-20260725-p60ihd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two women and children fled the property on the Fraser Coast during an hours-long standoff, which saw specialist officers flown in from Brisbane.",
+      "pubDate": "Sat, 25 Jul 2026 14:02:11 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.5303%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/846f1295524c6e3b3beaa8e5a116f430212658f54eab2baf6f7de0f02c7fdad5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "CSIRO confirms Qld’s first case of bird flu in petrel found off Brisbane",
+      "link": "https://www.smh.com.au/national/queensland/csiro-confirms-qld-s-first-case-of-bird-flu-in-petrel-found-off-brisbane-20260725-p60ihw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Parks and Wildlife Service rangers had found the seabird on the eastern shore of Moreton Island in the last week, with positive state lab tests now confirmed.",
+      "pubDate": "Sat, 25 Jul 2026 14:01:17 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3447%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_189/t_crop_custom/q_86%2Cf_auto/bcc8e6b5adc172968914a59d643726ed5b0e126f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
+      "link": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites",
+      "desc": "<p>Officials have long lobbied for peak that rises 2,918 metres above sea level to be given coveted designation</p><p>More than four decades have elapsed since Evangelos Geroliolios made his first asc",
+      "pubDate": "Sat, 25 Jul 2026 04:00:32 GMT",
+      "img": "https://i.guim.co.uk/img/media/7fede4e2b21fc872be299ce3e8230801313be0d7/354_0_3543_2835/master/3543.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Woman dies, driver injured after horror intersection crash in Perth",
+      "link": "https://www.smh.com.au/national/western-australia/woman-dies-driver-injured-after-horror-intersection-crash-in-perth-20260725-p60ihq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The 30-year-old woman was a passenger in a Hilux that collided with a LandCruiser just before 11pm in Martin.",
+      "pubDate": "Sat, 25 Jul 2026 13:47:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7251%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_50%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/cde0a238640a22eb8983df980792b29b561098ac04d119c2a6f2402f04a25cb7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Here's what you need to know about Woodside's Federal Court case",
+      "link": "https://www.abc.net.au/news/2026-07-25/what-to-know-about-the-landmark-case-against-north-west-shelf/106953170",
+      "desc": "Four days in, the Federal Court has scrutinised the decision to extend Australia's biggest gas project another 40 years, amid fears for Indigenous heritage and climate impacts.",
+      "pubDate": "Sat, 25 Jul 2026 03:41:27 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/230b357fa0a5830e984457e7ebfe7762?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "‘Where the city started’: Parramatta’s hidden architectural gems unlocked for a day",
+      "link": "https://www.smh.com.au/national/nsw/where-the-city-started-parramatta-s-hidden-architectural-gems-unlocked-for-a-day-20260722-p60hhn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The popular Sydney Open series will expand west for the first time in August.",
+      "pubDate": "Sat, 25 Jul 2026 13:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/1e0fcabbbe026860eeada727b3a9af15eda04bea",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The old hospital that’s become a battleground in Melbourne’s west",
+      "link": "https://www.smh.com.au/national/victoria/the-old-hospital-that-s-become-a-battleground-in-melbourne-s-west-20260723-p60htm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A fight for Footscray’s future is unfolding on the site of the suburb’s old hospital, stirring frustration and fury.",
+      "pubDate": "Sat, 25 Jul 2026 13:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/bbdb75db1fec9795816be05172188b0e61c873c8",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The Age photos of the week, July 25, 2026",
+      "link": "https://www.smh.com.au/national/victoria/the-age-photos-of-the-week-july-25-2026-20260725-p60ihi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The week in photos from our award-winning staff photographers and regular contributors at The Age.",
+      "pubDate": "Sat, 25 Jul 2026 13:15:25 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1821%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/ecc5da310fa21be7349a5f035b033d2bb67873b1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Every writer’s worst nightmare’: What next after losing a manuscript?",
+      "link": "https://www.smh.com.au/national/every-writer-s-worst-nightmare-what-next-after-losing-a-manuscript-20260422-p5zpz7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The theft of a book proposal nearly derailed this author, who sought consolation in stories of others who’d suffered the same fate.",
+      "pubDate": "Sat, 25 Jul 2026 13:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5400305966343701%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/q_86%2Cf_auto/c22b4a80a1e7b7908895d6ebf41288cb3ed6b305",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Teenager allegedly stabbed multiple times in Newtown",
       "link": "https://www.smh.com.au/national/nsw/teenager-allegedly-stabbed-multiple-times-in-newtown-20260725-p60ih2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -33045,206 +33185,6 @@
       "desc": "Amy Eden says she accepts a tribunal's findings of misconduct against her for twice leaking confidential information to a journalist. But she has defended her decision to shut down councillors' questi",
       "pubDate": "Thu, 25 Jun 2026 05:53:16 +0000",
       "img": "https://live-production.wcms.abc-cdn.net.au/05563c3ae3291447d39a939b3d7f93a3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=675&amp;xPos=271&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "ClearVue solar glass clears key building safety code hurdle",
-      "link": "https://www.smh.com.au/business/companies/clearvue-solar-glass-clears-key-building-safety-code-hurdle-20260625-p60a4k.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "ClearVue Technologies’ solar glass has won top safety certification, supporting its claim that power-generating glazing can perform like standard architectural glass.",
-      "pubDate": "Thu, 25 Jun 2026 15:14:29 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_81/t_crop_custom/q_86%2Cf_auto/2a3c5374f4d810b5f751d83227895515b2dc789afc2f2bf303214f797bc4aa45",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "’It can flip quickly from being idyllic’: the reality of life for young van dwellers priced out of Cornwall’s housing market",
-      "link": "https://www.theguardian.com/environment/2026/jun/25/reality-life-cornwall-young-van-dwellers-priced-out-of-the-housing-market",
-      "desc": "<p>With tourists buying up property and landlords opting for lucrative Airbnb rentals, young Cornish people are turning to old campervans to give them a roof over their heads</p><p>Skye has a thick du",
-      "pubDate": "Thu, 25 Jun 2026 05:00:06 GMT",
-      "img": "https://i.guim.co.uk/img/media/770974806f4dc56a9213e41d33a931ab8f3c4719/184_0_9512_7613/master/9512.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "The final IS-linked woman is returning to Australia. It’s the safest outcome for everyone",
-      "link": "https://theconversation.com/the-final-is-linked-woman-is-returning-to-australia-its-the-safest-outcome-for-everyone-286131",
-      "desc": "The government has granted the woman and her child a permit to come home, having previously tried to block their return. It will now be easier to manage any threats.",
-      "pubDate": "2026-06-25T04:54:43Z",
-      "img": "https://images.theconversation.com/files/744106/original/file-20260625-57-2hf48z.jpg?ixlib=rb-4.1.0&amp;rect=0%2C729%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Karl Stefanovic won’t appear on Friday radio show with Eddie McGuire amid Tommy Robinson interview fallout",
-      "link": "https://www.theguardian.com/media/2026/jun/25/karl-stefanovic-riday-radio-show-eddie-mcguire-tommy-robinson-interview-fallout-ntwnfb",
-      "desc": "<p>Nine Entertainment is expected to sever ties with the Today show host but is yet to make details of the separation public</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026",
-      "pubDate": "Thu, 25 Jun 2026 04:45:57 GMT",
-      "img": "https://i.guim.co.uk/img/media/45ac596102ca234781fde4be1bd1ec46887d0e09/248_15_592_474/master/592.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Larvotto drill hits add shine to NSW Hillgrove gold-antimony target",
-      "link": "https://www.smh.com.au/business/companies/larvotto-drill-hits-add-shine-to-nsw-hillgrove-gold-antimony-target-20260625-p60a47.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Larvotto has unveiled 8m at 16.11g/t AuEq from its Midas prospect at Hillgrove in NSW, backing a 656,000-ounce exploration target as China-Japan tungsten supply tensions add extra bite.",
-      "pubDate": "Thu, 25 Jun 2026 14:45:33 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/35671290ac9ceb0f1e6288e1c80366040167cded381020d12a6a052ae53569bb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Power price rise on the way for Tasmanians on the grid",
-      "link": "https://www.abc.net.au/news/2026-06-25/power-price-rise-coming-for-aurora-energy-tasmania/106841056",
-      "desc": "Tasmanian households and businesses with the state-owned electricity retailer will be paying more for power, after a price rise was approved by the economic regulator.",
-      "pubDate": "Thu, 25 Jun 2026 04:34:53 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/a8b3e56a3107e5f2ea5a64e4d83d38cf?impolicy=wcms_crop_resize&amp;cropH=1024&amp;cropW=768&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Edge of Armageddon: why does one of the world’s top thinkers believe we’re nearing nuclear apocalypse?",
-      "link": "https://www.theguardian.com/books/2026/jun/25/armageddon-physicist-carlo-rovelli-nuclear-apocalypse",
-      "desc": "<p>In a chilling new book, theoretical physicist Carlo Rovelli says we’re back on the brink – and this time, leaders chronically lack the nous of Kennedy and Khrushchev. So why is he against rearming?",
-      "pubDate": "Thu, 25 Jun 2026 04:00:04 GMT",
-      "img": "https://i.guim.co.uk/img/media/71b7f5722ca1be3b71336d81fdbc16a338a7ef04/1469_1032_3227_2583/master/3227.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Nature or nurture: can genes shape our behaviour? – podcast",
-      "link": "https://www.theguardian.com/science/audio/2026/jun/25/nature-or-nurture-can-genes-shape-our-behaviour-podcast",
-      "desc": "<p>How much do our genes determine about our lives, and could they influence traits like risk-taking, antisocial behaviour or even violence? Ian Sample talks to Kathryn Paige Harden, a behavioural gen",
-      "pubDate": "Thu, 25 Jun 2026 04:00:03 GMT",
-      "img": "https://i.guim.co.uk/img/media/dc87372995d8f476586ae0c48113a1c9cbb866f5/395_0_4610_3689/master/4610.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Papua New Guinea faces severe food shortages as El Niño brings frost and drought",
-      "link": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
-      "desc": "<p>Oxfam predicts PNG will be worst-hit country in Pacific from the weather pattern, with up to 3 million people affected nationwide</p><p>Families across Papua New Guinea’s Highlands are facing deple",
-      "pubDate": "Thu, 25 Jun 2026 03:54:03 GMT",
-      "img": "https://i.guim.co.uk/img/media/a9629128064a249473e8e8170670dcf08def51a2/577_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "WA police are scanning faces in public – and the law is not ready for the consequences",
-      "link": "https://theconversation.com/wa-police-are-scanning-faces-in-public-and-the-law-is-not-ready-for-the-consequences-286021",
-      "desc": "Western Australia’s police are now scanning faces in real time. The technology works – roughly. The laws to govern it do not yet exist.",
-      "pubDate": "2026-06-25T03:41:09Z",
-      "img": "https://images.theconversation.com/files/744070/original/file-20260625-57-61fucr.jpg?ixlib=rb-4.1.0&amp;rect=0%2C171%2C2048%2C1024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Music Well sings as Augustus hits thick gold zones in WA",
-      "link": "https://www.smh.com.au/business/companies/music-well-sings-as-augustus-hits-thick-gold-zones-in-wa-20260625-p60a3b.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Augustus Minerals has hit high-grade gold at its Music Well project in WA, with 1m assays returning up to 7.9g/t. The results confirm wider zones of mineralisation.",
-      "pubDate": "Thu, 25 Jun 2026 13:37:23 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354166666666666%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/b2cb1b64b56ebb6eb42c2e427a6560c514cd794969fd30ad5025103108e6f881",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Karl Stefanovic pulls out of radio show tomorrow amid Robinson controversy",
-      "link": "https://www.smh.com.au/business/companies/karl-stefanovic-pulls-out-of-radio-show-tomorrow-amid-robinson-controversy-20260625-p60a37.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The outgoing Today host was due to front his new radio show alongside Eddie McGuire, who will now present the broadcast solo.",
-      "pubDate": "Thu, 25 Jun 2026 13:32:50 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/526948ef872a2b4c8962aa7605a8be40c693f5acf4d59ddd9b146ed04206d48d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Coastal town braces for economic pain as mine closure to cost 100 jobs",
-      "link": "https://www.abc.net.au/news/2026-06-25/lucky-bay-garnet-mine-minres-closure-kalbarri/106839686",
-      "desc": "Mineral Resources's decision to close the Lucky Bay Garnet Mine will see 110 jobs lost in and around Kalbarri.",
-      "pubDate": "Thu, 25 Jun 2026 03:28:42 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/cf6ca07beadc9b2e1c793f3c60a050b6?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Councils bar thirsty renewable energy zone from accessing town water",
-      "link": "https://www.abc.net.au/news/2026-06-25/councils-deny-energyco-water-new-england-renewable-energy-zone/106685330",
-      "desc": "Rural NSW councils already under water restrictions are drawing a line in the sand regarding supplying water to Renewable Energy Zone projects.",
-      "pubDate": "Thu, 25 Jun 2026 03:25:22 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/f6042e420627f1d13d3cda016ed57f28?impolicy=wcms_crop_resize&amp;cropH=913&amp;cropW=685&amp;xPos=497&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Groped at the gym, underwear stolen: Harassment allegedly rife at Fortescue’s mines",
-      "link": "https://www.smh.com.au/business/companies/groped-at-the-gym-underwear-stolen-harassment-allegedly-rife-at-fortescue-s-mines-20260625-p60a0r.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Fortescue Metals Group has been sued by female workers who allege there is widespread sexual harassment and assault at the company’s remote sites.",
-      "pubDate": "Thu, 25 Jun 2026 13:24:08 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_39/t_crop_custom/q_86%2Cf_auto/5f59765bd98916bc2e37fcb727412f832a68540d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Yes, the tax debate has been unedifying at times. But it shows reform working as it should in a democracy",
-      "link": "https://theconversation.com/yes-the-tax-debate-has-been-unedifying-at-times-but-it-shows-reform-working-as-it-should-in-a-democracy-286026",
-      "desc": "Something went very right in Australian politics this week – and it’s worth pausing and reflecting on how and why that is.",
-      "pubDate": "2026-06-25T03:18:54Z",
-      "img": "https://images.theconversation.com/files/744077/original/file-20260625-57-o0beyj.jpg?ixlib=rb-4.1.0&amp;rect=0%2C452%2C5421%2C2710&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Pilot killed in WA plane crash identified",
-      "link": "https://www.smh.com.au/national/western-australia/pilot-killed-in-wa-plane-crash-identified-20260625-p60a2a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Malcolm Vivian was flying just outside of Northam in a single-seat plane he had built himself when it crashed in Malabaine about 11am.",
-      "pubDate": "Thu, 25 Jun 2026 13:11:22 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5515625%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/96bc610dabf1bb15f7cee33e77fabcc9ac3d38f231d0d4136815db5331fc23cd",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "A Queensland Rail train crashing into a truck in Brisbane in August 2025",
-      "link": "https://www.smh.com.au/national/queensland/a-queensland-rail-train-crashing-into-a-truck-in-brisbane-in-august-2025-20260625-p60a30.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "CCTV footage released by Queensland Rail shows the terrifying moment a train crashed into a broken down truck in Runcorn.",
-      "pubDate": "Thu, 25 Jun 2026 13:08:51 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a0ae818408c3d5817e7f9c3f12dd93cd29c77e8e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The highs and lows of Karl Stefanovic's 20 years with the Today show",
-      "link": "https://www.abc.net.au/news/2026-06-25/karl-stefanovic-nine-network-today-show-career/106838570",
-      "desc": "Today show host Karl Stefanovic is reportedly leaving Channel Nine after a more than 20-year career at the network that was filled with highs and lows.",
-      "pubDate": "Thu, 25 Jun 2026 03:08:33 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/58f1bed1d8bfa95633bdc36b9832a30f?impolicy=wcms_crop_resize&amp;cropH=2615&amp;cropW=1961&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Big battery boom means fewer transmission lines will be needed",
-      "link": "https://www.abc.net.au/news/2026-06-25/batteries-boom-wind-stalls-aemo-isp-plan/106837876",
-      "desc": "Home batteries hit 600,000 as households play big role in energy transition, but building transmission projects remains \"critical\", according to the latest AEMO energy plan.",
-      "pubDate": "Thu, 25 Jun 2026 03:02:06 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/3ac717b7eaf83fb58cd26ac341f356f8?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1124&amp;yPos=0&amp;width=862&amp;height=1149",
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
