@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-25T10:36:54.087Z",
-  "summary": "Australia's cost of living pressures remain acute with household budgets tightening by hundreds of dollars monthly, while Queensland is grappling with its first confirmed bird flu case as the national outbreak spreads. The country is also dealing with multiple serious crimes including alleged sexual assaults, home invasions and a fatal incident at a music festival, alongside transport emergencies that saw a police officer trapped in a speeding vehicle. Political tensions have surfaced within Labor over Gaza debate restrictions, with senior figures accused of stifling discussion of Palestinian issues, as Ed Husic pushes unsuccessfully for genocide recognition. Meanwhile, Australia continues facing economic headwinds including rising fuel prices, job market pressures reflected in the Liberty Bell Bay collapse, and broader questions about industrial reindustrialisation through factory-built housing.",
+  "fetchedAt": "2026-07-25T13:43:23.597Z",
+  "summary": "Australia's news cycle is dominated by public safety concerns, with a teenage stabbing in Sydney, multiple serious assaults, and a fatal stage fall at a Queensland music festival joining warnings about an expanding bird flu outbreak across the country. Economic pressures are mounting as household budgets tighten by around $450 monthly while fuel prices climb despite government assurances of supply security. The government faces political pressure over its handling of Gaza debate suppression within Labor ranks, while environmental issues including solar panel recycling gaps and the phased withdrawal of a widely-banned herbicide continue to demand attention. International stories include deadly European wildfires affecting France and Spain and ongoing US tariff disputes affecting Australian businesses.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "Lack of solar panel recycling is hardly enlightened",
+      "link": "https://www.smh.com.au/national/nsw/lack-of-solar-panel-recycling-is-hardly-enlightened-20260719-p60gkr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A proper recycling industry would let Australia turn waste into winnings and finally compete for gold off the field as well as on it.",
+      "pubDate": "Sat, 25 Jul 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6595caaf8cb42101141b9e5b616e24334361e0cb",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Indian education minister resigns after Cockroach movement protests",
+      "link": "https://www.abc.net.au/news/2026-07-25/indian-education-minister-resigns-after-protests/106958482",
+      "desc": "Protesters had been calling for Dharmandra Pradhan's resignation amid ongoing exam paper leaks, which the education minister claims he \"took responsibility\" for.",
+      "pubDate": "Sat, 25 Jul 2026 10:28:09 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/52d2fe2c5c9642385a6f83e9f44e0f17?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "The two factors that cut $450 from your household’s monthly budget",
       "link": "https://www.smh.com.au/business/the-economy/the-two-factors-that-cut-450-from-your-household-s-monthly-budget-20260723-p60hyu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -32875,66 +32895,6 @@
       "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
       "pubDate": "Thu, 25 Jun 2026 23:59:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_236/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Polanski and unions warn Burnham against backsliding on climate action",
-      "link": "https://www.theguardian.com/politics/2026/jun/25/backsliding-on-climate-would-drive-labour-into-obscurity-zack-polanski-says",
-      "desc": "<p>Debate in Labour and union movement over climate commitments as many call for Burnham not to allow drilling in North Sea</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/25/a",
-      "pubDate": "Thu, 25 Jun 2026 12:44:59 GMT",
-      "img": "https://i.guim.co.uk/img/media/9294095fe579f3f87f342b72888b3d30e858977b/383_0_3352_2681/master/3352.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘Act on the evidence outside the window’: Andy Burnham urged to stick to net zero targets if he becomes PM",
-      "link": "https://www.theguardian.com/environment/2026/jun/25/andy-burnham-net-zero-targets",
-      "desc": "<p>Burnham is coming under pressure from some to ditch net zero targets but this could be highly damaging on many levels</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/jun/25/an",
-      "pubDate": "Thu, 25 Jun 2026 12:26:15 GMT",
-      "img": "https://i.guim.co.uk/img/media/51bb4b0a095dab1e0a543f05a62fdc7a6df450c4/634_0_4164_3333/master/4164.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "WA Liberal Party in turmoil after shock defection",
-      "link": "https://www.smh.com.au/national/wa-liberal-party-in-turmoil-after-shock-defection-20260625-p60a7z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Western Australian MP Jonathan Huston has turned his back on the Liberal Party in a shock defection that will see him sit as an independent.",
-      "pubDate": "Thu, 25 Jun 2026 22:21:21 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c5d50866b7eb4f06c0b049c468cf1f007289744c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Mass migratory fallout",
-      "link": "https://www.smh.com.au/national/nsw/mass-migratory-fallout-20260625-p609xo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "They’re just winging it in Canberra.",
-      "pubDate": "Thu, 25 Jun 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Rome airports threaten to suspend new EU passport system to avoid summer ‘disaster’",
-      "link": "https://www.theguardian.com/business/2026/jun/25/rome-airports-threaten-to-suspend-new-eu-passport-system-to-avoid-summer-disaster",
-      "desc": "<p>Airports CEO says letting non-EU passengers skip entry-exit system would be only way to avoid peak season travel chaos</p><p>Rome’s airports will have to suspend the EU’s new digital border system ",
-      "pubDate": "Thu, 25 Jun 2026 10:53:29 GMT",
-      "img": "https://i.guim.co.uk/img/media/325d83e93999045c872ce9429c791a3bb4566b76/333_0_3333_2667/master/3333.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Mining giant hit with sexual harassment class action",
-      "link": "https://www.smh.com.au/national/mining-giant-hit-with-sexual-harassment-class-action-20260625-p60a7l.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Women have alleged sexual harassment, violence and retaliation for speaking out at remote worksites of Fortescue, one of Australia’s biggest mining companies.",
-      "pubDate": "Thu, 25 Jun 2026 20:41:21 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ecdfc5c479a73343907eae824ee8f626678f972d",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"

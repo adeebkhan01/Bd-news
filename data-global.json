@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-25T10:37:07.789Z",
-  "summary": "The Middle East remains the dominant story as tensions escalate across multiple fronts: Israel faces international pressure over Palestinian deaths in the West Bank amid settler violence and arrested civilians, while the US and Iran engage in escalating military posturing in the Hormuz Strait with Oman attempting mediation. UN Secretary-General Guterres arrives in Syria amid regional instability, and Netanyahu prepares for White House meetings with Trump who is now explicitly conditioning Saudi nuclear cooperation on Israel normalization. Domestically in the US, Trump dominates headlines with constitutional concerns about his claimed candidacy for a fourth term, threats of tariffs against the EU over tech company fines, and directives to the Smithsonian regarding US history, while also facing scrutiny over classified documents in an ongoing legal battle. Other significant developments include Bangladesh's president resigning, Ukraine reporting casualties in continued fighting with Russia, and FIFA concerns emerging around the world chess chief following EU sanctions on Russia.",
+  "fetchedAt": "2026-07-25T13:43:41.602Z",
+  "summary": "Global tensions are escalating across multiple fronts as Donald Trump re-enters the White House amid threats of tariffs against the EU and escalating rhetoric toward Iran, while UN Secretary-General António Guterres visits Syria for the first time in 17 years as regional conflicts intensify. The Israeli-Palestinian conflict shows no signs of abating, with repeated settler attacks and military operations in the West Bank killing Palestinians and triggering international condemnation, while UN rights chief Volker Turk has secured a second term despite opposition from the US and Israel. Trump is leveraging his return to power to reshape trade relationships and foreign policy, including pushing Saudi Arabia toward normalizing ties with Israel and launching investigations into EU tech company fines, while the broader Middle East remains volatile with clashes between the US and Iran, and Saudi-led coalition strikes against Houthi positions continuing in Yemen. Several multilateral institutions are under strain, with Venezuela exiting the International Criminal Court and the UN's authority being tested by major powers, even as humanitarian crises deepen in Gaza, Sudan, and across conflict zones.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "F1 needs better balance between business and sport, says Norris",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
+      "desc": "Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.",
+      "pubDate": "Sat, 25 Jul 2026 13:03:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-19T095707Z_1172626816_UP1EM7J0RN5TX_RTRMADP_3_MOTOR-F1-BELGIUM-1784982628.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Baby rescued after Israeli settlers set home on fire amid raids",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
+      "desc": "A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.",
+      "pubDate": "Sat, 25 Jul 2026 12:41:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784983260.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump faces backlash for using ‘Palestinian’ as an insult",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
+      "desc": "US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.",
+      "pubDate": "Sat, 25 Jul 2026 12:11:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784981475.jpg?resize=1918%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
       "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
@@ -233,6 +263,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Poland's main opposition collapses over far-right slide",
+      "link": "https://www.dw.com/en/poland-s-main-opposition-collapses-over-far-right-slide/a-78106475?maca=en-rss-en-eu-2092-rdf",
+      "desc": "A power struggle within Poland's main opposition force has come to a head. But a move to expel former Prime Minister Mateusz Morawiecki may greatly weaken the right-wing party's popularity.",
+      "pubDate": "2026-07-24T19:41:00Z",
+      "img": "https://static.dw.com/image/68765665_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Trump vows to investigate EU over fining of US tech companies",
@@ -12640,66 +12680,6 @@
       "desc": "New deconfliction mechanism seeks to prevent return to all-out war in Lebanon and in the region.",
       "pubDate": "Thu, 25 Jun 2026 14:10:27 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3ae2f4335d-1782244084_7412f2-1782256033.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran, Israel and the Bomb",
-      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss",
-      "desc": "How a decades of sabotage and brinkmanship over Iran&#039;s nuclear programme erupted into the 2026 US-Israeli war on Iran.",
-      "pubDate": "Thu, 25 Jun 2026 13:30:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782305207.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "‘We did regain control’: The Brexit voters with no regrets 10 years on",
-      "link": "https://www.aljazeera.com/news/2026/6/25/we-did-regain-control-the-brexit-voters-with-no-regrets-10-years-on?traffic_source=rss",
-      "desc": "The UK may have squandered the freedoms it won, but leaving the EU was the right decision, say pro-Brexit Britons.",
-      "pubDate": "Thu, 25 Jun 2026 12:40:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2017/01/594481385a964560aa27fdc76c13c9ac_18.jpeg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "pubDate": "Thu, 25 Jun 2026 12:08:33 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56f5/live/20d1c620-7096-11f1-86cf-0fd142c2b6fb.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
-      "link": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Amid a flare-up in violence between Russia and Ukraine, viral posts claim Ukrainian President Volodymyr Zelenskyy has died. DW Fact check takes a closer look.",
-      "pubDate": "2026-06-25T11:12:00Z",
-      "img": "https://static.dw.com/image/76252047_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "How you can save money on your energy bill as debts rise",
-      "link": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
-      "pubDate": "Thu, 25 Jun 2026 11:04:09 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dcc/live/63478af0-59e2-11f1-ad45-03463f64a221.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
-      "link": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss",
-      "desc": "President Putin has hinted at peace talks as the economy fails, people flee cities and toxic &#039;oil rains&#039; fall.",
-      "pubDate": "Thu, 25 Jun 2026 10:50:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-25T081942Z_139107613_RC24ZLAPYI8R_RTRMADP_3_UKRAINE-CRISIS-FRONTLINE-DNIPROPETROVSK-REGION-1782377771.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
