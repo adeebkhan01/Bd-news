@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-24T22:08:48.751Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Trump administration pursues aggressive tariff policies against trading partners while intensifying military confrontation with Iran, with thirteen consecutive nights of US strikes now underway. The Israel-Palestine conflict is intensifying sharply, with settlers carrying out deadly raids in the West Bank that have killed multiple Palestinians, while Netanyahu prepares to meet Trump amid broader concerns about regional war escalation and a potential US-Saudi nuclear deal. International institutions face mounting pressure, including Venezuela's departure from the International Criminal Court over bias claims and UNESCO's listing of endangered heritage sites in occupied territories. Meanwhile, Ukraine continues its war against Russia with military leadership changes aimed at improving performance, and African nations experience significant political shifts including Bangladesh's presidential resignation and South Africa's temporary halt to impeachment proceedings.",
+  "fetchedAt": "2026-07-25T02:57:06.513Z",
+  "summary": "President Trump has escalated trade tensions with the EU through tariff threats and investigations into tech company fines while simultaneously pursuing military escalation in the Middle East, with the US and Iran conducting consecutive strikes in the Gulf and Trump signaling pressure on Saudi Arabia to normalize relations with Israel. The Israeli-Palestinian conflict has intensified with multiple deadly settler attacks in the West Bank and ongoing Saudi-led operations against Houthi positions in Yemen. International institutions face pressure from multiple quarters as Venezuela moves to exit the International Criminal Court, while Trump orders the Smithsonian to flag American history as inaccurate. Ukraine continues to sustain significant casualties from Russian attacks as the broader geopolitical landscape reflects deepening strategic competition across multiple regions.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+      "pubDate": "Sat, 25 Jul 2026 02:23:09 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+      "desc": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
+      "pubDate": "Sat, 25 Jul 2026 01:09:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T185745Z_338274370_RC235MAACO0U_RTRMADP_3_ALPHABET-AI-1784941927.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
+      "desc": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
+      "pubDate": "Sat, 25 Jul 2026 00:31:16 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784939401.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
+      "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
+      "desc": "Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
+      "pubDate": "Sat, 25 Jul 2026 00:16:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a63edfa6f-1784933882.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "desc": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
+      "pubDate": "Sat, 25 Jul 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C34N9PK__v6__HighRes__PalestinianIsraelConflictWestBank-1784931808.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+      "desc": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
+      "pubDate": "Fri, 24 Jul 2026 23:53:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a63ef31aea1-1784934193.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "pubDate": "Fri, 24 Jul 2026 23:11:13 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
       "link": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
@@ -12680,96 +12750,6 @@
       "desc": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
       "pubDate": "Thu, 25 Jun 2026 03:12:17 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
-      "desc": "NATO chief Mark Rutte visited the White House to ease tensions with Trump ahead of next month&#039;s NATO summit.",
-      "pubDate": "Thu, 25 Jun 2026 02:22:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-NATO-TRUMP-rutte-1782354064.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russian opposition leader jailed over anti-war social media posts",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss",
-      "desc": "Russian opposition leader jailed over anti-war social media posts.",
-      "pubDate": "Thu, 25 Jun 2026 01:34:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/wide-thumb-russian-opposition-leader-v2-1782351198.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
-      "desc": "Rubio promises to protect Gulf interests in talks with Iran, as Israel says it will not withdraw from southern Lebanon.",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26175403467375-1782344675.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
-      "desc": "NATO chief Mark Rutte points to use of US bases in Europe as he stresses support for US war on Iran.",
-      "pubDate": "Wed, 24 Jun 2026 23:47:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3c4d971661-1782336919.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
-      "desc": "The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump&#039;s war powers.",
-      "pubDate": "Wed, 24 Jun 2026 23:25:01 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3c5f67deac2-1782341479.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The legal fight to get equal pay for Germany's disabled workers",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
-      "pubDate": "Wed, 24 Jun 2026 23:10:28 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c743/live/198a8d50-6e22-11f1-bf93-41ce9254b46a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "I've spent 30 years in recruitment - this is how to get a job",
-      "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
-      "pubDate": "Wed, 24 Jun 2026 23:06:16 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b813/live/a1869260-6fb9-11f1-8dfa-636ee713b41c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "VAT cut on theme parks and kids' meals comes into force",
-      "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The government will reduce tax from 20% to 5% on a range of attractions as schools begin to break-up.",
-      "pubDate": "Wed, 24 Jun 2026 23:02:33 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/ff8d5100-6f0f-11f1-93e4-574a66c90712.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "The woman who fought for Pakistan's disappeared men now faces life in jail",
-      "link": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Nobel Peace Prize nominee has spent years demanding answers about the missing in Balochistan province.",
-      "pubDate": "Wed, 24 Jun 2026 22:14:31 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d9b/live/3a505760-6fba-11f1-8dfa-636ee713b41c.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
