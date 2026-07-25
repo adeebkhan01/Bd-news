@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T03:44:18.056Z",
+  "fetchedAt": "2026-07-25T08:26:55.093Z",
   "asx200": {
     "value": 8772.3,
     "change": -36.1,
@@ -94,6 +94,10 @@
       {
         "date": "2026-07-23",
         "close": 8839
+      },
+      {
+        "date": "2026-07-24",
+        "close": 8772.3
       }
     ]
   },
@@ -197,7 +201,7 @@
         "close": 0.7
       },
       {
-        "date": "2026-07-24",
+        "date": "2026-07-25",
         "close": 0.7
       }
     ]
@@ -207,33 +211,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4055.7,
-      "change": 65.4,
-      "changePercent": 1.64
+      "price": 4070.8,
+      "change": 80.5,
+      "changePercent": 2.02
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.49,
-      "change": 0.44,
-      "changePercent": 0.75
+      "price": 58.91,
+      "change": 0.85,
+      "changePercent": 1.47
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 90.47,
-      "change": 20.13,
-      "changePercent": 28.62
+      "price": 89.31,
+      "change": 18.97,
+      "changePercent": 26.97
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.34,
-      "change": 0.4,
-      "changePercent": 6.67
+      "price": 6.36,
+      "change": 0.41,
+      "changePercent": 6.97
     },
     {
       "name": "BHP Group",
@@ -842,6 +846,13 @@
   ],
   "news": [
     {
+      "title": "Live: Bulldogs take unlikely lead against high-flying Warriors",
+      "link": "https://www.abc.net.au/news/2026-07-25/nrl-live-updates-raiders-tigers-bulldogs-warriors-broncos/106958244",
+      "snippet": "",
+      "pubDate": "Sat, 25 Jul 2026 04:42:44 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Every Australian Medal from the Glasgow Commonwealth Games so far",
       "link": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-2026-every-australian-medal/106958160",
       "snippet": "",
@@ -849,7 +860,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Live: Blues bite back after horror start in must-win clash against Suns",
+      "title": "Live: Hawks avalanche overwhelms Dons as Swans dominate listless Giants",
       "link": "https://www.abc.net.au/news/2026-07-25/afl-r20-blues-suns-hawks-dons-giants-swans-wb-tigers-live-blog/106957878",
       "snippet": "",
       "pubDate": "Sat, 25 Jul 2026 03:01:44 +0000",
@@ -902,13 +913,6 @@
       "link": "https://www.abc.net.au/news/2026-07-25/tour-de-france-stage-19-tadej-pogacar-wins-in-stunning-surge/106957688",
       "snippet": "",
       "pubDate": "Fri, 24 Jul 2026 21:50:14 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "How Hani harnessed mum and mana to go 'balls out' for bronze",
-      "link": "https://www.abc.net.au/news/2026-07-25/hani-watson-wins-commonwealth-games-para-powerlifting-bronze/106957608",
-      "snippet": "",
-      "pubDate": "Fri, 24 Jul 2026 20:47:36 +0000",
       "source": "ABC News"
     },
     {
