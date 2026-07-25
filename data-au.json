@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-25T19:13:36.683Z",
-  "summary": "Australia is grappling with several major challenges this week, from Queensland confirming its first bird flu case amid a spreading national outbreak to concerning developments in workplace safety, including an officer shot at a domestic violence callout and a man dying after a stage fall at a music festival. Political tensions are simmering within Labor over suppressed debates about Palestine and broader governance concerns about transparency, while economic pressures mount with household budgets squeezed by rising fuel prices and cost-of-living factors. On the corporate front, former Qantas CEO Alan Joyce's book release coincides with attention to five workers he illegally sacked, highlighting ongoing workplace issues, and real estate fraud schemes are targeting rural landowners. Meanwhile, infrastructure and environmental matters range from solar panel recycling gaps to heritage discussions around the Parthenon Marbles, reflecting Australia's diverse policy concerns heading into the week.",
+  "fetchedAt": "2026-07-25T21:59:31.314Z",
+  "summary": "Victoria is intensifying enforcement against hoon drivers while police continue hunting those responsible for a stabbing attack on a teenager, underscoring ongoing public safety concerns. Sydney is grappling with planning and housing pressures, from disputes over modular homes to concerns that data centre development could blight suburbs, reflecting broader tensions between urban growth and residential livelihoods. Nationally, Labor faces internal discord over Israel-Gaza policy and the future party leadership, with the airline scandal involving Alan Joyce continuing to generate scrutiny around corporate accountability. Queensland has confirmed its first bird flu case as the outbreak spreads across Australia, marking a significant public health development.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hoon crackdown continues in Victoria",
+      "link": "https://www.smh.com.au/national/hoon-crackdown-continues-in-victoria-20260726-p60ikm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Victoria Police will use drones to crack down on riders hooning in the streets of Melbourne.",
+      "pubDate": "Sun, 26 Jul 2026 07:27:36 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/237cdfa73893c1917335f44616cf85c6844e9217",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Hunt for people who stabbed teenage boy continues",
+      "link": "https://www.smh.com.au/national/hunt-for-people-who-stabbed-teenage-boy-continues-20260726-p60ikl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police are continuing to search for the people who attacked a teenage boy in Sydney's Inner West, leaving him with stab wounds to his head.",
+      "pubDate": "Sun, 26 Jul 2026 07:22:09 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/960cd93269745fa43177e564b34deb1574b078e9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Council fears Sydney suburb risks becoming 'data centre wasteland'",
+      "link": "https://www.abc.net.au/news/2026-07-26/nsw-sydney-ai-data-centres-turn-suburbs-into-wastelands/106946638",
+      "desc": "Sydney is in the middle of a data centre boom fuelled by the global AI race. In Lane Cove West and Ryde, residents and councils say they are the ones paying the price.",
+      "pubDate": "Sat, 25 Jul 2026 21:15:27 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/a2569a0fd1d61b80187acc97771b4b95?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Couple told two modular homes on one block makes it an 'estate'",
+      "link": "https://www.abc.net.au/news/2026-07-26/modular-housing-dream-in-limbo/106912348",
+      "desc": "An Illawarra family that has spent two years trying to build another modular home on their property have been told the move would make it a \"manufactured housing estate\".",
+      "pubDate": "Sat, 25 Jul 2026 20:33:41 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/f0b297043c34176975afdc3a5f6efd57?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=2110&amp;xPos=2012&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "SA premier Peter Malinauskas at the ALP national conference - podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/jul/26/peter-malinauskas-sa-premier-labor-national-conference-full-story-podcast",
+      "desc": "<p>Speaking with political editor <strong>Tom McIlroy</strong> and chief political correspondent <strong>Dan Jervis-Bardy</strong> at the 50th Labor conference in Adelaide, Peter Malinauskas talks abo",
+      "pubDate": "Sat, 25 Jul 2026 20:00:53 GMT",
+      "img": "https://i.guim.co.uk/img/media/0e7f9507135a9ca2e222ac5ba47e5433af6aa12e/313_0_1875_1500/master/1875.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Like Trump, Pauline Hanson plays the media and attacks the media simultaneously. Who’s using who? | Zoe Daniel",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/26/pauline-hanson-media-trump-ntwnfb",
+      "desc": "<p>One Nation is borrowing heavily from the Maga playbook. But constant claims of being misquoted predate the US president’s</p><p>Time to call a spade a spade.</p><p>One Nation’s rise is the media’s ",
+      "pubDate": "Sat, 25 Jul 2026 20:00:51 GMT",
+      "img": "https://i.guim.co.uk/img/media/7a59a8dc707d0d1f9fe2be7619209f199f541cfc/688_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Labor women outnumber men in the caucus. Why are they overlooked as Albanese’s potential successor?",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/26/labor-women-outnumber-men-caucus-albanese-potential-successor",
+      "desc": "<p>Kate Ellis now heads an all-female executive as women hold a majority in the party room for the first time. But when talk turns to leadership, women barely rate</p><ul><li><p>Get our <a href=\"https",
+      "pubDate": "Sat, 25 Jul 2026 20:00:51 GMT",
+      "img": "https://i.guim.co.uk/img/media/b8776210cdbec0f11102be14cfa9562b92d7ef0b/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "What Labor gains and loses by hiding its fights",
       "link": "https://www.abc.net.au/news/2026-07-26/labor-conference-policy-fights-debates/106953350",
@@ -32675,146 +32745,6 @@
       "desc": "A woman is in custody after an 84-year-old woman related to her was found dead at an aged care home in Sydney’s west.",
       "pubDate": "Fri, 26 Jun 2026 08:04:25 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.8273%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_114/t_crop_custom/q_86%2Cf_auto/be9e77499ea90a221a20baf08253c01ced227f55",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Length of closure for damaged Blue Mountains highway revealed",
-      "link": "https://www.smh.com.au/national/nsw/length-of-closure-for-damaged-blue-mountains-highway-revealed-20260625-p60a63.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A new bridge structure will be built above the unsafe part of the Great Western Highway constructed by convicts nearly 200 years ago.",
-      "pubDate": "Fri, 26 Jun 2026 07:46:34 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2012%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/acd5e5fd8cd11e654e94cfb524001e3551652d3e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ASX gains ground as ACCC announces anti-price gouging law — as it happened",
-      "link": "https://www.abc.net.au/news/2026-06-26/asx-markets-business-news-live-updates-friday-26-june/106843954",
-      "desc": "The ASX gained ground on Friday, but it still finished the week lower. Catch up on the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "pubDate": "Thu, 25 Jun 2026 21:24:24 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/4e7b24834f30812f11a0a6bc49880f93?impolicy=wcms_crop_resize&amp;cropH=533&amp;cropW=400&amp;xPos=141&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Man allegedly shot by police in western Sydney",
-      "link": "https://www.smh.com.au/national/man-allegedly-shot-by-police-in-western-sydney-20260626-p60a99.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man was allegedly shot by police in western Sydney when he ran at officers.",
-      "pubDate": "Fri, 26 Jun 2026 07:15:26 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6ca91ccd7678dc988833cd4c6b86d136e792b167",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Live: PM flags strengthening powers of eSafety commissioner for social media ban",
-      "link": "https://www.abc.net.au/news/2026-06-26/federal-politics-live-blog-new-political-party/106843884",
-      "desc": "Prime Minister Anthony Albanese says the government will look to strengthen the powers of the eSafety commissioner to enforce an under-16s social media ban. Follow live.",
-      "pubDate": "Thu, 25 Jun 2026 21:08:31 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/a8d8cc6f9e170e23911c37058e4aee96?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=675&amp;xPos=463&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Inside the small coastal town on the brink of an over-50s resort boom",
-      "link": "https://www.abc.net.au/news/2026-06-26/small-coastal-town-on-brink-of-over-50s-resort-boom/106758102",
-      "desc": "Four over-50s lifestyle developments have been approved for this small beach community, with two more being assessed. Some worry the area is not ready for the influx, others say it is the answer to th",
-      "pubDate": "Thu, 25 Jun 2026 20:45:19 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/451c7f83e5f72c5a5e497343ca531632?impolicy=wcms_crop_resize&amp;cropH=3750&amp;cropW=2813&amp;xPos=940&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Government flags strengthening social media ban",
-      "link": "https://www.smh.com.au/national/government-flags-strengthening-social-media-ban-20260626-p60a8y.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The prime minister has indicated Australia's social media ban may be strengthened.",
-      "pubDate": "Fri, 26 Jun 2026 06:42:25 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/896b21be1eb10a66af48fb16539c24c867f7bd77",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Concerning number of petrol bowsers short-changing motorists",
-      "link": "https://www.smh.com.au/national/concerning-number-of-petrol-bowsers-short-changing-motorists-20260626-p60a90.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A new audit has revealed Australian drivers are being short changed when filling up",
-      "pubDate": "Fri, 26 Jun 2026 06:41:08 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b788476287f497fc565365d700ca6768f39b04cc",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Why was the early Earth so hot? The heat wasn’t just coming from the inside",
-      "link": "https://theconversation.com/why-was-the-early-earth-so-hot-the-heat-wasnt-just-coming-from-the-inside-282382",
-      "desc": "Battered by asteroid impacts, the young Earth was hot and unstable for hundreds of millions of years.",
-      "pubDate": "2026-06-25T20:08:42Z",
-      "img": "https://images.theconversation.com/files/742661/original/file-20260618-57-olvqn3.jpg?ixlib=rb-4.1.0&amp;rect=0%2C79%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "The US and China are planning Moon bases. It could help improve life on Earth",
-      "link": "https://theconversation.com/the-us-and-china-are-planning-moon-bases-it-could-help-improve-life-on-earth-282251",
-      "desc": "Lunar architecture isn’t just an engineering challenge. At its heart, it is about understanding human experience at the extremes.",
-      "pubDate": "2026-06-25T20:07:40Z",
-      "img": "https://images.theconversation.com/files/742641/original/file-20260618-71-6zp1b2.jpg?ixlib=rb-4.1.0&amp;rect=0%2C99%2C1999%2C999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Karl Stefanovic to leave Nine ‘immediately’ after network axes multimillion-dollar contract",
-      "link": "https://www.smh.com.au/business/companies/karl-stefanovic-to-leave-nine-immediately-after-network-axes-multimillion-dollar-contract-20260626-p60a8i.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Nine and the presenter have agreed it was no longer possible for him to continue hosting Today while also fronting his independent podcast.",
-      "pubDate": "Fri, 26 Jun 2026 05:58:59 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2513051732320835%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/aacdcebb918c4b0fb202597454d485c67cb17ab7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "As NZ’s Chris Hipkins pursues power, what can he learn from Keir Starmer’s downfall?",
-      "link": "https://theconversation.com/as-nzs-chris-hipkins-pursues-power-what-can-he-learn-from-keir-starmers-downfall-286017",
-      "desc": "The UK leader’s resignation speaks to the challenges facing centre-left parties as they struggle to hold together increasingly diverse voters.",
-      "pubDate": "2026-06-25T19:27:12Z",
-      "img": "https://images.theconversation.com/files/744057/original/file-20260624-3928-s1e1yb.jpg?ixlib=rb-4.1.0&amp;rect=0%2C166%2C2000%2C1000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Coles and Woolies are being banned from price-gouging. No one knows what exactly that means",
-      "link": "https://www.smh.com.au/business/companies/coles-and-woolies-are-being-banned-from-price-gouging-no-one-knows-what-exactly-that-means-20260625-p609xv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "From July 1, Australia’s dominant supermarkets will have their prices monitored for “significantly excessive” pricing – whatever that entails.",
-      "pubDate": "Fri, 26 Jun 2026 05:25:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.8445701371649238%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_175%2C$y_3/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/dee2fa0482a329f1f960aff1e63ce81bcefe6335",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "US media regulator Brendan Carr accuses Disney of ‘misinformation’ on investigations",
-      "link": "https://www.theguardian.com/media/2026/jun/25/disney-brendan-carr-fcc-investigation",
-      "desc": "<p>Disney-owned ABC launched awareness campaign about two FCC investigations it faces, urging viewers to write in</p><p>Brendan Carr, the Trump-aligned chairman of the Federal Communications Commissio",
-      "pubDate": "Thu, 25 Jun 2026 19:21:34 GMT",
-      "img": "https://i.guim.co.uk/img/media/e0170b5a023ecf9d478880ee2e1cd2b42631a37b/458_0_4585_3668/master/4585.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "ASX set to edge up, Wall Street drifts higher; Apple dives after hiking prices",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-edge-up-wall-street-drifts-higher-apple-dives-after-hiking-prices-20260626-p60a8l.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The stock market is drifting in mixed trading after several artificial-intelligence stocks veered back up their roller-coaster ride, while Apple dropped after hiking prices on many of its products.",
-      "pubDate": "Fri, 26 Jun 2026 05:18:07 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2495228273775326%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_76%2C$y_0/t_crop_custom/q_86%2Cf_auto/1fb83e5ab86ff3a07cf37a1715a5c838f60e6a24",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
