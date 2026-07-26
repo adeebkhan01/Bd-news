@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-25T22:14:22.452Z",
+  "fetchedAt": "2026-07-26T04:03:16.929Z",
   "asx200": {
     "value": 8772.3,
     "change": -36.1,
     "changePercent": -0.41,
     "previousClose": 8808.4,
-    "asOf": "2026-07-25",
+    "asOf": "2026-07-26",
     "history": [
       {
         "date": "2026-06-24",
@@ -94,6 +94,10 @@
       {
         "date": "2026-07-23",
         "close": 8839
+      },
+      {
+        "date": "2026-07-24",
+        "close": 8772.3
       }
     ]
   },
@@ -102,7 +106,7 @@
     "change": 0.01,
     "changePercent": 0.97,
     "previousClose": 0.69,
-    "asOf": "2026-07-25",
+    "asOf": "2026-07-26",
     "history": [
       {
         "date": "2026-06-23",
@@ -208,32 +212,32 @@
       "icon": "🥇",
       "iconBg": "#fef9ee",
       "price": 4070.8,
-      "change": 80.5,
-      "changePercent": 2.02
+      "change": -7.9,
+      "changePercent": -0.19
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
       "price": 58.91,
-      "change": 0.85,
-      "changePercent": 1.47
+      "change": -0.31,
+      "changePercent": -0.53
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
       "price": 89.31,
-      "change": 18.97,
-      "changePercent": 26.97
+      "change": 20.08,
+      "changePercent": 29
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
       "price": 6.36,
-      "change": 0.41,
-      "changePercent": 6.97
+      "change": 0.22,
+      "changePercent": 3.52
     },
     {
       "name": "BHP Group",
@@ -842,6 +846,48 @@
   ],
   "news": [
     {
+      "title": "Live: Dragons and Titans fight out wooden spoon battle",
+      "link": "https://www.abc.net.au/news/2026-07-26/nrl-live-updates/106958596",
+      "snippet": "",
+      "pubDate": "Sun, 26 Jul 2026 03:37:14 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Brisbane locked in early arm-wrestle with Port as star gets crunched",
+      "link": "https://www.abc.net.au/news/2026-07-26/afl-r20-lions-power-kangaroos-saints-live-blog/106959530",
+      "snippet": "",
+      "pubDate": "Sun, 26 Jul 2026 02:37:34 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Surcharge ban could end popular free travel insurance perk",
+      "link": "https://www.smh.com.au/business/consumer-affairs/surcharge-ban-could-end-popular-free-travel-insurance-perk-20260724-p60iao.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Two in five travellers rely on free travel insurance offered by their credit cards, but travel agents say the surcharge ban threatens their ability to accept such payments.",
+      "pubDate": "Sun, 26 Jul 2026 11:55:07 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Live: Olympians claim wins as build up to Tim Tszyu vs Errol Spence Jr continues",
+      "link": "https://www.abc.net.au/news/2026-07-26/live-updates-boxing-tim-tszyu-vs-errol-spence-jnr/106951948",
+      "snippet": "",
+      "pubDate": "Sun, 26 Jul 2026 01:00:12 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "No more tears left to cry as Godwin goes from hell to the mountaintop",
+      "link": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-georgia-godwin-gymnastics-team-final/106959212",
+      "snippet": "",
+      "pubDate": "Sat, 25 Jul 2026 23:01:18 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Quick hits: Photographer watches partner win gold, tiny nation makes history",
+      "link": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-glasgow-day-two-quick-hits/106957754",
+      "snippet": "",
+      "pubDate": "Sat, 25 Jul 2026 22:36:22 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Sobers could only do everything — including for SA's Sheffield Shield side",
       "link": "https://www.abc.net.au/news/2026-07-26/sir-garfield-sobers-sa-and-the-sheffield-shield/106956008",
       "snippet": "",
@@ -882,48 +928,6 @@
       "snippet": "Rate hikes and soaring petrol prices have combined to deliver the biggest hit to household budgets in decades.",
       "pubDate": "Sat, 25 Jul 2026 19:30:00 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Live: Gold for Aussie gymnasts as Williamson stuns in breaststroke",
-      "link": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-day-two-live-blog/106957766",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 08:18:40 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Brisbane's premiership defence all but over after Cowboys crash-out",
-      "link": "https://www.abc.net.au/news/2026-07-25/nrl-live-updates-raiders-tigers-bulldogs-warriors-broncos/106958244",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 04:42:44 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Every Australian Medal from the Glasgow Commonwealth Games so far",
-      "link": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-2026-every-australian-medal/106958160",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 03:40:47 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Dogs too strong for Tigers, Hawks and Swans dominate",
-      "link": "https://www.abc.net.au/news/2026-07-25/afl-r20-blues-suns-hawks-dons-giants-swans-wb-tigers-live-blog/106957878",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 03:01:44 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "'Blight on the sport': Fight cancelled on Tszyu card after weigh-in",
-      "link": "https://www.abc.net.au/news/2026-07-25/tim-tszyu-fight-liam-wilson-bout-cancelled-after-weigh-in-drama/106957992",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 02:25:35 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "'We can all feel it': Bronze medal lifts Aussie gymnasts' outlook",
-      "link": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-2026-australian-gymnasts-claim-bronze/106957948",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 01:55:45 +0000",
-      "source": "ABC News"
     }
   ]
 }
