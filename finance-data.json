@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T16:27:10.739Z",
+  "fetchedAt": "2026-07-26T19:40:36.553Z",
   "asx200": {
     "value": 8772.3,
     "change": -36.1,
@@ -94,13 +94,17 @@
       {
         "date": "2026-07-23",
         "close": 8839
+      },
+      {
+        "date": "2026-07-24",
+        "close": 8772.3
       }
     ]
   },
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 0.97,
+    "changePercent": 1.24,
     "previousClose": 0.69,
     "asOf": "2026-07-26",
     "history": [
@@ -842,6 +846,20 @@
   ],
   "news": [
     {
+      "title": "ASX set to rise, oil drops as Middle East tensions ease",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-drops-as-middle-east-tensions-ease-20260727-p60ipw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The Australian sharemarket is set to rise as the US paused an almost two-week run of strikes against Iran.",
+      "pubDate": "Mon, 27 Jul 2026 05:25:12 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "The RBA faces a dilemma, but more rate hikes aren’t the solution",
+      "link": "https://www.smh.com.au/business/the-economy/the-rba-faces-a-dilemma-but-more-rate-hikes-aren-t-the-solution-20260724-p60iam.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Markets think another rate rise this year is close to a sure thing. But given the economy’s already slowing, the RBA should sit on its hands for a while.",
+      "pubDate": "Mon, 27 Jul 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "‘I’m sorry ... but’: Apologetic Alan Joyce tells his side of the Qantas story",
       "link": "https://www.smh.com.au/business/companies/i-m-sorry-but-apologetic-alan-joyce-tells-his-side-of-the-qantas-story-20260726-p60ilt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Three years after stepping down as the airline’s chief executive, Alan Joyce has expressed regrets about its management during COVID – with some caveats.",
@@ -870,7 +888,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Moore wins gymnastics medal, Aussie weightlifter out",
+      "title": "Live: Aussie 'best friends' lead another medal rush in the pool",
       "link": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-day-three-live-blog/106959386",
       "snippet": "",
       "pubDate": "Sun, 26 Jul 2026 08:24:52 +0000",
@@ -909,20 +927,6 @@
       "link": "https://www.abc.net.au/news/2026-07-26/live-updates-boxing-tim-tszyu-vs-errol-spence-jnr/106951948",
       "snippet": "",
       "pubDate": "Sun, 26 Jul 2026 01:00:12 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "No more tears left to cry as Godwin goes from hell to the mountaintop",
-      "link": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-georgia-godwin-gymnastics-team-final/106959212",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 23:01:18 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Quick hits: Photographer watches partner win gold, tiny nation makes history",
-      "link": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-glasgow-day-two-quick-hits/106957754",
-      "snippet": "",
-      "pubDate": "Sat, 25 Jul 2026 22:36:22 +0000",
       "source": "ABC News"
     }
   ]
