@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-26T08:31:31.254Z",
-  "summary": "Bangladesh faces mounting governance and economic challenges as reports emerge of significant irregularities in major infrastructure projects, including Tk 45 billion in irregularities at Shahjalal Airport's Tk 210 billion expansion, while concerns persist about the government's commitment to reform. The financial sector confronts serious structural problems, with classified loans nearly doubling to 46 lakh accounts as retail defaults surge, raising questions about Bangladesh's ability to address its growing non-performing loan crisis. On the regulatory front, authorities are tightening oversight across sectors, from the BTRC fining mobile operators over illegal VoIP services to ongoing anti-smuggling operations at borders. Meanwhile, practical governance matters continue, including HSC exam registration reopening and preparations for Hajj 2027 registrations beginning Monday.",
+  "fetchedAt": "2026-07-26T10:46:03.060Z",
+  "summary": "Bangladesh faces deepening economic strain as gas shortages cripple industries and a debt crisis looms with classified loan accounts doubling to nearly 46 lakh amid surging retail defaults. The government is navigating a political transition following the departure of former President Shahabuddin from Bangabhaban, while combating a measles outbreak that has killed 816 people. Regulatory scrutiny is intensifying across sectors, with the High Court questioning excessive mobile financial services charges, the telecom authority fining operators over illegal VoIP services, and auditors uncovering 45 billion taka in irregularities at Shahjalal Airport. Meanwhile, infrastructure and industrial recovery efforts continue, including government support for the tea industry and new business ventures like Akij's entry into the commercial helicopter market.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,102 @@
     }
   ],
   "articles": [
+    {
+      "title": "No evidence former president spoke to Sheikh Hasina from London: Home minister",
+      "link": "https://en.prothomalo.com/bangladesh/2rfqz1swfi",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 10:17:18 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/fbhb0cpb/prothomalo-bangla2026-07-26qw4xj345home-minister.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "লন্ডন থেকে শেখ হাসিনার সাথে প্রাক্তন রাষ্ট্রপতি কথা বলেছেন এর কোনো প্রমাণ নেই: স্বরাষ্ট্রমন্ত্রী",
+      "descBn": ""
+    },
+    {
+      "title": "Those who left Bangabhaban in silence",
+      "link": "https://en.prothomalo.com/bangladesh/politics/r44ywi2ubi",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 10:15:04 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/c7hxnn8m/prothomalo-bangla2026-07-26lp6vpjpclayout-1600x1067-1.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "যারা নীরবে বঙ্গভবন ছেড়ে গেছেন",
+      "descBn": ""
+    },
+    {
+      "title": "PM commits full government support to revive tea industry",
+      "link": "https://www.thedailystar.net/business/news/pm-commits-full-government-support-revive-tea-industry-4232896",
+      "desc": "The government would extend the policy, financial, and institutional support needed to help the industry grow, he said",
+      "pubDate": "Sun, 26 Jul 26 15:55:25 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/PM%20tea%20industry.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "চা শিল্প পুনরুজ্জীবিত করতে প্রধানমন্ত্রী সম্পূর্ণ সরকারি সহায়তার প্রতিশ্রুতি দিয়েছেন",
+      "descBn": "তিনি বলেছেন যে সরকার শিল্পটির বৃদ্ধিতে সহায়তা করার জন্য প্রয়োজনীয় নীতি, আর্থিক এবং প্রাতিষ্ঠানিক সহায়তা প্রদান করবে"
+    },
+    {
+      "title": "Former President Shahabuddin has left Bangabhaban",
+      "link": "https://en.prothomalo.com/bangladesh/89rg5s1ble",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 09:50:16 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/i5nham6p/Bangabhaban-2.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "সাবেক রাষ্ট্রপতি শাহাবুদ্দিন বঙ্গভবন ছেড়ে চলে গেছেন",
+      "descBn": ""
+    },
+    {
+      "title": "India's Instagram Gen Z dents Modi's aura ahead of key state polls",
+      "link": "https://en.prothomalo.com/international/india/pq428mgp1t",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 09:26:12 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/8jdhzxls/2026-07-25T145345Z945329280RC2HHMAC87IKRTRMADP3INDIA-POLITICS-MODI.JPG",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "মূল প্রদেশ নির্বাচনের আগে ইনস্টাগ্রাম প্রজন্মের জেড ভারতীয়রা মোদীর আভা নষ্ট করছে",
+      "descBn": ""
+    },
+    {
+      "title": "HC issues rule over 'excessive' MFS charges, seeks law for consumer protection",
+      "link": "https://www.thedailystar.net/business/news/hc-issues-rule-over-excessive-mfs-charges-seeks-law-consumer-protection-4232876",
+      "desc": "The court also asked the government to show cause why it should not be directed to formulate a separate law governing mobile financial services",
+      "pubDate": "Sun, 26 Jul 26 15:22:52 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/High%20Court%202.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "মোবাইল ফিনান্সিয়াল সেবায় 'অতিরিক্ত' চার্জের বিরুদ্ধে হাইকোর্টের রুল, ভোক্তা সুরক্ষার জন্য আইন চেয়েছে",
+      "descBn": "আদালত সরকারকে কারণ দর্শাতে বলেছে কেন মোবাইল ফিনান্সিয়াল সেবা পরিচালনা করার জন্য আলাদা আইন প্রণয়ন করার নির্দেশ দেওয়া উচিত নয়"
+    },
+    {
+      "title": "HC petition seeks order to stop garbage collection fees from Dhaka households",
+      "link": "https://en.prothomalo.com/bangladesh/03ivrqngnh",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 08:40:43 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-05-18/npi3e5ge/prothomalo-bangla2026-05-1859om7rjfWHATSAPP-IMAGE-2026-05-17-AT-74636-PM-1081016.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ঢাকার পরিবারগুলি থেকে ময়লা সংগ্রহের ফি বন্ধের নির্দেশ দিতে হাইকোর্টে আবেদন",
+      "descBn": ""
+    },
+    {
+      "title": "Survived 29 days on raw fish: Sri Lankan father, son rescued off Bangladesh coast",
+      "link": "https://en.prothomalo.com/bangladesh/local-news/1c1vvuqand",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 08:34:23 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/x30vd2wo/prothomalo-bangla2026-07-26anzos9jmWhatsApp-Image-2026-07-26-at-11.43.58.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "কাঁচা মাছ খেয়ে ২৯ দিন বেঁচে থাকা: বাংলাদেশের উপকূলে উদ্ধার পাওয়া শ্রীলঙ্কান পিতা-পুত্র",
+      "descBn": ""
+    },
     {
       "title": "The government has moved considerably away from the spirit of reform",
       "link": "https://en.prothomalo.com/opinion/interview/qv3ahldygf",
@@ -189,6 +285,18 @@
       "sourceColor": "#c0392b",
       "titleBn": "পদ্মা (গঙ্গা) ব্যারেজ এবং ১৪টি সমস্যা: কেন একটি নতুন গবেষণা প্রয়োজন",
       "descBn": ""
+    },
+    {
+      "title": "Industries reel under gas crisis",
+      "link": "https://www.thedailystar.net/news/bangladesh/news/industries-reel-under-gas-crisis-4232426",
+      "desc": "Bangladesh’s industrial sector is taking a heavy hit from the worsening gas crisis, which is raising operating costs and threatening the country’s export competitiveness.",
+      "pubDate": "Sun, 26 Jul 26 00:00:00 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/gas%20connection.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "গ্যাস সংকটে শিল্প খাতের ধস",
+      "descBn": "বাংলাদেশের শিল্প খাত ক্রমবর্ধমান গ্যাস সংকটের কারণে ব্যাপক আঘাত পাচ্ছে, যা পরিচালনা খরচ বৃদ্ধি করছে এবং দেশের রপ্তানি প্রতিযোগিতামূলকতাকে হুমকির সম্মুখীন করছে।"
     },
     {
       "title": "Bank Asia clients to get auto loans for Mitsubishi vehicles",
