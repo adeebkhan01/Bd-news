@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T19:40:36.553Z",
+  "fetchedAt": "2026-07-26T22:25:49.862Z",
   "asx200": {
     "value": 8772.3,
     "change": -36.1,
@@ -104,7 +104,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.24,
+    "changePercent": 1.2,
     "previousClose": 0.69,
     "asOf": "2026-07-26",
     "history": [
@@ -211,33 +211,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4070.8,
-      "change": -7.9,
-      "changePercent": -0.19
+      "price": 4087.8,
+      "change": 9.1,
+      "changePercent": 0.22
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.91,
-      "change": -0.31,
-      "changePercent": -0.53
+      "price": 59.78,
+      "change": 0.56,
+      "changePercent": 0.94
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 89.31,
-      "change": 20.08,
-      "changePercent": 29
+      "price": 84.62,
+      "change": 15.39,
+      "changePercent": 22.23
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.36,
-      "change": 0.22,
-      "changePercent": 3.52
+      "price": 6.37,
+      "change": 0.23,
+      "changePercent": 3.69
     },
     {
       "name": "BHP Group",
@@ -846,6 +846,27 @@
   ],
   "news": [
     {
+      "title": "Breaking: AFL confirms State of Origin future with Victoria left out of 2027 game",
+      "link": "https://www.abc.net.au/news/2026-07-27/afl-confirms-state-of-origin-future/106961174",
+      "snippet": "",
+      "pubDate": "Sun, 26 Jul 2026 22:19:38 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "'Don't know how I do it': Pogačar claims fifth Tour de France title",
+      "link": "https://www.abc.net.au/news/2026-07-27/tour-de-france-tadej-pogacar-wins-fifth-title/106960924",
+      "snippet": "",
+      "pubDate": "Sun, 26 Jul 2026 20:27:26 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Found lifeless in the water, Vicky is now a swimming medallist",
+      "link": "https://www.abc.net.au/news/2026-07-27/victoria-belando-nicholson-commonwealth-games-2026-para-swimming/106942068",
+      "snippet": "",
+      "pubDate": "Sun, 26 Jul 2026 20:04:19 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "ASX set to rise, oil drops as Middle East tensions ease",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-drops-as-middle-east-tensions-ease-20260727-p60ipw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The Australian sharemarket is set to rise as the US paused an almost two-week run of strikes against Iran.",
@@ -858,6 +879,13 @@
       "snippet": "Markets think another rate rise this year is close to a sure thing. But given the economy’s already slowing, the RBA should sit on its hands for a while.",
       "pubDate": "Mon, 27 Jul 2026 05:00:00 +1000",
       "source": "SMH Business"
+    },
+    {
+      "title": "Luke Bateman earned $400K a year and gambled away every cent",
+      "link": "https://www.abc.net.au/news/2026-07-27/luke-bateman-survived-gambling-addiction/106896866",
+      "snippet": "",
+      "pubDate": "Sun, 26 Jul 2026 18:42:40 +0000",
+      "source": "ABC News"
     },
     {
       "title": "‘I’m sorry ... but’: Apologetic Alan Joyce tells his side of the Qantas story",
@@ -874,7 +902,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Piastri blasts '**** stupid' backmarker, Norris wins Hungarian GP",
+      "title": "Piastri blasts '****ing stupid' backmarker, Norris wins Hungarian GP",
       "link": "https://www.abc.net.au/news/2026-07-26/live-updates-formula-1-hungarian-grand-prix/106960176",
       "snippet": "",
       "pubDate": "Sun, 26 Jul 2026 12:04:21 +0000",
@@ -888,7 +916,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Aussie 'best friends' lead another medal rush in the pool",
+      "title": "Live: McEvoy creates history as Aussie gold rush continues in Glasgow",
       "link": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-day-three-live-blog/106959386",
       "snippet": "",
       "pubDate": "Sun, 26 Jul 2026 08:24:52 +0000",
@@ -900,34 +928,6 @@
       "snippet": "You might think that missiles flying over the Strait of Hormuz are a world away from your closet. You’d be wrong.",
       "pubDate": "Sun, 26 Jul 2026 14:07:08 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Fozball and finals on the brink as Cronulla maul Manly",
-      "link": "https://www.abc.net.au/news/2026-07-26/nrl-manly-sea-eagles-fozball-cronulla-sharks/106958596",
-      "snippet": "",
-      "pubDate": "Sun, 26 Jul 2026 03:37:14 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Lion's 'stupid action' sparks war of words as Nasiah magic inspires Saints",
-      "link": "https://www.abc.net.au/news/2026-07-26/afl-r20-lions-power-kangaroos-saints-live-blog/106959530",
-      "snippet": "",
-      "pubDate": "Sun, 26 Jul 2026 02:37:34 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Surcharge ban could end popular free travel insurance perk",
-      "link": "https://www.smh.com.au/business/consumer-affairs/surcharge-ban-could-end-popular-free-travel-insurance-perk-20260724-p60iao.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Two in five travellers rely on free travel insurance offered by their credit cards, but travel agents say the surcharge ban threatens their ability to accept such payments.",
-      "pubDate": "Sun, 26 Jul 2026 11:55:07 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Tim Tszyu beats Errol Spence Jr by unanimous decision",
-      "link": "https://www.abc.net.au/news/2026-07-26/live-updates-boxing-tim-tszyu-vs-errol-spence-jnr/106951948",
-      "snippet": "",
-      "pubDate": "Sun, 26 Jul 2026 01:00:12 +0000",
-      "source": "ABC News"
     }
   ]
 }
