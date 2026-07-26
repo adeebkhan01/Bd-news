@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-25T21:59:43.560Z",
-  "summary": "Global tensions are escalating across multiple fronts as the United States pursues direct talks with Iran while simultaneously exchanging strikes in the Persian Gulf, with Oman attempting mediation in the Hormuz Strait. The Israeli-Palestinian conflict continues to intensify, marked by settler violence in the West Bank, deaths in multiple shooting incidents, and deepening humanitarian concerns including premature babies struggling to survive in Gaza. The Trump administration is simultaneously engaging in trade disputes with the EU and other partners while signaling willingness to broker Middle East deals, including Saudi-Israeli normalization and potential Iran negotiations. UN envoys are making diplomatic moves—including the secretary-general's first Syria visit in nearly two decades and the reelection of the UN rights chief—as Venezuela exits the International Criminal Court and other geopolitical realignments occur.",
+  "fetchedAt": "2026-07-26T03:23:09.022Z",
+  "summary": "Global tensions are escalating across multiple fronts, with escalating military strikes between Iran and the US in the Persian Gulf, ongoing Israeli-Palestinian violence in the West Bank amid settler raids and Palestinian casualties, and Saudi-led coalition attacks on Houthi positions in Yemen. Political upheaval dominates several countries, including Brazil where Flavio Bolsonaro launched a presidential bid with Argentine leader Milei's support, Venezuela's exit from the International Criminal Court, and Poland's opposition party facing collapse. Donald Trump has returned to the political spotlight with controversial statements including a claim to be running for a fourth presidential term and threats of tariffs and investigations against the EU over tech company fines. UN Secretary-General Guterres has arrived in Syria for the first official UN chief visit in 17 years, while humanitarian crises persist in Gaza with premature babies struggling to survive and the West Bank facing increased international scrutiny over settlement violence and heritage site protections.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
+      "desc": "Flavio Bolsonaro, son of disgraced former Brazilian President Jair, has launched his bid to unseat President Lula.",
+      "pubDate": "Sun, 26 Jul 2026 02:19:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785032329.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+      "link": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+      "desc": "Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
+      "pubDate": "Sun, 26 Jul 2026 01:52:56 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-25T192241Z_582494152_RC24LMAFZCMJ_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-PROTEST-1785026366.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "pubDate": "Sun, 26 Jul 2026 00:00:49 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+      "desc": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
+      "pubDate": "Sun, 26 Jul 2026 00:00:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C32P8HW__v3__HighRes__IranUsIsraelWar-1785023867.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+      "desc": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
+      "pubDate": "Sat, 25 Jul 2026 23:30:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785010296.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "pubDate": "Sat, 25 Jul 2026 23:30:07 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c2c/live/178edaf0-8769-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Iran’s government spars with state TV as mediators push talks with US",
       "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
@@ -12513,96 +12573,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
-      "link": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss",
-      "desc": "Despite ceasefires and shifting military fronts, Israel’s wars continue, with no clear end or lasting security gains.",
-      "pubDate": "Fri, 26 Jun 2026 03:16:13 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP25273642728474-1782205164.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
-      "link": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
-      "desc": "Brent crude rises after cargo ship comes under attack in key waterway.",
-      "pubDate": "Fri, 26 Jun 2026 02:35:10 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26167495426080-1782438874.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
-      "desc": "France seizes fifth Russian ‘shadow fleet’ tanker linked to funding Ukraine war.",
-      "pubDate": "Fri, 26 Jun 2026 01:20:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/wide-thumb-2-1782436737.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who will control Africa’s AI infrastructure, and at what cost?",
-      "link": "https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost?traffic_source=rss",
-      "desc": "Data centres and AI systems are expanding across Africa, bringing new pressure on energy and resources.",
-      "pubDate": "Fri, 26 Jun 2026 00:53:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/07/reuters_686e3904-1752054020.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
-      "desc": "Israeli leader says military to stay in occupied areas of southern Lebanon &#039;as long as necessary&#039;, despite US-Iran deal.",
-      "pubDate": "Fri, 26 Jun 2026 00:00:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3da01e-1782423583.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Warning over power bank fire risk on flights as summer holidays begin",
-      "link": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
-      "pubDate": "Thu, 25 Jun 2026 23:28:13 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1adb/live/414682f0-70ce-11f1-b217-6f3746be3039.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
-      "desc": "The UN says it is scaling up its response after twin earthquakes devastated Venezuela.",
-      "pubDate": "Thu, 25 Jun 2026 23:20:02 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-UN-Venezuela-1782429553.png?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-      "pubDate": "Thu, 25 Jun 2026 23:19:48 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "The abundant but expensive energy source that's under your feet",
-      "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
-      "pubDate": "Thu, 25 Jun 2026 23:05:05 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
