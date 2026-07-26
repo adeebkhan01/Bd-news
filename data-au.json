@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-26T19:17:13.323Z",
-  "summary": "Australia's news cycle today is dominated by HSC exam preparation and student success stories, with extensive coverage of study tips, high achievers' advice, and myths surrounding results and ATARs. In business and politics, former Qantas chief Alan Joyce has defended his tenure amid controversy, while One Nation continues to generate headlines with controversial immigration policy positions backed by figures like Barnaby Joyce. The Reserve Bank faces economic headwinds that commentators argue require solutions beyond interest rate hikes, and there are scattered reports on transport infrastructure updates, a major weapons trafficking case in Victoria, and a fatal car crash in Perth. International stories include wildfire coverage from France and Spain alongside commentary on UK climate and development policy.",
+  "fetchedAt": "2026-07-26T22:01:49.919Z",
+  "summary": "Victorian Labor faces internal turmoil as Jacinta Allan loses majority caucus support following a meeting of state factions, signalling potential political instability at state level. At the national level, Environment Minister Plibersek is defending Prime Minister Albanese's attendance at a dinner hosted by a billionaire family amid questions about the optics of such engagements. Australia's fuel prices will rise as the federal excise cut ends, adding to cost-of-living pressures for households. Meanwhile, an emergency alert system test will sound across all Australian mobile devices today, and authorities are investigating several incidents including police shooting a man in Queensland and an arson attack on a family home in Melbourne.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,196 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia news live: Jacinta Allan loses majority caucus support after meeting of state Labor factions; national AusAlert test to blare siren",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
+      "desc": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> ",
+      "pubDate": "Sun, 26 Jul 2026 22:01:20 GMT",
+      "img": "https://i.guim.co.uk/img/media/db9e5a4bf35cd1b86ede02bcaa80d462bf04debf/579_0_3718_2975/master/3718.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "More action needed to protect female tradies from 'nasty sexism', experts say",
+      "link": "https://www.abc.net.au/news/2026-07-27/more-action-needed-to-protect-female-tradies-from-nasty-sexism/106939880",
+      "desc": "Record numbers of Queensland women are starting apprenticeships in male-dominated industries, but experts say employers and governments need to do more to keep them in the trades.",
+      "pubDate": "Sun, 26 Jul 2026 21:16:46 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/260f43dae459057c5bbfeaf8abd9337d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=2110&amp;xPos=585&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "There's a chance your local MP doesn't live in your neighbourhood. Does that matter?",
+      "link": "https://www.abc.net.au/news/2026-07-27/secret-harbour-by-election-candidates-live-outside-electorate/106937992",
+      "desc": "The Secret Harbour by-election in Western Australia – in which none of the key candidates live in the electorate – has raised an interesting question: should MPs live in the area they represent?",
+      "pubDate": "Sun, 26 Jul 2026 21:14:18 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/a51a9bf4d02ccf2b32395ddc42abe0c7?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=1620&amp;xPos=1110&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Live: Plibersek defends PM's attendance at dinner hosted by billionaire family",
+      "link": "https://www.abc.net.au/news/2026-07-27/federal-politics-live-blog-pm-dinner-july-27/106960978",
+      "desc": "Social Services Minister Tanya Plibersek has defended the prime minister's attendance at an intimate dinner hosted by a billionaire family. Follow live.",
+      "pubDate": "Sun, 26 Jul 2026 21:10:28 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/e063612303d1d45c848287c913e4e7fc?impolicy=wcms_crop_resize&amp;cropH=4573&amp;cropW=3430&amp;xPos=574&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Australia news LIVE: Test emergency alert to sound; Iran will halt strikes if US pause bombing",
+      "link": "https://www.smh.com.au/national/australia-news-live-test-emergency-alert-to-sound-iran-will-halt-strikes-if-us-pause-bombing-20260727-p60iqc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow along as we bring you the latest live news updates from Australia and beyond here on our national news blog.",
+      "pubDate": "Mon, 27 Jul 2026 06:45:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3461%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_64%2C$y_44/t_crop_custom/q_86%2Cf_auto/38b07063bc36a654e2bdcaea4a579d460c0d12db",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Fuel prices to go up as excise cut ends",
+      "link": "https://www.smh.com.au/national/fuel-prices-to-go-up-as-excise-cut-ends-20260727-p60iq8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Fuel prices are set to rise after the excise cut ends at the end of next week.",
+      "pubDate": "Mon, 27 Jul 2026 06:17:50 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4d07fc4a82b491beca73319d70070bbe9ac2862a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man shot by police in Queensland to face court",
+      "link": "https://www.smh.com.au/national/man-shot-by-police-in-queensland-to-face-court-20260727-p60iq7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man shot by police in Cairns will face court today.",
+      "pubDate": "Mon, 27 Jul 2026 06:16:41 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c2e97e00240dada87708a50bdd9ef6fe29ab6bb1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "AusAlert test coming today",
+      "link": "https://www.smh.com.au/national/ausalert-test-coming-today-20260727-p60iq6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A loud siren sound is expected to ring out on phones across Australia this afternoon in a test of the new AusAlert system.",
+      "pubDate": "Mon, 27 Jul 2026 06:15:35 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/db34f2d182425992c7f91c8f3e7452f35ea23c71",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Family flees arson attack in Melbourne",
+      "link": "https://www.smh.com.au/national/family-flees-arson-attack-in-melbourne-20260727-p60iq4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A family has fled what police say was a targeted arson attack on their home in Mill Park, Melbourne.",
+      "pubDate": "Mon, 27 Jul 2026 06:13:46 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/bb598a7d07088eb5627d372d80b1e130165cfd22",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Accepting free will doesn’t exist could make us less hateful and ashamed",
+      "link": "https://theconversation.com/accepting-free-will-doesnt-exist-could-make-us-less-hateful-and-ashamed-282155",
+      "desc": "Importantly, even if we don’t believe in free will, our sense of accountability stays intact, according to new research.",
+      "pubDate": "2026-07-26T20:06:19Z",
+      "img": "https://images.theconversation.com/files/749403/original/file-20260722-57-ug1r4j.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5175%2C2587&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "With contentious fisheries reforms on hold, should NZ rethink bottom trawling?",
+      "link": "https://theconversation.com/with-contentious-fisheries-reforms-on-hold-should-nz-rethink-bottom-trawling-288087",
+      "desc": "Amid renewed debate over bottom trawling, decades of marine research suggest the balance between fishing and conservation needs revisiting.",
+      "pubDate": "2026-07-26T20:06:19Z",
+      "img": "https://images.theconversation.com/files/749411/original/file-20260722-77-y463ef.jpg?ixlib=rb-4.1.1&amp;rect=0%2C417%2C5000%2C2500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "The dangerous climate driving California’s wildfires — and a warning for Australia",
+      "link": "https://theconversation.com/the-dangerous-climate-driving-californias-wildfires-and-a-warning-for-australia-288190",
+      "desc": "Australia may enter spring with a highly flammable landscape – and no room for complacency.",
+      "pubDate": "2026-07-26T20:06:03Z",
+      "img": "https://images.theconversation.com/files/749934/original/file-20260724-57-b0u52q.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1132%2C7478%2C3739&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "New research shows how vulnerable Australia would be to attacks on shipping in the Indian Ocean",
+      "link": "https://theconversation.com/new-research-shows-how-vulnerable-australia-would-be-to-attacks-on-shipping-in-the-indian-ocean-287495",
+      "desc": "Our war game simulations showed how vital it is to protect shipping routes across the entire ocean, not just in waters close to Australia.",
+      "pubDate": "2026-07-26T20:05:49Z",
+      "img": "https://images.theconversation.com/files/749912/original/file-20260723-57-y1mc6u.jpg?ixlib=rb-4.1.1&amp;rect=0%2C227%2C5174%2C2587&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "As China bans new cars with unsafe doors, Australia risks becoming a ‘dumping’ ground",
+      "link": "https://theconversation.com/as-china-bans-new-cars-with-unsafe-doors-australia-risks-becoming-a-dumping-ground-287766",
+      "desc": "In less than six months, China will start phasing in a world-first ban on hidden car door handles. A US ban may be next. So what’s happening in Australia?",
+      "pubDate": "2026-07-26T20:04:45Z",
+      "img": "https://images.theconversation.com/files/749033/original/file-20260721-57-qbvh20.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Some disabled workers can legally be paid $3.31 an hour. Here’s how to reform a system built for a different era",
+      "link": "https://theconversation.com/some-disabled-workers-can-legally-be-paid-3-31-an-hour-heres-how-to-reform-a-system-built-for-a-different-era-287588",
+      "desc": "Reform needs to be careful. Simply shutting down existing workplaces could leave some disabled workers worse off.",
+      "pubDate": "2026-07-26T20:04:29Z",
+      "img": "https://images.theconversation.com/files/748236/original/file-20260716-69-9v5fpm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C318%2C2120%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Tunnel workers repeatedly exposed to high silica dust levels",
+      "link": "https://www.abc.net.au/news/2026-07-27/tunnel-workers-silica-dust-exposure/106953680",
+      "desc": "Tunnel workers on some of Australia's most prominent infrastructure projects were repeatedly exposed to levels of silica dust far beyond the workplace standard, previously secret reports reveal.",
+      "pubDate": "Sun, 26 Jul 2026 20:02:23 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/e998e94b9723f0dd0048b0720173b064?impolicy=wcms_crop_resize&amp;cropH=1214&amp;cropW=911&amp;xPos=450&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "When it comes to sex education, teachers and students need answers",
+      "link": "https://www.smh.com.au/national/victoria/when-it-comes-to-sex-education-teachers-and-students-need-answers-20260720-p60gyz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Despite the rising risk of children learning about relationships and intimacy online, the majority of teachers still feel ill-equipped to have conversations on sexuality with students.",
+      "pubDate": "Mon, 27 Jul 2026 05:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.15293485893611733%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/q_86%2Cf_auto/543072ebdb2e3a77ad90fa53c439f734e4dc3e88",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "ASX set to rise, oil drops as Middle East tensions ease",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-drops-as-middle-east-tensions-ease-20260727-p60ipw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The Australian sharemarket is set to rise as the US paused an almost two-week run of strikes against Iran.",
+      "pubDate": "Mon, 27 Jul 2026 05:25:12 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.21902792140641156%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1fb83e5ab86ff3a07cf37a1715a5c838f60e6a24",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The test coming to all mobile devices and what to know before it lands",
+      "link": "https://www.abc.net.au/news/2026-07-27/what-to-know-about-ausalert-emergency-warning-test/106919574",
+      "desc": "Australia is about to get its first taste of a new nationwide emergency warning system, where millions of devices across the country are expected to sound off simultaneously later today.",
+      "pubDate": "Sun, 26 Jul 2026 19:09:26 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d7cc67b5b30e467a5946c96380c2e248?impolicy=wcms_crop_resize&amp;cropH=1400&amp;cropW=1050&amp;xPos=525&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "The RBA faces a dilemma, but more rate hikes aren’t the solution",
       "link": "https://www.smh.com.au/business/the-economy/the-rba-faces-a-dilemma-but-more-rate-hikes-aren-t-the-solution-20260724-p60iam.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -32328,76 +32518,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The Age photos of the week, January 31, 2026",
-      "link": "https://www.smh.com.au/national/victoria/the-age-photos-of-the-week-january-31-2026-20260131-p5nyh7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The week in photos from our award-winning staff photographers and regular contributing photographers at The Age",
-      "pubDate": "Sat, 27 Jun 2026 07:54:19 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1298749080206034%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/8a2e1be07026ef63facc38c087900575ff1b6e0d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "So-called ISIS bride granted bail",
-      "link": "https://www.smh.com.au/national/so-called-isis-bride-granted-bail-20260627-p60ajo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A so-called ISIS bride has been granted bail in Melbourne overnight.",
-      "pubDate": "Sat, 27 Jun 2026 07:35:32 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4e0349cddba2fb2f9bceb638789fbb6262fa62d3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Shots fired after violent brawl in Melbourne’s east",
-      "link": "https://www.smh.com.au/national/shots-fired-after-violent-brawl-in-melbourne-s-east-20260627-p60ajn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A gun has been fired during a violent brawl outside a church in Melbourne's east.",
-      "pubDate": "Sat, 27 Jun 2026 07:35:13 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/311690964cf6f7ffb3883b0655baf0b552992c34",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Police open fire after allegedly confronted with gun",
-      "link": "https://www.smh.com.au/national/police-open-fire-after-allegedly-confronted-with-gun-20260627-p60ajk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Queensland police have opened fire after a man allegedly confronted them with a gun.",
-      "pubDate": "Sat, 27 Jun 2026 07:31:26 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1d4f834ba8a9f6bb8a16d8ac3aea03a21dc2a567",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Olive industry 'buzzing' as diets fuel demand, farmers diversify",
-      "link": "https://www.abc.net.au/news/2026-06-27/olive-industry-booms-amid-interest-growing-consuming-produce/106805614",
-      "desc": "Consumer interest in olive oil has boomed at the same time as growing the produce has flourished, leading to excitement in the industry.",
-      "pubDate": "Fri, 26 Jun 2026 21:08:18 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/a04d481a3ea8e682e59988955cd55b3d?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=377&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Can the Victorian Liberal Party avoid falling apart again?",
-      "link": "https://www.abc.net.au/news/2026-06-27/vic-victorian-liberal-party-division-over-deeming-and-guy/106848626",
-      "desc": "The Victorian Liberal Party is competitive in the polls just months out from the November state election. But will party infighting blunt its winning edge?",
-      "pubDate": "Fri, 26 Jun 2026 20:55:46 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8741f660871053bcc9663cefe9c0f482?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=432&amp;xPos=296&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Call for inquiry into Alligator Alcatraz’s ‘abuse of Everglades’ despite closure",
-      "link": "https://www.theguardian.com/us-news/2026/jun/26/alligator-alcatraz-environmental-immigrant-inquiry",
-      "desc": "<p>Environmentalists and immigrant-rights advocates seek accounting of damage done by notorious detention center</p><p>While they welcome the recent <a href=\"https://www.theguardian.com/us-news/2026/j",
-      "pubDate": "Fri, 26 Jun 2026 20:38:07 GMT",
-      "img": "https://i.guim.co.uk/img/media/5223c17f798d7c8b192c2747922daa2e98cb72f1/464_0_4168_3335/master/4168.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }

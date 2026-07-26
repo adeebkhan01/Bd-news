@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-26T19:17:31.419Z",
-  "summary": "Middle East tensions are escalating across multiple fronts, with Israeli military operations expanding into Syria and the occupied West Bank amid international condemnation, while settler violence against Palestinians intensifies amid reports of widespread impunity. Regional conflicts are broadening as Iran warns of retaliation against Israel and the US, with the Houthis continuing maritime attacks and security incidents stretching from the Red Sea to the Caspian Sea. In North Africa, Tunisia and Senegal face significant political upheaval, with anti-government protests marking five years since President Saied's power consolidation and Senegal's newly elected president formalizing a split with his former ally. Elsewhere, India appointed a new education minister amid ongoing concerns about accountability, while the US debates AI regulation and Malaysia prepares to host a rescheduled Formula One race.",
+  "fetchedAt": "2026-07-26T22:02:05.152Z",
+  "summary": "Global tensions are escalating across multiple fronts, with Israel intensifying military operations in Syria and the occupied West Bank while simultaneously signaling openness to an international stabilization force in Gaza. The U.S.-Iran conflict is broadening beyond the Middle East, touching the Caspian Sea and affecting shipping across multiple chokepoints, while Netanyahu prepares to visit New York despite an ICC arrest warrant. In Africa, political crises persist as Tunisia enters its fifth year under emergency rule and former Honduran President Hernandez returns home following a Trump pardon, while in Asia, India has appointed a new education minister amid ongoing educational challenges. Regional leaders including Syria's Al-Sharaa and Ukraine's Zelensky are seeking international engagement and security arrangements to navigate deepening geopolitical instability.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "pubDate": "Sun, 26 Jul 2026 21:30:20 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israeli government nods to international stabilisation force in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+      "desc": "The ISF, to be staffed by &#039;friendly countries&#039;, will operate in areas outside of Israel&#039;s military control.",
+      "pubDate": "Sun, 26 Jul 2026 21:10:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6661816a-1785094529.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Former President Hernandez returns to Honduras after Trump pardon",
+      "link": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
+      "desc": "Trump called Hernandez&#039;s drug-trafficking trial a set-up by the Biden administration.",
+      "pubDate": "Sun, 26 Jul 2026 20:35:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a665955d62e-1785092437.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "desc": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
+      "pubDate": "Sun, 26 Jul 2026 19:31:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26159434486953-1785085570.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+      "desc": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
+      "pubDate": "Sun, 26 Jul 2026 19:27:57 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-26-at-20.21.20-1785094023.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Cuban president accuses US of genocide, seeking takeover",
+      "link": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
+      "desc": "Island has weathered a US oil embargo since January and is enduring one of its worst economic crises.",
+      "pubDate": "Sun, 26 Jul 2026 19:16:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26207544429790-1785081170.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+      "link": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
+      "desc": "Israeli prime minister slams New York Mayor Zohran Mamdani, accusing him of &#039;fomenting hate&#039; with criticism of Israel.",
+      "pubDate": "Sun, 26 Jul 2026 19:13:02 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a66471a7259-1785087770.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Israeli settlers burn two mosques in occupied West Bank",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
@@ -12650,56 +12720,6 @@
       "desc": "Usyk, who had held the WBA, WBC and IBF belts, has been the world undisputed cruiserweight and heavyweight champion.",
       "pubDate": "Fri, 26 Jun 2026 22:39:35 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3ef44c7597b-1782510668.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "pubDate": "Fri, 26 Jun 2026 21:30:59 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump threatens 100% tariff on European nations over tech tax",
-      "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
-      "pubDate": "Fri, 26 Jun 2026 21:29:38 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d0/live/53fe5940-71a0-11f1-91d4-ab93ad9f4654.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
-      "link": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss",
-      "desc": "The military government, in power since 2022 coup, accused France of having &#039;neo-colonial ambitions&#039;.",
-      "pubDate": "Fri, 26 Jun 2026 21:10:10 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/01/2025-05-10T172924Z_1143640870_RC25FEAZRM7N_RTRMADP_3_RUSSIA-BURKINA-FASO-1769721657.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
-      "link": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
-      "desc": "Deaths of immigrants held in US detention centres have surged during Donald Trump&#039;s second term.",
-      "pubDate": "Fri, 26 Jun 2026 20:58:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3ecd2b6188-1782500651.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
-      "link": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
-      "desc": "The Republican leader has taken an aggressive stance against countries that weigh taxes or regulations on US tech firms.",
-      "pubDate": "Fri, 26 Jun 2026 19:38:20 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3eb26cb020-1782493804.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
