@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-26T22:01:49.919Z",
-  "summary": "Victorian Labor faces internal turmoil as Jacinta Allan loses majority caucus support following a meeting of state factions, signalling potential political instability at state level. At the national level, Environment Minister Plibersek is defending Prime Minister Albanese's attendance at a dinner hosted by a billionaire family amid questions about the optics of such engagements. Australia's fuel prices will rise as the federal excise cut ends, adding to cost-of-living pressures for households. Meanwhile, an emergency alert system test will sound across all Australian mobile devices today, and authorities are investigating several incidents including police shooting a man in Queensland and an arson attack on a family home in Melbourne.",
+  "fetchedAt": "2026-07-27T03:32:40.407Z",
+  "summary": "Victoria's political landscape is in turmoil as Labor premier Jacinta Allan faces a leadership challenge within days after losing majority caucus support, with her deputy confirming he will run for the top job. Nationally, a special poll shows Labor falling well short of a parliamentary majority, while the government defends its spending priorities including a billionaire-hosted dinner. Australia's resources sector continues its expansion push with significant gold discoveries in Western Australia and ore samples heading to labs, though small business financing remains a persistent problem. The country will also conduct a national emergency alert test today as authorities prepare for potential Middle East escalations.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,196 @@
     }
   ],
   "articles": [
+    {
+      "title": "Barkly samples hit lab in resource expansion push",
+      "link": "https://www.smh.com.au/business/companies/barkly-samples-hit-lab-in-resource-expansion-push-20260727-p60iwd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Barkly Rare Earths has sent first samples from its 10,000m drill drive to labs, aiming to grow its 40Mt NT rare earths resource. An update is slated for later this year.",
+      "pubDate": "Mon, 27 Jul 2026 13:13:32 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354166666666667%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/7ab94518369a999c56c0c1693d6291e82b34e708e817d182650bab6881039700",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Small businesses in Australia have a hard time getting finance. Other countries offer a different solution",
+      "link": "https://theconversation.com/small-businesses-in-australia-have-a-hard-time-getting-finance-other-countries-offer-a-different-solution-287971",
+      "desc": "Half of small business loans in Australia involve putting the family home on the line. But in the US, UK and Germany, governments do more to help.",
+      "pubDate": "2026-07-27T03:08:41Z",
+      "img": "https://images.theconversation.com/files/750147/original/file-20260726-57-p446kt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C517%2C5560%2C2780&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Gateway grows WA gold discovery another kilometre to 3.5km",
+      "link": "https://www.smh.com.au/business/companies/gateway-grows-wa-gold-discovery-another-kilometre-to-3-5km-20260727-p60ivj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Gateway Mining has extended its Cowza gold discovery by another kilometre to 3.5km in WA, with high-grade assays, a second RC rig arriving and more results pending.",
+      "pubDate": "Mon, 27 Jul 2026 12:32:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/dfaa9ffcc56694010e008f374611eb233c47c8cfa6383165d8e6756587c54b50",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Special DemosAU poll has Labor well short of a parliamentary majority",
+      "link": "https://theconversation.com/special-demosau-poll-has-labor-well-short-of-a-parliamentary-majority-287867",
+      "desc": "If this poll’s results were reflected at an election, Labor would lose its majority, with One Nation and the Coalition combined leading Labor in seats by 73–68.",
+      "pubDate": "2026-07-27T02:27:40Z",
+      "img": "https://images.theconversation.com/files/750164/original/file-20260727-69-37n0hx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1288%2C7717%2C3858&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Chinese man charged after $20k allegedly found in tea gifted to public official",
+      "link": "https://www.smh.com.au/national/queensland/chinese-man-charged-after-20k-allegedly-found-in-tea-gifted-to-public-official-20260727-p60iur.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The 39-year-old was arrested when he allegedly tried to board an international flight last week.",
+      "pubDate": "Mon, 27 Jul 2026 11:59:25 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6999%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/q_86%2Cf_auto/01c327f0464fb289e0939be4a908b703a53a84f0f631a7bd7c31a2bb00b6176e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Trump’s America is sinking as his war on the world sputters",
+      "link": "https://www.smh.com.au/business/the-economy/trump-is-making-america-s-money-problem-worse-20260727-p60irj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "America’s finances are already parlous, and they are deteriorating. Donald Trump’s ever-changing trade war is not helping matters.",
+      "pubDate": "Mon, 27 Jul 2026 11:59:09 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2862%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/df64bf5a0ab241f30196cc1140063c6496291f5f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Victorian premier to fight for job as MPs plan leadership spill",
+      "link": "https://www.smh.com.au/national/victorian-premier-to-fight-for-job-as-mps-plan-leadership-spill-20260727-p60iv2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Victorian Premier Jacinta Allan has insisted she will fight for the leadership of the state Labor Party, despite several of her colleagues telling her she no longer has the confidence of caucus.",
+      "pubDate": "Mon, 27 Jul 2026 11:48:06 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/44f73f208493f399001abbe1b3b3d41f463859d7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "I cried when the council cut down my tree. I did not see that coming",
+      "link": "https://www.smh.com.au/national/i-cried-when-the-council-cut-down-my-tree-i-did-not-see-that-coming-20260727-p60it1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "That tree witnessed 27 years of my life – the comings and goings, the baby, the teenager and every version since.",
+      "pubDate": "Mon, 27 Jul 2026 11:45:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2655%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_296%2C$y_12/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/854a5b0f36f68834e1ef6a2ac423b28408bbb60f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Car strikes train bridge, suspending line for over an hour",
+      "link": "https://www.smh.com.au/national/queensland/car-strikes-train-bridge-suspending-line-for-over-an-hour-20260727-p60ith.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The trains were suspended during peak hour, and operational again just after 10am.",
+      "pubDate": "Mon, 27 Jul 2026 10:31:56 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/8dcc9708b4e344d58548ba00ee720181a7850d9a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Protecting pets in domestic violence cases will take more than a law change",
+      "link": "https://theconversation.com/protecting-pets-in-domestic-violence-cases-will-take-more-than-a-law-change-287772",
+      "desc": "Changing NZ’s Crimes Act to cover family pets caught in violent situations is a good start. But better resourcing and training will be needed to make it work.",
+      "pubDate": "2026-07-27T00:29:39Z",
+      "img": "https://images.theconversation.com/files/750144/original/file-20260726-57-erkktw.jpg?ixlib=rb-4.1.1&amp;rect=0%2C452%2C5418%2C2709&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Deputy premier confirms he will run for Victorian Labor leadership",
+      "link": "https://www.abc.net.au/news/2026-07-27/victorian-premier-jacinta-allan-future-labor-mps-meet/106960880",
+      "desc": "A delegation of Labor ministers and MPs has met with Jacinta Allan to urge her to step down, but the Victorian premier has vowed to fight any leadership challenge.",
+      "pubDate": "Mon, 27 Jul 2026 00:23:46 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/1a1b5a5e1cc4c3b6a060fde1f2bb53fa?impolicy=wcms_crop_resize&amp;cropH=451&amp;cropW=338&amp;xPos=57&amp;yPos=53&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings",
+      "link": "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather",
+      "desc": "<p>Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome</p><p>At least 40 million people were under <a href=\"https://www.theguardian.com/envir",
+      "pubDate": "Mon, 27 Jul 2026 00:04:47 GMT",
+      "img": "https://i.guim.co.uk/img/media/d3c1a11914e79f0c9a30b60156a4ce9a0f6b5ab8/1078_0_6622_5298/master/6622.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "'Weekend DIY' flat-pack homes misleading consumers",
+      "link": "https://www.abc.net.au/news/2026-07-27/wa-prefab-housing-diy-costly/106943676",
+      "desc": "Steve Harris was promised his flat-pack home could be a \"build-in-a-weekend\" job. It may end up costing him twice the sale price, with compliance costs added in.",
+      "pubDate": "Mon, 27 Jul 2026 00:04:31 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/5c020f6fc32ac4bf9008bddc80991e4a?impolicy=wcms_crop_resize&amp;cropH=3750&amp;cropW=2813&amp;xPos=1094&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Older people’s media literacy can be boosted in just 60 minutes – new study",
+      "link": "https://theconversation.com/older-peoples-media-literacy-can-be-boosted-in-just-60-minutes-new-study-287880",
+      "desc": "Imagine a world where nobody clicks on misleading content online. Media literacy can get us there.",
+      "pubDate": "2026-07-27T00:03:18Z",
+      "img": "https://images.theconversation.com/files/749034/original/file-20260721-85-xol6xs.jpg?ixlib=rb-4.1.1&amp;rect=0%2C138%2C2120%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Real estate agent sounds property market warning",
+      "link": "https://www.smh.com.au/national/real-estate-agent-sounds-property-market-warning-20260727-p60itg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Real estate agent Tom Panos has said property prices will continue to fall after he failed to sell a single house at auction last weekend.",
+      "pubDate": "Mon, 27 Jul 2026 09:59:19 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/15906e5b992179b6ff846615b2eceeecdbde70b4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "WA news LIVE: Tributes flow for two men killed in Karratha crash",
+      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-police-lash-drink-drug-drivers-after-horror-weekend-on-wa-roads-20260727-p60is4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow our live coverage of all the news across WA here.",
+      "pubDate": "Mon, 27 Jul 2026 09:44:04 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_29%2C$y_595/t_crop_custom/q_86%2Cf_auto/dcf0252f0cef9e6457ca4b54bad58c5e416a8f4cfd95cb709d19c6fe0d0625e4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Charlie Verco wins fourth world paddleboard championship",
+      "link": "https://www.smh.com.au/national/nsw/charlie-verco-out-in-front-in-last-minutes-of-world-paddleboard-championship-20260727-p60ir0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Verco faced a two-metre hammerhead while crossing the “Channel of Bones” to claim his fourth victory and set a new world record.",
+      "pubDate": "Mon, 27 Jul 2026 09:18:22 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5219%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/a4a9ec86967d44530f3a88e9e43bc937d8490ec7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Freo extended their derby dominance, but one thing keeps dogging the Dockers",
+      "link": "https://www.smh.com.au/national/western-australia/freo-extended-their-derby-dominance-but-one-thing-keeps-dogging-the-dockers-20260727-p60ir1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "On the back of what shaped as a blockbuster derby, we look at the state of play of WA’s teams in the back half of the home-and-away season.",
+      "pubDate": "Mon, 27 Jul 2026 08:28:57 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.19592969472710453%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/f9548ea46829abcf580e8d5d615b56ac3bfb9214",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Victorian premier to face leadership challenge 'within days'",
+      "link": "https://www.smh.com.au/national/victorian-premier-to-face-leadership-challenge-within-days-20260727-p60ir9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Victorian premier could face a leadership challenge 'within days', with MPs prepared to say she does not have their support ahead of the November state election.",
+      "pubDate": "Mon, 27 Jul 2026 08:22:10 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c2c146c63a5fe53bbdd63c3abced67f6d20bab90",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Australia news live: Jacinta Allan loses majority caucus support after meeting of state Labor factions; national AusAlert test to blare siren",
       "link": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
@@ -495,6 +685,16 @@
       "desc": "<p><strong>Exclusive:</strong> Malcolm Roberts uses white supremacist concept to describe the party’s plans for deporting 200,000 people from Australia</p><p>Senator Malcolm Roberts claims One Nation ",
       "pubDate": "Sun, 26 Jul 2026 15:00:17 GMT",
       "img": "https://i.guim.co.uk/img/media/4094ffc68723ccc3ae8d2bb4349f848c9da1b86a/807_308_6495_5196/master/6495.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
+      "desc": "<p>Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs back</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/2",
+      "pubDate": "Sun, 26 Jul 2026 15:00:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/8b48f8a3a0db8739ba700ba836f8e87c6e77f10e/1062_1609_3030_2423/master/3030.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -32405,116 +32605,6 @@
       "desc": "One of the country’s biggest citizen science efforts – tracking one of the world’s most spectacular conservation stories – is about to take place.",
       "pubDate": "Sat, 27 Jun 2026 13:40:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.4803%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1440%2C$y_431/t_crop_custom/q_86%2Cf_auto/07e86102280c046c6508573b8d0c7e4d8d1276fa",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "After 12,000 people spoke, Sydney council revamps parking plan for six beaches",
-      "link": "https://www.smh.com.au/national/nsw/sydney-council-revamps-parking-plan-for-six-beaches-20260625-p60a3s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "How much visitors will have to pay has been revealed after a major retreat reshaped Randwick City Council’s original car parking plan.",
-      "pubDate": "Sat, 27 Jun 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/ac0dc97eea8ebfb8bddd016bd31a4f1201bf3f62",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The Age photos of the week, June 27, 2026",
-      "link": "https://www.smh.com.au/national/victoria/the-age-photos-of-the-week-june-27-2026-20260626-p60aea.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The week in photos from our award-winning staff photographers and regular contributors at The Age.",
-      "pubDate": "Sat, 27 Jun 2026 13:28:49 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2369%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/3b20df99d3a305e77bbd30f81a970420061a8b60",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Mutton cracks $9/kg for the first time",
-      "link": "https://www.abc.net.au/news/rural/2026-06-27/australian-sheep-have-never-been-more-expensive/106846754",
-      "desc": "It was a big week for Australia's sheep and lamb market with price records tumbling across multiple categories.",
-      "pubDate": "Sat, 27 Jun 2026 03:05:03 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/f4a21d1cb4ec551125f57b39ec08286c?impolicy=wcms_crop_resize&amp;cropH=2816&amp;cropW=2112&amp;xPos=1444&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Rockin’ the suburbs: The hidden factory shaping Melbourne’s music culture",
-      "link": "https://www.smh.com.au/national/victoria/rockin-the-suburbs-the-hidden-factory-shaping-melbourne-s-music-culture-20260611-p6060u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "This Melbourne institution curated the city’s live music culture one wall at a time. After four decades, it’s throwing open its doors.",
-      "pubDate": "Sat, 27 Jun 2026 13:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.30257142857142855%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_53/t_crop_custom/q_86%2Cf_auto/96a6183376fcfb7930da9d6707ac423293567d7e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
-      "link": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
-      "desc": "<p>Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across Alps</p><p>Swiss glaciers are set to lose an enormous amount of ice due t",
-      "pubDate": "Sat, 27 Jun 2026 02:50:42 GMT",
-      "img": "https://i.guim.co.uk/img/media/78934b26374818a85234aaa4feb73c04c10f7cfd/934_0_7240_5792/master/7240.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Thousands in south-east Qld without power after attempted copper theft",
-      "link": "https://www.abc.net.au/news/2026-06-27/queensland-energex-outage-attempted-copper-theft/106850656",
-      "desc": "Energex says it appears someone broke into a substation's cable pit and attempted to cut through an 11,000-volt cable, leaving about 13,000 south-east Queensland customers without power overnight.",
-      "pubDate": "Sat, 27 Jun 2026 02:38:43 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/900a6aa92d621a48894c897199935545?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=440&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Violent serial DV offender cuts off ankle monitor, sparks police manhunt",
-      "link": "https://www.smh.com.au/national/western-australia/violent-serial-dv-offender-controversially-cuts-off-ankle-monitor-sparks-police-manhunt-20260627-p60ako.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police hunted down a serial domestic violence offender with a protracted history of violence after he cut off his ankle monitor and went on the run on Friday night.",
-      "pubDate": "Sat, 27 Jun 2026 12:37:20 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_79/t_crop_custom/q_86%2Cf_auto/f7f5b8ca879fadd2c435d064fb9d92119a704c8f27ce01d36d9df4eed3d1ca65",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Why does Perth have an obsession with double brick homes unlike any other city?",
-      "link": "https://www.abc.net.au/news/2026-06-27/wa-residents-urged-to-diversify-house-construction-methods/106546028",
-      "desc": "It takes 12 to 18 months on average to build a home in Western Australia — but with non-brick frame construction, the home building timeline could be cut by up to half.",
-      "pubDate": "Sat, 27 Jun 2026 00:09:34 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/3a41776f5c57e771701129f31ef017a8?impolicy=wcms_crop_resize&amp;cropH=3264&amp;cropW=2448&amp;xPos=468&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "A speeding shadow minister puts the brakes on NT Labor’s rebuild",
-      "link": "https://www.abc.net.au/news/2026-06-27/nt-labor-manuel-brown-driving-fines-party-turmoil-analysis/106846548",
-      "desc": "Revelations about an NT shadow minister’s dicey driving history — and the Opposition Leader's failure to disclose it — come as another blow to NT Labor.",
-      "pubDate": "Fri, 26 Jun 2026 23:04:06 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/bb2f50187a7e8372de01ab9781c695aa?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=901&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "US reporter urges supreme court to halt ruling forcing her to reveal sources or pay $800-a-day fine",
-      "link": "https://www.theguardian.com/media/2026/jun/26/us-reporter-supreme-court-sources-fine",
-      "desc": "<p>Catherine Herrridge makes final bid to stave off penalty related to series of stories she wrote in 2017 for Fox News</p><p>More than two years ago, a US district court judge took the extraordinary ",
-      "pubDate": "Fri, 26 Jun 2026 22:43:22 GMT",
-      "img": "https://i.guim.co.uk/img/media/6687eb3398127e2b1c2b6ee80eeb20f24e0ee9b7/1585_565_1121_897/master/1121.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Armed man shot by police at property south of Brisbane",
-      "link": "https://www.smh.com.au/national/queensland/armed-man-shot-by-police-at-property-south-of-brisbane-20260627-p60ajv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The man allegedly confronted officers with a firearm before being shot.",
-      "pubDate": "Sat, 27 Jun 2026 08:41:47 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2585%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_111/t_crop_custom/q_86%2Cf_auto/317dc1caa5923a4e964a611d3105a12f9ad916ea81e7c4f1686a9531087daa1f",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
