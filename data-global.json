@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-27T14:45:00.001Z",
-  "summary": "Tensions between the United States and Iran have temporarily eased as both sides pause military operations, allowing oil prices to decline and creating space for diplomatic talks. The conflict in the Middle East continues to dominate global affairs, with Israeli forces intensifying operations in the West Bank, Gaza facing a humanitarian crisis amid academic resilience, and regional instability threatening broader economic impacts. Major power dynamics are shifting elsewhere, including Trump's pardon of a former Honduras president, escalating tensions between Argentina and Brazil, and growing concerns about authoritarian governance in Syria and Cuba. Domestically, democracies face challenges ranging from UK science funding cuts to wildfire crises in southern Europe, while new technological disruptions like AI advancement and Chinese chipmaker breakthroughs reshape economic landscapes.",
+  "fetchedAt": "2026-07-27T17:01:53.692Z",
+  "summary": "Global tensions remain elevated across multiple conflict zones as diplomatic pauses offer tentative relief. The US and Iran stepped back from escalation following attacks this year, while the Israeli-Palestinian conflict continued to dominate headlines with new raids on refugee centres and documented settler violence in the West Bank. Major developments included Chile's capture of a fugitive involved in the Pinochet-era killing of singer Victor Jara, ongoing violence in Yemen and Mali, and a shooting near Seattle's Space Needle that killed three. Economic and technology stories ranged from a Chinese chipmaker's blockbuster stock debut to mounting pressure on AI companies and the impact of Trump's tariffs on retailers like Shein.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Shots fired at US consulate in Toronto for a second time this year",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+      "pubDate": "Mon, 27 Jul 2026 16:56:57 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bb/live/b02f9420-89da-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Cash recovered from ex-Nasa scientist turned scammer",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2x2qprwo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "John Burford was jailed in 2025 after taking more than £1m from his victims.",
+      "pubDate": "Mon, 27 Jul 2026 16:00:49 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef94/live/4fb9c1a0-89d1-11f1-8d60-2d725522f827.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+      "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
+      "pubDate": "Mon, 27 Jul 2026 15:49:45 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c4d/live/36b149a0-89cf-11f1-b9d9-13fd1053d899.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israeli raid sparks fire at UN Palestinian refugee centre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
+      "desc": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
+      "pubDate": "Mon, 27 Jul 2026 15:39:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-27-at-16.33.31-1785166553.png?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Mapping Israeli settler violence in the West Bank",
+      "link": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
+      "desc": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
+      "pubDate": "Mon, 27 Jul 2026 15:27:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-COVER-WEST-BANK-SETTLER-ATTACK-JULY-27-2026-1-1785159000.png?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How Israel uses settler-soldier terror to colonise the West Bank",
+      "link": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
+      "desc": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
+      "pubDate": "Mon, 27 Jul 2026 15:27:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T222710Z_614470920_RC2MKMABQ55V_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-FUNERAL-1785160380.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why a new war in Yemen could be different for the Houthis",
+      "link": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis?traffic_source=rss",
+      "desc": "Recent developments strengthen anti-Houthi forces in Yemen as signs indicate that a re-eruption of the war is imminent.",
+      "pubDate": "Mon, 27 Jul 2026 15:20:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a674c98-1785154712.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "South Africa investigates death of Nigerian who collapsed during arrest",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
+      "pubDate": "Mon, 27 Jul 2026 14:26:50 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1296/live/e9165f50-89a6-11f1-a85a-79136c2d298e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Oil price dives as US and Iran pause attacks",
       "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&amp;at_campaign=rss",
@@ -12833,16 +12913,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
-      "link": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-eu-2092-rdf",
-      "desc": "The two attacks, in Volgograd and Vladimir regions, are part of President Zelenskyy's strategy to bring the war to the Russian people and force Putin into peace negotiations.",
-      "pubDate": "2026-06-27T16:41:00Z",
-      "img": "https://static.dw.com/image/77735421_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
     }
   ]
 }
