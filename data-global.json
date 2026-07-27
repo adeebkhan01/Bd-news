@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-27T17:01:53.692Z",
-  "summary": "Global tensions remain elevated across multiple conflict zones as diplomatic pauses offer tentative relief. The US and Iran stepped back from escalation following attacks this year, while the Israeli-Palestinian conflict continued to dominate headlines with new raids on refugee centres and documented settler violence in the West Bank. Major developments included Chile's capture of a fugitive involved in the Pinochet-era killing of singer Victor Jara, ongoing violence in Yemen and Mali, and a shooting near Seattle's Space Needle that killed three. Economic and technology stories ranged from a Chinese chipmaker's blockbuster stock debut to mounting pressure on AI companies and the impact of Trump's tariffs on retailers like Shein.",
+  "fetchedAt": "2026-07-27T19:40:38.669Z",
+  "summary": "Global tensions escalated sharply today as the US and Iran paused military operations to explore diplomatic talks, though more than 600 American service members have already been wounded since the conflict began in February. Meanwhile, a new UK government led by Prime Minister Burnham welcomed Ukraine's Zelenskyy as his first international guest, reaffirming British support for the war effort. The Middle East remained volatile with intensifying Israeli military operations in the West Bank amid settler violence and a humanitarian crisis in Lebanon, while climate emergencies continued dominating headlines as extreme wildfires spread across Southern Europe and the Caribbean. Notable developments included technological breakthroughs such as a Chinese chipmaker's surge in share offerings and Sam Altman's claims about AI singularity, alongside ongoing accountability efforts including Chile's capture of a fugitive linked to Victor Jara's murder under Pinochet.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
+      "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat.",
+      "pubDate": "Mon, 27 Jul 2026 19:30:25 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/cbefd4f0-89e3-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Are the US and Iran heading towards a forever war?",
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+      "desc": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
+      "pubDate": "Mon, 27 Jul 2026 18:40:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785177620.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
+      "desc": "UN High Commissioner for Human Rights Volker said that Lebanon&#039;s displaced endure ‘exhaustion and despair’.",
+      "pubDate": "Mon, 27 Jul 2026 18:28:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-27-at-19.23.27-1785176798.png?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 16",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+      "desc": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
+      "pubDate": "Mon, 27 Jul 2026 17:57:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/clean-1-1785175020.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Burnham welcomes Zelenskyy as first international guest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
+      "desc": "Andy Burnham, Britain’s new prime minister, welcomed Ukrainian President Volodymyr Zelenskyy to the United Kingdom.",
+      "pubDate": "Mon, 27 Jul 2026 17:55:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785174890.jpg?resize=1748%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
+      "link": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
+      "desc": "Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.",
+      "pubDate": "Mon, 27 Jul 2026 17:41:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-09-11T141418Z_116592378_RC2EY9A8R8P4_RTRMADP_3_UKRAINE-CRISIS-USA-BLINKEN-1785162199.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
+      "link": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss",
+      "desc": "Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions.",
+      "pubDate": "Mon, 27 Jul 2026 17:36:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25324610594752-1763707825.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Shots fired at US consulate in Toronto for a second time this year",
       "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&amp;at_campaign=rss",
@@ -12880,36 +12950,6 @@
       "desc": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
       "pubDate": "Sat, 27 Jun 2026 20:23:44 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP23272469488924-1696181199.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
-      "desc": "Israeli Defence Minister Israel Katz says the military has been ordered to prepare for an ‘extended stay’ in Lebanon.",
-      "pubDate": "Sat, 27 Jun 2026 19:12:39 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782587084.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "link": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
-      "pubDate": "Sat, 27 Jun 2026 18:41:03 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b46/live/3b982460-7251-11f1-b46f-17a6b71f4bc4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss",
-      "desc": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
-      "pubDate": "Sat, 27 Jun 2026 18:30:26 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-27T030628Z_576222433_UP1EM6R08MRYO_RTRMADP_3_SOCCER-WORLDCUP-EGY-IRN-1782583581.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
