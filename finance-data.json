@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T17:13:33.366Z",
+  "fetchedAt": "2026-07-27T20:00:33.859Z",
   "asx200": {
     "value": 8894,
     "change": 129.8,
@@ -88,7 +88,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.33,
+    "changePercent": 1.36,
     "previousClose": 0.69,
     "asOf": "2026-07-27",
     "history": [
@@ -173,6 +173,10 @@
         "close": 0.7
       },
       {
+        "date": "2026-07-26",
+        "close": 0.7
+      },
+      {
         "date": "2026-07-27",
         "close": 0.7
       }
@@ -183,33 +187,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4077.9,
-      "change": -0.8,
-      "changePercent": -0.02
+      "price": 4091.3,
+      "change": 12.6,
+      "changePercent": 0.31
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.82,
-      "change": -0.4,
-      "changePercent": -0.68
+      "price": 58.89,
+      "change": -0.33,
+      "changePercent": -0.55
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 82.78,
-      "change": 13.55,
-      "changePercent": 19.57
+      "price": 82.04,
+      "change": 12.81,
+      "changePercent": 18.5
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.37,
-      "change": 0.23,
-      "changePercent": 3.78
+      "price": 6.41,
+      "change": 0.27,
+      "changePercent": 4.35
     },
     {
       "name": "BHP Group",
@@ -818,6 +822,13 @@
   ],
   "news": [
     {
+      "title": "ASX set to slide, Wall Street mixed; Oil prices keep falling",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-mixed-oil-prices-keep-falling-20260728-p60j2f.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Stocks are drifting on Wall Street and oil prices fell after the US and Iran paused their attacks while work resumed on restarting negotiations to end the war.",
+      "pubDate": "Tue, 28 Jul 2026 05:17:55 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "Aussie Rohan Browning clips 'unfair' 100m surprise sprung on sprinters",
       "link": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-rohan-browning-eddie-nketia-glasgow-heats/106964158",
       "snippet": "",
@@ -853,7 +864,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: McDonald wins gymnastics gold, Hardy claims bronze",
+      "title": "Live: Harris leads Aussie medal sweep in 100m free as Dolphins dominate again",
       "link": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-glasgow-day-four-live-blog/106961304",
       "snippet": "",
       "pubDate": "Mon, 27 Jul 2026 08:35:05 +0000",
@@ -892,13 +903,6 @@
       "link": "https://www.smh.com.au/business/companies/critica-builds-wa-rare-earth-district-case-with-juno-hits-20260727-p60iz4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Critica Limited’s shallow high-grade rare earth hits at Juno strengthen the case for a district-scale rare earth project centred on its giant Jupiter deposit in WA.",
       "pubDate": "Mon, 27 Jul 2026 15:58:37 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Unlawfully sacked Qantas workers to wait almost six years for compensation",
-      "link": "https://www.smh.com.au/business/companies/unlawfully-sacked-qantas-workers-to-wait-almost-six-years-for-compensation-20260727-p60is6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The 1820 workers, who won a High Court fight on their way to $160 million worth of payouts, are still waiting for the money to hit their accounts.",
-      "pubDate": "Mon, 27 Jul 2026 15:45:00 +1000",
       "source": "SMH Business"
     }
   ]
