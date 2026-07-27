@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-27T19:40:38.669Z",
-  "summary": "Global tensions escalated sharply today as the US and Iran paused military operations to explore diplomatic talks, though more than 600 American service members have already been wounded since the conflict began in February. Meanwhile, a new UK government led by Prime Minister Burnham welcomed Ukraine's Zelenskyy as his first international guest, reaffirming British support for the war effort. The Middle East remained volatile with intensifying Israeli military operations in the West Bank amid settler violence and a humanitarian crisis in Lebanon, while climate emergencies continued dominating headlines as extreme wildfires spread across Southern Europe and the Caribbean. Notable developments included technological breakthroughs such as a Chinese chipmaker's surge in share offerings and Sam Altman's claims about AI singularity, alongside ongoing accountability efforts including Chile's capture of a fugitive linked to Victor Jara's murder under Pinochet.",
+  "fetchedAt": "2026-07-27T22:11:20.513Z",
+  "summary": "The dominant global story today centers on an escalating US-Iran conflict that has entered its sixteenth day, with both nations declaring a pause in strikes and exploring potential diplomatic channels, though reports suggest significant American military casualties and ongoing weapons concerns cloud hopes for de-escalation. Middle East tensions extend beyond Iran to the Israeli-Palestinian conflict, where the UN continues documenting alleged Israeli war crimes in Lebanon while condemning settlement expansion in the West Bank, amid accounts of worsening settler violence and deteriorating humanitarian conditions in Gaza and Lebanon. In domestic politics, new UK Prime Minister Burnham is signaling continuity in Ukraine support and positioning himself on economic issues, while a data breach has exposed private Claude AI conversations online. Climate emergencies dominate secondary coverage, with catastrophic wildfires in southern Europe creating dangerous fire-generated thunderstorms and prompting travel warnings.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,116 @@
     }
   ],
   "articles": [
+    {
+      "title": "Some people's chats with Claude AI made publicly available online",
+      "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+      "pubDate": "Mon, 27 Jul 2026 21:51:34 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
+      "desc": "UN chief Guterres labels settlements &#039;flagrant violation&#039; of international law amid escalating violence.",
+      "pubDate": "Mon, 27 Jul 2026 21:17:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a67c20f6e9a8-1785184783.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "pubDate": "Mon, 27 Jul 2026 21:10:56 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
+      "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
+      "desc": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
+      "pubDate": "Mon, 27 Jul 2026 21:08:21 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67abd4-1785179092.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
+      "pubDate": "Mon, 27 Jul 2026 21:06:42 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "desc": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+      "pubDate": "Mon, 27 Jul 2026 21:04:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/GettyImages-2286922481-1785154646.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
+      "desc": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
+      "pubDate": "Mon, 27 Jul 2026 20:47:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785182797.jpg?resize=1920%2C1061&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump takes economic message to Michigan amid dwindling popularity",
+      "link": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
+      "desc": "US president is suffering from low approval ratings in state that has become &#039;ground zero&#039; for his trade policies.",
+      "pubDate": "Mon, 27 Jul 2026 20:23:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-27T191924Z_1195915647_RC2JMMAB2LE2_RTRMADP_3_USA-TRUMP-MICHIGAN-1785180469.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+      "desc": "Will Britain&#039;s new cabinet change the country’s role in Israel’s war on Gaza?",
+      "pubDate": "Mon, 27 Jul 2026 20:12:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785183043.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
+      "desc": "Unreleased documentary footage shows late US Senator Lindsey Graham celebrating the war on Iran.",
+      "pubDate": "Mon, 27 Jul 2026 20:09:16 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785182943.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UN eyeing potential Israeli war crimes in Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
+      "desc": "High Commissioner Turk discusses displacement and trauma in Lebanon, asserting Israel is violating international law.",
+      "pubDate": "Mon, 27 Jul 2026 19:32:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a679dee-1785175534.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
       "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss",
@@ -12923,36 +13033,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Budapest's first Pride since Orban left power",
-      "link": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
-      "pubDate": "Sat, 27 Jun 2026 21:28:04 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b540/live/730a5be0-7268-11f1-856a-2f39ab9183fd.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-      "desc": "Videos show Israeli settlers trying to seize a house under construction in the occupied West Bank.",
-      "pubDate": "Sat, 27 Jun 2026 21:13:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782594781.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
-      "link": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss",
-      "desc": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
-      "pubDate": "Sat, 27 Jun 2026 20:23:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP23272469488924-1696181199.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
