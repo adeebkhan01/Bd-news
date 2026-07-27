@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T20:00:33.859Z",
+  "fetchedAt": "2026-07-27T22:30:56.250Z",
   "asx200": {
     "value": 8894,
     "change": 129.8,
@@ -82,13 +82,17 @@
       {
         "date": "2026-07-23",
         "close": 8839
+      },
+      {
+        "date": "2026-07-24",
+        "close": 8772.3
       }
     ]
   },
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.36,
+    "changePercent": 1.3,
     "previousClose": 0.69,
     "asOf": "2026-07-27",
     "history": [
@@ -187,33 +191,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4091.3,
-      "change": 12.6,
-      "changePercent": 0.31
+      "price": 4077.8,
+      "change": -0.9,
+      "changePercent": -0.02
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.89,
-      "change": -0.33,
-      "changePercent": -0.55
+      "price": 58.71,
+      "change": -0.51,
+      "changePercent": -0.86
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 82.04,
-      "change": 12.81,
-      "changePercent": 18.5
+      "price": 81.97,
+      "change": 12.74,
+      "changePercent": 18.4
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.41,
-      "change": 0.27,
-      "changePercent": 4.35
+      "price": 6.39,
+      "change": 0.25,
+      "changePercent": 4.05
     },
     {
       "name": "BHP Group",
@@ -822,11 +826,39 @@
   ],
   "news": [
     {
+      "title": "Sabalenka, Djokovic lead mixed doubles teams for US Open",
+      "link": "https://www.abc.net.au/news/2026-07-28/sabalenka-djokovic-lead-mixed-doubles-teams-for-us-open/106965032",
+      "snippet": "",
+      "pubDate": "Mon, 27 Jul 2026 21:56:23 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "'A gorgeous human' gets her solo moment and still shares it with her mates",
+      "link": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-2026-swimming-meg-harris/106964942",
+      "snippet": "",
+      "pubDate": "Mon, 27 Jul 2026 21:54:15 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "The unbreakable trust fuelling cyclists' Glasgow medal push",
+      "link": "https://www.abc.net.au/news/2026-07-28/kane-perris-luke-zaccaria-trust-behind-commonwealth-games-tilt/106947018",
+      "snippet": "",
+      "pubDate": "Mon, 27 Jul 2026 21:32:35 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "ASX set to slide, Wall Street mixed; Oil prices keep falling",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-mixed-oil-prices-keep-falling-20260728-p60j2f.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Stocks are drifting on Wall Street and oil prices fell after the US and Iran paused their attacks while work resumed on restarting negotiations to end the war.",
-      "pubDate": "Tue, 28 Jul 2026 05:17:55 +1000",
+      "snippet": "Stocks drifted on Wall Street and oil prices fell after the US and Iran paused their attacks while work resumed on restarting negotiations to end the war.",
+      "pubDate": "Tue, 28 Jul 2026 06:28:59 +1000",
       "source": "SMH Business"
+    },
+    {
+      "title": "Cabo Verde stunner gets people's vote as best World Cup goal",
+      "link": "https://www.abc.net.au/news/2026-07-28/cabo-verde-stunner-gets-people-s-vote-as-best-world-cup-goal/106964928",
+      "snippet": "",
+      "pubDate": "Mon, 27 Jul 2026 20:11:07 +0000",
+      "source": "ABC News"
     },
     {
       "title": "Aussie Rohan Browning clips 'unfair' 100m surprise sprung on sprinters",
@@ -864,7 +896,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Harris leads Aussie medal sweep in 100m free as Dolphins dominate again",
+      "title": "Live: Australia claims first athletics gold, Dolphins dominating once more",
       "link": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-glasgow-day-four-live-blog/106961304",
       "snippet": "",
       "pubDate": "Mon, 27 Jul 2026 08:35:05 +0000",
@@ -875,34 +907,6 @@
       "link": "https://www.smh.com.au/business/companies/auric-mining-study-highlights-potential-812m-wa-goldfields-revenue-20260727-p60j02.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Auric Mining has unveiled a study for its Munda-Burbanks gold project showing $812 million in revenue. The plan would see it churn an additional 141,000 ounces of gold.",
       "pubDate": "Mon, 27 Jul 2026 17:22:57 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Max King's season is over after first AFL game in two years",
-      "link": "https://www.abc.net.au/news/2026-07-27/max-king-injury-update-st-kilda-hamstring/106963654",
-      "snippet": "",
-      "pubDate": "Mon, 27 Jul 2026 07:00:59 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Moonlight seeking revival of high-grade Qld gold targets",
-      "link": "https://www.smh.com.au/business/companies/moonlight-seeking-revival-of-high-grade-qld-gold-targets-20260727-p60ize.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Moonlight Resources has begun maiden drilling at Queensland’s Goldfinger prospect to verify and extend high-grade gold mineralisation, including 4m at 13.87g/t and 8m at 8.35g/t.",
-      "pubDate": "Mon, 27 Jul 2026 16:38:35 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Alan Joyce thinks it could’ve been worse",
-      "link": "https://www.smh.com.au/business/companies/alan-joyce-thinks-it-could-ve-been-worse-20260727-p60is7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The former Qantas boss became a lightning rod for post-COVID public anger at the airline sector. Is that reputation fair?",
-      "pubDate": "Mon, 27 Jul 2026 16:02:23 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Critica builds WA rare earth district case with Juno hits",
-      "link": "https://www.smh.com.au/business/companies/critica-builds-wa-rare-earth-district-case-with-juno-hits-20260727-p60iz4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Critica Limited’s shallow high-grade rare earth hits at Juno strengthen the case for a district-scale rare earth project centred on its giant Jupiter deposit in WA.",
-      "pubDate": "Mon, 27 Jul 2026 15:58:37 +1000",
       "source": "SMH Business"
     }
   ]
