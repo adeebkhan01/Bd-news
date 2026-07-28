@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T11:21:31.974Z",
-  "summary": "Global tensions are intensifying across multiple fronts as diplomatic efforts compete with military posturing. The US-Iran conflict has entered a pause in hostilities with ongoing talks, while Middle East dynamics shift with Netanyahu visiting Washington to meet Trump and Zelenskyy pressing for air defence support. The Israeli-Palestinian conflict continues to escalate with UN warnings of potential war crimes and protests erupting in Washington, while Colombia's incoming president signals a policy shift toward Palestine. Tech sector volatility and various international disputes round out a day marked by geopolitical uncertainty and competing regional interests.",
+  "fetchedAt": "2026-07-28T14:18:46.923Z",
+  "summary": "Benjamin Netanyahu's visit to Washington dominates international headlines as the Israeli leader meets Trump amid significant diplomatic and security discussions spanning Gaza, Iran, and broader Middle East tensions. The US and Iran are engaged in tentative ceasefire talks following a pause in military operations, while the Trump administration navigates complex relationships with Israel, Turkey, and France, including a walkout from UN Security Council proceedings. The Middle East remains volatile with ongoing violence in the West Bank and Gaza, settler attacks on Palestinians, and international scrutiny over potential war crimes allegations. Domestically, geopolitical tensions are rippling through financial markets with chip stocks declining on AI-related concerns, while tech security breaches continue with major leaks affecting music artists and AI platforms.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,86 @@
   ],
   "articles": [
     {
+      "title": "Israeli soldier runs marathon around Gaza outpost",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+      "desc": "An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.",
+      "pubDate": "Tue, 28 Jul 2026 13:18:48 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785244679.jpg?resize=1918%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Moment Canadian politician accidentally reads AI prompt during speech",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-canadian-politician-accidentally-reads-ai-prompt-during-speech?traffic_source=rss",
+      "desc": "‘Here’s a more natural flowing version of that section…’",
+      "pubDate": "Tue, 28 Jul 2026 12:36:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785242114.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
+      "link": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
+      "desc": "Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.",
+      "pubDate": "Tue, 28 Jul 2026 12:32:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a67a03aeb62-1785176122.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US walks out on France at UN over North Korea, Russia comparison",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
+      "desc": "US diplomats walked out of France’s UN Security Council address after France’s UN Mission compared the US to North Korea",
+      "pubDate": "Tue, 28 Jul 2026 12:31:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785241854.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why has Iran’s economy not collapsed under US war pressure?",
+      "link": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
+      "desc": "Millions in sanctions-hit country keep absorbing economic shockwaves, with analysts saying trend looks set to continue.",
+      "pubDate": "Tue, 28 Jul 2026 12:30:18 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-20T141718Z_1099693971_RC2KHMAW3PLX_RTRMADP_3_IRAN-CRISIS-1785237839.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What is Jodrell Bank Observatory and what does it do?",
+      "link": "https://www.bbc.co.uk/news/articles/c07r1v98mpgo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "When Jodrell Bank Observatory was built, the site was seen as gamechanger for radio astronomy.",
+      "pubDate": "Tue, 28 Jul 2026 12:11:26 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2e/live/daa9ca80-8a85-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israeli settler attack on at-Tuwani",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-settler-attack-on-at-tuwani?traffic_source=rss",
+      "desc": "Settler attacks in the occupied West Bank are at record highs.",
+      "pubDate": "Tue, 28 Jul 2026 11:27:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785237979.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
+      "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+      "desc": "Green Party, which took over control of the council from the Labour Party, is opposed to Israel&#039;s genocidal war on Gaza.",
+      "pubDate": "Tue, 28 Jul 2026 11:14:27 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5bd83c-1784404028.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Zelensky to press Trump on air defences while in Washington",
       "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
@@ -33,6 +113,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump flouts political risk to host Netanyahu’s seventh White House visit",
+      "link": "https://www.aljazeera.com/news/2026/7/28/trump-flouts-political-risk-to-host-netanyahus-seventh-white-house-visit?traffic_source=rss",
+      "desc": "Oval Office meeting on Tuesday is first since US-Israel launched unpopular war with Iran.",
+      "pubDate": "Tue, 28 Jul 2026 10:12:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a67b0d1e36ad-1785180369.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
     },
     {
       "title": "US walks out of UN Security Council meeting during France's remarks",
@@ -13030,56 +13120,6 @@
       "desc": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.",
       "pubDate": "Sun, 28 Jun 2026 14:46:32 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782657985.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-      "link": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
-      "desc": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.",
-      "pubDate": "Sun, 28 Jun 2026 14:01:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a411530-1782650160.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine says it attacked two Russian oil refineries",
-      "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
-      "desc": "At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.",
-      "pubDate": "Sun, 28 Jun 2026 13:36:15 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a4104cb41-1782645963.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Paradise lost: How Israel is making war on West Bank farmers",
-      "link": "https://www.aljazeera.com/economy/2026/6/28/paradise-lost-how-israel-is-making-war-on-west-bank-farmers?traffic_source=rss",
-      "desc": "Israel is attacking West Bank agriculture in an attempt to drive Palestinian farmers off their land.",
-      "pubDate": "Sun, 28 Jun 2026 13:19:26 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/processed-AD15F98C-6C81-44A8-B3B9-D5133806D800-1782635185.jpeg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why is Article 5 of MoU causing confrontations in the Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss",
-      "desc": "Iran and the US trade attacks over navigation through the Strait of Hormuz, which has emerged as a major sticking point.",
-      "pubDate": "Sun, 28 Jun 2026 13:17:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3fa6fb-1782556412.jpg?resize=1920%2C1369",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US strikes Iran for second day: Is it a violation of war powers resolution?",
-      "link": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
-      "desc": "Days after Congress tells Trump he needs to seek its approval or end Iran war, Trump returns to attacks. Is it legal?",
-      "pubDate": "Sun, 28 Jun 2026 12:13:18 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a2d93ba5350-1781371834.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
