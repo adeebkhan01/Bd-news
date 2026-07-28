@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-27T22:11:05.689Z",
-  "summary": "Victorian Labor is in turmoil with Jacinta Allan facing a leadership spill that she is expected to lose, dominating domestic political coverage today. The federal government continues managing international relations, with news of Trump's Iran talks and a political challenger emerging in the prime minister's own seat for the 2028 election. Economic concerns loom large, with warnings from Treasury about war impacts, falling power prices complicated by data centre growth, and an ASX slide expected. Separate from politics, Australians are grappling with practical issues including a missing baby off South Australia, nursing workforce exodus warnings, and building industry complaints about unscrupulous contractors.",
+  "fetchedAt": "2026-07-28T02:48:48.437Z",
+  "summary": "Victoria's political leadership is in turmoil following Jacinta Allan's resignation as premier amid corruption allegations related to the Big Build infrastructure program, with Labor MPs gathering to determine her successor. Origin Energy has disclosed a major data breach affecting 900,000 customers, adding to growing security concerns across Australian industries. The national focus also extends to climate and infrastructure challenges, with warnings about future war impacts on the economy and plans for a new oil refinery in Western Australia, while industrial and technological sectors grapple with issues ranging from copper theft targeting EV chargers to the emerging legal risks of artificial intelligence in business.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,206 @@
     }
   ],
   "articles": [
+    {
+      "title": "Gerry Harvey branded the legal system unjust. It has come back to bite him",
+      "link": "https://www.smh.com.au/business/companies/gerry-harvey-branded-the-legal-system-unjust-it-has-come-back-to-bite-him-20260728-p60j6a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The Federal Court has hit Harvey Norman with a $35 million penalty for running misleading ads – much more than the $20 million slapped on its partner company.",
+      "pubDate": "Tue, 28 Jul 2026 12:38:39 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.45018259719346676%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1262%2C$y_479/t_crop_custom/q_86%2Cf_auto/e83a9e40a8aaff552f2dfdb383727e8aa684058a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ben Carroll to become next premier of Victoria after Jacinta Allan resigns",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+      "desc": "<p>Premier stepped down from top job before expected spill, saying her deputy has her ‘unqualified support’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-a",
+      "pubDate": "Tue, 28 Jul 2026 02:37:49 GMT",
+      "img": "https://i.guim.co.uk/img/media/f379c2b04bb66cddde5b073f13ca3c0657976c62/2086_1103_2057_1646/master/2057.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "How the world’s $2.6 quadrillion wealth bomb could explode",
+      "link": "https://www.smh.com.au/business/the-economy/how-the-world-s-2-6-quadrillion-wealth-bomb-could-explode-20260728-p60j52.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Global wealth is booming, but alarm bells are starting to ring louder.",
+      "pubDate": "Tue, 28 Jul 2026 11:57:22 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2221%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_81%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/16582fb7028cd4f9bcfc2dc6fcfca24b98312565",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Gabrielle Williams named interim premier of Victoria",
+      "link": "https://www.smh.com.au/national/gabrielle-williams-named-interim-premier-of-victoria-20260728-p60j8h.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Transport Minister Gabrielle Williams has been named as interim premier of Victoria, as Ben Carroll and Sonya Kilkenny fight to take the top job on a permanent basis.",
+      "pubDate": "Tue, 28 Jul 2026 11:57:21 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/5ea1269dcdfb7440019d5ec9b526cc2db1e3692c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Origin Energy says 900,000 customers had their data hacked",
+      "link": "https://www.smh.com.au/business/companies/origin-energy-says-900-000-customers-had-their-data-hacked-20260728-p60j6y.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "A major cyberattack has compromised personal data belonging to 900,000 current and former customers of Australia’s largest energy retailer.",
+      "pubDate": "Tue, 28 Jul 2026 11:43:08 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2132%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/1c061c9c5eba09dc0dc31be461c228ca3c29120f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "EV industry fights back against copper thieves targeting public chargers",
+      "link": "https://www.smh.com.au/environment/sustainability/ev-industry-fights-back-against-copper-thieves-targeting-public-chargers-20260723-p60hw0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
+      "desc": "As scrap metal prices have soared, copper theft has too. EV chargers are the new frontier for an old crime.",
+      "pubDate": "Tue, 28 Jul 2026 11:32:29 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6895%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_456/t_crop_custom/q_86%2Cf_auto/57751c6a9d3f7f58905888f25a461bcd4e9dead6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Rattled homes and sleep loss’: Inside Sydney bowlo’s noise war with its neighbours",
+      "link": "https://www.smh.com.au/national/nsw/rattled-homes-and-sleep-loss-inside-sydney-bowlo-s-noise-war-with-its-neighbours-20260723-p60hul.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Residents claimed it was a “nightclub”. The venue spent $200k fighting back. Now, the state’s hospitality watchdog has settled a long-running noise dispute in Vaucluse.",
+      "pubDate": "Tue, 28 Jul 2026 11:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2214178584525119%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_154/t_crop_custom/q_86%2Cf_auto/e1a7e4774f7f49f7ceb72f886ef5f8beb6b36bca",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Melbourne businessman found guilty of rape, but his name remains a secret",
+      "link": "https://www.smh.com.au/national/victoria/melbourne-businessman-found-guilty-of-rape-but-his-name-remains-a-secret-20260723-p60hur.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The high-profile man had been defending the rape case under the blanket of a suppression order on his identity.",
+      "pubDate": "Tue, 28 Jul 2026 11:18:40 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/48e8d32bd14d1e36cc4772decdf49dc9779df967",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "How the ‘Big Build’ corruption allegations brought down the Victorian premier",
+      "link": "https://theconversation.com/how-the-big-build-corruption-allegations-brought-down-the-victorian-premier-288489",
+      "desc": "Allegations of bikie and criminal infiltration into Victoria’s massive infrastructure program have dogged the premier for months.",
+      "pubDate": "2026-07-28T01:14:33Z",
+      "img": "https://images.theconversation.com/files/750407/original/file-20260728-57-h8y83u.jpg?ixlib=rb-4.1.1&amp;rect=0%2C438%2C5246%2C2623&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "What do the heatwaves in Europe and North America tell us about our future? | Fiona Katauskas",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/28/what-do-the-heatwaves-in-europe-and-north-america-tell-us-about-our-future",
+      "desc": "<p>The signs are there</p><ul><li><p><strong>See more of </strong><a href=\"https://www.theguardian.com/profile/fiona-katauskas\"><strong>Fiona Katauskas’s cartoons here</strong></a></p></li></ul> <a hr",
+      "pubDate": "Tue, 28 Jul 2026 00:54:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/bd49c209312e179d2233d7b38d35d761557d7846/1_0_1180_944/master/1180.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Origin Energy believes 900,000 customers' data accessed in breach",
+      "link": "https://www.abc.net.au/news/2026-07-28/origin-energy-data-breach-900k-customers-impacted/106961804",
+      "desc": "Origin Energy says it started reviewing a \"potential security threat\" early this month but deemed it not credible, before new information indicated a breach.",
+      "pubDate": "Tue, 28 Jul 2026 00:49:10 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d312d17212987caf599a79f5144be8cb?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Children escape kindergarten through playground fence to watch TV",
+      "link": "https://www.smh.com.au/national/victoria/children-escape-kindergarten-through-playground-fencing-to-watch-tv-20260728-p60j4n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An investigation is underway after the two children escaped from Isabel Henderson Kindergarten in Melbourne’s inner north on Monday.",
+      "pubDate": "Tue, 28 Jul 2026 10:45:48 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4019%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_89%2C$y_0/t_crop_custom/q_86%2Cf_auto/9791935cc15a912a8edfe0be06f93a46b71a7b73",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "PM praises Sally McManus and Michele O’Neil as ‘giants’ as they resign from ACTU",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/28/sally-mcmanus-michele-oneil-resign-actu-union-leaders",
+      "desc": "<p>Secretary and president of Australian Council of Trade Unions announced surprise departures on Monday evening</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/28/jaci",
+      "pubDate": "Tue, 28 Jul 2026 00:34:52 GMT",
+      "img": "https://i.guim.co.uk/img/media/ebb97fab1a824544887f0e5e323eeb64db8a6faa/742_0_5443_4357/master/5443.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "A look back on Jacinta Allan’s political career",
+      "link": "https://www.abc.net.au/news/2026-07-28/a-look-back-on-jacinta-allan-s-political-career/106965864",
+      "desc": "Jacinta Allan has announced her resignation as Victorian Premier. She was the state's youngest-ever female MP when she was elected in 1999, and only the second woman to hold the top job.",
+      "pubDate": "Tue, 28 Jul 2026 00:34:21 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/e9d6a26793d94a0099e6817acbdf78ef?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Victorian Premier Jacinta Allan announces her resignation",
+      "link": "https://www.abc.net.au/news/2026-07-28/victorian-premier-jacinta-allan-announces-her-resignation-/106965702",
+      "desc": "Jacinta Allan has announced her resignation as Victorian Premier.",
+      "pubDate": "Tue, 28 Jul 2026 00:13:58 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/e180d74e1bb802942b09967bc468ca33?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "What two centuries of Perth storm records tell us about future climate risk",
+      "link": "https://theconversation.com/what-two-centuries-of-perth-storm-records-tell-us-about-future-climate-risk-282971",
+      "desc": "How did Australia’s climate fluctuate before the large-scale burning of fossil fuels? Old records can help us find out.",
+      "pubDate": "2026-07-28T00:04:40Z",
+      "img": "https://images.theconversation.com/files/736951/original/file-20260520-57-mhb7dt.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1946%2C973&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "WA news LIVE: Albanese, Cook to announce plans for new oil refinery in WA’s north-west",
+      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-pedestrian-killed-in-maida-vale-crash-20260728-p60j4x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow our live coverage of all the news around WA here.",
+      "pubDate": "Tue, 28 Jul 2026 09:42:18 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.20742018518518518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_42%2C$y_30/t_crop_custom/q_86%2Cf_auto/923876ab00b5f324692f8cc952790026d06551c0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "NZ has a $2.5b building defect problem. Will self-certification make it better or worse?",
+      "link": "https://theconversation.com/nz-has-a-2-5b-building-defect-problem-will-self-certification-make-it-better-or-worse-286044",
+      "desc": "Building defects and rework silently drain millions from construction budgets. Catching those mistakes earlier could be key to faster builds and cheaper homes.",
+      "pubDate": "2026-07-27T23:35:41Z",
+      "img": "https://images.theconversation.com/files/749703/original/file-20260723-57-vm8bec.jpg?ixlib=rb-4.1.1&amp;rect=0%2C400%2C4793%2C2396&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Nude run startles diners on Gold Coast",
+      "link": "https://www.smh.com.au/national/nude-run-startles-diners-on-gold-coast-20260728-p60j3w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A group of naked runners offered a surprise show for diners on Gold Coast's Main Beach overnight.",
+      "pubDate": "Tue, 28 Jul 2026 08:22:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c8b9ce341a149e7cc9d7157b1cdb626b058a3122",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man waiting at bus stop loses arm after bus crashes into shelter",
+      "link": "https://www.smh.com.au/national/queensland/man-waiting-at-bus-stop-loses-arm-after-bus-crashes-into-shelter-20260728-p60j3g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The collision caused the roof of the shelter to collapse on the man.",
+      "pubDate": "Tue, 28 Jul 2026 08:21:13 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6357%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/353cdc78dcee71f5c257080d964db7c3d446e597e1cd22cdacc41aba2d44a168",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Australia news live: Labor MPs gather before Victorian leadership challenge; PM praises outgoing ACTU ‘giants’",
       "link": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
@@ -1138,6 +1338,16 @@
       "sourceId": "conversationau",
       "sourceName": "The Conversation AU",
       "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Gateway extends WA gold strike to 3.5km",
+      "link": "https://www.smh.com.au/business/companies/gateway-extends-wa-gold-strike-to-3-5km-20260727-p60ivj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Gateway Mining has extended its Cowza gold discovery by another kilometre to 3.5km in WA, with high-grade assays, a second RC rig arriving and more results pending.",
+      "pubDate": "Mon, 27 Jul 2026 12:32:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/dfaa9ffcc56694010e008f374611eb233c47c8cfa6383165d8e6756587c54b50",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
     },
     {
       "title": "Gateway grows WA gold discovery another kilometre to 3.5km",
@@ -33225,76 +33435,6 @@
       "desc": "Gaming is more portable and powerful than ever, but the artificial intelligence boom has caused component prices to skyrocket",
       "pubDate": "Sun, 28 Jun 2026 13:00:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_2.1222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/t_metro_analysis_no_age_social_wm/607b3ecf08ea49d9ab8f06a89be5c0c5b44064407236f59a4ea29b40d2393564",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "NSW beaches to get dawn-to-dusk drone patrols in $34m anti-shark program",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/28/nsw-beaches-to-get-dawn-to-dusk-drone-patrols-in-34m-anti-shark-program",
-      "desc": "<p>Premier Chris Minns says he wants to restore confidence to beachgoers after series of shark sightings and attacks</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/28/",
-      "pubDate": "Sun, 28 Jun 2026 01:03:12 GMT",
-      "img": "https://i.guim.co.uk/img/media/6b09ccbdc8c6268b0553747aabfc5c7dde15e17a/473_0_6827_5464/master/6827.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "The National Weather Forecast for Sunday, June 28",
-      "link": "https://www.smh.com.au/national/the-national-weather-forecast-for-sunday-june-28-20260628-p60ao1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The National Weather Forecast for Sunday, June 28",
-      "pubDate": "Sun, 28 Jun 2026 10:11:36 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a6f3b9f197376c69abcff2237e5562798f2dccd8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "How Ben overcame his dilemma about disclosing his autism in job interviews",
-      "link": "https://www.abc.net.au/news/2026-06-28/curtin-university-program-austistic-workers-cyber-security/106786380",
-      "desc": "The cybersecurity sector is projected to need tens of thousands of roles filled by 2030. Now, a university-based program is helping provide those workers by tapping into the abilities of autistic peop",
-      "pubDate": "Sun, 28 Jun 2026 00:10:02 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/c80587dedea0a328afba4f882ae151fb?impolicy=wcms_crop_resize&amp;cropH=4672&amp;cropW=3504&amp;xPos=1752&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Year-round drones and an audit of bull sharks: Beach safety plan unveiled",
-      "link": "https://www.smh.com.au/national/nsw/year-round-drones-and-an-audit-of-bull-sharks-beach-safety-plan-unveiled-20260628-p60ang.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "NSW Premier Chris Minns said the state would not cull white sharks, which are a protected species, asserting that “it’s not like we can knock a few off and send a message to the rest of them.”",
-      "pubDate": "Sun, 28 Jun 2026 09:40:57 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2758%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_303/t_crop_custom/q_86%2Cf_auto/e7473a2c9d29004e9857e73c4e0c27201c79b392624e1de9be693a6670d94b78",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "US military strikes multiple targets in Iran",
-      "link": "https://www.smh.com.au/national/us-military-strikes-multiple-targets-in-iran-20260628-p60ans.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The US military says it had struck multiple targets in Iran at President Donald Trump’s direction",
-      "pubDate": "Sun, 28 Jun 2026 09:35:02 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/66a0eb51e5f0ededb3ffddc0c09ea66e28f3dde2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "As the cost of living rises, old-school bartering makes a comeback",
-      "link": "https://www.abc.net.au/news/2026-06-28/communities-bartering-crop-swaps-amid-cost-of-living-crisis/106732194",
-      "desc": "Bartering is one of the oldest trade systems in the world, and as the cost of living soars, there is growing interest in trading homegrown and homemade goods.",
-      "pubDate": "Sat, 27 Jun 2026 23:32:46 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/04eed1bbf4f70597899104bdf1fcb363?impolicy=wcms_crop_resize&amp;cropH=981&amp;cropW=736&amp;xPos=653&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Keki had worked and paid rent her whole life. A fire left her without a home at 72",
-      "link": "https://www.smh.com.au/national/victoria/keki-had-worked-and-paid-rent-her-whole-life-a-fire-left-her-without-a-home-at-72-20260623-p609f6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Keki never expected to be on the front line of the national housing crisis, but a devastating fire changed everything. Others are living out of cars or applying for student accommodation in their seve",
-      "pubDate": "Sun, 28 Jun 2026 09:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3913%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_793%2C$y_633/t_crop_custom/q_86%2Cf_auto/f3ca4af93ae45048011e405b707910a68a6992ce",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"

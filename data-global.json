@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-27T22:11:20.513Z",
-  "summary": "The dominant global story today centers on an escalating US-Iran conflict that has entered its sixteenth day, with both nations declaring a pause in strikes and exploring potential diplomatic channels, though reports suggest significant American military casualties and ongoing weapons concerns cloud hopes for de-escalation. Middle East tensions extend beyond Iran to the Israeli-Palestinian conflict, where the UN continues documenting alleged Israeli war crimes in Lebanon while condemning settlement expansion in the West Bank, amid accounts of worsening settler violence and deteriorating humanitarian conditions in Gaza and Lebanon. In domestic politics, new UK Prime Minister Burnham is signaling continuity in Ukraine support and positioning himself on economic issues, while a data breach has exposed private Claude AI conversations online. Climate emergencies dominate secondary coverage, with catastrophic wildfires in southern Europe creating dangerous fire-generated thunderstorms and prompting travel warnings.",
+  "fetchedAt": "2026-07-28T02:49:02.423Z",
+  "summary": "Global tensions center on a developing diplomatic opening between the US and Iran, with Trump confirming ongoing talks and attacks paused for a third day, though questions persist about whether this represents genuine de-escalation or a temporary lull in what could become a prolonged conflict. The Middle East remains volatile on multiple fronts, with UN condemnation of Israeli settlement expansion and alleged war crimes in Lebanon, mounting casualties among US military personnel, and humanitarian crises deepening across Gaza, Lebanon, and Yemen. In domestic politics, Britain's new PM Keiko Fujimori takes office amid Gaza scrutiny while Trump campaigns in Michigan facing declining popularity. Separately, China grapples with misinformation as AI-generated fake disaster videos spread during natural disasters, while major tech players like Nvidia and OpenAI continue infrastructure expansion.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "New technical education routes to be offered at 14 in England",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
+      "pubDate": "Tue, 28 Jul 2026 00:57:43 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/76a92500-89f7-11f1-ad85-33848ec6bcfe.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
+      "desc": "US President Donald Trump called Turkiye &#039;a great ally&#039; when asked about selling F-35 fighter jets to Ankara.",
+      "pubDate": "Tue, 28 Jul 2026 00:00:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785196831.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
+      "desc": "Iran says US &#039;struggling&#039; to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-27T155803Z_1463333074_RC2FMMAYLHRZ_RTRMADP_3_IRAN-CRISIS-SAUDI-ABQAIQ-1785195601.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US diplomats walk out as France addresses UN Security Council",
+      "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+      "desc": "US diplomats walk out of UN meeting during France&#039;s speech amid tensions over human rights chief&#039;s reappointment.",
+      "pubDate": "Mon, 27 Jul 2026 23:07:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a67d60a18e0-1785189898.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "The prehistoric species fighting for survival in Lough Neagh",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Restrictions have been placed on fishing the critically-endangered European eel in Lough Neagh to try to restore the species",
+      "pubDate": "Mon, 27 Jul 2026 23:01:36 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecad/live/9a9fabc0-85e0-11f1-9837-c51febdbeb82.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "China's new challenge as natural disasters strike - fake AI videos",
+      "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+      "pubDate": "Mon, 27 Jul 2026 22:07:23 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Some people's chats with Claude AI made publicly available online",
       "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&amp;at_campaign=rss",
@@ -12980,56 +13040,6 @@
       "desc": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
       "pubDate": "Sun, 28 Jun 2026 03:15:06 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b53/live/d4a6ceb0-725e-11f1-b4a5-2d0098f6c080.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "These women said no to having kids - here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cz0jx2z2l41o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "From financial constraints to worries about the environment, women tell the BBC why they do not want kids.",
-      "pubDate": "Sun, 28 Jun 2026 00:39:41 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d7/live/f287e380-5f6a-11f1-8b8c-6d33e1d5abb6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
-      "link": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Tidying expert Dilly Carter shares her best tips on organising your kitchen, lounge and clothes.",
-      "pubDate": "Sun, 28 Jun 2026 00:32:07 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa95/live/b05cdf20-7143-11f1-8546-8f19e4fe30f4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
-      "desc": "Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.",
-      "pubDate": "Sun, 28 Jun 2026 00:09:46 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782605356.jpg?resize=1920%2C1070&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-      "desc": "Donald Trump threatens to &#039;militarily complete the job&#039; as the US strikes Sirik and Qeshm Island over ship attacks.",
-      "pubDate": "Sun, 28 Jun 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-15T090956Z_535767317_RC26ULAV8EFH_RTRMADP_3_IRAN-CRISIS-1782602370.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-      "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
-      "pubDate": "Sat, 27 Jun 2026 23:10:39 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
