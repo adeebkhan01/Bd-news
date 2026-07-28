@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T19:57:01.159Z",
+  "fetchedAt": "2026-07-28T22:29:36.204Z",
   "asx200": {
     "value": 8947.8,
     "change": 183.6,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.13,
+    "changePercent": 1.06,
     "previousClose": 0.69,
     "asOf": "2026-07-28",
     "history": [
@@ -185,6 +185,10 @@
         "close": 0.7
       },
       {
+        "date": "2026-07-27",
+        "close": 0.7
+      },
+      {
         "date": "2026-07-28",
         "close": 0.7
       }
@@ -195,25 +199,25 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4025.6,
-      "change": 3.3,
-      "changePercent": 0.08
+      "price": 4021.8,
+      "change": -0.5,
+      "changePercent": -0.01
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.44,
-      "change": -0.74,
-      "changePercent": -1.27
+      "price": 57.28,
+      "change": -0.9,
+      "changePercent": -1.55
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 79.06,
-      "change": 8.31,
-      "changePercent": 11.75
+      "price": 81.54,
+      "change": 10.79,
+      "changePercent": 15.25
     },
     {
       "name": "Copper",
@@ -221,7 +225,7 @@
       "iconBg": "#fef0e6",
       "price": 6.34,
       "change": 0.24,
-      "changePercent": 4
+      "changePercent": 3.94
     },
     {
       "name": "BHP Group",
@@ -830,11 +834,46 @@
   ],
   "news": [
     {
-      "title": "ASX set to rise, oil prices extend slide; Apple becomes a $US5tr company",
+      "title": "'My time': Young gun Southam dethrones Chalmers in 100m final",
+      "link": "https://www.abc.net.au/news/2026-07-29/my-time-young-gun-dethrones-chalmers-in-100m-final/106969732",
+      "snippet": "",
+      "pubDate": "Tue, 28 Jul 2026 22:22:50 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Cockroaches, spiders and a bloody pig mask: eBay to pay $70 million to couple after threats, bizarre deliveries",
+      "link": "https://www.smh.com.au/business/consumer-affairs/cockroaches-spiders-and-a-bloody-pig-mask-ebay-to-pay-70-million-to-couple-after-threats-bizarre-deliveries-20260729-p60jgv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "David and Ina Steiner were targeted by former employees of the online giant in a terrifying stalking campaign.",
+      "pubDate": "Wed, 29 Jul 2026 08:14:05 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "‘Nuclear bomb’: FIFA president’s plan to sell World Cup stake met with fury",
+      "link": "https://www.smh.com.au/business/companies/fifa-president-s-plan-to-sell-world-cup-stake-met-with-fury-20260729-p60jg6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "An investment vehicle founded by Joshua Kushner, the brother of Jared Kushner, US President Donald Trump’s son-in-law, is expected to be a lead investor.",
+      "pubDate": "Wed, 29 Jul 2026 07:50:23 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "'Absolutely wild': Australian gymnasts top off Games with two more golds",
+      "link": "https://www.abc.net.au/news/2026-07-29/australian-gymnasts-win-gold-at-commonwealth-games/106969640",
+      "snippet": "",
+      "pubDate": "Tue, 28 Jul 2026 21:21:17 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "ASX set to rise ahead of inflation data, oil prices extend slide; Apple becomes a $US5tr company",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-prices-extend-slide-apple-becomes-a-us5tr-company-20260729-p60jg3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Most of Wall Street is rising even as stocks of computer chipmakers continue to tumble worldwide. Oil prices, meanwhile, are easing further from the two-month high they hit last week.",
-      "pubDate": "Wed, 29 Jul 2026 05:25:59 +1000",
+      "pubDate": "Wed, 29 Jul 2026 06:28:39 +1000",
       "source": "SMH Business"
+    },
+    {
+      "title": "'Very bad look': Brisbane defender given three-game ban",
+      "link": "https://www.abc.net.au/news/2026-07-29/very-bad-look-brisbane-defender-given-three-game-ban/106969204",
+      "snippet": "",
+      "pubDate": "Tue, 28 Jul 2026 20:05:15 +0000",
+      "source": "ABC News"
     },
     {
       "title": "Home owners warned about banks’ $55 million offset account overcharging issue",
@@ -851,7 +890,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: More Dolphins gold, Aussie sprinters fly despite torrential rain",
+      "title": "Live: National records tumble as Aussie sprinters storm to 100m medals",
       "link": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170",
       "snippet": "",
       "pubDate": "Tue, 28 Jul 2026 08:38:33 +0000",
@@ -877,41 +916,6 @@
       "snippet": "Australian shares closed in the green after a speech from RBA governor Michele Bullock prompted investors to slightly lower their bets on a rate rise this year.",
       "pubDate": "Tue, 28 Jul 2026 17:53:11 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Big Hits: Broken Hill Mines, Gorilla Gold and Meeka Metals",
-      "link": "https://www.smh.com.au/business/companies/big-hits-broken-hill-mines-gorilla-gold-and-meeka-metals-20260728-p60jdh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Bulls N’ Bears Big Hits looks at notable drill intercepts reported to the ASX, led by Broken Hill Mines and followed by Gorilla Gold and Meeka Metals.",
-      "pubDate": "Tue, 28 Jul 2026 17:33:22 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Joint spares Aussie blushes on tough day at Memphis Open",
-      "link": "https://www.abc.net.au/news/2026-07-28/joint-spares-aussie-blushes-on-tough-day-at-memphis-open/106968374",
-      "snippet": "",
-      "pubDate": "Tue, 28 Jul 2026 07:23:14 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "KPMG directors flee as whistleblower scandal worsens",
-      "link": "https://www.smh.com.au/business/banking-and-finance/kpmg-loses-one-of-its-last-remaining-independent-directors-20260728-p60j4p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Independent director Patty Akopiantz quietly quit last month, following former NSW premier Mike Baird out the door, as bad news at the firm piles up.",
-      "pubDate": "Tue, 28 Jul 2026 16:56:08 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Real estate agent’s viral posts show our property market angst",
-      "link": "https://www.smh.com.au/business/the-economy/real-estate-agent-s-viral-posts-show-our-property-market-angst-20260728-p60j7u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "An inner west Sydney auctioneer has become an overnight celebrity after his weekend social media post captured the property market zeitgeist.",
-      "pubDate": "Tue, 28 Jul 2026 15:24:05 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Embattled LIV Golf tour asks to defer payment to Adelaide golf club",
-      "link": "https://www.abc.net.au/news/2026-07-28/liv-golf-tour-asks-to-defer-payment-to-kooyonga-golf-club/106966932",
-      "snippet": "",
-      "pubDate": "Tue, 28 Jul 2026 05:14:38 +0000",
-      "source": "ABC News"
     }
   ]
 }
