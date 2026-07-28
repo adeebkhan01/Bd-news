@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T08:40:56.605Z",
-  "summary": "Global affairs remain dominated by Middle Eastern tensions, with the US-Iran conflict now in its third week of active military operations, though both sides report ongoing diplomatic discussions. Israel's war in Gaza continues to draw international scrutiny, with UN bodies investigating potential war crimes while tensions escalate in the West Bank over settler violence and expanded settlements. Ukraine receives continued support from new UK leadership, though chip stocks plummeted on investor concerns about AI market saturation. Regional instability extends across Latin America and Southeast Asia, where drug trafficking networks and refugee crises strain diplomatic relations.",
+  "fetchedAt": "2026-07-28T11:21:31.974Z",
+  "summary": "Global tensions are intensifying across multiple fronts as diplomatic efforts compete with military posturing. The US-Iran conflict has entered a pause in hostilities with ongoing talks, while Middle East dynamics shift with Netanyahu visiting Washington to meet Trump and Zelenskyy pressing for air defence support. The Israeli-Palestinian conflict continues to escalate with UN warnings of potential war crimes and protests erupting in Washington, while Colombia's incoming president signals a policy shift toward Palestine. Tech sector volatility and various international disputes round out a day marked by geopolitical uncertainty and competing regional interests.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zelensky to press Trump on air defences while in Washington",
+      "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+      "pubDate": "Tue, 28 Jul 2026 10:41:41 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2e/live/eef58e80-8a6b-11f1-924e-bfa32777c3ff.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+      "pubDate": "Tue, 28 Jul 2026 09:32:25 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/97bbb000-8a51-11f1-8aea-37a02a7d69e8.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Netanyahu in the White House: What’s on the agenda and what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
+      "desc": "The Israeli PM&#039;s visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.",
+      "pubDate": "Tue, 28 Jul 2026 09:29:16 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-12-29T194211Z_984253312_RC2IQIAJXHI9_RTRMADP_3_ISRAEL-PALESTINIANS-TRUMP-NETANYAHU-1-1785236926.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ariana Grande sues hackers who leaked music and videos",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
+      "pubDate": "Tue, 28 Jul 2026 08:37:12 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5434/live/b3e2c190-8a5d-11f1-b6c7-397f42881d1e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Colombia’s president-elect to suspend Palestine embassy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
+      "desc": "Colombia’s far-right president-elect says he&#039;ll close or suspend embassies in these countries",
+      "pubDate": "Tue, 28 Jul 2026 08:19:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785226702.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
@@ -1713,6 +1763,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why Trump's 'forced labor' tariffs leave the world puzzled",
+      "link": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-bus-2091-rdf",
+      "desc": "After the US Supreme Court struck down Donald Trump's emergency tariffs, the White House has turned to another trade law linked to alleged human rights abuses.",
+      "pubDate": "2026-07-24T11:01:00Z",
+      "img": "https://static.dw.com/image/78092829_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Is the US-Saudi nuclear deal on, or in limbo?",
@@ -13023,46 +13083,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Uganda’s military chief orders shutdown of two media outlets",
-      "link": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
-      "desc": "The president&#039;s son said he did not believe in a free press as military personnel were deployed to the media offices.",
-      "pubDate": "Sun, 28 Jun 2026 11:08:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a40f318d1a5-1782641432.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Uganda's leading media outlets shut down by army chief",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
-      "pubDate": "Sun, 28 Jun 2026 10:11:35 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286b/live/b6c739c0-fc48-11f0-a087-459dd8e000af.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Hungary: Magyar's 'Operation Purgatory' tackles Orban system",
-      "link": "https://www.dw.com/en/hungary-magyar-s-operation-purgatory-tackles-orban-system/a-77726207?maca=en-rss-en-eu-2092-rdf",
-      "desc": "The new Hungarian government is moving swiftly to dismantle the system of former Prime Minister Viktor Orban. The focus: fighting corruption, reforming the media and protecting democracy.",
-      "pubDate": "2026-06-28T09:25:00Z",
-      "img": "https://static.dw.com/image/77487106_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "With 'Operation Purgatory,' Magyar moves to demolish Orban system",
-      "link": "https://www.dw.com/en/with-operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-eu-2092-rdf",
-      "desc": "The new Hungarian government is moving swiftly to dismantle the system of former Prime Minister Viktor Orban. The focus: fighting corruption, reforming the media and protecting democracy.",
-      "pubDate": "2026-06-28T09:25:00Z",
-      "img": "https://static.dw.com/image/77487106_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
     }
   ]
 }
