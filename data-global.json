@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T05:50:48.642Z",
-  "summary": "Global markets are reacting to geopolitical tension as chip stocks slide amid investor nervousness over the US-Iran conflict, which has entered a third day of ceasefire with both sides reporting ongoing diplomatic talks while oil prices fall. The Middle East remains the dominant headline, with tens of thousands of people displaced across Lebanon, mounting concerns over potential Israeli war crimes, and expanding Israeli settlements drawing UN condemnation and international pressure on Trump to constrain Netanyahu. Domestically, a new UK government under Burnham is signalling continuity on Ukraine support while the US grapples with infrastructure needs and economic messaging. Secondary stories include Malaysia's detention of Rohingya refugees, Chile's capture of a Pinochet-era murder suspect, and growing concerns about AI-generated misinformation during natural disasters in China.",
+  "fetchedAt": "2026-07-28T08:40:56.605Z",
+  "summary": "Global affairs remain dominated by Middle Eastern tensions, with the US-Iran conflict now in its third week of active military operations, though both sides report ongoing diplomatic discussions. Israel's war in Gaza continues to draw international scrutiny, with UN bodies investigating potential war crimes while tensions escalate in the West Bank over settler violence and expanded settlements. Ukraine receives continued support from new UK leadership, though chip stocks plummeted on investor concerns about AI market saturation. Regional instability extends across Latin America and Southeast Asia, where drug trafficking networks and refugee crises strain diplomatic relations.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,11 +25,51 @@
   ],
   "articles": [
     {
+      "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
+      "desc": "‘F*** you Bibi.’ ‘War criminal!’",
+      "pubDate": "Tue, 28 Jul 2026 08:06:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785225774.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys",
+      "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys?traffic_source=rss",
+      "desc": "Made up of mostly locals and some foreign visitors, a large group of volunteers step in to fix war damage.",
+      "pubDate": "Tue, 28 Jul 2026 07:34:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Jason-Hercula-a-volunteer-with-Dobrobat-cutting-strandboard-in-Kyiv-1784208370.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Palestine weekly: West Bank in flames after Tal killings",
+      "link": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
+      "desc": "Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.",
+      "pubDate": "Tue, 28 Jul 2026 05:58:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a641d910f37-1784946065.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
       "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
       "pubDate": "Tue, 28 Jul 2026 05:31:30 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e056/live/347f61f0-8a31-11f1-949c-5b05e00ab03c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "pubDate": "Tue, 28 Jul 2026 05:01:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee77/live/c385c6d0-89bb-11f1-965a-d70ca8fc6275.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -13023,56 +13063,6 @@
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
-    },
-    {
-      "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-      "link": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-      "desc": "Suffering of Gaza&#039;s children continues unabated due to Israeli attacks despite &#039;ceasefire&#039; reached in October 2025.",
-      "pubDate": "Sun, 28 Jun 2026 07:39:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/873A4561-copy-1781978881.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-      "desc": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
-      "pubDate": "Sun, 28 Jun 2026 06:14:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a4092526bb0-1782616658.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "'Lost' ant species reintroduced to woodland",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4kxnpy9ko?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Southern red wood ants are considered a keystone species, benefiting the ecosystems around them.",
-      "pubDate": "Sun, 28 Jun 2026 06:07:52 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/f6b14210-70a6-11f1-88b6-991d05fc2cf9.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why some trees might fall during extreme heat",
-      "link": "https://www.bbc.co.uk/news/articles/c87241v13x8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Scientists are studying how trees respond to hotter, drier conditions caused by climate change.",
-      "pubDate": "Sun, 28 Jun 2026 06:07:05 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ae/live/e6f72a10-7092-11f1-86cf-0fd142c2b6fb.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
-      "desc": "The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who&#039;s in and who&#039;s out.",
-      "pubDate": "Sun, 28 Jun 2026 06:00:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-27T042637Z_1655435390_UP1EM6R0CCB6Z_RTRMADP_3_SOCCER-WORLDCUP-EGY-IRN-1782540336.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
