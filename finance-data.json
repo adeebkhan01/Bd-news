@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T16:54:56.829Z",
+  "fetchedAt": "2026-07-28T19:57:01.159Z",
   "asx200": {
     "value": 8947.8,
     "change": 183.6,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.23,
+    "changePercent": 1.13,
     "previousClose": 0.69,
     "asOf": "2026-07-28",
     "history": [
@@ -195,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4040.9,
-      "change": 18.6,
-      "changePercent": 0.46
+      "price": 4025.6,
+      "change": 3.3,
+      "changePercent": 0.08
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.57,
-      "change": -0.6,
-      "changePercent": -1.04
+      "price": 57.44,
+      "change": -0.74,
+      "changePercent": -1.27
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 78.17,
-      "change": 7.42,
-      "changePercent": 10.49
+      "price": 79.06,
+      "change": 8.31,
+      "changePercent": 11.75
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.36,
-      "change": 0.26,
-      "changePercent": 4.33
+      "price": 6.34,
+      "change": 0.24,
+      "changePercent": 4
     },
     {
       "name": "BHP Group",
@@ -830,7 +830,28 @@
   ],
   "news": [
     {
-      "title": "Live: Double gymnastics gold on beam and bars, boxers guaranteed medals",
+      "title": "ASX set to rise, oil prices extend slide; Apple becomes a $US5tr company",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-prices-extend-slide-apple-becomes-a-us5tr-company-20260729-p60jg3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Most of Wall Street is rising even as stocks of computer chipmakers continue to tumble worldwide. Oil prices, meanwhile, are easing further from the two-month high they hit last week.",
+      "pubDate": "Wed, 29 Jul 2026 05:25:59 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Home owners warned about banks’ $55 million offset account overcharging issue",
+      "link": "https://www.smh.com.au/business/banking-and-finance/home-owners-warned-about-banks-55-million-offset-account-overcharging-issue-20260728-p60j4g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Some banks made manual errors that meant customers with offset accounts were overcharged, leading to more than $55 million in compensation.",
+      "pubDate": "Wed, 29 Jul 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Your boss will hate this economic fix … but you’ll love it",
+      "link": "https://www.smh.com.au/business/the-economy/your-boss-will-hate-this-economic-fix-but-you-ll-love-it-20260728-p60j9b.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The government should order businesses to give workers a big pay rise as a way of forcing them to improve productivity.",
+      "pubDate": "Wed, 29 Jul 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Live: More Dolphins gold, Aussie sprinters fly despite torrential rain",
       "link": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170",
       "snippet": "",
       "pubDate": "Tue, 28 Jul 2026 08:38:33 +0000",
@@ -891,27 +912,6 @@
       "snippet": "",
       "pubDate": "Tue, 28 Jul 2026 05:14:38 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "True North drill results hint at major Qld copper camp potential",
-      "link": "https://www.smh.com.au/business/companies/true-north-drill-results-hint-at-major-qld-copper-camp-potential-20260728-p60jbf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "True North Copper says assays from its first three diamond drill holes this year have confirmed copper-cobalt-silver mineralisation at its Aquila discovery in northwest Queensland.",
-      "pubDate": "Tue, 28 Jul 2026 15:12:17 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Fresh WA drill program poised for Auric Munda mine expansion",
-      "link": "https://www.smh.com.au/business/companies/fresh-wa-drill-program-poised-for-auric-munda-mine-expansion-20260728-p60jab.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Auric Mining has kicked off a drilling blitz at its Munda gold project to expand its upgraded resource, support an ore reserve and advance a planned 2027 mining restart.",
-      "pubDate": "Tue, 28 Jul 2026 13:58:29 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Kaiser Reef soil survey lights up 4.4km VIC gold trend",
-      "link": "https://www.smh.com.au/business/companies/kaiser-reef-soil-survey-lights-up-4-4km-vic-gold-trend-20260728-p60j9a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Kaiser Reef has uncovered a 4.4km gold-in-soil anomaly at its Maldon project in Victoria, a goldfield that historically produced a whopping 1.75 million ounces.",
-      "pubDate": "Tue, 28 Jul 2026 13:06:14 +1000",
-      "source": "SMH Business"
     }
   ]
 }
