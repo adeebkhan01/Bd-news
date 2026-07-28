@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T19:38:30.602Z",
-  "summary": "Global tensions are escalating across multiple fronts, with a broader US-led conflict involving Iran now in its seventeenth day while Israeli-Palestinian violence intensifies in Gaza and the West Bank, triggering diplomatic friction at the UN and mass casualties including rising miscarriages. Prime Minister Netanyahu's seventh White House visit reflects deepening US-Israel coordination despite Trump's stated frustrations, while calls mount from Israeli ex-generals for pressure on settler violence and humanitarian concerns dominate reporting from Palestinian territories. Economic impacts are spreading, with energy prices rising sharply, chip stocks sliding amid AI volatility, and transnational criminal networks—from human trafficking to cocaine smuggling—presenting mounting governance challenges. Separately, structural issues like Poland's rejection of EU marriage recognition and Malaysia's detention of Rohingya refugees underscore broader regional fragmentation on humanitarian and legal standards.",
+  "fetchedAt": "2026-07-28T22:07:54.299Z",
+  "summary": "The Middle East dominates global headlines as Israeli-Palestinian tensions escalate, with airstrikes on Gaza, West Bank raids intensifying displacement and civilian casualties, while Netanyahu visits Washington to meet Trump amid calls from Israeli military figures and international critics to pressure the Israeli government on settler violence. The incoming Trump administration is positioning itself on multiple conflict fronts, from potential military options against Iran to supporting Ukraine's air defenses, while signaling both frustration with Netanyahu and willingness to host high-stakes diplomatic meetings. Significant regional developments include Peru's new president Keiko Fujimori taking office and Colombia's incoming leader moving to suspend a Palestine embassy, reflecting shifting Latin American stances. Secondary concerns range from economic pressures on energy prices and semiconductor stocks to humanitarian crises including Sudan's civil war, human trafficking networks, and the Rohingya refugee situation in Malaysia.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+      "desc": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
+      "pubDate": "Tue, 28 Jul 2026 21:24:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.02.35-pm-1785273848.png?resize=1920%2C1060&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+      "link": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The 16-year-old lifeguard rescued a 10-year-old who had been swept offshore at a California beach.",
+      "pubDate": "Tue, 28 Jul 2026 21:09:21 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7911/live/cd9efdf0-8ac7-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
+      "link": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
+      "desc": "Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father&#039;s tactics.",
+      "pubDate": "Tue, 28 Jul 2026 20:14:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a690643ec89-1785267779.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
+      "link": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
+      "desc": "US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.",
+      "pubDate": "Tue, 28 Jul 2026 20:11:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a68ce69b5993-1785253481.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What will it take to stop the conflict in Sudan?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
+      "desc": "The army says it&#039;s retaken a key highway linking Khartoum to El-Obeid.",
+      "pubDate": "Tue, 28 Jul 2026 19:36:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785265762.jpg?resize=1920%2C1061&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "West Bank quarry owner appeals to Trump after settler raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
+      "desc": "West Bank quarry owner appeals to Trump after settler raid",
+      "pubDate": "Tue, 28 Jul 2026 19:23:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785266579.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
       "link": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
@@ -103,6 +163,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Uefa and PM criticise Infantino World Cup plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "pubDate": "Tue, 28 Jul 2026 15:36:29 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c2/live/50869960-8a93-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Trump expresses frustration with Netanyahu before White House meeting",
@@ -13133,16 +13203,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Ireland upstage world champions India to win T20 series at home",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss",
-      "desc": "Ireland won the second T20 by one run over India, who did not give a debut to teen sensation Sooryavanshi.",
-      "pubDate": "Sun, 28 Jun 2026 21:37:49 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-09-17T135817Z_1424893613_UP1EL9H12T3Z0_RTRMADP_3_CRICKET-T20-IRL-ENG-1782682182.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
