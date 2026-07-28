@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T02:48:48.437Z",
-  "summary": "Victoria's political leadership is in turmoil following Jacinta Allan's resignation as premier amid corruption allegations related to the Big Build infrastructure program, with Labor MPs gathering to determine her successor. Origin Energy has disclosed a major data breach affecting 900,000 customers, adding to growing security concerns across Australian industries. The national focus also extends to climate and infrastructure challenges, with warnings about future war impacts on the economy and plans for a new oil refinery in Western Australia, while industrial and technological sectors grapple with issues ranging from copper theft targeting EV chargers to the emerging legal risks of artificial intelligence in business.",
+  "fetchedAt": "2026-07-28T05:50:36.220Z",
+  "summary": "Victoria's political landscape shifted dramatically with Jacinta Allan's resignation as premier, with Ben Carroll sworn in to lead the state ahead of an election in four months, following corruption allegations tied to the Big Build project. Across the country, major infrastructure and energy developments are taking shape, including Queensland's promising copper discoveries, a potential new WA refinery, and the opening of Sydney's new airport metro trains. The corporate sector faces significant scrutiny, with KPMG facing parliamentary questions over client files, Harvey Norman and Latitude hit with a $55 million penalty for misleading advertising, and Origin Energy confirming a data breach affecting 900,000 customers. The Reserve Bank warned of increasing global supply shocks while surveys revealed many Australians lack understanding of inflation-fighting measures, underlining persistent economic challenges facing the nation.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,256 @@
     }
   ],
   "articles": [
+    {
+      "title": "Real estate agent’s viral posts show our property market angst",
+      "link": "https://www.smh.com.au/business/the-economy/real-estate-agent-s-viral-posts-show-our-property-market-angst-20260728-p60j7u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "An inner west Sydney auctioneer has become an overnight celebrity after his weekend social media post captured the property market zeitgeist.",
+      "pubDate": "Tue, 28 Jul 2026 15:24:05 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.271%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_20/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/30c67838c1a6c020de60b07f9319b30f0adf9cbe",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "New Victorian premier to call Royal Commission",
+      "link": "https://www.smh.com.au/national/new-victorian-premier-to-call-royal-commission-20260728-p60jbx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Ben Carroll has said he will call for a Royal Commission into the construction industry in his first act as premier of Victoria.",
+      "pubDate": "Tue, 28 Jul 2026 15:13:03 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f00ac135103d0c3fe4b20cc630ddf1affec69fff",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "True North drill results hint at major Qld copper camp potential",
+      "link": "https://www.smh.com.au/business/companies/true-north-drill-results-hint-at-major-qld-copper-camp-potential-20260728-p60jbf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "True North Copper says assays from its first three diamond drill holes this year have confirmed copper-cobalt-silver mineralisation at its Aquila discovery in northwest Queensland.",
+      "pubDate": "Tue, 28 Jul 2026 15:12:17 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6128472222222222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_66/t_crop_custom/q_86%2Cf_auto/c1316a4e29e1e6a1c1585c811ab9e780cf5bc8076bb7d9ff5ad050bda6197403",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Telstra opens satellite link to maps, weather and WhatsApp – but not Triple Zero",
+      "link": "https://www.smh.com.au/technology/telstra-opens-satellite-link-to-maps-weather-and-whatsapp-but-not-triple-zero-20260728-p60j4q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
+      "desc": "Customers can now check Google Maps and message on WhatsApp beyond the mobile network, in an Australian first. What they still can’t do is call for help.",
+      "pubDate": "Tue, 28 Jul 2026 15:05:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/dc5fedd410a095a1435297b2e0f5c5a803d348b0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "First look inside Sydney’s new airport metro trains shows what sets them apart",
+      "link": "https://www.smh.com.au/national/nsw/first-look-inside-sydney-s-new-airport-metro-trains-shows-what-sets-them-apart-20260623-p609cv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The first driverless train for the $12 billion line to Western Sydney Airport is housed in new maintenance facility near Penrith ahead of testing next month.",
+      "pubDate": "Tue, 28 Jul 2026 15:01:05 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.33110092592592594%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_927%2C$y_603/t_crop_custom/q_86%2Cf_auto/81ab986f1d36d6cf6ef8a6b892f25b6525b7c6c8",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "World-class Jodrell Bank is under threat and UK risks a physics brain drain",
+      "link": "https://www.theguardian.com/science/2026/jul/28/world-class-jodrell-bank-threat-uk-physics",
+      "desc": "<p>Funding crisis could lead to an exodus that would be a blow for British science and national growth</p><p>On a chilly day in December 1945, Bernard Lovell, a physicist at the University of Manchest",
+      "pubDate": "Tue, 28 Jul 2026 05:00:30 GMT",
+      "img": "https://i.guim.co.uk/img/media/49147b882cb4449a722459e0040b13caf0942cdf/1888_1740_1936_1549/master/1936.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "WA could be home to the nation’s first new refinery since the 1960s. Will it really help our energy security?",
+      "link": "https://www.smh.com.au/national/western-australia/wa-could-be-home-to-the-nation-s-first-new-refinery-since-the-1960s-will-it-really-help-our-energy-security-20260728-p60jbh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The prime minister and premier travelled to the Pilbara for the announcement while visiting Perdaman’s $6.45 billion Project Ceres urea plant on the Burrup Peninsula.",
+      "pubDate": "Tue, 28 Jul 2026 14:56:38 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_90/t_crop_custom/q_86%2Cf_auto/8f490ce6b577659e34760e524e88e7ec50a9f612",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Queensland Labor powerbroker wins national influence as head of UWU",
+      "link": "https://www.smh.com.au/national/queensland/queensland-labor-powerbroker-wins-national-influence-as-head-of-uwu-20260728-p60j8g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Described as one of the state’s most powerful figures, Gary Bullock was Steven Miles’ key backer when he ousted Annastacia Palaszczuk as premier in 2023.",
+      "pubDate": "Tue, 28 Jul 2026 14:50:57 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.275924235251685%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_106%2C$y_56/t_crop_custom/q_86%2Cf_auto/f8e3e9fcb570873986ae27593cc116f8b63803ea",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "CFMEU organiser urinated on bathroom floor to ‘make a point’, inquiry told",
+      "link": "https://www.smh.com.au/national/queensland/cfmeu-organiser-urinated-on-bathroom-floor-to-make-a-point-inquiry-told-20260728-p60j8b.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A safety manager has told the CFMEU inquiry a union organiser urinated on a site floor, as staff working on the $1 billion Coomera Connector were left “on edge”.",
+      "pubDate": "Tue, 28 Jul 2026 14:29:56 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.732906981951722%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_364%2C$y_114/t_crop_custom/q_86%2Cf_auto/55c2e68ba0d6909f4fa40086c3b254e9a6b7510c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "KPMG to be grilled at parliamentary inquiry on secretly stashing client files",
+      "link": "https://www.abc.net.au/news/2026-07-28/kpmg-to-front-parliamentary-inquiry-on-secret-stash-client-files/106963446",
+      "desc": "Accounting firm KPMG is expected to be hauled before a federal inquiry to answer further questions about why one of its former employees stored printed copies of confidential Lendlease board documents",
+      "pubDate": "Tue, 28 Jul 2026 04:27:11 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/6ee02bae491c0ca3c94c0f7639967d66?impolicy=wcms_crop_resize&amp;cropH=1056&amp;cropW=792&amp;xPos=395&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Over half of Australians surveyed don’t know how the RBA is fighting inflation – making it harder to beat",
+      "link": "https://theconversation.com/over-half-of-australians-surveyed-dont-know-how-the-rba-is-fighting-inflation-making-it-harder-to-beat-288191",
+      "desc": "Let’s unpack how interest rates actually work. Then try the RBA’s quiz to see how well you understand the economy.",
+      "pubDate": "2026-07-28T04:18:08Z",
+      "img": "https://images.theconversation.com/files/750416/original/file-20260728-57-2frugu.png?ixlib=rb-4.1.1&amp;rect=0%2C150%2C1999%2C999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Ben Carroll is the new Victorian premier. He has a long and urgent to-do list – and 4 months until an election",
+      "link": "https://theconversation.com/ben-carroll-is-the-new-victorian-premier-he-has-a-long-and-urgent-to-do-list-and-4-months-until-an-election-288487",
+      "desc": "If the new premier cannot unify his party and present a clear path forward, Labor will struggle to convince voters it deserves a fourth term.",
+      "pubDate": "2026-07-28T04:17:00Z",
+      "img": "https://images.theconversation.com/files/750436/original/file-20260728-71-hclxor.jpg?ixlib=rb-4.1.1&amp;rect=0%2C81%2C5660%2C2830&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Renewable-powered aluminium smelter snubbed for green energy funding",
+      "link": "https://www.abc.net.au/news/2026-07-28/no-green-energy-funding-for-rio-tinto-bell-bay-smelter/106966502",
+      "desc": "Further doubt has been cast over the future of an aluminium smelter in Tasmania's north-east after a federal MP said it would not be eligible for a green energy scheme.",
+      "pubDate": "Tue, 28 Jul 2026 04:03:45 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/014b24022ac47df4238b97f906e044c0?impolicy=wcms_crop_resize&amp;cropH=1098&amp;cropW=824&amp;xPos=548&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Revisited: The surprising science of dreams and nightmares – podcast",
+      "link": "https://www.theguardian.com/lifeandstyle/audio/2026/jul/28/revisited-the-surprising-science-of-dreams-and-nightmares-podcast",
+      "desc": "<p>In this episode from January 2026, Ian Sample puts listeners’ questions about dreams and nightmares to Dr Michelle Carr, the director of the Dream Engineering Laboratory in Montreal’s Centre for Ad",
+      "pubDate": "Tue, 28 Jul 2026 04:00:29 GMT",
+      "img": "https://i.guim.co.uk/img/media/aac29f99f302b04275882cb997363a2c4d44fe3b/503_0_4684_3747/master/4684.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons",
+      "link": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change",
+      "desc": "<p>From Afghanistan to Taiwan, unprecedented deluge highlights devastating impact of climate breakdown</p><p>“It rained for 10 days and 10 nights, non-stop – I’d never seen anything like it,” says Ana",
+      "pubDate": "Tue, 28 Jul 2026 04:00:28 GMT",
+      "img": "https://i.guim.co.uk/img/media/f97c494a14e06042be09c06340904e88917b1525/306_0_2822_2258/master/2822.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Fresh WA drill program poised for Auric Munda mine expansion",
+      "link": "https://www.smh.com.au/business/companies/fresh-wa-drill-program-poised-for-auric-munda-mine-expansion-20260728-p60jab.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Auric Mining has kicked off a drilling blitz at its Munda gold project to expand its upgraded resource, support an ore reserve and advance a planned 2027 mining restart.",
+      "pubDate": "Tue, 28 Jul 2026 13:58:29 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354166666666667%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/q_86%2Cf_auto/e05af3ee9709356d7f73b620d43ff28eabbf313a183be0b12525fa4e9695afec",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ben Carroll sworn in as Victorian premier",
+      "link": "https://www.smh.com.au/national/ben-carroll-sworn-in-as-victorian-premier-20260728-p60jad.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Lieutenant-Governor James Angus swears in Ben Carroll as the 50th premier of Victoria",
+      "pubDate": "Tue, 28 Jul 2026 13:48:36 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ee038da3c7466f1b0390ca00193eb3987a01d0bd",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Australians in end-of-life agony can’t always see a doctor. Telehealth can help them die with dignity | Andrew Denton",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/28/australians-in-end-of-life-agony-cant-always-see-a-doctor-telehealth-can-help-them-die-with-dignity",
+      "desc": "<p>A collision of state v federal law on voluntary assisted dying has had tragic consequences. And a Labor conscience vote that never reaches parliament is no conscience vote at all</p><p>At last week",
+      "pubDate": "Tue, 28 Jul 2026 03:26:17 GMT",
+      "img": "https://i.guim.co.uk/img/media/28b1af7ff82cb37b3dfb6d482703534345d485b7/555_300_3182_2547/master/3182.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "New Victorian Premier Ben Carroll addresses voters",
+      "link": "https://www.smh.com.au/national/new-victorian-premier-ben-carroll-addresses-voters-20260728-p60j9u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The incoming Labor leader posted a video to Instagram soon after he won the role on Tuesday, telling followers the state government needed a new direction.",
+      "pubDate": "Tue, 28 Jul 2026 13:25:52 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b00c7321158420790b8bd476f3a62b82300c6a16",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Reserve Bank governor warns world facing increased supply shocks",
+      "link": "https://www.abc.net.au/news/2026-07-28/rba-governor-warns-world-facing-increased-supply-shocks/106965644",
+      "desc": "The Reserve Bank governor says the world has become more shock-prone in recent years, and the latest oil spike is a complication for the central bank's monetary policy.",
+      "pubDate": "Tue, 28 Jul 2026 03:19:00 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/7253782409d58d31f7571d7d92159f30?impolicy=wcms_crop_resize&amp;cropH=2937&amp;cropW=2203&amp;xPos=1399&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "'Straight to the pool room': Film classic The Castle goes on stage",
+      "link": "https://www.abc.net.au/news/2026-07-28/the-castle-stage-adaptation/106966540",
+      "desc": "The feature film responsible for Australian sayings such as ''Tell him he's dreaming'' is being launched as a stage production.",
+      "pubDate": "Tue, 28 Jul 2026 03:12:51 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/472172e2d6d4322f2bd2a6798c432cc6?impolicy=wcms_crop_resize&amp;cropH=2253&amp;cropW=1690&amp;xPos=975&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Harvey Norman and Latitude face $55m penalty for misleading ad campaign",
+      "link": "https://www.abc.net.au/news/2026-07-28/harvey-norman-and-latitude-penalised-over-interest-free-ads/106966304",
+      "desc": "The two businesses misled customers into taking out credit cards and paying additional fees in a 60-month interest-free payment scheme, the corporate regulator says.",
+      "pubDate": "Tue, 28 Jul 2026 03:06:34 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/ed5cf4e183a1b031c1717be3d9152673?impolicy=wcms_crop_resize&amp;cropH=799&amp;cropW=599&amp;xPos=5&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Kaiser Reef soil survey lights up 4.4km VIC gold trend",
+      "link": "https://www.smh.com.au/business/companies/kaiser-reef-soil-survey-lights-up-4-4km-vic-gold-trend-20260728-p60j9a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Kaiser Reef has uncovered a 4.4km gold-in-soil anomaly at its Maldon project in Victoria, a goldfield that historically produced a whopping 1.75 million ounces.",
+      "pubDate": "Tue, 28 Jul 2026 13:06:14 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/436d763624e24b077978c3650898ac9eb74f3d9f19ea70acce170d9574bacaf6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Trump is sowing fear over Cuba, terrorism and the ‘radical left’. This is what could come next",
+      "link": "https://theconversation.com/trump-is-sowing-fear-over-cuba-terrorism-and-the-radical-left-this-is-what-could-come-next-288284",
+      "desc": "The links between Cuba and espionage and terror operations in the US are spurious. Yet, they give Trump the pretext to take action against his enemies.",
+      "pubDate": "2026-07-28T03:00:31Z",
+      "img": "https://images.theconversation.com/files/750418/original/file-20260728-57-b5rcuo.jpg?ixlib=rb-4.1.1&amp;rect=0%2C333%2C4011%2C2005&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Ben Carroll sworn in as Victorian premier",
+      "link": "https://www.abc.net.au/news/2026-07-28/ben-carroll-sworn-in-as-victorian-premier/106966680",
+      "desc": "Ben Carroll signs his oath of office as Victorian Lieutenant-Governor James Angus confirms him as Victorian premier.",
+      "pubDate": "Tue, 28 Jul 2026 03:00:24 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/837d7f22d38a2147aa557eb4c3d3f34b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "Gerry Harvey branded the legal system unjust. It has come back to bite him",
       "link": "https://www.smh.com.au/business/companies/gerry-harvey-branded-the-legal-system-unjust-it-has-come-back-to-bite-him-20260728-p60j6a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -33378,66 +33628,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Karl Stefanovic’s podcast is not just a career change. It’s journalistic laundering",
-      "link": "https://theconversation.com/karl-stefanovics-podcast-is-not-just-a-career-change-its-journalistic-laundering-286262",
-      "desc": "The Stefanovic saga represents a high-profile example of the transfer of journalism’s hard-earned credibility into a rapidly growing alternative media sphere.",
-      "pubDate": "2026-06-28T05:27:15Z",
-      "img": "https://images.theconversation.com/files/744631/original/file-20260628-64-du8vd6.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Without Nine’s shackles, Karl Stefanovic is free to become a culture warrior hero",
-      "link": "https://theconversation.com/without-nines-shackles-karl-stefanovic-is-free-to-become-a-culture-warrior-hero-286142",
-      "desc": "The former TV host can now follow a well-worn right-wing path in the US and UK. Getting fired was likely the best thing he could have done for his brand.",
-      "pubDate": "2026-06-28T05:26:55Z",
-      "img": "https://images.theconversation.com/files/744597/original/file-20260627-64-3nnwzl.jpg?ixlib=rb-4.1.0&amp;rect=0%2C445%2C9428%2C4714&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Fuel prices in Australia are back to pre-war levels. Will it last?",
-      "link": "https://www.smh.com.au/business/consumer-affairs/fuel-prices-in-australia-are-back-to-prewar-levels-will-it-last-20260628-p60aoh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Fuel prices are about 40 per cent lower than they were at the height of the Iran conflict, but they may not remain at these subdued levels for long.",
-      "pubDate": "Sun, 28 Jun 2026 13:58:13 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4485%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e1966ed727b985781e6b7ff54328700ef8087d11",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Auction clearance rates continue to hover under 50% – as it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
-      "desc": "<p>This blog is now closed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or ",
-      "pubDate": "Sun, 28 Jun 2026 03:46:39 GMT",
-      "img": "https://i.guim.co.uk/img/media/ce01225d2fb02d7f979d1e48d5867b5f2d85af40/565_0_6468_5177/master/6468.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "A Sydney mother cut her kids out of a $2 million inheritance. They fought back",
-      "link": "https://www.smh.com.au/national/nsw/a-sydney-mother-cut-her-kids-out-of-a-2-million-inheritance-they-fought-back-20260618-p60809.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "In a handwritten note, she said that “spite or resentment” had motivated her. A judge said the mother’s rejection of her children continued beyond the grave.",
-      "pubDate": "Sun, 28 Jun 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/a731e26acdce774f3d5716b03c2669eebdb9a892fe3784b26af9eba299cd9215",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "From casual hobby to luxury investment: memory costs hit PC gaming hard",
-      "link": "https://www.smh.com.au/technology/video-games/from-casual-hobby-to-luxury-investment-memory-costs-hit-pc-gaming-hard-20260623-p609cl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
-      "desc": "Gaming is more portable and powerful than ever, but the artificial intelligence boom has caused component prices to skyrocket",
-      "pubDate": "Sun, 28 Jun 2026 13:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_2.1222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/t_metro_analysis_no_age_social_wm/607b3ecf08ea49d9ab8f06a89be5c0c5b44064407236f59a4ea29b40d2393564",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T02:49:02.423Z",
-  "summary": "Global tensions center on a developing diplomatic opening between the US and Iran, with Trump confirming ongoing talks and attacks paused for a third day, though questions persist about whether this represents genuine de-escalation or a temporary lull in what could become a prolonged conflict. The Middle East remains volatile on multiple fronts, with UN condemnation of Israeli settlement expansion and alleged war crimes in Lebanon, mounting casualties among US military personnel, and humanitarian crises deepening across Gaza, Lebanon, and Yemen. In domestic politics, Britain's new PM Keiko Fujimori takes office amid Gaza scrutiny while Trump campaigns in Michigan facing declining popularity. Separately, China grapples with misinformation as AI-generated fake disaster videos spread during natural disasters, while major tech players like Nvidia and OpenAI continue infrastructure expansion.",
+  "fetchedAt": "2026-07-28T05:50:48.642Z",
+  "summary": "Global markets are reacting to geopolitical tension as chip stocks slide amid investor nervousness over the US-Iran conflict, which has entered a third day of ceasefire with both sides reporting ongoing diplomatic talks while oil prices fall. The Middle East remains the dominant headline, with tens of thousands of people displaced across Lebanon, mounting concerns over potential Israeli war crimes, and expanding Israeli settlements drawing UN condemnation and international pressure on Trump to constrain Netanyahu. Domestically, a new UK government under Burnham is signalling continuity on Ukraine support while the US grapples with infrastructure needs and economic messaging. Secondary stories include Malaysia's detention of Rohingya refugees, Chile's capture of a Pinochet-era murder suspect, and growing concerns about AI-generated misinformation during natural disasters in China.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+      "pubDate": "Tue, 28 Jul 2026 05:31:30 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e056/live/347f61f0-8a31-11f1-949c-5b05e00ab03c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Malaysia detains more than 100 Rohingya seeking help from the UN",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss",
+      "desc": "Malaysian police have detained more than 100 Rohingya refugees and asylum seekers who were seeking help from the UN.",
+      "pubDate": "Tue, 28 Jul 2026 04:51:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785214291.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump calls protester ‘communist’ after Michigan speech interruption",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss",
+      "desc": "A protester was removed after interrupting US President Donald Trump’s remarks at a Michigan auto event.",
+      "pubDate": "Tue, 28 Jul 2026 04:48:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785215723.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
+      "link": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss",
+      "desc": "Settler violence in the occupied West Bank endangers Israel’s future, 550 former officials tell Trump.",
+      "pubDate": "Tue, 28 Jul 2026 04:43:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785211723.jpg?resize=1920%2C1061&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says Iran talks taking place during pause in US military strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "desc": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
+      "pubDate": "Tue, 28 Jul 2026 02:47:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785205987.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "New technical education routes to be offered at 14 in England",
       "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
@@ -13023,26 +13073,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-      "pubDate": "Sun, 28 Jun 2026 03:35:50 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
-      "pubDate": "Sun, 28 Jun 2026 03:15:06 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b53/live/d4a6ceb0-725e-11f1-b4a5-2d0098f6c080.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
