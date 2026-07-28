@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T14:18:46.923Z",
-  "summary": "Benjamin Netanyahu's visit to Washington dominates international headlines as the Israeli leader meets Trump amid significant diplomatic and security discussions spanning Gaza, Iran, and broader Middle East tensions. The US and Iran are engaged in tentative ceasefire talks following a pause in military operations, while the Trump administration navigates complex relationships with Israel, Turkey, and France, including a walkout from UN Security Council proceedings. The Middle East remains volatile with ongoing violence in the West Bank and Gaza, settler attacks on Palestinians, and international scrutiny over potential war crimes allegations. Domestically, geopolitical tensions are rippling through financial markets with chip stocks declining on AI-related concerns, while tech security breaches continue with major leaks affecting music artists and AI platforms.",
+  "fetchedAt": "2026-07-28T16:43:36.650Z",
+  "summary": "President Trump is hosting Israeli Prime Minister Netanyahu at the White House amid mounting tensions over military strategy and settler violence, with Trump expressing frustration before their meeting while facing protests from those calling Netanyahu a war criminal. Diplomatic activity is intensifying across multiple fronts, including tentative talks between the US and Iran during a military pause, a US walkout at the UN during French remarks on the North Korea-Russia comparison, and efforts by Ukraine's Zelensky to secure air defense commitments from Trump. Regional instability continues to deepen, marked by escalating violence in the West Bank following recent killings, Colombia's incoming president suspending Palestine embassy ties, and Poland's court rejecting EU same-sex marriage recognition. Global markets are rattled by AI-related jitters affecting chip stocks while energy prices surge nearly twenty percent annually, compounding economic pressures worldwide.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump expresses frustration with Netanyahu before White House meeting",
+      "link": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+      "desc": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
+      "pubDate": "Tue, 28 Jul 2026 15:21:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a68bed1-1785249489.jpg?resize=1920%2C1328",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Poland: Top court rejects recognizing EU same-sex marriages",
+      "link": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Poland's constitutional court has overturned plans to recognize same-sex marriages that took place in other EU member states. This defies an order from the EU's top court and could set up a clash on t",
+      "pubDate": "2026-07-28T14:54:00Z",
+      "img": "https://static.dw.com/image/78146756_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
+      "title": "Energy prices rise by 19% in a year -report",
+      "link": "https://www.bbc.co.uk/news/articles/c74gqxz27q0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Retail Prices Indices and Household Costs Indices inflation statistics have been published.",
+      "pubDate": "Tue, 28 Jul 2026 14:52:31 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ea/live/af904f30-8a90-11f1-abbc-1d62d6206917.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Israeli soldier runs marathon around Gaza outpost",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
@@ -13080,46 +13110,6 @@
       "desc": "Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.",
       "pubDate": "Sun, 28 Jun 2026 18:05:18 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3f0773d5e2-1782515571.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-      "pubDate": "Sun, 28 Jun 2026 16:38:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
-      "link": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
-      "desc": "Trump waded into race to defeat incumbent Bill Cassidy, a Republican and critic of Trump&#039;s actions following 2020 vote.",
-      "pubDate": "Sun, 28 Jun 2026 16:32:13 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a414414b89d2-1782662164.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "If USMCA is not renewed, analysts expect uncertainty for businesses",
-      "link": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss",
-      "desc": "US President Donald Trump has warned he would &#039;rather not have&#039; the free trade agreement ahead of its July 1 review.",
-      "pubDate": "Sun, 28 Jun 2026 14:52:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/02/2c14a2ea5173437e8028c6c00dc1af3c_18-1739510011.jpeg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
-      "desc": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.",
-      "pubDate": "Sun, 28 Jun 2026 14:46:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782657985.jpg?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
