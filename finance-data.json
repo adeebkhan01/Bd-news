@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T19:49:30.773Z",
+  "fetchedAt": "2026-07-29T22:25:09.474Z",
   "asx200": {
     "value": 9038.6,
     "change": 215.2,
@@ -100,7 +100,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 0.88,
+    "changePercent": 0.93,
     "previousClose": 0.69,
     "asOf": "2026-07-29",
     "history": [
@@ -193,6 +193,10 @@
         "close": 0.7
       },
       {
+        "date": "2026-07-28",
+        "close": 0.7
+      },
+      {
         "date": "2026-07-29",
         "close": 0.7
       }
@@ -203,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4127.1,
-      "change": 104.8,
-      "changePercent": 2.61
+      "price": 4135.5,
+      "change": 113.2,
+      "changePercent": 2.81
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.25,
-      "change": 0.08,
-      "changePercent": 0.13
+      "price": 58.41,
+      "change": 0.23,
+      "changePercent": 0.4
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 84.93,
-      "change": 14.18,
-      "changePercent": 20.04
+      "price": 84.42,
+      "change": 13.67,
+      "changePercent": 19.32
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.38,
-      "change": 0.28,
-      "changePercent": 4.62
+      "price": 6.36,
+      "change": 0.27,
+      "changePercent": 4.36
     },
     {
       "name": "BHP Group",
@@ -838,10 +842,59 @@
   ],
   "news": [
     {
-      "title": "ASX set to rise, oil jumps as Middle East tensions escalate; Fed keeps rates on hold after ‘family fight’",
+      "title": "FIFA hits Argentina with World Cup charges for scuffle, 'Malvinas' banner",
+      "link": "https://www.abc.net.au/news/2026-07-30/fifa-hits-argentina-with-world-cup-charges-for-scuffle-malvinas/106974680",
+      "snippet": "",
+      "pubDate": "Wed, 29 Jul 2026 22:16:11 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "'If you've got a lane, you've got a chance': The Aussie Dolphins' way",
+      "link": "https://www.abc.net.au/news/2026-07-30/kai-taylor-swimming-commonwealth-games-kyle-chalmers/106974426",
+      "snippet": "",
+      "pubDate": "Wed, 29 Jul 2026 21:59:33 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "F1 confirms contingency plans if Middle East races are cancelled",
+      "link": "https://www.abc.net.au/news/2026-07-30/f1-to-end-season-in-europe-if-no-middle-east-races/106974518",
+      "snippet": "",
+      "pubDate": "Wed, 29 Jul 2026 21:16:27 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "'Total conflict': Infantino sets deadline for controversial FIFA scheme",
+      "link": "https://www.abc.net.au/news/2026-07-30/september-deadline-set-for-fifa-investment-scheme/106974480",
+      "snippet": "",
+      "pubDate": "Wed, 29 Jul 2026 20:50:22 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Mother and daughter debut together for country footy club",
+      "link": "https://www.abc.net.au/news/2026-07-30/moranbah-miners-rugby-league-club-family-debut/106947758",
+      "snippet": "",
+      "pubDate": "Wed, 29 Jul 2026 20:43:30 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Billionaire gives Moscow the middle finger after being placed on Russia’s most wanted list",
+      "link": "https://www.smh.com.au/business/companies/billionaire-gives-moscow-the-middle-finger-after-being-placed-on-most-wanted-list-20260730-p60jtq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The controversial Russian-born founder of the Telegram messaging app has never shied away from the spotlight and claims to have fathered more than 100 children. Now Moscow charged him with “aiding terrorism”.",
+      "pubDate": "Thu, 30 Jul 2026 06:35:54 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "ASX set to slump after wild Wall Street swings, Fed keeps rates on hold, oil surges on rising Middle East tensions",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-jumps-as-middle-east-tensions-escalate-fed-keeps-rates-on-hold-after-family-fight-20260730-p60jto.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Oil prices are back to jumping as Middle East tensions escalate, while the Federal Reserve kept interest rates on hold, with three of the central bank’s rate-setting committee dissenting.",
-      "pubDate": "Thu, 30 Jul 2026 05:26:43 +1000",
+      "pubDate": "Thu, 30 Jul 2026 06:31:59 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "KPMG says ‘no decisions have been made’ on staff purge amid reports of 1000 cuts",
+      "link": "https://www.smh.com.au/business/companies/kpmg-says-no-decisions-have-been-made-on-staff-purge-amid-reports-of-1000-cuts-20260729-p60jsy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "KPMG responded to a report it is preparing to shed around 10 per cent of its workforce and dozens of its 600 partners, while members of its global team have jetted to Australia as the company grapples with the fallout from the whistleblower scandal.",
+      "pubDate": "Thu, 30 Jul 2026 05:56:06 +1000",
       "source": "SMH Business"
     },
     {
@@ -852,7 +905,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Nasty crash denies Aussies chance to hit back at defector Richardson",
+      "title": "Australian defector Richardson out of Comm Games after horror fall",
       "link": "https://www.abc.net.au/news/2026-07-29/matt-richardson-out-of-commonwealth-games/106974084",
       "snippet": "",
       "pubDate": "Wed, 29 Jul 2026 13:23:31 +0000",
@@ -870,55 +923,6 @@
       "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-prices-extend-slide-apple-becomes-a-us5tr-company-20260729-p60jg3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The Australian sharemarket had a strong session on Wednesday as the latest inflation figures showed prices are not increasing as quickly as feared by the Reserve Bank.",
       "pubDate": "Wed, 29 Jul 2026 17:56:19 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Rugby Australia tight-lipped on possible Cheika homecoming",
-      "link": "https://www.abc.net.au/news/2026-07-29/michael-cheika-nsw-waratahs-coaching-rugby-union/106973146",
-      "snippet": "",
-      "pubDate": "Wed, 29 Jul 2026 07:11:07 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Chinese major tips $2.2M into Golden Dragon gold play",
-      "link": "https://www.smh.com.au/business/companies/chinese-major-tips-2-2m-into-golden-dragon-gold-play-20260729-p60jq4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Golden Dragon has locked in a $2.2m, 19.89% cornerstone placement at a stunning 17.65% premium from Chinese major Chengtun Mining to fast-track exploration at its Cue gold project in WA.",
-      "pubDate": "Wed, 29 Jul 2026 16:34:14 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Check your offset account: Are the banks returning to bastardry?",
-      "link": "https://www.smh.com.au/business/banking-and-finance/check-your-offset-account-are-the-banks-returning-to-bastardry-20260729-p60jlc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "A few years after the bruising royal commission into financial services, poor behaviour is creeping back into the banking sector, as evidenced by the shortchanging of hundreds of thousands of customers with mortgage offset accounts.",
-      "pubDate": "Wed, 29 Jul 2026 14:56:18 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Gateway fires up second rig at Yandal gold find",
-      "link": "https://www.smh.com.au/business/companies/gateway-fires-up-second-rig-at-yandal-gold-find-20260729-p60jof.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Gateway Mining has added a second drill rig to site at its Cowza gold discovery in WA, where it has already identified a 3.5km mineralised strike that remains open.",
-      "pubDate": "Wed, 29 Jul 2026 14:41:45 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Oil and gas giant becomes one of Australia’s biggest winners from Iran war",
-      "link": "https://www.smh.com.au/business/companies/oil-and-gas-giant-becomes-one-of-australia-s-biggest-winners-from-iran-war-20260729-p60jhm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Australia’s largest gas producer has emerged as a major beneficiary of the conflict in the Middle East, earning $6 billion last quarter amid surging prices.",
-      "pubDate": "Wed, 29 Jul 2026 13:53:11 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Benji Marshall denies claims of Tigers players vaping in gym",
-      "link": "https://www.abc.net.au/news/2026-07-29/wests-tigers-nrl-benji-marshall-adam-doueihi-vaping/106971632",
-      "snippet": "",
-      "pubDate": "Wed, 29 Jul 2026 03:28:44 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Patriot expands footprint in heart of Zambian copper country",
-      "link": "https://www.smh.com.au/business/companies/patriot-expands-footprint-in-heart-of-zambian-copper-country-20260729-p60jml.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Patriot Resources has snapped up a new licence in the world-class Zambian Copperbelt, 17km from the First Quantum project and is considered prospective for Kamoa-style copper.",
-      "pubDate": "Wed, 29 Jul 2026 12:56:01 +1000",
       "source": "SMH Business"
     }
   ]
