@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T22:07:54.299Z",
-  "summary": "The Middle East dominates global headlines as Israeli-Palestinian tensions escalate, with airstrikes on Gaza, West Bank raids intensifying displacement and civilian casualties, while Netanyahu visits Washington to meet Trump amid calls from Israeli military figures and international critics to pressure the Israeli government on settler violence. The incoming Trump administration is positioning itself on multiple conflict fronts, from potential military options against Iran to supporting Ukraine's air defenses, while signaling both frustration with Netanyahu and willingness to host high-stakes diplomatic meetings. Significant regional developments include Peru's new president Keiko Fujimori taking office and Colombia's incoming leader moving to suspend a Palestine embassy, reflecting shifting Latin American stances. Secondary concerns range from economic pressures on energy prices and semiconductor stocks to humanitarian crises including Sudan's civil war, human trafficking networks, and the Rohingya refugee situation in Malaysia.",
+  "fetchedAt": "2026-07-29T02:55:58.260Z",
+  "summary": "The Middle East is experiencing significant escalation as Iran and the US trade strikes following a brief lull, with Saudi Arabia and the US also conducting joint operations against Iran-backed groups in Iraq and alleged Houthi attacks on shipping continuing in the Red Sea. Meanwhile, the Israeli-Palestinian conflict remains intense with airstrikes in Gaza, ongoing settlement violence in the West Bank, and deepening humanitarian crises affecting displaced populations across the region. On the political front, Trump is hosting Netanyahu for talks at the White House while preparing potential military options against Iran, as Peru swears in its newly elected president amid public protests and Sudan's refugee crisis worsens in neighboring Chad. Additional concerns include reports of an OpenAI rogue AI agent hacking technology firms and growing evidence of Mexican drug cartels outsourcing operations to Nigeria, highlighting evolving transnational security threats.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,126 @@
     }
   ],
   "articles": [
+    {
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+      "pubDate": "Wed, 29 Jul 2026 02:47:28 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
+      "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
+      "desc": "The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.",
+      "pubDate": "Wed, 29 Jul 2026 02:05:41 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-10T003749Z_1560374988_RC2QRLAJMVUM_RTRMADP_3_OPENAI-SIMO-1785285859.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+      "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+      "desc": "Riyadh says its targeted attacks were done in coordination with the US military.",
+      "pubDate": "Wed, 29 Jul 2026 01:37:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a694f8a9ed7-1785286538.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
+      "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
+      "desc": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
+      "pubDate": "Wed, 29 Jul 2026 01:30:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/9O4A0362-1785163675.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
+      "desc": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
+      "pubDate": "Wed, 29 Jul 2026 01:19:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785287985.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Turkiye takes ‘historic step’ on energy alliance with Iraq",
+      "link": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss",
+      "desc": "Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.",
+      "pubDate": "Wed, 29 Jul 2026 01:07:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a693110-1785278736.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Protests in Lima as Keiko Fujimori sworn in as Peru president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss",
+      "desc": "Keiko Fujimori has been sworn in as Peru&#039;s president amid protests and promises to crackdown on crime.",
+      "pubDate": "Wed, 29 Jul 2026 01:03:49 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-01.58.52-1785286951.png?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
+      "desc": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
+      "pubDate": "Wed, 29 Jul 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-27T111759Z_243547532_RC22MMAWRQ83_RTRMADP_3_IRAN-CRISIS-1785282488.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+      "pubDate": "Tue, 28 Jul 2026 23:25:53 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c1e/live/5bc42500-87a9-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+      "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+      "desc": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.",
+      "pubDate": "Tue, 28 Jul 2026 23:16:44 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6923843d48-1785275268.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Burnham has no scope to increase borrowing, think tank warns",
+      "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
+      "pubDate": "Tue, 28 Jul 2026 23:00:12 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc77/live/c4407fe0-8aae-11f1-951f-a70d41b77a63.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
+      "pubDate": "Tue, 28 Jul 2026 23:00:07 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8625/live/297e27a0-84fa-11f1-8b9b-a724b687bb3b.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
@@ -13153,56 +13273,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Venezuela’s earthquakes pose first major test for President Delcy Rodriguez",
-      "link": "https://www.aljazeera.com/features/longform/2026/6/29/venezuelas-earthquakes-pose-first-major-test-for-president-delcy-rodriguez?traffic_source=rss",
-      "desc": "The seismic disaster has stirred public anger against government mismanagement under Venezuela&#039;s ruling socialist party.",
-      "pubDate": "Mon, 29 Jun 2026 02:44:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26177825211708-1782624646_6320fc-1782626307.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Praise pours in for ‘true Canadian heroes’ after last-minute World Cup win",
-      "link": "https://www.aljazeera.com/sports/2026/6/29/praise-pours-in-for-true-canadian-heroes-after-last-minute-world-cup-win?traffic_source=rss",
-      "desc": "From the prime minister to sport celebrities and fans on social media, Canadians have revelled in their team&#039;s win.",
-      "pubDate": "Mon, 29 Jun 2026 01:20:04 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a4191a69612-1782682022.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who is Stephen Eustaquio, who scored for Canada against South Africa?",
-      "link": "https://www.aljazeera.com/sports/2026/6/29/who-is-stephen-eustaquio-who-scored-for-canada-against-south-africa?traffic_source=rss",
-      "desc": "Eustaquio flip-flopped between his home country and that of his parents throughout his youth and senior career.",
-      "pubDate": "Mon, 29 Jun 2026 00:27:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-28T210908Z_1745691510_UP1EM6S1MR7NM_RTRMADP_3_SOCCER-WORLDCUP-ZAF-CAN-1782690158.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
-      "desc": "Washington and Tehran have agreed to stop attacks and renew talks in the Qatari capital, Doha, Axios reports.",
-      "pubDate": "Mon, 29 Jun 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260628__B8L747A__v3__HighRes__UaeIranUsIsraelWar-1782690647.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Got the tennis bug? How to play sport without paying",
-      "link": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
-      "pubDate": "Sun, 28 Jun 2026 23:06:00 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb2/live/cc51f620-714d-11f1-8836-a15622d321c0.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
