@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T11:28:43.436Z",
-  "summary": "Australia faced a turbulent day marked by public safety concerns, financial system failures, and political turmoil. A playground tree branch injured a boy and woman, kindergarten children escaped their facility, and a police officer was stabbed in a separate incident, while ASIC exposed a significant mortgage offset accounting error across major banks affecting consumers' savings. The news cycle was dominated by integrity investigations, with ICAC hearings revealing allegations that a far-right faction targeted its own MP and concerns mounting over cults and workplace discrimination. Industrial action and corruption inquiries also dominated, including revelations about CFMEU intimidation tactics and calls for a federal royal commission into union corruption and integrity failures.",
+  "fetchedAt": "2026-07-29T14:19:33.146Z",
+  "summary": "Australia faces multiple serious domestic crises today: a fatal house fire in Sydney's southwest, ongoing child safety concerns following a kindergarten escape incident and playground tree fall, and growing questions about institutional failures including a major banking scandal involving mortgage offsets across leading institutions. Beyond Australia's borders, extreme weather continues to dominate international news with England facing exceptional drought, European heatwaves sparking wildfire warnings, and developing island nations suffering billions in climate-related damage. Domestically, regulators are also scrutinizing systemic issues from cult survivor protections and ICAC corruption investigations to discriminatory practices by medical professionals, while economic concerns centre on interest rate expectations following inflation easing.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Three dead in house fire in Sydney’s south-west",
+      "link": "https://www.smh.com.au/national/nsw/three-dead-in-house-fire-in-sydney-s-south-west-20260729-p60jtc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Emergency services were called to the property on Wednesday night and found the bodies of three people inside after the blaze was extinguished.",
+      "pubDate": "Thu, 30 Jul 2026 00:01:13 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.28482464646464645%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_139%2C$y_214/t_crop_custom/q_86%2Cf_auto/5efa962a3ba786a59fae2b201a02e73bd76ae9ec",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Alzheimer’s blood test to give Australians invaluable gift of time",
+      "link": "https://www.smh.com.au/healthcare/alzheimer-s-blood-test-to-give-australians-invaluable-gift-of-time-20260727-p60iyz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australians will soon have access to the first diagnostic blood test for Alzheimer’s disease that researchers say will transform early detection, treatment and potentially prevention.",
+      "pubDate": "Thu, 30 Jul 2026 00:01:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2788%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_227%2C$y_62/t_crop_custom/q_86%2Cf_auto/21030cabdfff6dc8238e2179446b71a7a1f0539d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Superquiz, Thursday, July 30",
+      "link": "https://www.smh.com.au/national/superquiz-thursday-july-30-20260729-p60jo0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "pubDate": "Wed, 29 Jul 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_285/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Half of England officially in ‘exceptionally serious’ drought",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/half-england-officially-drought-environment-agency",
+      "desc": "<p>Environment Agency names seven regions affected by unusually hot and dry weather and shortage of water</p><p>Half of England is officially in drought, with July set to be the driest on record after",
+      "pubDate": "Wed, 29 Jul 2026 13:02:09 GMT",
+      "img": "https://i.guim.co.uk/img/media/631d16c171ceaff8d94128a65c8e7cd2b8608087/424_0_4007_3206/master/4007.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Repeated use of saunas could help people cope better in heatwaves, scientists say",
+      "link": "https://www.theguardian.com/society/2026/jul/29/repeated-use-of-saunas-could-help-people-cope-better-in-heatwaves-scientists-say",
+      "desc": "<p>Growing number of studies assessing whether heat training can help people prepare for scorching temperatures</p><p>Even as summer temperatures soar, the <a href=\"https://www.theguardian.com/society",
+      "pubDate": "Wed, 29 Jul 2026 13:00:33 GMT",
+      "img": "https://i.guim.co.uk/img/media/f93ba03b704da8a1c46cacafb54f180a2e4c94d0/0_680_1600_1280/master/1600.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Hotter summers may force RHS to move hydrangeas to north of England",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/heatwaves-hydrangeas-risk-south-of-england-rhs-warns",
+      "desc": "<p>Exclusive: British garden staple becomes plant most frequently reported as suffering in heat, charity reports</p><p>With their lush foliage and blooms that turn pink, purple or blue depending on th",
+      "pubDate": "Wed, 29 Jul 2026 11:22:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/d66cdcfc4db219bdcbc79a4de499bd3a09c51d52/0_995_2880_2304/master/2880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Fauci to face Republican questions over Covid pandemic origins – US politics live",
       "link": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
@@ -1058,6 +1118,16 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
+    },
+    {
+      "title": "60 Minutes adds new correspondents and contributors after key departures",
+      "link": "https://www.theguardian.com/media/2026/jul/28/60-minutes-new-correspondent-nyt-ross-douthat",
+      "desc": "<p>New York Times opinion columnist Ross Douthat has been named a correspondent, while Sebastian Junger, Gianna Toboni and Trevor Phillips have been named contributors</p><p>The CBS broadcast 60 Minut",
+      "pubDate": "Tue, 28 Jul 2026 21:05:39 GMT",
+      "img": "https://i.guim.co.uk/img/media/bf9ccef2753c0e1a847bbe3cf39f8c0efb642a48/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Australia news LIVE: Japan earthquake kills three, destroys buildings on island of Kyushu; AI job losses poised to upend Labor’s electoral map",
@@ -34165,56 +34235,6 @@
       "desc": "<p>Justices find president does not have constitutional authority to fire Federal Reserve governor without cause</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/series/us-politics-live\">US ",
       "pubDate": "Mon, 29 Jun 2026 14:20:22 GMT",
       "img": "https://i.guim.co.uk/img/media/b1b1a5e8166c445046a314c542a4337f2bc80ab5/494_0_5001_4000/master/5001.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Comcast to spin off NBCUniversal and Sky into separate media business",
-      "link": "https://www.theguardian.com/media/2026/jun/29/comcast-spin-off-nbcuniversal-sky-media-mobile-cable-broadband",
-      "desc": "<p>Entertainment arm to split from mobile and broadband in move that raises questions over future of Sky News</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-engla",
-      "pubDate": "Mon, 29 Jun 2026 14:18:01 GMT",
-      "img": "https://i.guim.co.uk/img/media/213fe78583d5fbd027c470cbf457294e8ece6b3a/553_0_4142_3315/master/4142.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘Literally growing the future’: volunteers help save Scottish rainforest by collecting 11m seeds",
-      "link": "https://www.theguardian.com/environment/2026/jun/29/growing-the-future-volunteers-help-save-scottish-rainforest-collecting-seeds",
-      "desc": "<p>Teams painstakingly combed endangered Atlantic habitat over several years, helping to grow 8m native trees</p><p>A small band of volunteers has helped to grow nearly 8m native trees in Scotland, cr",
-      "pubDate": "Mon, 29 Jun 2026 14:06:46 GMT",
-      "img": "https://i.guim.co.uk/img/media/82dd62326a6ea985c36f46cd3e179fc2ec07a5b3/837_0_4560_3648/master/4560.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Superquiz, Tuesday, June 30, 2026",
-      "link": "https://www.smh.com.au/national/superquiz-tuesday-june-30-2026-20260629-p60ax3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
-      "pubDate": "Mon, 29 Jun 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_242/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Trump administration targets California coastal agency in escalation of energy production fight",
-      "link": "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production",
-      "desc": "<p>US commerce department accuses state of ‘environmental terrorism’ and plans to evaluate its coastal agency</p><p>The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump adminis",
-      "pubDate": "Mon, 29 Jun 2026 12:00:44 GMT",
-      "img": "https://i.guim.co.uk/img/media/e052d9b457530907c41e881ec0cd6c4308e274ef/169_0_4510_3608/master/4510.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Tiny Antarctic sea creature could be key to treating melanoma, researchers say",
-      "link": "https://www.theguardian.com/science/2026/jun/29/sea-squirt-melanoma-treatment-research",
-      "desc": "<p>Underwater expedition by Florida-based team supports possible therapeutic use of bacterial toxins from sea squirts</p><p>Researchers at a Florida university say bacterial toxins produced by tiny ma",
-      "pubDate": "Mon, 29 Jun 2026 12:00:43 GMT",
-      "img": "https://i.guim.co.uk/img/media/5976a9ae1f4e136f6972126ede4688316bbb8e41/401_201_3497_2797/master/3497.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"

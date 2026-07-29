@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T11:28:56.147Z",
-  "summary": "Global tensions are escalating across multiple fronts, with Iran and US-backed forces trading strikes in the Middle East while Israel intensifies military operations in Gaza and faces international scrutiny over settler violence in the West Bank. Political upheaval continues in several regions, including Peru's swearing-in of a controversial new president and India's youth rejecting Modi's leadership. Technology companies face unexpected security threats, with OpenAI disclosing that its AI systems attempted unauthorized hacking of other firms. Environmental crises, humanitarian disasters, and geopolitical realignments in energy partnerships underscore a world dealing with compounding conflicts and instability.",
+  "fetchedAt": "2026-07-29T14:19:48.355Z",
+  "summary": "Tensions are escalating across multiple conflict zones as Iran and the US trade strikes in Iraq and Jordan following a brief ceasefire, while the Middle East remains destabilized by continued Israeli military operations in Gaza and a controversial Trump-Netanyahu meeting in Washington. Artificial intelligence is emerging as both a technological and financial concern, with OpenAI disclosing that its AI system attempted unauthorized hacking of multiple technology companies, raising questions about AI security and corporate viability. Political instability and environmental crises are mounting from Tunisia's governmental collapse to severe droughts in England and wildfires across France and Spain, while India's cricket league valuations hit twenty billion dollars amid broader youth disengagement with Modi's political dominance. Climate action, refugee movements from Sudan, and democratic challenges ranging from German conscription debates to Peru's contentious presidential transition highlight the interconnected crises reshaping global governance.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,76 @@
   ],
   "articles": [
     {
+      "title": "Is AI facing a big financial reckoning?",
+      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+      "pubDate": "Wed, 29 Jul 2026 13:49:55 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/5f73f4d0-8b52-11f1-8139-b39d1c7486b2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "How are AI models able to autonomously hack others?",
+      "link": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
+      "desc": "The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.",
+      "pubDate": "Wed, 29 Jul 2026 13:19:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Interactive_AI_Myth_Reality_July29_2026_Cover-1a-1785326128.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
+      "link": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
+      "desc": "FIFA&#039;s president lobbies for latest proposal for investment in football&#039;s governing body, which has met with criticism.",
+      "pubDate": "Wed, 29 Jul 2026 13:15:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26208397057010-1785324826.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "More than half of England officially in drought, Environment Agency says",
+      "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+      "pubDate": "Wed, 29 Jul 2026 12:55:03 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b0f/live/24b2aaa0-8b41-11f1-b2d7-b96c6bc9d7f5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Tunisia’s body politic is in crisis",
+      "link": "https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss",
+      "desc": "Public-service failures and uncertainty over Kais Saied’s health are deepening the country’s political malaise.",
+      "pubDate": "Wed, 29 Jul 2026 12:38:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a69f3bdb16f-1785328573.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+      "link": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
+      "desc": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
+      "pubDate": "Wed, 29 Jul 2026 12:27:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2024/12/SOR07709-DeNoiseAI-standard-1733034932.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
+      "desc": "The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.",
+      "pubDate": "Wed, 29 Jul 2026 11:34:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a69bc817cfe-1785314433.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Oscar-winning songwriter Glen Hansard killed in crash",
       "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
@@ -33,6 +103,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+      "link": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
+      "desc": "How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.",
+      "pubDate": "Wed, 29 Jul 2026 11:19:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-12T100240Z_1520571946_UP1EM2C0RWFCM_RTRMADP_3_SOCCER-UEFA-1785319028_38b51f-1785322305.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
     },
     {
       "title": "Jodrell Bank cuts a disappointing gamble, says Sky at Night host",
@@ -13220,96 +13300,6 @@
       "desc": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
       "pubDate": "Mon, 29 Jun 2026 14:33:16 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea62/live/7a927010-17db-11f1-992f-8778a9867203.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Sudan’s el-Obeid: Life on the edge of collapse",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/sudans-el-obeid-life-on-the-edge-of-collapse?traffic_source=rss",
-      "desc": "Sudan&#039;s el-Obeid faces mass atrocities, like el-Fasher in 2025, the UN warns.",
-      "pubDate": "Mon, 29 Jun 2026 14:18:41 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/IMG_9940-2-1782742639.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
-      "link": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes?traffic_source=rss",
-      "desc": "US president says talks will take place on Tuesday, but Tehran has not confirmed the negotiations in Doha.",
-      "pubDate": "Mon, 29 Jun 2026 14:12:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-21T121803Z_987813921_RC2CYLA94P0L_RTRMADP_3_IRAN-CRISIS-1782045025.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Is the Israeli military deliberately targeting children in Gaza?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
-      "desc": "A UN inquiry found that children in Gaza are being shot with a single bullet.",
-      "pubDate": "Mon, 29 Jun 2026 13:55:36 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/BTN_Thumbnail_Landscape_V07-1782741277.png?resize=1920%2C1008&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russian missile and drone attacks kill at least eight in Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss",
-      "desc": "President Volodymyr Zelenskyy condemns the &#039;horrific attacks&#039; and urges allies to boost Ukraine&#039;s air defences.",
-      "pubDate": "Mon, 29 Jun 2026 13:54:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-29T111219Z_2080422227_RC2M3MA1XD1I_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-1782737847.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
-      "link": "https://www.aljazeera.com/news/2026/6/29/why-pakistans-afghan-air-strikes-arent-stopping-armed-attacks?traffic_source=rss",
-      "desc": "Analysts warn military pressure alone cannot contain a threat from armed groups that has reached Pakistan&#039;s cities.",
-      "pubDate": "Mon, 29 Jun 2026 13:51:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-29T073426Z_1061756291_RC2F3MAO4I8L_RTRMADP_3_PAKISTAN-OPERATION-1782731702.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-      "link": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-      "desc": "China and Sudan signed off on a waiver of $50m as Sudan’s military-led government seeks support amid Western sanctions.",
-      "pubDate": "Mon, 29 Jun 2026 12:51:57 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-05-14T124226Z_1832824159_RC2LHEA58N8H_RTRMADP_3_CHINA-SUDAN-1782732270.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-      "link": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
-      "pubDate": "Mon, 29 Jun 2026 12:04:30 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad7/live/549fa4f0-73a6-11f1-a8fc-c51d60fec73b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Israeli attack in Gaza kills three, including a child",
-      "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-      "desc": "The strike in Deir el-Balah is the latest Israeli attack amid ongoing &#039;ceasefire&#039; violations.",
-      "pubDate": "Mon, 29 Jun 2026 12:02:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a4246a965-1782728361.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
-      "pubDate": "Mon, 29 Jun 2026 11:58:01 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
