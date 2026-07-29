@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T09:17:45.162Z",
+  "fetchedAt": "2026-07-29T11:37:12.332Z",
   "asx200": {
     "value": 9038.6,
     "change": 215.2,
@@ -84,16 +84,8 @@
         "close": 8839
       },
       {
-        "date": "2026-07-24",
-        "close": 8772.3
-      },
-      {
         "date": "2026-07-27",
         "close": 8894
-      },
-      {
-        "date": "2026-07-28",
-        "close": 8947.8
       },
       {
         "date": "2026-07-29",
@@ -103,8 +95,8 @@
   },
   "audusd": {
     "value": 0.69,
-    "change": 0.01,
-    "changePercent": 0.73,
+    "change": 0,
+    "changePercent": 0.7,
     "previousClose": 0.69,
     "asOf": "2026-07-29",
     "history": [
@@ -207,25 +199,25 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4095.2,
-      "change": 72.9,
-      "changePercent": 1.81
+      "price": 4091.1,
+      "change": 68.8,
+      "changePercent": 1.71
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.11,
-      "change": -0.06,
-      "changePercent": -0.11
+      "price": 57.89,
+      "change": -0.29,
+      "changePercent": -0.5
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 82.03,
-      "change": 11.28,
-      "changePercent": 15.94
+      "price": 83.04,
+      "change": 12.29,
+      "changePercent": 17.37
     },
     {
       "name": "Copper",
@@ -233,7 +225,7 @@
       "iconBg": "#fef0e6",
       "price": 6.32,
       "change": 0.22,
-      "changePercent": 3.65
+      "changePercent": 3.57
     },
     {
       "name": "BHP Group",
@@ -842,7 +834,7 @@
   ],
   "news": [
     {
-      "title": "Live: Last medals in the pool to be won, Diamonds face tough match-up",
+      "title": "Live: Ollie Hoare falls in mile heats, Australian team appeals",
       "link": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928",
       "snippet": "",
       "pubDate": "Wed, 29 Jul 2026 08:26:21 +0000",
