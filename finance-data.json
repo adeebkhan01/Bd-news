@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T14:36:11.523Z",
+  "fetchedAt": "2026-07-29T16:43:36.705Z",
   "asx200": {
     "value": 9038.6,
     "change": 215.2,
@@ -91,8 +91,8 @@
   },
   "audusd": {
     "value": 0.69,
-    "change": 0.01,
-    "changePercent": 0.74,
+    "change": 0,
+    "changePercent": 0.45,
     "previousClose": 0.69,
     "asOf": "2026-07-29",
     "history": [
@@ -195,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4064.8,
-      "change": 42.5,
-      "changePercent": 1.06
+      "price": 4075.1,
+      "change": 52.8,
+      "changePercent": 1.31
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.33,
-      "change": -0.85,
-      "changePercent": -1.46
+      "price": 57.26,
+      "change": -0.91,
+      "changePercent": -1.57
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 84.69,
-      "change": 13.94,
-      "changePercent": 19.7
+      "price": 84.29,
+      "change": 13.54,
+      "changePercent": 19.14
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.31,
-      "change": 0.21,
-      "changePercent": 3.45
+      "price": 6.3,
+      "change": 0.2,
+      "changePercent": 3.34
     },
     {
       "name": "BHP Group",
@@ -837,7 +837,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Live: Ollie Hoare falls in mile heats, Australian team appeals",
+      "title": "Live: Aussie weightlifter emulates father's Scottish bronze 40 years on",
       "link": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928",
       "snippet": "",
       "pubDate": "Wed, 29 Jul 2026 08:26:21 +0000",
