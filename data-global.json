@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T19:22:55.610Z",
-  "summary": "Regional tensions are escalating dramatically as Iran and the US trade military strikes following a brief ceasefire, with Saudi Arabia caught in the middle trying to avoid wider involvement while Israel continues operations in Gaza amid Palestinian claims of ceasefire violations. The financial world faces headwinds from persistent inflation, fading AI enthusiasm cooling stock markets, and concerns about another energy crisis as conflicts threaten global stability. Domestically, leaders from Trump to Modi face political challenges, while environmental crises from droughts in Britain to wildfires in Europe demand urgent action alongside humanitarian emergencies in Sudan and Gaza.",
+  "fetchedAt": "2026-07-29T22:04:26.265Z",
+  "summary": "Global tensions are escalating as the US and Iran trade military strikes following attacks on American bases, with Trump threatening further action while Saudi Arabia and Israel navigate the widening conflict. Financial markets are showing strain across multiple sectors, with Meta shares falling over AI spending concerns, South Korean stocks plummeting as AI enthusiasm wanes, and the Fed holding rates steady amid persistent inflation. Political upheaval continues worldwide, from Myanmar's harsh sentencing of activists to Tunisia's constitutional crisis and Algeria electing its first female parliamentary speaker. Meanwhile, humanitarian challenges persist in Gaza and the Middle East, climate emergencies worsen in Europe, and emerging security concerns include autonomous AI hacking capabilities and China's increased military pressure on Taiwan.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Meta shares fall as frustration grows over AI spending plans",
+      "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+      "pubDate": "Wed, 29 Jul 2026 21:47:21 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba2a/live/554a2820-8b94-11f1-9e6e-a18e6e88bf61.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
+      "desc": "Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.",
+      "pubDate": "Wed, 29 Jul 2026 21:29:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6a64e047-1785357536.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
+      "desc": "”It’s our turn.” President Donald Trump says the US will hit Iran “very hard” following an attack on US forces in Jordan",
+      "pubDate": "Wed, 29 Jul 2026 21:18:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785359849.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump’s attorney general pick faces possible Republican roadblock",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
+      "desc": "Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.",
+      "pubDate": "Wed, 29 Jul 2026 20:11:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6a4108736f-1785348360.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
+      "desc": "Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.",
+      "pubDate": "Wed, 29 Jul 2026 20:09:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785355694.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "James Comey’s lawyers say US government distorted details in seashell case",
+      "link": "https://www.aljazeera.com/news/2026/7/29/james-comeys-lawyers-say-us-government-distorted-details-in-seashell-case?traffic_source=rss",
+      "desc": "Case centres on social media post featuring seashells that prosecutors allege is a reference to killing President Trump.",
+      "pubDate": "Wed, 29 Jul 2026 20:00:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6a4a47e1-1785350727.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
@@ -13220,26 +13280,6 @@
       "desc": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
       "pubDate": "Mon, 29 Jun 2026 23:08:44 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3821/live/5bbec4e0-73c0-11f1-aaa1-3f07d3ad2c35.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-      "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
-      "pubDate": "Mon, 29 Jun 2026 21:21:15 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b82/live/5f90c060-7400-11f1-b7f4-61de2d88420d.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "pubDate": "Mon, 29 Jun 2026 19:53:57 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"

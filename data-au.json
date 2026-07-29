@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T19:22:41.279Z",
-  "summary": "Australian financial concerns dominate the news, with superannuation warnings for expats following a major fund collapse and ASIC uncovering mortgage offset errors across major banks, while Treasurer Jim Chalmers maintains a cautious outlook. Energy and climate issues feature prominently as the nation grapples with renewable infrastructure challenges, bird flu spread among local wildlife, and mounting pressure to protect vulnerable industries during the energy transition. Significant incidents across the country include a fatal house fire in Sydney's south-west, a high-profile legal case with unusual suppression orders, and ongoing concerns about cult survivor protections, underlining ongoing safety and institutional accountability issues. Global developments affecting Australians include wildfires across Europe and the Mediterranean, drought conditions in England, and continued impacts from geopolitical tensions on critical supply routes.",
+  "fetchedAt": "2026-07-29T22:04:11.551Z",
+  "summary": "Australia's domestic agenda is dominated by tragedy and policy debates, with three people killed in a Sydney house fire and a Brisbane bus crash injuring multiple people highlighting ongoing safety concerns. Major political developments include Pauline Hanson's bid to wedge the Coalition with an Islamic State bill, while the government faces renewed scrutiny over the Closing the Gap program's effectiveness and KPMG's handling of a whistleblower scandal that may result in up to 1000 job cuts. Economic headwinds are building as the ASX prepares for falls following volatile Wall Street trading and the Federal Reserve's rate decision, with interest rates expected to remain on hold locally despite ongoing inflation pressures. Climate and environmental issues loom large, from unprecedented flash droughts intensifying wildfires to bird flu spreading locally and renewable energy infrastructure challenges facing regional Australia.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,176 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia news live: McCarthy welcomes ‘milestone’ as one Closing the Gap target reached; three dead in Sydney house fire",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+      "desc": "<p>Early childhood education enrolment for First Nations children reaches 95% across the country. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=c",
+      "pubDate": "Wed, 29 Jul 2026 21:59:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/999d3243d1180dd35fc4dadb7f98b59e3a517e36/621_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "SILENCED | Official Trailer",
+      "link": "https://www.smh.com.au/national/silenced-official-trailer-20260730-p60juz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The documentary film is about the weaponisation of defamation law against women who speak out about sexual assault and abuse.",
+      "pubDate": "Thu, 30 Jul 2026 07:49:25 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b8ef5ca65cbb07d7ad3a5e37581bda04ed902df2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Live: Hanson seeks to wedge Coalition with Islamic State bill",
+      "link": "https://www.abc.net.au/news/2026-07-30/federal-politics-live-blog-inflation-july-30/106974564",
+      "desc": "One Nation leader Pauline Hanson has sought to wedge the Coalition by seeking support for a counterterrorism bill from the crossbench. Follow live.",
+      "pubDate": "Wed, 29 Jul 2026 21:05:35 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/cf788740220402b3b568b3042b28f038?impolicy=wcms_crop_resize&amp;cropH=2667&amp;cropW=2000&amp;xPos=640&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Car launches through air into side of Brisbane bus",
+      "link": "https://www.smh.com.au/national/queensland/car-launches-through-air-into-side-of-brisbane-bus-20260730-p60ju0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The driver of the Toyota Yaris, a woman in her 40s, reported chest pain.",
+      "pubDate": "Thu, 30 Jul 2026 06:54:50 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.4572127139364301%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_37%2C$y_0/t_crop_custom/q_86%2Cf_auto/49c73263665f9f8e0dd9ff14db7a1bfb3a756d7721b9661829420877dc370e1f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Three dead in Sydney house fire",
+      "link": "https://www.smh.com.au/national/three-dead-in-sydney-house-fire-20260730-p60ju9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Three people have died in a house fire in Wiley Park, Sydney.",
+      "pubDate": "Thu, 30 Jul 2026 06:52:27 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/25c0999a4ad10bc84c43d1fc8a5f81ef2a84ab09",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Interest rates tipped to stay on hold",
+      "link": "https://www.smh.com.au/national/interest-rates-tipped-to-stay-on-hold-20260730-p60jua.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Interest rates have been tipped to stay on hold when the RBA board meets in August.",
+      "pubDate": "Thu, 30 Jul 2026 06:51:53 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d96514ad5618c711a7870fcb328d222a76f74385",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Car lodged in side of bus after Brisbane crash",
+      "link": "https://www.smh.com.au/national/car-lodged-in-side-of-bus-after-brisbane-crash-20260730-p60jub.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "",
+      "pubDate": "Thu, 30 Jul 2026 06:51:51 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/53214d7d0315f3ce0ab2f008976794074aabf4b7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Poultry farmers concerned about local bird flu spread",
+      "link": "https://www.abc.net.au/news/2026-07-30/local-bird-flu-spread-concern-sa-poultry-farmer-biosecurity-robe/106971582",
+      "desc": "Poultry farmers and coastal communities are on alert after confirmation of the local spread of H5 bird flu in South Australia.",
+      "pubDate": "Wed, 29 Jul 2026 20:51:08 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/29930e9b324d354f8ef496533c69488f?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Billionaire gives Moscow the middle finger after being placed on Russia’s most wanted list",
+      "link": "https://www.smh.com.au/business/companies/billionaire-gives-moscow-the-middle-finger-after-being-placed-on-most-wanted-list-20260730-p60jtq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The controversial Russian-born founder of the Telegram messaging app has never shied away from the spotlight and claims to have fathered more than 100 children. Now Moscow charged him with “aiding ter",
+      "pubDate": "Thu, 30 Jul 2026 06:35:54 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_190%2C$y_370/t_crop_custom/q_86%2Cf_auto/6907571b3016c28ae8919909b9d35084ab3d3dfa",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "ASX set to slump after wild Wall Street swings, Fed keeps rates on hold, oil surges on rising Middle East tensions",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-jumps-as-middle-east-tensions-escalate-fed-keeps-rates-on-hold-after-family-fight-20260730-p60jto.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Oil prices are back to jumping as Middle East tensions escalate, while the Federal Reserve kept interest rates on hold, with three of the central bank’s rate-setting committee dissenting.",
+      "pubDate": "Thu, 30 Jul 2026 06:31:59 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2933%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_68%2C$y_36/t_crop_custom/q_86%2Cf_auto/b3af78a458913da6ef05e16c4e2e869a40bed19e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Australia news LIVE: Trump flags imminent attack on Iran; KPMG says no decision made on job cuts following whisteblower scandal",
+      "link": "https://www.smh.com.au/national/australia-news-live-trump-flags-imminent-attack-on-iran-alzheimer-s-blood-test-to-transform-early-detection-20260730-p60jtv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow our rolling coverage of the latest developments and news from around Australia and the world.",
+      "pubDate": "Thu, 30 Jul 2026 06:20:58 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/db433fce54efce18c2c19de6b2ef3eeda29c2cac",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Flash droughts pull ‘alarming’ amounts of moisture from the landscape and intensify wildfires: new research",
+      "link": "https://theconversation.com/flash-droughts-pull-alarming-amounts-of-moisture-from-the-landscape-and-intensify-wildfires-new-research-287879",
+      "desc": "We have to stop thinking of droughts simply as a static state of low moisture. Rapid drought changes can send fire risk soaring.",
+      "pubDate": "2026-07-29T20:10:25Z",
+      "img": "https://images.theconversation.com/files/750728/original/file-20260728-69-7prruc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C203%2C5463%2C2731&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "‘Vibe coding’ is fun and easy, but there’s a major catch",
+      "link": "https://theconversation.com/vibe-coding-is-fun-and-easy-but-theres-a-major-catch-287693",
+      "desc": "Anyone can now build an app by describing an idea to AI. But software that appears to work isn’t always secure, reliable or ready for real-world use.",
+      "pubDate": "2026-07-29T20:09:46Z",
+      "img": "https://images.theconversation.com/files/749718/original/file-20260723-92-kmmkya.jpg?ixlib=rb-4.1.1&amp;rect=0%2C378%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Chasing unpaid wages is slow and expensive. Is a new Fair Work Court the answer?",
+      "link": "https://theconversation.com/chasing-unpaid-wages-is-slow-and-expensive-is-a-new-fair-work-court-the-answer-288285",
+      "desc": "A dedicated court could help fill a gap for workers seeking justice, but the design will matter.",
+      "pubDate": "2026-07-29T20:08:49Z",
+      "img": "https://images.theconversation.com/files/750408/original/file-20260728-71-7zw79h.jpg?ixlib=rb-4.1.1&amp;rect=0%2C54%2C7000%2C3500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Closing the Gap is failing, yet again. Is it time we do away with it altogether?",
+      "link": "https://theconversation.com/closing-the-gap-is-failing-yet-again-is-it-time-we-do-away-with-it-altogether-285354",
+      "desc": "New data show just four of the 19 targets are being met or are on track to be so. With such a poor track record, it’s time for a different approach.",
+      "pubDate": "2026-07-29T20:08:37Z",
+      "img": "https://images.theconversation.com/files/750745/original/file-20260729-57-owiwhv.png?ixlib=rb-4.1.1&amp;rect=0%2C119%2C1999%2C999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Anthony Fauci’s high-profile Senate hearing: what we learned",
+      "link": "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-covid-hearing-takeaways",
+      "desc": "<p>Six years on from Covid crisis, Republicans still politicizing science – and Fauci remains a political punching bag</p><p>A US Senate committee hearing featuring Dr Anthony Fauci revealed at least ",
+      "pubDate": "Wed, 29 Jul 2026 20:02:22 GMT",
+      "img": "https://i.guim.co.uk/img/media/e678f61a24e9675c86418734b29c538b0d8d1355/0_0_3219_2576/master/3219.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "KPMG says ‘no decisions have been made’ on staff purge amid reports of 1000 cuts",
+      "link": "https://www.smh.com.au/business/companies/kpmg-says-no-decisions-have-been-made-on-staff-purge-amid-reports-of-1000-cuts-20260729-p60jsy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "KPMG responded to a report it is preparing to shed around 10 per cent of its workforce and dozens of its 600 partners, while members of its global team have jetted to Australia as the company grapples",
+      "pubDate": "Thu, 30 Jul 2026 05:56:06 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6866%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_153%2C$y_70/t_crop_custom/q_86%2Cf_auto/9cc2cf93da9de768e5c9c4ae2e94f25580c219ad",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Superannuation warning for Aussie expats after $1.1 billion collapse",
       "link": "https://www.smh.com.au/national/superannuation-warning-for-aussie-expats-after-1-1-billion-collapse-20260730-p60jtm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -34098,136 +34268,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Live: Treasurer 'willing to engage' on super for under-18s",
-      "link": "https://www.abc.net.au/news/2026-06-30/federal-politics-live-blog-june-30/106858094",
-      "desc": "Treasurer Jim Chalmers says he's open to discussing a guarantee for superannuation to be paid for teenage workers but stresses that's not the government's focus at the moment. Follow live.",
-      "pubDate": "Mon, 29 Jun 2026 21:10:09 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/05870f2a8fb9f1fb9d1088a56db598d5?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=675&amp;xPos=431&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia news LIVE: Australian murder suspect faces death penalty in Thailand; climate change, El Nino trigger ‘frustrating’ start to ski season",
-      "link": "https://www.smh.com.au/national/national-news-live-australian-murder-suspect-shopped-while-girl-s-body-lay-in-suitcase-climate-change-and-el-nino-trigger-frustrating-start-to-ski-season-20260630-p60b59.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Join us for rolling coverage for the latest developments in news in Australia and the world.",
-      "pubDate": "Tue, 30 Jun 2026 07:03:55 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0624%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/e8680702af541678c89aeb380738e3b69719cd85bf321c7e3cda228404f9d901",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "A cataclysmic collision in space provides new clues on astronomy’s biggest stalemate",
-      "link": "https://theconversation.com/a-cataclysmic-collision-in-space-provides-new-clues-on-astronomys-biggest-stalemate-283266",
-      "desc": "Astronomers have revisited data from a dramatic collision of neutron stars to help resolve the infamous ‘Hubble tension’.",
-      "pubDate": "2026-06-29T21:03:22Z",
-      "img": "https://images.theconversation.com/files/737307/original/file-20260521-85-kcwc4x.jpg?ixlib=rb-4.1.0&amp;rect=0%2C387%2C1611%2C805&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "WhatsApp invites users to reserve usernames as it makes major change",
-      "link": "https://www.smh.com.au/technology/whatsapp-to-allow-users-to-go-by-usernames-instead-of-phone-numbers-20260630-p60b4u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
-      "desc": "WhatsApp users will soon get the option of going by usernames instead of phone numbers, the company said, announcing plans to address a privacy blind spot.",
-      "pubDate": "Tue, 30 Jun 2026 06:35:53 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_141/t_crop_custom/q_86%2Cf_auto/e485d8a55638d7bca90d773644a78a9159b233a6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "A severe El Niño could threaten something essential to half of humanity – rice",
-      "link": "https://theconversation.com/a-severe-el-nino-could-threaten-something-essential-to-half-of-humanity-rice-285816",
-      "desc": "Rice is life for billions of people. But this grain crop depends heavily on irrigation – and the looming El Niño is likely to bring dry conditions.",
-      "pubDate": "2026-06-29T20:27:59Z",
-      "img": "https://images.theconversation.com/files/744694/original/file-20260629-71-fk4lhv.jpg?ixlib=rb-4.1.0&amp;rect=0%2C221%2C4032%2C2016&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "People can learn to spot AI faces – but the clues are no longer obvious",
-      "link": "https://theconversation.com/people-can-learn-to-spot-ai-faces-but-the-clues-are-no-longer-obvious-286259",
-      "desc": "AI-generated faces don’t look weird anymore – they’re ‘hyperaverage’, which is a giveaway to the trained eye.",
-      "pubDate": "2026-06-29T20:26:06Z",
-      "img": "https://images.theconversation.com/files/744718/original/file-20260629-57-io4zfc.jpg?ixlib=rb-4.1.0&amp;rect=0%2C250%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "New study of 2 million online posts shows persistent anti-Jew and anti-Muslim hate in Australia",
-      "link": "https://theconversation.com/new-study-of-2-million-online-posts-shows-persistent-anti-jew-and-anti-muslim-hate-in-australia-286047",
-      "desc": "New research looking at social media hate before and after the October 7 attacks shows antisemitism and Islamophobia got worse, then stayed bad.",
-      "pubDate": "2026-06-29T20:25:22Z",
-      "img": "https://images.theconversation.com/files/744699/original/file-20260629-57-lvfqn7.jpg?ixlib=rb-4.1.0&amp;rect=0%2C841%2C5036%2C2518&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Could this be Australia’s warmest winter ever?",
-      "link": "https://theconversation.com/could-this-be-australias-warmest-winter-ever-285947",
-      "desc": "After a dismal start to the ski season, abnormally warm conditions in Australia are likely to continue for the coming weeks.",
-      "pubDate": "2026-06-29T20:20:45Z",
-      "img": "https://images.theconversation.com/files/744688/original/file-20260629-71-r1ajo3.png?ixlib=rb-4.1.0&amp;rect=62%2C53%2C972%2C486&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Uber lost and found items revealed",
-      "link": "https://www.smh.com.au/national/uber-lost-and-found-items-revealed-20260630-p60b54.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Uber has revealed some of the weird items left behind by customers.",
-      "pubDate": "Tue, 30 Jun 2026 06:16:27 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d8731a457223fe48976c00554959fb9078273533",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Greens push for teen workers to be paid super",
-      "link": "https://www.smh.com.au/national/greens-push-for-teen-workers-to-be-paid-super-20260630-p60b52.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Greens want teenagers who work part time to be paid superannuation by employers.",
-      "pubDate": "Tue, 30 Jun 2026 06:14:43 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/550827684ed77008a46b6a7c8c8b733cfb007aa1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Motorists urged to fill up before excise relief ends",
-      "link": "https://www.smh.com.au/national/motorists-urged-to-fill-up-before-excise-relief-ends-20260630-p60b51.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Drivers are bracing for fuel price hikes as the excise relief is due to end.",
-      "pubDate": "Tue, 30 Jun 2026 06:14:15 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/fa01b19b6c81e5eb7ea83c71d3fa40025373ccb3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Thailand murder investigation update",
-      "link": "https://www.smh.com.au/national/thailand-murder-investigation-update-20260630-p60b53.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "New details have been revealed about the movements of an Australian man accused of murdering a Thai teenager.",
-      "pubDate": "Tue, 30 Jun 2026 06:13:05 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/81fa35b349dbdc68e36a2eb179eadeb62346c4cf",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Worker says forestry transition program 'decimated' Gippsland's small towns",
-      "link": "https://www.abc.net.au/news/2026-06-30/native-timber-logging-gippsland-small-towns-sawmills/106756216",
-      "desc": "The Victorian Forestry Transition Program is ending. In the regions that relied on the timber trade, the question is whether it worked.",
-      "pubDate": "Mon, 29 Jun 2026 19:29:55 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/4f7cfc9bf69ff73981ae39d967c23daa?impolicy=wcms_crop_resize&amp;cropH=2727&amp;cropW=2045&amp;xPos=1185&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
     }
   ]
 }
