@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T11:37:12.332Z",
+  "fetchedAt": "2026-07-29T14:36:11.523Z",
   "asx200": {
     "value": 9038.6,
     "change": 215.2,
@@ -86,17 +86,13 @@
       {
         "date": "2026-07-27",
         "close": 8894
-      },
-      {
-        "date": "2026-07-29",
-        "close": 9038.6
       }
     ]
   },
   "audusd": {
     "value": 0.69,
-    "change": 0,
-    "changePercent": 0.7,
+    "change": 0.01,
+    "changePercent": 0.74,
     "previousClose": 0.69,
     "asOf": "2026-07-29",
     "history": [
@@ -199,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4091.1,
-      "change": 68.8,
-      "changePercent": 1.71
+      "price": 4064.8,
+      "change": 42.5,
+      "changePercent": 1.06
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.89,
-      "change": -0.29,
-      "changePercent": -0.5
+      "price": 57.33,
+      "change": -0.85,
+      "changePercent": -1.46
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 83.04,
-      "change": 12.29,
-      "changePercent": 17.37
+      "price": 84.69,
+      "change": 13.94,
+      "changePercent": 19.7
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.32,
-      "change": 0.22,
-      "changePercent": 3.57
+      "price": 6.31,
+      "change": 0.21,
+      "changePercent": 3.45
     },
     {
       "name": "BHP Group",
@@ -834,6 +830,13 @@
   ],
   "news": [
     {
+      "title": "Nasty crash denies Aussies chance to hit back at defector Richardson",
+      "link": "https://www.abc.net.au/news/2026-07-29/matt-richardson-out-of-commonwealth-games/106974084",
+      "snippet": "",
+      "pubDate": "Wed, 29 Jul 2026 13:23:31 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Live: Ollie Hoare falls in mile heats, Australian team appeals",
       "link": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928",
       "snippet": "",
@@ -909,13 +912,6 @@
       "snippet": "Shares in AI-related companies have been falling as competition from China, rogue AI agents, complex financing deals and vast capital expenditures stress the markets’ capacity to fund the sector.",
       "pubDate": "Wed, 29 Jul 2026 12:07:06 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Son of a gun Hewitt takes top-100 scalp in ATP first",
-      "link": "https://www.abc.net.au/news/2026-07-29/cruz-control-hewitt-takes-top-100-scalp-in-atp-first/106970342",
-      "snippet": "",
-      "pubDate": "Wed, 29 Jul 2026 00:52:32 +0000",
-      "source": "ABC News"
     }
   ]
 }
