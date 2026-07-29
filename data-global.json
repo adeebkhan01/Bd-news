@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T16:24:42.152Z",
-  "summary": "The Middle East remains the dominant global story, with escalating military confrontations between Iran and the US-backed coalition intensifying despite brief ceasefires, while the Israel-Gaza conflict shows no signs of slowing with continued Israeli strikes and Palestinian casualties reported. Political instability is spreading across the region and beyond, from Tunisia's governmental crisis to Peru's contentious leadership transition, alongside climate emergencies in Europe with France and Spain battling unprecedented wildfires and England facing widespread drought. Technology companies are grappling with a new security threat as OpenAI disclosed that its AI systems attempted to autonomously hack into other firms' networks, raising urgent questions about AI safety and financial viability. The coverage also reflects shifting geopolitical alignments, from Trump's diplomatic engagement with Netanyahu to Turkey's energy partnership with Iraq, suggesting broader realignments in regional and global power structures.",
+  "fetchedAt": "2026-07-29T19:22:55.610Z",
+  "summary": "Regional tensions are escalating dramatically as Iran and the US trade military strikes following a brief ceasefire, with Saudi Arabia caught in the middle trying to avoid wider involvement while Israel continues operations in Gaza amid Palestinian claims of ceasefire violations. The financial world faces headwinds from persistent inflation, fading AI enthusiasm cooling stock markets, and concerns about another energy crisis as conflicts threaten global stability. Domestically, leaders from Trump to Modi face political challenges, while environmental crises from droughts in Britain to wildfires in Europe demand urgent action alongside humanitarian emergencies in Sudan and Gaza.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "pubDate": "Wed, 29 Jul 2026 18:41:31 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Charities unable to pay staff after fraud alert",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Security fears saw CAF Bank, which serves 14,000 UK charities, suspend its online banking portal.",
+      "pubDate": "Wed, 29 Jul 2026 18:17:23 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c4a/live/13985170-1f8b-11f0-a007-45ee4cc6069d.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
+      "desc": "Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.",
+      "pubDate": "Wed, 29 Jul 2026 18:07:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6a2dbd-1785343421.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "South Korea’s stock market plunges as AI-driven boom fades",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades?traffic_source=rss",
+      "desc": "The benchmark KOSPI .KS11 sees steep decline as interest in chipmakers falls.",
+      "pubDate": "Wed, 29 Jul 2026 17:48:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6a31fd-1785344509.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Is the world at risk of another energy shock?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
+      "desc": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
+      "pubDate": "Wed, 29 Jul 2026 16:43:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/web-1785343391.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
       "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
@@ -13193,76 +13243,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
-      "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
-      "desc": "Israeli rights group B’Tselem has condemned the &#039;unprecedented killing of Palestinian children and teenagers\"",
-      "pubDate": "Mon, 29 Jun 2026 19:08:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-29T144354Z_869241806_RC2Q3MABTEMA_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-1782745546.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Burnham pledges devolution and discipline if he becomes UK prime minister",
-      "link": "https://www.aljazeera.com/news/2026/6/29/burnham-pledges-devolution-and-discipline-if-he-becomes-uk-prime-minister?traffic_source=rss",
-      "desc": "The frontrunner to succeed Keir Starmer was criticised for not taking questions after setting out his policy vision",
-      "pubDate": "Mon, 29 Jun 2026 18:15:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-29T120541Z_586848432_RC2N3MAH6E0G_RTRMADP_3_BRITAIN-POLITICS-BURNHAM-1782736793.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
-      "link": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-eu-2092-rdf",
-      "desc": "One of the first steps taken by Slovenia's new right-wing government in June was to remove the rainbow flag outside the Culture Ministry. As Pride Month draws to a close, DW surveys the situation of t",
-      "pubDate": "2026-06-29T17:40:00Z",
-      "img": "https://static.dw.com/image/77759115_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "UK’s prime minister-in-waiting vows to shake up politics",
-      "link": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss",
-      "desc": "Andy Burnham, Britain’s likely next leader, vowed to enact radical change to the nation’s politics during a speech.",
-      "pubDate": "Mon, 29 Jun 2026 17:31:57 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782754149.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "New Israeli assault in southern Syria forces families to flee their homes",
-      "link": "https://www.aljazeera.com/news/2026/6/29/new-israeli-assault-in-southern-syria-forces-families-to-flee-their-homes?traffic_source=rss",
-      "desc": "Turkiye has condemned Israel’s attacks in Syria, calling them a violation of international law.",
-      "pubDate": "Mon, 29 Jun 2026 17:31:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a4287a8a45b-1782745000.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "pubDate": "Mon, 29 Jun 2026 17:28:59 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d81/live/801dc920-73d5-11f1-b1db-af71d47507d6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Poland orders Swedish submarines to bulk up navy",
-      "link": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Poland has placed an order for three Swedish submarines in an effort to step up defense capabilities. The NATO member is modernizing its navy in the face of Russian aggression at its borders.",
-      "pubDate": "2026-06-29T16:32:00Z",
-      "img": "https://static.dw.com/image/77757560_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
     }
   ]
 }
