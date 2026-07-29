@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T08:48:06.981Z",
-  "summary": "Australia faces mounting concerns over public safety following reports of a tree falling at a playground, kindergarten children escaping onto a major road, and a police officer being stabbed, while a raid in south-west Sydney uncovered grenades and guns stored near a daycare. Political turmoil continues with ICAC hearings revealing allegations that a far-right faction targeted its own MP, and Deputy Premier Mark Ryan was removed from question time amid ongoing scrutiny of corruption claims affecting government ministers including Angus Taylor. On the economic front, inflation has eased below expectations though remains uncomfortably high, making interest rate hikes less likely, while fuel discounts end on Monday and investors face ongoing fraud risks highlighted by a half-million-dollar corporate bond scam. International tensions are escalating as Taiwan halts PNG gas purchases over the One China dispute, and Australia's energy sector navigates the transition away from fossil fuels amid debate over whether to build new oil refineries.",
+  "fetchedAt": "2026-07-29T11:28:43.436Z",
+  "summary": "Australia faced a turbulent day marked by public safety concerns, financial system failures, and political turmoil. A playground tree branch injured a boy and woman, kindergarten children escaped their facility, and a police officer was stabbed in a separate incident, while ASIC exposed a significant mortgage offset accounting error across major banks affecting consumers' savings. The news cycle was dominated by integrity investigations, with ICAC hearings revealing allegations that a far-right faction targeted its own MP and concerns mounting over cults and workplace discrimination. Industrial action and corruption inquiries also dominated, including revelations about CFMEU intimidation tactics and calls for a federal royal commission into union corruption and integrity failures.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,176 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fauci to face Republican questions over Covid pandemic origins – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
+      "desc": "<p>Veteran medical adviser likely to face questions over disputed ‘lab leak’ theory in investigation seen by scientists as ‘vilification and harassment’ of 85-year-old</p><ul><li><p><a href=\"https://w",
+      "pubDate": "Wed, 29 Jul 2026 11:09:27 GMT",
+      "img": "https://i.guim.co.uk/img/media/308c7f1c758e94cedbaad8818fd690ed60bc2709/509_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Caribbean bears brunt of £43bn climate-fuelled damage to developing islands",
+      "link": "https://www.theguardian.com/world/2026/jul/29/caribbean-climate-related-economic-damage-developing-islands",
+      "desc": "<p>Findings can inform conversations about global climate reparations and financing for mitigations, researchers say</p><p>Caribbean nations suffered $53.2bn (£40bn) of damage from climate-fuelled dis",
+      "pubDate": "Wed, 29 Jul 2026 11:00:30 GMT",
+      "img": "https://i.guim.co.uk/img/media/bb9b619d22f2ca63276d8c0da3e1d70cc1126aed/528_0_2813_2250/master/2813.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "A pointed accusation",
+      "link": "https://www.smh.com.au/national/nsw/a-pointed-accusation-20260729-p60jhd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "But finishing with a shake.",
+      "pubDate": "Wed, 29 Jul 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Boy, woman injured as large tree branch falls on popular playground",
+      "link": "https://www.smh.com.au/national/queensland/boy-woman-injured-as-large-tree-branch-falls-on-popular-playground-20260729-p60jru.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The eight-year-old boy suffered a serious head injury, while the 29-year-old woman was struck in the arm at a park in St Lucia.",
+      "pubDate": "Wed, 29 Jul 2026 20:48:35 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3828835978835979%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_252%2C$y_503/t_crop_custom/q_86%2Cf_auto/b1e81cbc3fdfe75886bcd17a0ba18a4a601ea0eae964fdaf60df160edecac92c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "WA's worst paedophile could be freed in months",
+      "link": "https://www.smh.com.au/national/was-worst-paedophile-could-be-freed-in-months-20260729-p60jsm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Western Australia’s worst paedophile could be freed from prison in a matter of months, under strict supervision.",
+      "pubDate": "Wed, 29 Jul 2026 20:45:28 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/bf36a3b2cc11f4d53087f03a5e00452396a679d1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Perth and regional WA top tradie shortage list",
+      "link": "https://www.smh.com.au/national/perth-and-regional-wa-top-tradie-shortage-list-20260729-p60jsn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Perth and regional Western Australia are topping the list for the nation's tradie shortage, with bricklayers and tilers the hardest to find.",
+      "pubDate": "Wed, 29 Jul 2026 20:44:51 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/abbe7d3b7598696e13d9406ba9268781423b3409",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘I’m super proud of him’: father of teen lifeguard recounts dramatic ocean rescue",
+      "link": "https://www.theguardian.com/us-news/2026/jul/29/california-ocean-rescue-teen-lifeguard",
+      "desc": "<p>Ryder Williams, 16, saved a boy from drowning in Santa Cruz, California – the first rescue of his career</p><p>A rookie, teenage <a href=\"https://www.theguardian.com/us-news/california\">California<",
+      "pubDate": "Wed, 29 Jul 2026 10:00:31 GMT",
+      "img": "https://i.guim.co.uk/img/media/acf984544678e004a66e00f0d73db37590ad49af/0_139_1320_1056/master/1320.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Murderer gives evidence in trial of prison officer accused of raping inmate",
+      "link": "https://www.smh.com.au/national/murderer-gives-evidence-in-trial-of-prison-officer-accused-of-raping-inmate-20260729-p60jsc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A convicted murderer has taken to the stand to give evidence in the trial of a prison officer who's accused of raping an inmate at Adelaide's women's prison.",
+      "pubDate": "Wed, 29 Jul 2026 19:58:27 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/543a30b4adb94b685ee6f23a202be0e6f2801b91",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Mother attended police station day before murder-suicide; Search for infant son called off",
+      "link": "https://www.smh.com.au/national/mother-attended-police-station-day-before-murder-suicide-search-for-infant-son-called-off-20260729-p60jrn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police have confirmed they conducted a welfare check at a woman’s home in the hours before her body – and that of her young child – were found in the ocean.",
+      "pubDate": "Wed, 29 Jul 2026 19:45:54 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/13744b1a3a96d28d501e038baaa08ce892c220bc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "ASIC exposes mortgage offset blunder across major Australian banks",
+      "link": "https://www.smh.com.au/national/asic-exposes-mortgage-offset-blunder-across-major-australian-banks-20260729-p60jsd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "ASIC has exposed widespread multimillion-dollar failures across major lenders involving mortgage offset accounts.",
+      "pubDate": "Wed, 29 Jul 2026 19:04:41 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8b57c115cdb25b6f9253bd49f595d0f17ed911bd",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Wildfires are raging – and the world has junked 45 climate pledges. Disaster looms, and little wonder | Bill McGuire",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels",
+      "desc": "<p>Five years ago, I wrote an open letter asking climate scientists to speak out against fossil fuels. Now governments are in retreat, it is surely time to act</p><ul><li><p> <a href=\"https://www.theg",
+      "pubDate": "Wed, 29 Jul 2026 09:00:29 GMT",
+      "img": "https://i.guim.co.uk/img/media/61acc7867a76bd761c23f7c3fb39c928ab77a652/646_0_6830_5464/master/6830.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Police officer recovering after alleged stabbing",
+      "link": "https://www.smh.com.au/national/police-officer-recovering-after-alleged-stabbing-20260729-p60js8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A police officer is recovering in hospital after allegedly being stabbed in the neck at Elizabeth East in Adelaide's northern suburbs.",
+      "pubDate": "Wed, 29 Jul 2026 19:00:10 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a999764b97146de2dd0e5ec6e85fa38ea6f29d02",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "New details in death of mother and two children",
+      "link": "https://www.smh.com.au/national/new-details-in-death-of-mother-and-two-children-20260729-p60js9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police have revealed mother Helena Wright reported to a police station the night before she fell from a cliff, killing her and her two children.",
+      "pubDate": "Wed, 29 Jul 2026 19:00:06 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/7f9caead5e760342bac1f83df6e3753d01ff18da",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Laws failing to protect cult survivors, inquiry finds",
+      "link": "https://www.smh.com.au/national/victoria/laws-failing-to-protect-cult-survivors-inquiry-finds-20260729-p60jn8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Landmark inquiry has urged the Victorian government to review options for new laws to criminalise group-based coercion.",
+      "pubDate": "Wed, 29 Jul 2026 19:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/bce2c256160c07f11f2d0261c632172319507695",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Heart of corruption’: Unionists, integrity experts and industry lay out royal commission wish lists",
+      "link": "https://www.smh.com.au/national/victoria/heart-of-corruption-unionists-integrity-experts-and-industry-lay-out-royal-commission-wish-lists-20260729-p60joq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Call for Big Build commission to examine how political motivations influenced multibillion-dollar commitments to major transport projects, as premier pledges “exhaustive” terms of reference.",
+      "pubDate": "Wed, 29 Jul 2026 19:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3652%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_137%2C$y_126/t_crop_custom/q_86%2Cf_auto/2d6e2f41c7b2cd2f3e1c93450ee3b4b5076fcf2a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Authorities confirm local transmission of H5 bird flu",
+      "link": "https://www.smh.com.au/national/authorities-confirm-local-transmission-of-h5-bird-flu-20260729-p60js6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Local transmission of bird flu has been confirmed in South Australia, marking a significant escalation in the outbreak.",
+      "pubDate": "Wed, 29 Jul 2026 18:59:33 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/499739d8d8987a505199b38dce441c910969e49c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Maniac’ driver who killed child jailed for more than a decade",
+      "link": "https://www.smh.com.au/national/victoria/maniac-driver-who-killed-child-jailed-for-more-than-a-decade-20260729-p60js1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A killer driver filmed himself driving with his knees while swigging from a can of Jack Daniel’s and cola just weeks before the fatal crash.",
+      "pubDate": "Wed, 29 Jul 2026 18:57:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.208904109589041%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_660/t_crop_custom/q_86%2Cf_auto/a132f1ed8b0717a6879620b5fb6597655fac95ce401588b4b1219072b13184e6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Concern for park goers after tree falls at popular playground",
       "link": "https://www.smh.com.au/national/queensland/concern-for-park-goers-after-tree-falls-at-popular-playground-20260729-p60jru.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -34048,186 +34218,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Snaring a naval battlespace",
-      "link": "https://www.smh.com.au/national/nsw/snaring-a-naval-battlespace-20260629-p60at9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "While the master sportscaster comes full circle.",
-      "pubDate": "Mon, 29 Jun 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘No nuclear safety plan’: AUKUS pact under scrutiny at public inquiry",
-      "link": "https://www.smh.com.au/national/no-nuclear-safety-plan-aukus-pact-under-scrutiny-at-public-inquiry-20260629-p60b42.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "As Australia powers towards nuclear submarines at HMAS Stirling, south of Perth, experts are concerned about the lack of safety preparations.",
-      "pubDate": "Mon, 29 Jun 2026 20:22:08 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6e7b49d798835f1589503f3c74606810b9e4a160",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Five Americans die every hour from toxic vehicle emissions, study finds",
-      "link": "https://www.theguardian.com/us-news/2026/jun/29/deaths-vehicle-emissions-pollution",
-      "desc": "<p>Research suggests 41,800 premature US deaths in 2024 were attributable to road pollution</p><p>Roughly five Americans die every hour due to exposure to toxic road vehicle <a href=\"https://www.thegu",
-      "pubDate": "Mon, 29 Jun 2026 10:00:42 GMT",
-      "img": "https://i.guim.co.uk/img/media/14d4c401de8ec92c6404ba153306ddc95fa4dcba/496_0_4955_3964/master/4955.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Smaller miners may be spared from costs for cleaning up sites after review",
-      "link": "https://www.smh.com.au/national/queensland/smaller-miners-may-be-spared-from-costs-for-cleaning-up-sites-after-review-20260629-p60b11.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Under the current scheme, companies must help cover costs if they abandon the site or fail to deliver on environmental obligations.",
-      "pubDate": "Mon, 29 Jun 2026 19:41:51 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4638%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_152%2C$y_0/t_crop_custom/q_86%2Cf_auto/a7fe55d1fd7c21f0dcb12bc0f1aba12899273c4a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Riot police called, multiple arrested as government prepares to sell community garden for housing",
-      "link": "https://www.smh.com.au/national/queensland/riot-police-called-multiple-arrested-as-government-prepares-to-sell-community-garden-for-housing-20260629-p60b38.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two people remained in trees well into the evening as protesters attempted to stop their community garden being shut down and sold off for housing.",
-      "pubDate": "Mon, 29 Jun 2026 19:36:32 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.20428240740740738%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_37/t_crop_custom/q_86%2Cf_auto/cb745c8559016de689144b7113f6970525fd7dde34bac6d0bb80112cd81816fb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "New budget airline could fly you from Sydney, Melbourne and Brisbane",
-      "link": "https://www.smh.com.au/business/companies/new-budget-airline-could-fly-you-from-sydney-melbourne-and-brisbane-20260629-p60ayr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "VietJet is eyeing an Australian domestic entry that could come under a fresh name to compete with Qantas, Jetstar and Virgin.",
-      "pubDate": "Mon, 29 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/c36ee6fa8d1216f78e785f6febe166b049e841b1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The goalposts have shifted for my suburb. Luckily, we can claim the Socceroos’ new goalkeeper",
-      "link": "https://www.smh.com.au/national/nsw/the-goalposts-have-shifted-for-my-suburb-luckily-we-can-claim-the-socceroos-new-goalkeeper-20260527-p6016q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "It once felt like a paddock with street signs. But with its proximity to the new airport, the area is on the brink of a new chapter.",
-      "pubDate": "Mon, 29 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1906%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/9f9f4c41cfe491fa4cc4b6abc16e5bef9cb0f3d2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Christian Brothers cry poor to abuse survivors after transferring elite schools for $1",
-      "link": "https://www.smh.com.au/national/prestigious-schools-transferred-for-1-as-christian-brothers-now-cry-poor-to-abuse-survivors-20260626-p60adh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The school restructure has fuelled claims by abuse survivors and their lawyers that the Christian Brothers engaged in a deliberate strategy to shield its assets from civil claims.",
-      "pubDate": "Mon, 29 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1906%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/bd68be56259909cc35a6dbe915754826c3fc0d7d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Potholes v portraits: Council snapped in political row over $5000 photo wall",
-      "link": "https://www.smh.com.au/national/nsw/potholes-v-portraits-council-snapped-in-political-row-over-5000-photo-wall-20260626-p60afw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A heated debate has emerged over a council’s decision to create a photo wall featuring portraits of local politicians.",
-      "pubDate": "Mon, 29 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7337176842684269%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/q_86%2Cf_auto/2a06e810028f1ebac963a07ba19bc58f8ed082d6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Former top judge sprays politicians and media for attacking judicial independence",
-      "link": "https://www.smh.com.au/national/victoria/former-top-judge-sprays-politicians-and-media-for-attacking-judicial-independence-20260629-p60avo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Lex Lasry has warned Australia is headed down the path of America, saying judicial impartiality and independence are under attack.",
-      "pubDate": "Mon, 29 Jun 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.277%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_98%2C$y_0/t_crop_custom/q_86%2Cf_auto/28a52c5ab330897b3aa0f040d96d6603fa392d00",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Man charged with murder and torture of Bundaberg baby two years ago",
-      "link": "https://www.smh.com.au/national/man-charged-with-murder-and-torture-of-bundaberg-baby-two-years-ago-20260629-p60b3x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man has been charged with the murder and torture of a baby boy in Bundaberg more than two years ago.",
-      "pubDate": "Mon, 29 Jun 2026 19:22:01 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a4b2a4b591240a2635b3fac261131a807becfd1e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Police security officer allegedly threatened wife with service gun, court hears",
-      "link": "https://www.smh.com.au/national/police-security-officer-allegedly-threatened-wife-with-service-gun-court-hears-20260629-p60b3w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A South Australian police security officer is on trial after allegedly threatening his wife with his service gun.",
-      "pubDate": "Mon, 29 Jun 2026 19:18:26 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ea55f341f3eb46dac0eb1b43e058cdc6c649f95b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Family of four forced to flee burning home after fire pit embers spread",
-      "link": "https://www.smh.com.au/national/family-of-four-forced-to-flee-burning-home-after-fire-pit-embers-spread-20260629-p60b3v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A family of four has been forced to flee their burning home after embers from an outdoor fire pit spread to the property.",
-      "pubDate": "Mon, 29 Jun 2026 19:18:01 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/77a804d65a5d175f1a380dbec81412a993e332be",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Fives lives lost on South Australian roads in as many days",
-      "link": "https://www.smh.com.au/national/fives-lives-lost-on-south-australian-roads-in-as-many-days-20260629-p60b3u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "South Australian Police have issued an urgent safety message after five deaths on the roads in five days.",
-      "pubDate": "Mon, 29 Jun 2026 19:13:35 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/da0125ac171ba9c6777094a53b6442eb511cc67e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "My ‘mountaintop’ suburb was renamed to add appeal. Even the Queen travelled here",
-      "link": "https://www.smh.com.au/national/victoria/my-mountaintop-suburb-was-renamed-to-add-appeal-even-the-queen-travelled-here-20260623-p609g8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "But whenever we gave our address to others, there would be people who thought we meant another suburb on the peninsula.",
-      "pubDate": "Mon, 29 Jun 2026 19:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.19381405563689605%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/7b63b3dcb79d34d2571a94bbd5b090f6f4d6e090",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Vietnamese low-cost carrier eyes off entrance to Australian domestic market",
-      "link": "https://www.smh.com.au/national/vietnamese-low-cost-carrier-eyes-off-entrance-to-australian-domestic-market-20260629-p60b3q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A Vietnamese low-cost carrier is looking to take on Qantas and Virgin in the domestic market.",
-      "pubDate": "Mon, 29 Jun 2026 18:56:57 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a702e0cea91ae56aadb2190ba76cce8e0893d54a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "British American Tobacco to slash 9,000 jobs as it turns to AI",
-      "link": "https://www.theguardian.com/business/2026/jun/29/british-american-tobacco-bat-cut-jobs-ai",
-      "desc": "<p>Dunhill maker to cut about a fifth of workforce, aiming to reduce costs and become more ‘technology enabled’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-eng",
-      "pubDate": "Mon, 29 Jun 2026 08:53:22 GMT",
-      "img": "https://i.guim.co.uk/img/media/556e1ae055c3c7116659801bbdcad6f69dbc9531/324_0_2077_1661/master/2077.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Angus Taylor says fires were just allowed to burn",
-      "link": "https://www.smh.com.au/national/angus-taylor-says-fires-were-just-allowed-to-burn-20260629-p60b3p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Opposition leader infuriated firefighters with remarks at a rally to save the brumbies",
-      "pubDate": "Mon, 29 Jun 2026 18:49:38 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/5efe781f01e815f1cdb055d357d0057bc62e5a53",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }

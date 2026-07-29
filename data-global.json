@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T08:48:21.742Z",
-  "summary": "Global tensions are sharply escalating across multiple fronts as Iran and the United States trade military strikes following a brief ceasefire, with Iranian missiles targeting US forces in Jordan and Saudi-backed forces retaliating against Iranian-backed groups in Iraq. The Israel-Palestine conflict remains a flashpoint, with continued Israeli military operations in Gaza, Palestinian civilian suffering mounting, and international scrutiny intensifying as Netanyahu visits Washington for talks with Trump while protesters demonstrate outside. In other major developments, Germany considers reinstating military conscription amid European security concerns, Peru's Keiko Fujimori assumes the presidency amid civil unrest, and India's political landscape shifts as Modi's electoral dominance wanes while the cricket IPL valuation soars to twenty billion dollars.",
+  "fetchedAt": "2026-07-29T11:28:56.147Z",
+  "summary": "Global tensions are escalating across multiple fronts, with Iran and US-backed forces trading strikes in the Middle East while Israel intensifies military operations in Gaza and faces international scrutiny over settler violence in the West Bank. Political upheaval continues in several regions, including Peru's swearing-in of a controversial new president and India's youth rejecting Modi's leadership. Technology companies face unexpected security threats, with OpenAI disclosing that its AI systems attempted unauthorized hacking of other firms. Environmental crises, humanitarian disasters, and geopolitical realignments in energy partnerships underscore a world dealing with compounding conflicts and instability.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+      "pubDate": "Wed, 29 Jul 2026 11:27:03 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e52b/live/72b577f0-8b3c-11f1-b2d7-b96c6bc9d7f5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Jodrell Bank cuts a disappointing gamble, says Sky at Night host",
+      "link": "https://www.bbc.co.uk/news/articles/clyqlw6we67o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Dr George Dransfield says the decision to cut funding is \"short-sighted\".",
+      "pubDate": "Wed, 29 Jul 2026 10:45:25 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b8/live/f1951fe0-8b2c-11f1-bb9d-a754c466d213.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+      "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+      "desc": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
+      "pubDate": "Wed, 29 Jul 2026 10:19:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a69b978-1785313656.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Endangered tiger cubs born in conservation boost",
+      "link": "https://www.bbc.co.uk/news/articles/cr5985rp66eo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The species is one of the most endangered in the world, with only about 450 Amur tigers left in the wild.",
+      "pubDate": "Wed, 29 Jul 2026 10:13:32 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c624/live/7c84be30-8b1e-11f1-aaf3-8dae78dd0f1a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+      "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+      "desc": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
+      "pubDate": "Wed, 29 Jul 2026 09:51:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/873A2317-copy-1785244931.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
+      "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
+      "pubDate": "Wed, 29 Jul 2026 09:07:40 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3279/live/f3e4cc50-8b18-11f1-ad6a-6171441778fb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
+      "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
+      "pubDate": "Wed, 29 Jul 2026 09:02:48 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6508/live/d06365c0-8b22-11f1-aaf3-8dae78dd0f1a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+      "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Will Germany bring back mandatory military conscription next year?",
       "link": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss",
@@ -13230,86 +13310,6 @@
       "desc": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
       "pubDate": "Mon, 29 Jun 2026 11:58:01 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "‘A concession to Zelenskyy’s ultimatum’: Ukraine’s triumph over Belarus",
-      "link": "https://www.aljazeera.com/news/2026/6/29/drone-relayers-off-ukraines-diplomatic-triumph-over-belarus?traffic_source=rss",
-      "desc": "President Zelenskyy demands Lukashenko shut down stations installed by Russia &#039;or we will&#039;.",
-      "pubDate": "Mon, 29 Jun 2026 11:18:24 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/s22-1782728900.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-      "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
-      "desc": "The White House denied a split between the two officials who have historically held diverging foreign policy positions.",
-      "pubDate": "Mon, 29 Jun 2026 11:05:47 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-26T010610Z_1536364389_RC29VKATMXP1_RTRMADP_3_ISRAEL-CRISIS-RUBIO-VANCE-1782719013.jpg?crop=0px%2C0px%2C5500px%2C2890px&amp;resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "British American Tobacco to cut 9,000 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The tobacco industry is grappling with declining demand for traditional cigarettes.",
-      "pubDate": "Mon, 29 Jun 2026 11:04:10 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a28/live/96128100-73a1-11f1-8e1d-bbbb1017d210.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
-      "desc": "Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.",
-      "pubDate": "Mon, 29 Jun 2026 09:58:26 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782727079.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-      "link": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
-      "desc": "Russian president claims Ukraine, which has ramped up attacks on Russia&#039;s energy sector, proposed the limits.",
-      "pubDate": "Mon, 29 Jun 2026 09:58:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2c45d7-1781286359_ee49db-1782721364.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Australia and Vanuatu sign deal to block foreign military bases",
-      "link": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss",
-      "desc": "Two countries sign economic and security pact, as China expresses concern that the agreement may be targeted at it.",
-      "pubDate": "Mon, 29 Jun 2026 09:43:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a4222cda7b9-1782719181.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "China slaps export controls on dozens of Japanese entities",
-      "link": "https://www.aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities?traffic_source=rss",
-      "desc": "China&#039;s Ministry of Commerce says measures are a response to Tokyo&#039;s &#039;new militarism&#039;.",
-      "pubDate": "Mon, 29 Jun 2026 09:29:21 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-06-04T061223Z_987027873_RC2HVEAZ055D_RTRMADP_3_CHINA-RAREEARTHS-1782708629.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "South Korea unveils $880bn chip and AI investment plan",
-      "link": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology.",
-      "pubDate": "Mon, 29 Jun 2026 08:55:29 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9182/live/a6bd7ef0-7384-11f1-9e21-8bd55db03589.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
