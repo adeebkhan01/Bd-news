@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T19:57:38.435Z",
+  "fetchedAt": "2026-07-30T22:31:41.638Z",
   "asx200": {
     "value": 8967.7,
     "change": 189,
@@ -99,8 +99,8 @@
   },
   "audusd": {
     "value": 0.7,
-    "change": 0.02,
-    "changePercent": 2.19,
+    "change": 0.01,
+    "changePercent": 2.17,
     "previousClose": 0.69,
     "asOf": "2026-07-30",
     "history": [
@@ -207,25 +207,25 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4170.6,
-      "change": 147.7,
-      "changePercent": 3.67
+      "price": 4166.3,
+      "change": 143.4,
+      "changePercent": 3.56
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 59.41,
-      "change": -0.07,
-      "changePercent": -0.11
+      "price": 59.31,
+      "change": -0.17,
+      "changePercent": -0.28
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 83.72,
-      "change": 14.22,
-      "changePercent": 20.46
+      "price": 84.23,
+      "change": 14.73,
+      "changePercent": 21.19
     },
     {
       "name": "Copper",
@@ -233,7 +233,7 @@
       "iconBg": "#fef0e6",
       "price": 6.5,
       "change": 0.31,
-      "changePercent": 5.02
+      "changePercent": 5.01
     },
     {
       "name": "BHP Group",
@@ -842,11 +842,25 @@
   ],
   "news": [
     {
-      "title": "ASX set to jump, Microsoft leads Wall Street rally; Apple results ahead",
+      "title": "'Never for sale': European nations vow World Cup boycott over FIFA plan",
+      "link": "https://www.abc.net.au/news/2026-07-31/uefa-vows-world-cup-boycott-fifa-private-equity-plan/106980126",
+      "snippet": "",
+      "pubDate": "Thu, 30 Jul 2026 21:20:47 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "ASX set to jump, Microsoft leads Wall Street rally; Apple reports iPhone sales surge",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-jump-microsoft-leads-wall-street-rally-apple-results-ahead-20260731-p60k79.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "US stocks are rebounding after Microsoft leaped on hopes that its big spending on AI is translating into profits, while computer-chip companies clawed back some of their sharp recent losses.",
-      "pubDate": "Fri, 31 Jul 2026 05:16:15 +1000",
+      "snippet": "A monster day for Microsoft’s stock following signals that its big spending on AI is translating into profits led a powerful rebound on Wall Street, while Apple’s results dropped after the closing bell",
+      "pubDate": "Fri, 31 Jul 2026 06:39:52 +1000",
       "source": "SMH Business"
+    },
+    {
+      "title": "Australia's old friend wasn't at the Glasgow velodrome, but the old enemy was",
+      "link": "https://www.abc.net.au/news/2026-07-31/commonwealth-games-track-cycling-team-sprint-australia-gold/106979862",
+      "snippet": "",
+      "pubDate": "Thu, 30 Jul 2026 20:15:57 +0000",
+      "source": "ABC News"
     },
     {
       "title": "Historic Clifton Hill pub on the market after failed development bid",
@@ -909,20 +923,6 @@
       "link": "https://www.abc.net.au/news/2026-07-30/afl-round-21-thursday-collingwood-geelong-live-blog/106978574",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 08:32:54 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Live: Aussie sprint stars through to 200m finals, gold rush at the velodrome",
-      "link": "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-seven-live-blog/106974778",
-      "snippet": "",
-      "pubDate": "Thu, 30 Jul 2026 08:14:48 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Tomic continues resurgence, de Minaur sets up clash with Hewitt",
-      "link": "https://www.abc.net.au/news/2026-07-30/bernard-tomic-into-mexico-atp-quarterfinal/106978534",
-      "snippet": "",
-      "pubDate": "Thu, 30 Jul 2026 07:15:33 +0000",
       "source": "ABC News"
     }
   ]
