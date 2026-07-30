@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T19:38:30.776Z",
-  "summary": "Australia's financial markets are poised to rise following a Wall Street rally, though broader economic concerns persist with weak US growth and inflation remaining sticky. Domestically, political drama dominates with the Governor-General warning of threats to democracy, ICAC revelations rattling federal politicians, and regional figures like Pauline Hanson ramping up campaigning efforts. Cultural and social issues range from aged care pressures and workplace frustrations with AI to a tragic profile of early fitness influencer Zyzz, while international stories reflect deepening climate crises in Europe and humanitarian concerns globally.",
+  "fetchedAt": "2026-07-30T22:09:26.981Z",
+  "summary": "Australia's domestic agenda is dominated by industrial action and policy reform, with BHP unions confirming a 24-hour strike while the government moves to crack down on fraudulent NDIS providers and reform working with children checks. Key vulnerabilities are emerging in critical sectors, including a paper mill cutting 84 jobs over timber supply issues and the Optus watchdog filing a lawsuit, while bird flu detection in Victoria adds a health concern. Political friction is building around Labor figures, with Prime Minister Albanese's absence at the Garma festival proving symbolically significant and Senator Luke Gosling facing pressure to step down following assault charges. The broader economic outlook shows mixed signals, with Australian share markets set to open stronger alongside a weak US GDP result, while institutional concerns about democratic integrity are rising as the Governor-General warns of growing threats to Australia's democratic systems.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,166 @@
     }
   ],
   "articles": [
+    {
+      "title": "Paper mill cuts 84 jobs, blaming Victorian government for lack of timber",
+      "link": "https://www.abc.net.au/news/2026-07-31/maryvale-opal-australian-maryvale-paper-mill-job-cuts-84-timber/106980230",
+      "desc": "Opal Australian Paper has blamed the Victorian government for failing to secure timber supply to keep its Maryvale paper mill operating at full capacity.",
+      "pubDate": "Thu, 30 Jul 2026 22:04:55 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/35d7f215355eaab16ff510b255da9aae?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=440&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Australia news live: attorneys general meet to reform working with children checks; leaders gather for Garma festival",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "desc": "<p>Attorneys general meet in Darwin to work on nationalising the working with children check after serious allegations of safety breaches in childcare sector. Follow live</p><ul><li><p>Get our <a href",
+      "pubDate": "Thu, 30 Jul 2026 21:54:32 GMT",
+      "img": "https://i.guim.co.uk/img/media/736759d8e8c67b2ab7a990b70f96b917334b9785/273_0_3981_3187/master/3981.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Driver on the run after Sydney pursuit",
+      "link": "https://www.smh.com.au/national/driver-on-the-run-after-sydney-pursuit-20260731-p60k7g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A driver is on the run after a police pursuit ended in a backyard in Sydney's north-west.",
+      "pubDate": "Fri, 31 Jul 2026 07:53:59 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8b0225126a4218a952ecb559870deedce4eb01d2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Unions confirm new 24-hour strike against BHP",
+      "link": "https://www.abc.net.au/news/2026-07-31/ports-unions-give-bhp-notice-of-24-hour-strike-in-port-hedland/106977222",
+      "desc": "BHP is facing renewed industrial action at its Port Hedland operations in Western Australia, with unions planning a 24-hour strike against the mining giant on August 9.",
+      "pubDate": "Thu, 30 Jul 2026 21:45:55 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/7904731fc2f1a7e8b3d964c74d0fb24f?impolicy=wcms_crop_resize&amp;cropH=2851&amp;cropW=2138&amp;xPos=1068&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Luke Gosling facing growing calls to stand down after assault charges",
+      "link": "https://www.abc.net.au/news/2026-07-31/labor-luke-gosling-envoy-political-future-assault-charges/106977892",
+      "desc": "Labor's political opponents have lined up to call for the prime minister to force Solomon MP Luke Gosling to stand aside from his special envoy role after he was charged with assaulting the NT adminis",
+      "pubDate": "Thu, 30 Jul 2026 21:21:53 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/272b5cbad69348225b70b9d994022334?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=447&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Council charges couples 'Noosa tax' to marry by the beach",
+      "link": "https://www.abc.net.au/news/2026-07-31/couples-claim-council-charging-noosa-tax-for-beach-weddings/106948582",
+      "desc": "Wedding permit fees at Queensland's holiday hotspot have increased fivefold in just 12 years.",
+      "pubDate": "Thu, 30 Jul 2026 21:15:58 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/b944811b9520875fe3f5c36a8199e39b?impolicy=wcms_crop_resize&amp;cropH=1573&amp;cropW=1180&amp;xPos=590&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Live: Labor to crack down on NDIS providers claiming banned services",
+      "link": "https://www.abc.net.au/news/2026-07-31/federal-politics-live-blog-ndis-july-31/106980178",
+      "desc": "The federal government will crack down on dodgy NDIS providers claiming for banned services under the \"Other Professional\" support item. Follow live.",
+      "pubDate": "Thu, 30 Jul 2026 21:07:44 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d34aca389ec3a33c602b22a47d682d44?impolicy=wcms_crop_resize&amp;cropH=3304&amp;cropW=2478&amp;xPos=1555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Wetlands are crucial food baskets for NZ’s native eels – new research",
+      "link": "https://theconversation.com/wetlands-are-crucial-food-baskets-for-nzs-native-eels-new-research-286126",
+      "desc": "Wetlands are increasingly appreciated for their role in flood prevention and as carbon sinks. But they also act as a crucial food source for the wider catchment.",
+      "pubDate": "2026-07-30T21:03:50Z",
+      "img": "https://images.theconversation.com/files/750132/original/file-20260726-57-xfralz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C313%2C3750%2C1875&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "National watchdog sues Optus",
+      "link": "https://www.smh.com.au/national/national-watchdog-sues-optus-20260731-p60k7j.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Watchdog ACMA is suing Optus over last year's major outage.",
+      "pubDate": "Fri, 31 Jul 2026 06:24:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c14135a0693cf9768c023959f8428609ad1b9357",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Bird flu detected in Victoria",
+      "link": "https://www.smh.com.au/national/bird-flu-detected-in-victoria-20260731-p60k7i.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The deadly H5N1 bird flu variant has been detected in Victoria for the first time.",
+      "pubDate": "Fri, 31 Jul 2026 06:21:57 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6d7a9b894e385b241c57e7cd99acd8762b885830",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Is social housing policy failing NZ families trying to move from renting to home ownership?",
+      "link": "https://theconversation.com/is-social-housing-policy-failing-nz-families-trying-to-move-from-renting-to-home-ownership-286065",
+      "desc": "New Zealand needs more social housing and affordable rentals, but also better pathways for working renters to become home owners.",
+      "pubDate": "2026-07-30T20:11:41Z",
+      "img": "https://images.theconversation.com/files/750539/original/file-20260728-57-so4qkt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C428%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Can pumping groundwater really flip Earth’s poles? An expert explains",
+      "link": "https://theconversation.com/can-pumping-groundwater-really-flip-earths-poles-an-expert-explains-288719",
+      "desc": "An Australian politician says pumping groundwater might save Earth from ‘flipping the poles’. What’s she on about?",
+      "pubDate": "2026-07-30T20:09:21Z",
+      "img": "https://images.theconversation.com/files/751093/original/file-20260730-70-s2yys5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C392%2C2531%2C1265&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Defining a ‘normal’ country: Japan’s long struggle between pacifism and the threats of a new era",
+      "link": "https://theconversation.com/defining-a-normal-country-japans-long-struggle-between-pacifism-and-the-threats-of-a-new-era-283891",
+      "desc": "Japan’s leader says the country needs a stronger military. This has prompted deep reflection and fierce debate about the country’s post-war legacy.",
+      "pubDate": "2026-07-30T20:09:11Z",
+      "img": "https://images.theconversation.com/files/750466/original/file-20260728-57-vtz1g4.png?ixlib=rb-4.1.1&amp;rect=0%2C50%2C1600%2C800&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Falls in whale sightings, rare seabirds appearing – is something unusual happening in the Southern Ocean?",
+      "link": "https://theconversation.com/falls-in-whale-sightings-rare-seabirds-appearing-is-something-unusual-happening-in-the-southern-ocean-287961",
+      "desc": "Could marine heatwaves in the cold Southern Ocean be making animals and birds migrate? It’s possible – but we need better monitoring to know.",
+      "pubDate": "2026-07-30T20:08:57Z",
+      "img": "https://images.theconversation.com/files/751088/original/file-20260730-50-w7ug9e.jpg?ixlib=rb-4.1.1&amp;rect=0%2C459%2C5500%2C2750&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "We revisited a forest experiment that lay forgotten for 30 years. What we found was astounding",
+      "link": "https://theconversation.com/we-revisited-a-forest-experiment-that-lay-forgotten-for-30-years-what-we-found-was-astounding-288105",
+      "desc": "There is no silver bullet for managing forests, but this study answers some historic questions.",
+      "pubDate": "2026-07-30T20:08:45Z",
+      "img": "https://images.theconversation.com/files/750462/original/file-20260728-57-5g62fa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1704%2C852&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "This history of currencies suggests the US dollar’s dominance may fade – but it will happen slowly",
+      "link": "https://theconversation.com/this-history-of-currencies-suggests-the-us-dollars-dominance-may-fade-but-it-will-happen-slowly-287572",
+      "desc": "The US dollar is said to benefit from ‘exorbitant privilege’ in international trade. But history shows that may not last.",
+      "pubDate": "2026-07-30T20:08:17Z",
+      "img": "https://images.theconversation.com/files/747960/original/file-20260715-77-99e17f.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
     {
       "title": "ASX set to jump, Microsoft leads Wall Street rally; Apple results ahead",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-jump-microsoft-leads-wall-street-rally-apple-results-ahead-20260731-p60k79.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -34348,236 +34508,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "ASX dips, while AI-buying frenzy drives Dow to record high — as it happened",
-      "link": "https://www.abc.net.au/news/2026-07-01/asx-markets-business-live-news/106863906",
-      "desc": "The Australian share market eases slightly, even as an AI-stock-led rally boosted the Dow Jones to a record high for a second straight day.",
-      "pubDate": "Tue, 30 Jun 2026 22:04:16 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/45c0d418253e25a4f5d3b74482e5844d?impolicy=wcms_crop_resize&amp;cropH=704&amp;cropW=528&amp;xPos=46&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Tobacco shop firebombed in Melbourne",
-      "link": "https://www.smh.com.au/national/victoria/tobacco-shop-firebombed-in-melbourne-20260701-p60bj1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A Tobacco shop on Bridge Road in Richmond was firebombed overnight.",
-      "pubDate": "Wed, 01 Jul 2026 07:53:47 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c369a3e9ed525a59beea1dc4045033d034f531d2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "'Hyperscale' data centre planned for remote NT",
-      "link": "https://www.abc.net.au/news/2026-07-01/data-centre-planned-outback-nt/106862398",
-      "desc": "The proposed 19,150-hectare 'Project Ares' would be built by Energy North on Murranji Station in the Barkly Region, as up to 12 proponents eye the NT for data centres.",
-      "pubDate": "Tue, 30 Jun 2026 21:30:15 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8470c492e1a4e1f430a672d1cfa0c059?impolicy=wcms_crop_resize&amp;cropH=716&amp;cropW=536&amp;xPos=303&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "'Hyperscale' data centre planned for remote NT",
-      "link": "https://www.abc.net.au/news/2026-07-01/data-centre-panned-outback-nt/106862398",
-      "desc": "The proposed 19,150-hectare 'Project Ares' would be built by Energy North on Murranji Station in the Barkly Region, as up to 12 proponents eye the NT for data centres.",
-      "pubDate": "Tue, 30 Jun 2026 21:30:15 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8470c492e1a4e1f430a672d1cfa0c059?impolicy=wcms_crop_resize&amp;cropH=716&amp;cropW=536&amp;xPos=303&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Live: Government defends budget housing tax changes as market cools",
-      "link": "https://www.abc.net.au/news/2026-07-01/federal-politics-live-blog-july-1/106863050",
-      "desc": "The government has again defended its housing tax changes included in the budget after a fresh report suggested house prices fell again in June. Follow live.",
-      "pubDate": "Tue, 30 Jun 2026 21:17:27 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/cf90990a847e76d3c00f5955edf4f409?impolicy=wcms_crop_resize&amp;cropH=2814&amp;cropW=2111&amp;xPos=1445&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "When working more hours might mean you lose your home",
-      "link": "https://www.abc.net.au/news/2026-07-01/social-housing-earning-caps-costing-tenants/106861196",
-      "desc": "Fremantle resident Trish Owen could lose the tenancy on her government-provided home if she works more hours — and a new study suggests many people are in the same situation.",
-      "pubDate": "Tue, 30 Jun 2026 21:12:50 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/61b29b06ab3e05ea5a4555d6df0ae21d?impolicy=wcms_crop_resize&amp;cropH=4160&amp;cropW=3120&amp;xPos=1560&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia news LIVE: Pay rises, tax cuts for millions of workers as July 1 changes come into effect; house prices across capital cities suffer biggest fall in four years",
-      "link": "https://www.smh.com.au/national/australia-news-live-pay-rises-for-millions-of-australians-as-new-financial-year-starts-home-values-continue-to-fall-us-supreme-court-strikes-down-trump-s-bid-to-end-birthright-citizenship-20260701-p60bi4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow along as we bring you the latest live news updates from Australia and the world.",
-      "pubDate": "Wed, 01 Jul 2026 06:50:24 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/db2ae9ac80b1aa28a52a6983c9fd15e1fe9cc4dd",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Destroyed lives’: Chinese billionaire sentenced to 30 years in US prison",
-      "link": "https://www.smh.com.au/business/companies/destroyed-hundreds-of-lives-chinese-billionaire-sentenced-to-30-years-in-us-prison-20260701-p60bi7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Guo Wengui convinced hundreds of thousands of people to invest more than $US1 billion but instead spent their money on a lavish lifestyle that included a superyacht and a New York penthouse.",
-      "pubDate": "Wed, 01 Jul 2026 06:17:06 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2186%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/59ab7300020f6e0fb76bcf2db3246607e59ba061",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Prickly starfish and urchins are decimating Australia’s reefs. But we could find ways to protect them",
-      "link": "https://theconversation.com/prickly-starfish-and-urchins-are-decimating-australias-reefs-but-we-could-find-ways-to-protect-them-285144",
-      "desc": "Crown-of-thorns starfish and long-spined sea urchins can rapidly devour healthy reefs.",
-      "pubDate": "2026-06-30T20:11:30Z",
-      "img": "https://images.theconversation.com/files/742651/original/file-20260618-69-dqzxbd.jpg?ixlib=rb-4.1.0&amp;rect=0%2C98%2C2550%2C1275&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "13,000 tonnes of space junk clutters Earth orbit. Here’s how it could be cleaned up",
-      "link": "https://theconversation.com/13-000-tonnes-of-space-junk-clutters-earth-orbit-heres-how-it-could-be-cleaned-up-283772",
-      "desc": "Properly addressing the problem of space requires work across three fronts: technology, policy and philosophy.",
-      "pubDate": "2026-06-30T20:11:13Z",
-      "img": "https://images.theconversation.com/files/742923/original/file-20260619-75-ymu2ak.jpg?ixlib=rb-4.1.0&amp;rect=0%2C51%2C1999%2C999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Auction clearance rates are sliding. Here’s what can happen when a home doesn’t sell",
-      "link": "https://theconversation.com/auction-clearance-rates-are-sliding-heres-what-can-happen-when-a-home-doesnt-sell-286342",
-      "desc": "What can research tell us about the upsides and risks of going to auction? And what can a failed auction mean for a property’s final selling price?",
-      "pubDate": "2026-06-30T20:09:33Z",
-      "img": "https://images.theconversation.com/files/745020/original/file-20260630-63-2jxfqm.jpg?ixlib=rb-4.1.0&amp;rect=0%2C657%2C7871%2C3935&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "How does Australia’s migration system actually work? 5 common myths busted",
-      "link": "https://theconversation.com/how-does-australias-migration-system-actually-work-5-common-myths-busted-285237",
-      "desc": "Think it’s easy to get a visa to Australia? Or that migrants get government benefits? Think again.",
-      "pubDate": "2026-06-30T20:09:00Z",
-      "img": "https://images.theconversation.com/files/744981/original/file-20260630-71-cc1li8.png?ixlib=rb-4.1.0&amp;rect=0%2C100%2C1600%2C800&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "House prices plummet as tax changes kick in",
-      "link": "https://www.smh.com.au/national/house-prices-plummet-as-tax-changes-kick-in-20260701-p60bib.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "House prices around the country have fallen as negative gearing changes kick in on top of high interest rates.",
-      "pubDate": "Wed, 01 Jul 2026 06:06:39 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6599e1a519a033e04ea3906e621c5af1f67ef5a2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Everything changing as new financial year begins",
-      "link": "https://www.smh.com.au/national/everything-changing-as-new-financial-year-begins-20260701-p60bid.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Tax cuts, minimum wage, parental leave, and superannuation are all getting a shake-up from today as the new financial year begins.",
-      "pubDate": "Wed, 01 Jul 2026 06:06:27 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/7592daa33a5487d0cbd78d5a0a4b9f57c2943c4e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Aussies reach T20 World Cup final",
-      "link": "https://www.smh.com.au/national/aussies-reach-t20-world-cup-final-20260701-p60bic.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Australia progresses through to the T20 World Cup final after defeating the West Indies.",
-      "pubDate": "Wed, 01 Jul 2026 06:06:17 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d9d545f58de43675321bd3287107044c108eeec3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Two fighting for life after Gold Coast house fire",
-      "link": "https://www.smh.com.au/national/two-fighting-for-life-after-gold-coast-house-fire-20260701-p60bi9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two people are fighting for their lives in hospital after a suspected arson attack on a Gold Coast home on Hope Island.",
-      "pubDate": "Wed, 01 Jul 2026 06:01:36 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a9f52da33e12b562fc6bae4c43021df758e8dea8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Tobacco shop firebombed in Melbourne",
-      "link": "https://www.smh.com.au/national/tobacco-shop-firebombed-in-melbourne-20260701-p60bia.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Another tobacco shop has been firebombed in Richmond, Melbourne overnight.",
-      "pubDate": "Wed, 01 Jul 2026 06:01:35 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4ad6bd320c355c8a040bd2fe0122589a065723d6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Relief for home owners in limbo after property acquisition backflip",
-      "link": "https://www.abc.net.au/news/2026-07-01/relief-homes-spared-from-resumption-the-wave-sunshine-coast/106859614",
-      "desc": "Dozens of homes on the Sunshine Coast have been spared after the Queensland government decided they were no longer required for a massive new public transport project.",
-      "pubDate": "Tue, 30 Jun 2026 20:01:05 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/0ceb9176955d9748cb4a12e743cac799?impolicy=wcms_crop_resize&amp;cropH=876&amp;cropW=657&amp;xPos=257&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Family reclaims body of slain Thai teen",
-      "link": "https://www.smh.com.au/national/family-reclaims-body-of-slain-thai-teen-20260701-p60bi8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The family of a teenage girl police who allege was killed by an Australian man in Thailand have reclaimed her body.",
-      "pubDate": "Wed, 01 Jul 2026 06:01:05 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8bc78f4a826d6ef6c210ec976e6daf76e5a2de8c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘I was in a blur’: Crackdown launched to wean millions of Australians off high-risk drugs",
-      "link": "https://www.smh.com.au/healthcare/i-was-in-a-blur-crackdown-launched-to-wean-millions-of-australians-off-high-risk-drugs-20260630-p60b8e.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Experts warn chronic reliance on some medications is leading to severe and dangerous side effects.",
-      "pubDate": "Wed, 01 Jul 2026 06:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1905%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/444208a95d9bc57afd0911cc8aa21948a16331d1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Anisa Nandaula on her recent shows at Brisbane Comedy Festival",
-      "link": "https://www.smh.com.au/national/queensland/anisa-nandaula-on-her-recent-shows-at-brisbane-comedy-festival-20260624-p609qv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Anisa Nandaula tells CityChats about her recent stint at Brisbane Comedy Festival, which she described as emotional.",
-      "pubDate": "Wed, 01 Jul 2026 05:45:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a97658e3607d052bfa4a40d22eab66cd7bba8853",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Anisa Nandaula on the joke that's received the worst reaction",
-      "link": "https://www.smh.com.au/national/queensland/anisa-nandaula-on-the-joke-thats-received-the-worst-reaction-20260624-p609rf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Comedian and poet Anisa Nandaula tells CityChats about the joke she's told that's received the most negative reaction.",
-      "pubDate": "Wed, 01 Jul 2026 05:45:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3cd8644f736c670f6180703b4ec2238443eb58cb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The universe is less uniform than we thought – cosmology may need a radical rethink",
-      "link": "https://theconversation.com/the-universe-is-less-uniform-than-we-thought-cosmology-may-need-a-radical-rethink-286059",
-      "desc": "New telescopes are challenging the idea that the cosmic web fades into a uniform, directionless distribution. It may be closer to a tangled yarn than a misty fog.",
-      "pubDate": "2026-06-30T19:44:20Z",
-      "img": "https://images.theconversation.com/files/743869/original/file-20260624-63-bwk85d.png?ixlib=rb-4.1.0&amp;rect=178%2C913%2C2672%2C1336&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
     }
   ]
 }
