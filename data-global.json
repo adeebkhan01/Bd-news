@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T08:33:35.389Z",
-  "summary": "Global tensions are escalating sharply as the US launches strikes against Iran following attacks on American troops, with Trump threatening further military action and regional allies scrambling to manage the fallout. The Middle East conflict remains the dominant story, encompassing Gaza's humanitarian crisis, Israel's military operations in Lebanon, and attempts to contain the broader war through international diplomacy and military coalitions. Oil markets are responding to supply concerns with prices rising, while the economic impact ripples through currencies, stocks and energy security across Asia and beyond. Domestically, policy concerns around AI governance, healthcare funding and interest rates occupy attention, though these remain secondary to the international security crisis dominating headlines.",
+  "fetchedAt": "2026-07-30T11:10:58.704Z",
+  "summary": "Major Middle East escalations dominate the news as the US launched strikes against Iran following an attack on American troops in Jordan, while Israeli operations intensify across the occupied West Bank amid deepening humanitarian concerns in Gaza. Saudi Arabia is assembling an international coalition to counter Houthi threats in the Red Sea, a critical shipping route now under pressure from regional tensions. Elsewhere, Poland reports a Russian missile breach of NATO airspace amid ongoing conflict in Ukraine, and political instability continues across multiple regions including Myanmar and Bolivia. Technology and economic stories include Trump's AI oversight concerns and persistent weakness in Meta's stock over its spending ambitions.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’",
+      "link": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
+      "desc": "Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport&#039;s continental structure.",
+      "pubDate": "Thu, 30 Jul 2026 10:35:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP781702319627-1785405910.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss",
+      "desc": "Israeli raids and settler attacks intensify across the occupied West Bank",
+      "pubDate": "Thu, 30 Jul 2026 10:21:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/israeli-attacks-horizontal-thumb-1785406764.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+      "link": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
+      "desc": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
+      "pubDate": "Thu, 30 Jul 2026 10:18:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260727__C3AX3UP__v1__HighRes__YemenIranUsIsraelWarTransport-1785216545.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Bagpipes - the first defence against alien invaders?",
+      "link": "https://www.bbc.co.uk/news/articles/cly8x0njylzo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Oxfordshire piper's tunes could soon make it to the moon under the plans of an space entrepreneur.",
+      "pubDate": "Thu, 30 Jul 2026 10:15:52 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a3/live/e66fb2b0-8bfe-11f1-a52a-dba993a97936.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Poland says Russian missile breaches NATO airspace",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
+      "desc": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
+      "pubDate": "Thu, 30 Jul 2026 10:13:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785406253.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+      "pubDate": "Thu, 30 Jul 2026 09:56:06 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654f/live/5dcac680-8bf3-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Virtual interviews don't show bosses your personality, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
+      "pubDate": "Thu, 30 Jul 2026 09:48:21 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/ef68bc30-8beb-11f1-9127-6b0fc0b6fa67.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Apartheid wealth cannot buy silence on Gaza",
+      "link": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
+      "desc": "South African universities must resist donors who use financial power to impose political obedience.",
+      "pubDate": "Thu, 30 Jul 2026 09:24:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b17e2-1785403362.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
+      "link": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
+      "pubDate": "Thu, 30 Jul 2026 09:17:18 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91c/live/b9fc7600-8b54-11f1-8322-5bf52455cf04.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
+      "link": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
+      "desc": "US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.",
+      "pubDate": "Thu, 30 Jul 2026 09:17:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b0ab9-1785399993.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
       "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
