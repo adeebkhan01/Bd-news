@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T16:38:40.849Z",
-  "summary": "The Middle East dominates global news as tensions escalate sharply, with the US launching major strikes on Iran following attacks on American troops, while simultaneous Israeli operations intensify across the occupied West Bank and Lebanon despite humanitarian warnings from the UN and international observers. The Ukraine conflict continues with Russian missile strikes killing civilians as Zelensky appeals for international attention, while Poland reports a Russian missile breach of NATO airspace, raising risks of wider conflict. Economic pressures mount across major economies including the US as inflation and trade deficits weigh on growth, while energy markets surge due to regional instability, and major employers like Jaguar Land Rover announce significant job cuts. Political instability spreads from Central America to Africa, with arrests of opposition figures in Uganda and Bolivia, alongside ongoing international criticism of military actions and alleged human rights violations.",
+  "fetchedAt": "2026-07-30T19:38:44.571Z",
+  "summary": "Global tensions are escalating across multiple flashpoints, with the Iran conflict intensifying after reported U.S. strikes on Iranian positions and a Russian missile striking Polish territory near NATO airspace, raising alarm about direct superpower confrontation. The Middle East remains destabilized as Israeli operations intensify in Gaza and the West Bank while humanitarian conditions deteriorate, drawing international scrutiny and accusations of potential genocide. Authoritarian crackdowns are widening, from Uganda's detention of opposition leader Besigye to Venezuela's aftermath, while climate emergencies are triggering infrastructure failures in Europe with dangerously low water levels forcing Hungary to shut its only nuclear plant. Economic pressures are mounting globally as U.S. growth slows amid inflation and trade deficits, oil prices surge from regional instability, and major employers like Jaguar Land Rover announce significant job cuts.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "UN demands end of Ugandan clampdown on dissent",
+      "link": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
+      "desc": "Pervasive climate of fear condemned amid human rights violations and crackdowns on opposition.",
+      "pubDate": "Thu, 30 Jul 2026 18:52:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b85c7-1785431495.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "ABC News says FCC is carrying out intimidation campaign to shape coverage",
+      "link": "https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss",
+      "desc": "Trump administration has frequently sought to pressure companies over coverage critical of the president and his allies.",
+      "pubDate": "Thu, 30 Jul 2026 18:51:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3bf74f8ec8-1782314831.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Turtle rescued from rubble a month after Venezuela earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss",
+      "desc": "A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued",
+      "pubDate": "Thu, 30 Jul 2026 18:15:11 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785435283.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
+      "link": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
+      "desc": "Climate change has helped southern Europe&#039;s likelihood of wildfires double since 1981, say researchers.",
+      "pubDate": "Thu, 30 Jul 2026 17:58:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b785d-1785428061.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+      "pubDate": "Thu, 30 Jul 2026 17:55:24 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Father of teen school shooter sentenced to 15 years in prison",
+      "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+      "pubDate": "Thu, 30 Jul 2026 17:33:41 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af0/live/c2d87530-8c3f-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+      "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac59/live/96fbf5d0-8c3b-11f1-89bb-9b3e3c6f25f4.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "In Their Own Hands: Ghana’s Drug Vigilantes",
+      "link": "https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss",
+      "desc": "Citizen vigilantes patrol Ghana&#039;s streets, fighting an opioid crisis. We meet those taking the law into their own hands.",
+      "pubDate": "Thu, 30 Jul 2026 16:30:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785412707.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "NATO jets scramble as Russian missile detonates in Poland",
+      "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
+      "desc": "The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.",
+      "pubDate": "Thu, 30 Jul 2026 16:28:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6b658beb08-1785423243.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "US GDP growth dips as inflation and trade deficits pressure economy",
       "link": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss",
@@ -13410,66 +13500,6 @@
       "desc": "A top Cuban official has accused the US of issuing &#039;constant threats&#039; and attempting to scuttle a UN debate.",
       "pubDate": "Tue, 30 Jun 2026 19:54:36 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a28a8c5548da-1781049541.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lebanon’s fragile ceasefire: 3 months later",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/lebanons-fragile-ceasefire-3-months-later?traffic_source=rss",
-      "desc": "This video also looks at what happened during the three months of the fragile ceasefire.",
-      "pubDate": "Tue, 30 Jun 2026 19:25:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782847412.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-      "pubDate": "Tue, 30 Jun 2026 18:59:19 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b21/live/28f27770-74a9-11f1-9c5b-41132a229f02.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US heatwave to test power grid amid soaring AI-driven energy demand",
-      "link": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand?traffic_source=rss",
-      "desc": "Grid operators warn the US heatwave could send electricity demand near record levels before Fourth of July weekend.",
-      "pubDate": "Tue, 30 Jun 2026 17:57:21 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a43f551b372-1782838609.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN warns Ebola could cost Africa $3.6bn and jobs",
-      "link": "https://www.aljazeera.com/news/2026/6/30/un-warns-ebola-could-cost-africa-3-6bn-and-jobs?traffic_source=rss",
-      "desc": "The latest Ebola outbreak in DRC has infected 1,307 people and claimed 377 lives since May.",
-      "pubDate": "Tue, 30 Jun 2026 17:55:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a4298ae5b0e-1782749358.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Toddler pulled from debris six days after Venezuelan earthquakes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/toddler-pulled-from-debris-six-days-after-venezuelan-earthquakes?traffic_source=rss",
-      "desc": "A Jordanian rescue team used thermal imaging to rescue a toddler who had been trapped under rubble for six days.",
-      "pubDate": "Tue, 30 Jun 2026 17:15:53 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782839682.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Palestine weekly: Israel accelerates land grabs in Gaza, West Bank",
-      "link": "https://www.aljazeera.com/news/2026/6/30/palestine-weekly-israel-quiet-annexation?traffic_source=rss",
-      "desc": "Permanent alterations begin at Hebron&#039;s Ibrahimi Mosque as plans advance for settlements in Gaza.",
-      "pubDate": "Tue, 30 Jun 2026 16:55:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AA-20260626-41796878-41796860-ISRAELI_ATTACKS_CONTINUE_ON_GAZA_DESPITE_CEASEFIRE-1782498062.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
