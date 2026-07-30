@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T16:55:33.442Z",
+  "fetchedAt": "2026-07-30T19:57:38.435Z",
   "asx200": {
     "value": 8967.7,
     "change": 189,
@@ -99,8 +99,8 @@
   },
   "audusd": {
     "value": 0.7,
-    "change": 0.01,
-    "changePercent": 2.11,
+    "change": 0.02,
+    "changePercent": 2.19,
     "previousClose": 0.69,
     "asOf": "2026-07-30",
     "history": [
@@ -193,6 +193,10 @@
         "close": 0.7
       },
       {
+        "date": "2026-07-29",
+        "close": 0.7
+      },
+      {
         "date": "2026-07-30",
         "close": 0.7
       }
@@ -203,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4167.5,
-      "change": 144.6,
-      "changePercent": 3.59
+      "price": 4170.6,
+      "change": 147.7,
+      "changePercent": 3.67
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.89,
-      "change": -0.59,
-      "changePercent": -0.99
+      "price": 59.41,
+      "change": -0.07,
+      "changePercent": -0.11
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 83.93,
-      "change": 14.43,
-      "changePercent": 20.76
+      "price": 83.72,
+      "change": 14.22,
+      "changePercent": 20.46
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.48,
-      "change": 0.28,
-      "changePercent": 4.58
+      "price": 6.5,
+      "change": 0.31,
+      "changePercent": 5.02
     },
     {
       "name": "BHP Group",
@@ -838,6 +842,48 @@
   ],
   "news": [
     {
+      "title": "ASX set to jump, Microsoft leads Wall Street rally; Apple results ahead",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-jump-microsoft-leads-wall-street-rally-apple-results-ahead-20260731-p60k79.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "US stocks are rebounding after Microsoft leaped on hopes that its big spending on AI is translating into profits, while computer-chip companies clawed back some of their sharp recent losses.",
+      "pubDate": "Fri, 31 Jul 2026 05:16:15 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Historic Clifton Hill pub on the market after failed development bid",
+      "link": "https://www.smh.com.au/business/companies/historic-clifton-hill-pub-on-the-market-after-failed-development-bid-20260729-p60jpp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The Royal Hotel is on the market. The move comes three years after its owners lost their bid to build a five-storey apartment project over the historic corner hotel.",
+      "pubDate": "Fri, 31 Jul 2026 05:01:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "We think our boss has become obsessed with a chatbot. What can we do?",
+      "link": "https://www.smh.com.au/business/workplace/we-think-our-boss-has-become-obsessed-with-a-chatbot-what-can-we-do-20260730-p60jzq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "One day in the future consulting with robots as if they’re trustworthy humans might be entirely normal, and possibly beneficial. That day has not arrived.",
+      "pubDate": "Fri, 31 Jul 2026 05:01:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Priscilla’s pub to get a $5 million facelift by its new operator",
+      "link": "https://www.smh.com.au/business/companies/priscilla-s-pub-to-get-a-5-million-facelift-by-its-new-operator-20260730-p60k0z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The renovation will see The Imperial’s ground floor double in size through an expanded beer garden, as well as a 24-hour basement bar.",
+      "pubDate": "Fri, 31 Jul 2026 05:01:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "News Corp plots future of tabloid chief",
+      "link": "https://www.smh.com.au/business/companies/news-corp-plots-future-of-tabloid-chief-20260730-p60jwa.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Company sources are talking about opportunities to promote Daily Telegraph chief Ben English to a role with more responsibility for managing profit and loss.",
+      "pubDate": "Fri, 31 Jul 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Most of us get this economics question wrong. We’re paying for it",
+      "link": "https://www.smh.com.au/business/the-economy/most-of-us-get-this-economics-question-wrong-we-re-paying-for-it-20260730-p60k08.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Australians care about price growth. So, why do most of us have the wrong idea about how to slow it down?",
+      "pubDate": "Fri, 31 Jul 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "Ex-MAFS star Ridge Barredo sticking to weightlifting despite ugly injury",
       "link": "https://www.abc.net.au/news/2026-07-31/commonwealth-games-ridge-barredo-mafs-weightlifting/106979516",
       "snippet": "",
@@ -866,7 +912,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Live: Aussies claim stunning team pursuit gold after nasty crash at velodrome",
+      "title": "Live: Aussie sprint stars through to 200m finals, gold rush at the velodrome",
       "link": "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-seven-live-blog/106974778",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 08:14:48 +0000",
@@ -878,48 +924,6 @@
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 07:15:33 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Last-minute race to deliver marathon medals after shipping delays",
-      "link": "https://www.abc.net.au/news/2026-07-30/sunshine-coast-marathon-medals-stuck-port-brisbane/106975454",
-      "snippet": "",
-      "pubDate": "Thu, 30 Jul 2026 07:01:16 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Beetaloo brings in Halliburton for Top End data centre push",
-      "link": "https://www.smh.com.au/business/companies/beetaloo-brings-in-halliburton-for-top-end-data-centre-push-20260730-p60k47.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Beetaloo Energy has inked a deal with US oilfield services giant Halliburton to advance its gas-powered data centre development, bringing in a major technical partner for its Northern Territory digital strategy.",
-      "pubDate": "Thu, 30 Jul 2026 16:42:34 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Viking maps out US tungsten processing pathway",
-      "link": "https://www.smh.com.au/business/companies/viking-maps-out-us-tungsten-processing-pathway-20260730-p60k42.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Viking Mines has firmed up a processing plan for its Linka tungsten project in the US, with a new study defining a modular plant design ahead of maiden drilling.",
-      "pubDate": "Thu, 30 Jul 2026 16:37:12 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Godolphin confirms broad NSW copper-gold porphyry at Goodrich",
-      "link": "https://www.smh.com.au/business/companies/godolphin-confirms-broad-nsw-copper-gold-porphyry-at-goodrich-20260730-p60k3t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Godolphin has confirmed a significant copper-gold porphyry system at Goodrich in NSW after drilling hit 136.55m at 0.32% copper and 0.16g/t gold from 81.45m.",
-      "pubDate": "Thu, 30 Jul 2026 16:36:18 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Australia faces new fuel warning as Iran war spreads to Red Sea",
-      "link": "https://www.smh.com.au/business/companies/australia-faces-new-fuel-warning-as-iran-war-spreads-to-red-sea-20260730-p60jyn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Ampol warns the conflict is spreading to another key oil route, threatening to push up fuel prices just as the federal excise discount ends.",
-      "pubDate": "Thu, 30 Jul 2026 15:54:32 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Buckle up for the banks’ mortgage war! Home loans have fallen off a cliff",
-      "link": "https://www.smh.com.au/business/banking-and-finance/buckle-up-for-the-banks-mortgage-war-home-loans-have-fallen-off-a-cliff-20260730-p60k03.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The evidence is overwhelming. Home loan applications haven’t just dropped - they have plummeted, thanks to the RBA’s rate rises and the federal budget’s tax policy.",
-      "pubDate": "Thu, 30 Jul 2026 15:16:39 +1000",
-      "source": "SMH Business"
     }
   ]
 }
