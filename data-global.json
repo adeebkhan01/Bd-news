@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T05:45:05.339Z",
-  "summary": "Escalating tensions between the US and Iran dominate global headlines following American strikes on Iranian positions after an attack on US troops in Jordan, with Saudi Arabia seeking to build an international coalition against Houthis while navigating pressure to avoid deeper involvement in the conflict. The humanitarian crisis in Gaza intensifies as hospitals reach breaking point amid ongoing Israeli operations, while Syria's fragile peace and Lebanon's border villages face mounting instability. In domestic politics across multiple nations, significant developments include Trump's controversial picks and policy decisions spanning defense spending to WHO funding, Britain's nuclear submarine investment plans, and political turmoil in Myanmar, Tunisia, and Bolivia. Technology and finance sectors show signs of strain, with AI spending concerns rattling markets in South Korea and the US, OpenAI grappling with security breaches, and central banks maintaining steady interest rates amid persistent inflation concerns.",
+  "fetchedAt": "2026-07-30T08:33:35.389Z",
+  "summary": "Global tensions are escalating sharply as the US launches strikes against Iran following attacks on American troops, with Trump threatening further military action and regional allies scrambling to manage the fallout. The Middle East conflict remains the dominant story, encompassing Gaza's humanitarian crisis, Israel's military operations in Lebanon, and attempts to contain the broader war through international diplomacy and military coalitions. Oil markets are responding to supply concerns with prices rising, while the economic impact ripples through currencies, stocks and energy security across Asia and beyond. Domestically, policy concerns around AI governance, healthcare funding and interest rates occupy attention, though these remain secondary to the international security crisis dominating headlines.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+      "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+      "desc": "Rights group says India continues to support the Israeli military despite genocide &#039;broadcast worldwide on daily basis&#039;.",
+      "pubDate": "Thu, 30 Jul 2026 07:13:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20180115__WO7WH__v1__HighRes__IndiaIsraelPoliticsDiplomacy-1-1771837604.jpg?resize=1833%2C1080",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Shell profits double as oil prices rise due to Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+      "pubDate": "Thu, 30 Jul 2026 07:11:44 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd5/live/6ade7670-8be2-11f1-9d57-5bf4695bf6fa.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Can the UN’s Refugee Convention survive?",
+      "link": "https://www.aljazeera.com/features/2026/7/30/can-the-uns-refugee-convention?traffic_source=rss",
+      "desc": "The 1951 UN Refugee Convention marks its 75th anniversary this week but is facing anti-migration sentiment in the West.",
+      "pubDate": "Thu, 30 Jul 2026 07:06:27 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP123635777841-1785400002.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&amp;at_campaign=rss",
@@ -13353,46 +13383,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "EU gets tough on China as trade imbalance stokes deindustrialisation fears",
-      "link": "https://www.aljazeera.com/economy/2026/6/30/eu-gets-tough-on-china-as-trade-imbalance-stokes-deindustrialisation-fears?traffic_source=rss",
-      "desc": "Talks between EU trade commissioner and Chinese commerce minister come as bloc seeks to limit influx of Chinese imports.",
-      "pubDate": "Tue, 30 Jun 2026 08:30:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260626__B8F42KH__v2__MidRes__ComboEuChinaPoliticsDiplomacy-1782783547.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How each prime minister broke Britain’s economy",
-      "link": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss",
-      "desc": "How each prime minister broke Britain’s economy",
-      "pubDate": "Tue, 30 Jun 2026 07:52:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/16x9-1782805794.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "WhatsApp to let users go by usernames, not phone numbers",
-      "link": "https://www.aljazeera.com/news/2026/6/30/whatsapp-to-let-users-go-by-usernames-not-phone-numbers?traffic_source=rss",
-      "desc": "WhatsApp says the feature is designed to give its three billion users a new layer of control over who can contact them.",
-      "pubDate": "Tue, 30 Jun 2026 06:54:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a435c4b89a51-1782799435.jpg?resize=1729%2C1080",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Peru elects Keiko Fujimori in victory for Latin American right",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/peru-elects-keiko-fujimori-in-victory-for-latin-american-right?traffic_source=rss",
-      "desc": "Peru&#039;s conservative president-elect Keiko Fujimori vows that the ‘doors to dialogue will always be open.’",
-      "pubDate": "Tue, 30 Jun 2026 06:37:07 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782801082.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
