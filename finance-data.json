@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T11:25:35.524Z",
+  "fetchedAt": "2026-07-30T14:37:30.924Z",
   "asx200": {
     "value": 8967.7,
     "change": 189,
@@ -94,17 +94,13 @@
       {
         "date": "2026-07-29",
         "close": 9038.6
-      },
-      {
-        "date": "2026-07-30",
-        "close": 8967.7
       }
     ]
   },
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.41,
+    "changePercent": 2.01,
     "previousClose": 0.69,
     "asOf": "2026-07-30",
     "history": [
@@ -207,33 +203,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4138,
-      "change": 115.1,
-      "changePercent": 2.86
+      "price": 4149.4,
+      "change": 126.5,
+      "changePercent": 3.14
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.25,
-      "change": -1.23,
-      "changePercent": -2.06
+      "price": 58.24,
+      "change": -1.24,
+      "changePercent": -2.08
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 83.71,
-      "change": 14.21,
-      "changePercent": 20.45
+      "price": 84.14,
+      "change": 14.64,
+      "changePercent": 21.06
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.44,
-      "change": 0.25,
-      "changePercent": 4.04
+      "price": 6.45,
+      "change": 0.26,
+      "changePercent": 4.2
     },
     {
       "name": "BHP Group",
@@ -842,21 +838,35 @@
   ],
   "news": [
     {
-      "title": "Live: Cowboys and Roosters set for top eight battle",
+      "title": "Ex-MAFS star Ridge Barredo sticking to weightlifting despite ugly injury",
+      "link": "https://www.abc.net.au/news/2026-07-31/commonwealth-games-ridge-barredo-mafs-weightlifting/106979516",
+      "snippet": "",
+      "pubDate": "Thu, 30 Jul 2026 14:25:39 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "'Try not to die': Why Glasgow's gales hit different for hurdlers",
+      "link": "https://www.abc.net.au/news/2026-07-30/michelle-jenneke-glasgow-commonwealth-games-cam-mcentyre-wind/106979514",
+      "snippet": "",
+      "pubDate": "Thu, 30 Jul 2026 13:12:55 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Roosters put up 82 points for highest NRL score in 91 years",
       "link": "https://www.abc.net.au/news/2026-07-30/nrl-live-updates-north-queensland-cowboys-sydney-roosters/106979316",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 09:28:19 +0000",
       "source": "ABC News"
     },
     {
-      "title": "Live: Magpies rally to threaten comeback after Cats' dominant start",
+      "title": "Cats hold off Magpies comeback for critical MCG win",
       "link": "https://www.abc.net.au/news/2026-07-30/afl-round-21-thursday-collingwood-geelong-live-blog/106978574",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 08:32:54 +0000",
       "source": "ABC News"
     },
     {
-      "title": "Live: Re-race ordered after Aussie caught up in scary wheelchair crash",
+      "title": "Live: Aussie cyclist breaks world record, re-race ordered after wheelchair crash",
       "link": "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-seven-live-blog/106974778",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 08:14:48 +0000",
@@ -910,20 +920,6 @@
       "snippet": "The evidence is overwhelming. Home loan applications haven’t just dropped - they have plummeted, thanks to the RBA’s rate rises and the federal budget’s tax policy.",
       "pubDate": "Thu, 30 Jul 2026 15:16:39 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Final frontiers drive Hazlewood in twilight years",
-      "link": "https://www.abc.net.au/news/2026-07-30/josh-hazlewood-driven-by-achieving-series-wins-england-india/106977508",
-      "snippet": "",
-      "pubDate": "Thu, 30 Jul 2026 05:12:42 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "People across Ireland wake up at all hours to watch AFLW",
-      "link": "https://www.abc.net.au/news/2026-07-30/irish-families-watch-aflw-back-home-in-the-middle-of-the-night/106913202",
-      "snippet": "",
-      "pubDate": "Thu, 30 Jul 2026 04:03:11 +0000",
-      "source": "ABC News"
     }
   ]
 }
