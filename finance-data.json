@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T09:08:26.887Z",
+  "fetchedAt": "2026-07-30T11:25:35.524Z",
   "asx200": {
     "value": 8967.7,
     "change": 189,
@@ -104,7 +104,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.22,
+    "changePercent": 1.41,
     "previousClose": 0.69,
     "asOf": "2026-07-30",
     "history": [
@@ -207,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4118.7,
-      "change": 95.8,
-      "changePercent": 2.38
+      "price": 4138,
+      "change": 115.1,
+      "changePercent": 2.86
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.8,
-      "change": -1.68,
-      "changePercent": -2.82
+      "price": 58.25,
+      "change": -1.23,
+      "changePercent": -2.06
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 85,
-      "change": 15.5,
-      "changePercent": 22.3
+      "price": 83.71,
+      "change": 14.21,
+      "changePercent": 20.45
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.43,
-      "change": 0.23,
-      "changePercent": 3.75
+      "price": 6.44,
+      "change": 0.25,
+      "changePercent": 4.04
     },
     {
       "name": "BHP Group",
@@ -842,14 +842,21 @@
   ],
   "news": [
     {
-      "title": "Live: Pies and Cats clash at the MCG in finals-shaping blockbuster",
+      "title": "Live: Cowboys and Roosters set for top eight battle",
+      "link": "https://www.abc.net.au/news/2026-07-30/nrl-live-updates-north-queensland-cowboys-sydney-roosters/106979316",
+      "snippet": "",
+      "pubDate": "Thu, 30 Jul 2026 09:28:19 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Magpies rally to threaten comeback after Cats' dominant start",
       "link": "https://www.abc.net.au/news/2026-07-30/afl-round-21-thursday-collingwood-geelong-live-blog/106978574",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 08:32:54 +0000",
       "source": "ABC News"
     },
     {
-      "title": "Live: Jess Hull competes in mile heats, track cycling program begins",
+      "title": "Live: Re-race ordered after Aussie caught up in scary wheelchair crash",
       "link": "https://www.abc.net.au/news/2026-07-30/commonwealth-games-glasgow-day-seven-live-blog/106974778",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 08:14:48 +0000",
@@ -916,13 +923,6 @@
       "link": "https://www.abc.net.au/news/2026-07-30/irish-families-watch-aflw-back-home-in-the-middle-of-the-night/106913202",
       "snippet": "",
       "pubDate": "Thu, 30 Jul 2026 04:03:11 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Storm coach responds to Munster's PNG ultimatum",
-      "link": "https://www.abc.net.au/news/2026-07-30/storm-coach-responds-to-munster-png-ultimatum/106976728",
-      "snippet": "",
-      "pubDate": "Thu, 30 Jul 2026 03:55:30 +0000",
       "source": "ABC News"
     }
   ]
