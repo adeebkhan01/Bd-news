@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T14:11:15.543Z",
-  "summary": "Global tensions are escalating across multiple fronts, with the Middle East seeing intensified conflict as the US launches strikes on Iran following attacks on American troops, while Saudi Arabia mobilizes an international coalition against Houthi threats in the Red Sea and Israeli operations intensify in the West Bank and Lebanon. Eastern Europe remains volatile following reports of Russian missiles breaching NATO airspace over Poland, though Poland's prime minister suggests the incident was likely accidental. Major economic shifts are underway, including job cuts at Jaguar Land Rover, record profits for Shell driven by geopolitical instability, and continued volatility in technology stocks as companies grapple with AI investment decisions and security breaches. Humanitarian crises are deepening, particularly in Gaza where hospital systems are collapsing from war and shortages, while detained Ugandan opposition leader Besigye is reported in intensive care and multiple regions face refugee and displacement pressures.",
+  "fetchedAt": "2026-07-30T16:38:40.849Z",
+  "summary": "The Middle East dominates global news as tensions escalate sharply, with the US launching major strikes on Iran following attacks on American troops, while simultaneous Israeli operations intensify across the occupied West Bank and Lebanon despite humanitarian warnings from the UN and international observers. The Ukraine conflict continues with Russian missile strikes killing civilians as Zelensky appeals for international attention, while Poland reports a Russian missile breach of NATO airspace, raising risks of wider conflict. Economic pressures mount across major economies including the US as inflation and trade deficits weigh on growth, while energy markets surge due to regional instability, and major employers like Jaguar Land Rover announce significant job cuts. Political instability spreads from Central America to Africa, with arrests of opposition figures in Uganda and Bolivia, alongside ongoing international criticism of military actions and alleged human rights violations.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "US GDP growth dips as inflation and trade deficits pressure economy",
+      "link": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss",
+      "desc": "GDP grew by 1.5 percent in the second quarter following a 2.1 percent increase in the first quarter.",
+      "pubDate": "Thu, 30 Jul 2026 15:52:47 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b641e-1785422878.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+      "pubDate": "Thu, 30 Jul 2026 15:20:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce2/live/9f464590-8c24-11f1-bdac-871e920411eb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 19",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
+      "desc": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
+      "pubDate": "Thu, 30 Jul 2026 14:56:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG_0878-1785423404.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Police arrest dozens at London rally supporting Palestine Action",
+      "link": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+      "desc": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+      "pubDate": "Thu, 30 Jul 2026 14:22:02 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26211434770937-1785416867.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Hundreds of jobs to go at Jaguar Land Rover",
       "link": "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo?at_medium=RSS&amp;at_campaign=rss",
@@ -13433,56 +13473,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
-      "link": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes?traffic_source=rss",
-      "desc": "Analysts say Russia&#039;s fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.",
-      "pubDate": "Tue, 30 Jun 2026 16:31:28 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a43dee243713-1782832866.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "SCOTUS rules against Trump’s order limiting birthright citizenship",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss",
-      "desc": "The US Supreme Court has blocked President Donald Trump&#039;s executive order to end birthright citizenship.",
-      "pubDate": "Tue, 30 Jun 2026 15:25:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-SCOTUS-BIRTHRIGHT-1782832891.png?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large",
-      "link": "https://www.aljazeera.com/news/2026/6/30/monaco-prosecutors-say-no-terror-evidence-after-blast-suspect-at-large?traffic_source=rss",
-      "desc": "Search under way for suspect who fled scene after explosive device placed at entrance to building wounded three.",
-      "pubDate": "Tue, 30 Jun 2026 15:06:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-30T103909Z_1351804526_RC2A4MA7RB8Y_RTRMADP_3_MONACO-SECURITY-1782818578.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Supreme Court's birthright ruling is major blow to Trump",
-      "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
-      "pubDate": "Tue, 30 Jun 2026 14:37:54 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3737/live/24fbc0a0-748f-11f1-8546-8f19e4fe30f4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Senegalese MPs move to clip presidential powers as tensions mount",
-      "link": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The proposed changes agreed by a majority of MPs sparked protests outside parliament.",
-      "pubDate": "Tue, 30 Jun 2026 14:35:03 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f00c/live/18697550-7456-11f1-be8f-21fb848bc449.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
