@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T22:04:26.265Z",
-  "summary": "Global tensions are escalating as the US and Iran trade military strikes following attacks on American bases, with Trump threatening further action while Saudi Arabia and Israel navigate the widening conflict. Financial markets are showing strain across multiple sectors, with Meta shares falling over AI spending concerns, South Korean stocks plummeting as AI enthusiasm wanes, and the Fed holding rates steady amid persistent inflation. Political upheaval continues worldwide, from Myanmar's harsh sentencing of activists to Tunisia's constitutional crisis and Algeria electing its first female parliamentary speaker. Meanwhile, humanitarian challenges persist in Gaza and the Middle East, climate emergencies worsen in Europe, and emerging security concerns include autonomous AI hacking capabilities and China's increased military pressure on Taiwan.",
+  "fetchedAt": "2026-07-30T02:41:17.107Z",
+  "summary": "Global tensions are escalating sharply as the US and Iran exchange military strikes following an attack on a US base in Jordan, with Trump threatening further action and concerns mounting over whether the conflict could expand beyond the region. In Europe, Britain is investing in nuclear submarines while the Middle East faces supply disruptions from Houthi attacks in the Red Sea, prompting Japan to seek Canadian crude and Saudi Arabia to build an international coalition. Domestically across multiple countries, political instability marks the day from Myanmar's heavy-handed crackdown on activists to Tunisia's political crisis and Canada-Israel tensions over settlements. Technology companies face mounting scrutiny as OpenAI deals with hacking incidents and AI spending concerns weigh on major tech stocks, while central banks including the Federal Reserve hold interest rates steady despite inflation pressures.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,146 @@
     }
   ],
   "articles": [
+    {
+      "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+      "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+      "pubDate": "Thu, 30 Jul 2026 02:36:53 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c653/live/f6fd7a60-8b8e-11f1-9432-3dcf466331f0.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "The once-destroyed community that's now a global energy giant",
+      "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A US county wiped out by a hurricane is now the world's largest exporter of liquified natural gas.",
+      "pubDate": "Thu, 30 Jul 2026 02:08:24 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5640/live/ba845670-8a5e-11f1-b6c7-397f42881d1e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "link": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
+      "desc": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada&#039;s TMX crude oil.",
+      "pubDate": "Thu, 30 Jul 2026 01:42:30 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6aa3b9-1785373625.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss",
+      "desc": "US President Donald Trump has again signalled support for selling F-35 fighter jets to Turkiye.",
+      "pubDate": "Thu, 30 Jul 2026 01:04:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/WIDE-THUMB-1785373235.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "pubDate": "Thu, 30 Jul 2026 00:41:28 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "link": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
+      "desc": "Decision follows long-running feud between Trump and UN group.",
+      "pubDate": "Thu, 30 Jul 2026 00:26:49 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26202576909515-1784725418.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+      "desc": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
+      "pubDate": "Thu, 30 Jul 2026 00:23:13 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T113355Z_135945465_RC2BKMAFHMC6_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1785367531.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "desc": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260727__C39X7AF__v1__HighRes__IranUsIsraelWar-1785375678.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
+      "desc": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
+      "pubDate": "Wed, 29 Jul 2026 23:34:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T164250Z_37060657_RC2GKMAKXRYH_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1785362471.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "link": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
+      "desc": "Canada says that illegal settlements in occupied Palestinian territory undermine &#039;peace, security and stability&#039;.",
+      "pubDate": "Wed, 29 Jul 2026 23:29:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a65eeb2-1785065138.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+      "desc": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+      "pubDate": "Wed, 29 Jul 2026 23:10:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a6a7bf40980d-1785363444.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
+      "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+      "pubDate": "Wed, 29 Jul 2026 23:02:18 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/b3a50330-8a87-11f1-83c5-cf36fe4b083e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Interest rates expected to be held again by Bank of England",
+      "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+      "pubDate": "Wed, 29 Jul 2026 23:01:56 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e0/live/7b090d20-8b3e-11f1-b2d7-b96c6bc9d7f5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
+      "desc": "US President Donald Trump says he is considering &#039;AI controls&#039; following OpenAI&#039;s disclosure.",
+      "pubDate": "Wed, 29 Jul 2026 22:27:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6a5b7d0cd5-1785355133.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Meta shares fall as frustration grows over AI spending plans",
       "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&amp;at_campaign=rss",
@@ -133,6 +273,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What happens here has a big impact on your money",
+      "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
+      "pubDate": "Wed, 29 Jul 2026 16:00:24 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618c/live/9a13a080-8b53-11f1-8322-5bf52455cf04.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
@@ -13213,76 +13363,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss",
-      "desc": "The UN says it is procuring 10,000 body bags for Venezuela, warning the death toll will rise.",
-      "pubDate": "Tue, 30 Jun 2026 02:41:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782787220.jpg?resize=1621%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
-      "desc": "An unofficial June 30 deadline was set by anti-immigration groups for undocumented migrants to leave South Africa.",
-      "pubDate": "Tue, 30 Jun 2026 02:30:26 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782786579.jpg?resize=1721%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
-      "pubDate": "Tue, 30 Jun 2026 02:08:21 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/f85c62b0-7417-11f1-8709-f3ededd8395d.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
-      "link": "https://www.aljazeera.com/news/2026/6/30/keiko-fujimori-leads-in-peruvian-presidential-race-as-vote-count-concludes?traffic_source=rss",
-      "desc": "Daughter of former President Alberto Fujimori says the country is closer to &#039;order and hope&#039; after prolonged vote count.",
-      "pubDate": "Tue, 30 Jun 2026 00:28:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a42eb71e455-1782770545.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
-      "desc": "Trump says meeting with Iran will take place in Doha today, but Tehran says there are no plans for talks in coming days.",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260629__B8MJ3ZU__v2__HighRes__IranUsIsraelWarKhameneiFuneral-1782775306.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What to know about the looming deadline on North American free trade",
-      "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
-      "pubDate": "Mon, 29 Jun 2026 23:32:52 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b68/live/f318e4c0-73f6-11f1-bb7f-e5226e63ffb3.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
-      "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
-      "pubDate": "Mon, 29 Jun 2026 23:08:44 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3821/live/5bbec4e0-73c0-11f1-aaa1-3f07d3ad2c35.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
