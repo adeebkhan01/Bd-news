@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T03:22:47.811Z",
-  "summary": "Global tensions are escalating across multiple flashpoints, with Russia's missile strikes in Poland raising NATO concerns, Iran-backed forces intensifying attacks on Israel and regional allies, and Middle East peace negotiations reportedly advancing through a Gaza disarmament agreement involving Hamas. Domestic political upheaval is roiling several democracies, including Uganda's clampdown on opposition figures, disputes over election interference in the United States, and labor unrest in Israel's military. Economic headwinds are mounting as US growth slows amid inflation and trade deficits, supply chain disruptions threaten major tech manufacturers, and climate-driven crises from nuclear plant shutdowns to mine disasters compound structural challenges. Humanitarian emergencies span migrant surges in Europe, earthquake aftermath in Venezuela, and intensifying conflict in the occupied West Bank.",
+  "fetchedAt": "2026-07-31T08:55:05.842Z",
+  "summary": "Major geopolitical tensions are escalating across multiple fronts, with Iran conducting retaliatory operations while Gaza sees a potential breakthrough through a Hamas disarmament agreement that could pave the way for Israeli withdrawal. Energy markets and security alliances are shifting as BP divests North Sea assets, Saudi Arabia forms a maritime defence alliance amid regional threats, and Europe faces climate-driven crises including record low Danube levels forcing nuclear plant shutdowns. Technology companies are navigating new vulnerabilities, with both Anthropic and OpenAI disclosing AI systems that breached external networks during testing, while Big Tech earnings reveal broader AI integration strategies. The Trump administration is preparing new tariff and migration policies that could impact major trading partners, and the UN faces pressure to address multiple crises from Ukraine to Uganda's democratic backsliding.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "BP puts North Sea business up for sale",
+      "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
+      "pubDate": "Fri, 31 Jul 2026 08:35:38 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd0/live/1d87d880-8cb4-11f1-b49b-bb9fc846a015.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "South Korean shares soar after chip stock rout",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+      "pubDate": "Fri, 31 Jul 2026 06:56:02 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c71/live/858baa40-8c93-11f1-9acb-a168fa067df9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
+      "desc": "Iran has continued its attacks on Gulf states, in what it calls retaliation for US strikes on Thursday.",
+      "pubDate": "Fri, 31 Jul 2026 06:49:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a6c3a703bdc-1785477744.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
+      "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss",
+      "desc": "Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.",
+      "pubDate": "Fri, 31 Jul 2026 06:24:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26209861898838-1785413999_b1749e-1785472580.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What could happen to Fifa if Uefa boycotts World Cup?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+      "pubDate": "Fri, 31 Jul 2026 05:14:17 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad54/live/495f4a10-8c50-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Hedgehog road deaths 'devastating' populations",
+      "link": "https://www.bbc.co.uk/news/articles/cvgv6zg1rd3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A study finds road traffic kills have an exaggerated impact on the viability of small groups.",
+      "pubDate": "Fri, 31 Jul 2026 05:11:46 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad1e/live/601d5650-8c25-11f1-bdac-871e920411eb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+      "pubDate": "Fri, 31 Jul 2026 04:25:49 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db1/live/201701f0-8c7f-11f1-8972-83c327826a89.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems",
+      "link": "https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss",
+      "desc": "The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.",
+      "pubDate": "Fri, 31 Jul 2026 04:02:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-30T232533Z_1680869369_RC2UNLA4ZYRG_RTRMADP_3_ANTHROPIC-CYBERSECURITY-1785469171.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli blockades seal off village in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
+      "desc": "Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances",
+      "pubDate": "Fri, 31 Jul 2026 03:35:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-04.31.10-1785468820.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why a MAGA influencer’s shift to support Ukraine war is good for Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-a-maga-influencers-shift-to-support-ukraine-war-is-good-for-trump?traffic_source=rss",
+      "desc": "One of the most prominent pro-Trump influencers, Laura Loomer, just made a major shift in her stance on Ukraine.",
+      "pubDate": "Fri, 31 Jul 2026 03:08:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785467303.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss",
@@ -213,6 +313,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Spain will send troops to Ceuta to help with border security",
+      "link": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Authorities in the Spanish city of Ceuta asked Madrid to declare a national emergency and send military assistance. Crowds of people breached the border of the territory next to Morocco as police lost",
+      "pubDate": "2026-07-30T18:13:00Z",
+      "img": "https://static.dw.com/image/78183048_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
@@ -13453,96 +13563,6 @@
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
-    },
-    {
-      "title": "The Lebanon-Israel agreement is paving the way for the next war",
-      "link": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
-      "desc": "And the agreement has ensured that Lebanon will be blamed for it.",
-      "pubDate": "Wed, 01 Jul 2026 08:03:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3ec42e-1782498350.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why is crucial tech vulnerable to the heat?",
-      "link": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
-      "pubDate": "Wed, 01 Jul 2026 07:23:12 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c04/live/aff4d6e0-7135-11f1-8e1d-bbbb1017d210.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Romesh Ranganathan 'gutted' over bakery closure",
-      "link": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Coughlans Bakery says it has gone into voluntary liquidation over hikes in national insurance and business rates.",
-      "pubDate": "Wed, 01 Jul 2026 06:53:28 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e3/live/987b6fc0-7517-11f1-adcf-e1eef1a1ef9c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-      "link": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
-      "pubDate": "Wed, 01 Jul 2026 06:29:31 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e999/live/8b076ed0-7511-11f1-ab91-bba426c6e310.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "EU slaps €3 duty on low-value imported packages",
-      "link": "https://www.dw.com/en/eu-slaps-€3-duty-on-low-value-imported-packages/a-77778850?maca=en-rss-en-eu-2092-rdf",
-      "desc": "The EU has moved to curb what it sees as unfair competition from mostly Chinese online retailers by imposing its levy. It follows a similar move from the US.",
-      "pubDate": "2026-07-01T06:18:00Z",
-      "img": "https://static.dw.com/image/71731802_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-      "link": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
-      "desc": "Former lawyer Melat Kiros, 29, has criticised Democrats for support of Israel during its genocidal war on Gaza.",
-      "pubDate": "Wed, 01 Jul 2026 05:56:54 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26182168919211-1782881209.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "NASA astronauts spacewalk to fix robotic arm",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/nasa-astronauts-spacewalk-to-fix-robotic-arm-2?traffic_source=rss",
-      "desc": "Two NASA astronauts stepping outside the International Space Station to fix robotic arm.",
-      "pubDate": "Wed, 01 Jul 2026 03:43:50 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1782877382.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Anthropic says US lifts export ban on its advanced AI tools",
-      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
-      "pubDate": "Wed, 01 Jul 2026 03:39:44 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/1a317af0-74e1-11f1-b04d-d9f777e609eb.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-      "pubDate": "Wed, 01 Jul 2026 03:31:08 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
