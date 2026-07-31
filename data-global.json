@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T14:18:06.492Z",
-  "summary": "Global tensions remain high across multiple regions as Spain deployed military forces to Ceuta following a deadly migrant surge from Morocco, while the Middle East faces escalating confrontation with Iran claiming retaliatory attacks and a potential ceasefire emerging in Gaza tied to Hamas disarmament. FIFA's World Cup expansion plans have triggered unprecedented backlash, with senior officials resigning and major continental federations threatening boycotts over Gianni Infantino's proposals. Economic pressures mount worldwide, from UK petrol prices hitting multi-year highs to concerns about US GDP growth slowdown and Apple warning of supply constraints, while technology companies grapple with security breaches as both OpenAI and Anthropic disclosed their AI systems were compromised during testing.",
+  "fetchedAt": "2026-07-31T16:47:59.410Z",
+  "summary": "Spain faces an unprecedented migration crisis as tens of thousands of migrants surge into the North African enclave of Ceuta, prompting the military deployment and claims from the prime minister that Morocco has breached territorial integrity. In the Middle East, a potential breakthrough emerges with Hamas agreeing to a disarmament plan that could pave the way for Israeli withdrawal from Gaza, though tensions remain high with Iran claiming retaliatory actions against Kuwait. FIFA faces institutional turmoil as major football confederations including UEFA threaten boycotts over Gianni Infantino's World Cup expansion proposals, with his senior adviser already resigning. Oil markets are roiled by Middle Eastern tensions while UK energy costs surge, and tech companies grapple with cybersecurity concerns following disclosures that AI systems have been exploited to access external networks.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss",
+      "desc": "Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation.\"",
+      "pubDate": "Fri, 31 Jul 2026 16:17:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785514645.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Budget to be held in October, Healey announces",
+      "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+      "pubDate": "Fri, 31 Jul 2026 15:58:42 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Russia and Ukraine report casualties as they continue to trade attacks",
+      "link": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss",
+      "desc": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
+      "pubDate": "Fri, 31 Jul 2026 14:22:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6c9fb414d4-1785503668.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+      "pubDate": "Fri, 31 Jul 2026 14:20:18 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/3f125d00-8cea-11f1-b1ae-d9d901a2754c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Spain deploys military to Ceuta after migrant surge: What we know",
       "link": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know?traffic_source=rss",
@@ -13513,76 +13553,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
-      "pubDate": "Wed, 01 Jul 2026 16:44:58 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/224e/live/64c76100-7569-11f1-a627-714adb4eed6e.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
-      "link": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
-      "desc": "Board of Peace talks on Gaza&#039;s post-war future face funding crises and warnings of a colonial occupation.",
-      "pubDate": "Wed, 01 Jul 2026 16:08:20 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26146718936759-1780487949.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump takes first flight on new Qatar-gifted Air Force One",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/trump-takes-first-flight-on-new-qatar-gifted-air-force-one?traffic_source=rss",
-      "desc": "US President Donald Trump took his maiden voyage aboard the new Air Force One on Wednesday.",
-      "pubDate": "Wed, 01 Jul 2026 16:04:57 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T130608Z_656202174_RC215MA36OFX_RTRMADP_3_USA-250-TRUMP-1782921830.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-      "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
-      "pubDate": "Wed, 01 Jul 2026 15:48:02 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b22/live/4f5a7230-755a-11f1-8dff-95caf5f6c408.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "First Syrian parliament since al-Assad’s ousting begins legislative duties",
-      "link": "https://www.aljazeera.com/news/2026/7/1/first-syrian-parliament-since-al-assads-ousting-begins-legislative-duties?traffic_source=rss",
-      "desc": "The new 210-member parliament takes shape, marking a historic shift after decades of Assad family rule.",
-      "pubDate": "Wed, 01 Jul 2026 15:01:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a451e3e6109-1782914622.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How war on Iran changed the global energy sector forever",
-      "link": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss",
-      "desc": "Conflict will accelerate shift to renewables and search for alternatives to Strait of Hormuz, energy analysts say.",
-      "pubDate": "Wed, 01 Jul 2026 14:45:04 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260628__B8JJ8MV__v1__MidRes__KuwaitIranUsIsraelWarTanker-1782877498.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russia's fuel crisis: Is Putin under pressure?",
-      "link": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Ukraine's extended campaign against Russian energy infrastructure is disrupting fuel supplies and military logistics. With shortages mounting in occupied Crimea, is the pressure pushing Putin toward n",
-      "pubDate": "2026-07-01T14:37:00Z",
-      "img": "https://static.dw.com/image/77766779_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
     }
   ]
 }
