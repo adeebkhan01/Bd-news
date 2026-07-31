@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T19:39:50.581Z",
-  "summary": "Australia is grappling with several significant challenges spanning legal disputes, political instability and infrastructure concerns. The Victorian Labor leadership spill threatens federal politics as Daniel Andrews' successor faces questions about continuity, while One Nation's internal tensions intensify around Barnaby Joyce. Major issues include a hospital safety scandal involving a contaminated surgical machine still in use, ongoing complications with the Colorado River water allocation affecting Australia's agricultural regions, and various legal battles from aviation class actions to celebrity tax disputes. Domestically, concerns about emergency service response times and polling scams ahead of the census round out a week marked by institutional and governance pressures.",
+  "fetchedAt": "2026-07-31T22:09:11.127Z",
+  "summary": "Australian news today is dominated by political turbulence following Victoria's Labor leadership spill, with coverage of contenders like Ben Carroll and their ambitions shaping both state and federal politics. Major issues affecting ordinary Australians include ongoing struggles with flood recovery insurance, the homelessness crisis in Sydney, and workplace challenges around remote work policies. Legal matters are generating significant attention, from broadcaster Alan Jones's court date to the celebrity chef's tip-tax dispute and Virginia Giuffre's estate inheritance questions. Beyond politics and courts, stories reflect broader community concerns about healthcare safety, infrastructure disputes with the Brisbane Air train lawsuit, and economic pressures reflected in rising National Debt Helpline calls.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "Gym owner fighting for insurance nearly four years after 2022 floods",
+      "link": "https://www.abc.net.au/news/2026-08-01/seymour-insurance-battle-october-2022-floods/106941228",
+      "desc": "Six businesses in the same regional Victorian street were inundated nearly four years ago, with five having their claims paid and one still fighting its insurer to have the claim covered.",
+      "pubDate": "Fri, 31 Jul 2026 21:30:11 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/b40c9edc7d7ffefafa67e081bd7d4b27?impolicy=wcms_crop_resize&amp;cropH=1266&amp;cropW=949&amp;xPos=637&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "The people contacting the National Debt Helpline may surprise you",
+      "link": "https://www.abc.net.au/news/2026-08-01/record-demand-national-debt-helpline-financial-pressure-grows/106970082",
+      "desc": "A record-high number of people are seeking help via the National Debt Helpline, as financial counsellors say anyone can seek support.",
+      "pubDate": "Fri, 31 Jul 2026 21:29:52 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/bc60d2d4a47c9e92651d999681e975a9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Brisbane Air train suing Queensland government",
+      "link": "https://www.smh.com.au/national/brisbane-air-train-suing-queensland-government-20260801-p60kin.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Brisbane's Air train is suing the Queensland government, following the rollout of the state's 50-cent fare scheme.",
+      "pubDate": "Sat, 01 Aug 2026 07:23:18 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/de2a31cea6fd45f4846087a04832b7808ce5596e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ben Carroll touts major change to work-from-home rules in Victoria",
+      "link": "https://www.smh.com.au/national/ben-carroll-touts-major-change-to-work-from-home-rules-in-victoria-20260801-p60kip.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Victoria's controversial work-from-home laws are in for a major shake-up, with the new Premier signalling a potential lifeline for small businesses.",
+      "pubDate": "Sat, 01 Aug 2026 07:23:14 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c47063c8eff143819b4536ae9845e5b9c0f2e209",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Driver smashes into two parked cars before running away in Sydney’s west",
+      "link": "https://www.smh.com.au/national/driver-smashes-into-two-parked-cars-before-running-away-in-sydney-s-west-20260801-p60kio.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A driver has smashed into two parked cars in western Sydney, before making a run for it.",
+      "pubDate": "Sat, 01 Aug 2026 07:22:37 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/94789501a948415ba26af554fa5bb438030b7e72",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Alan Jones's 'anxious wait' for his day in court is over. Here's what to expect",
+      "link": "https://www.abc.net.au/news/2026-08-01/nsw-alan-jones-judge-only-trial-begins-sydney-court/106973238",
+      "desc": "After significant media attention, more than 70 witnesses are set to give evidence during the judge-only trial at the Downing Centre in Sydney's CBD.",
+      "pubDate": "Fri, 31 Jul 2026 21:12:10 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/5bf43a62e4ac70102483625f3ce25889?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "The Labor MPs chasing promotions after Vic leadership spill",
+      "link": "https://www.abc.net.au/news/2026-08-01/ben-carroll-new-cabinet-jacinta-allan-leadership-spill/106978476",
+      "desc": "New Victorian Premier Ben Carroll is expected to announce his new-look ministry on Monday, with a handful of Labor MPs now jostling for promotions following the resignation of Jacinta Allan.",
+      "pubDate": "Fri, 31 Jul 2026 21:08:14 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/192f23d9250aba2dba992fc71b0f9041?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "The human reality of Sydney's homelessness crisis",
+      "link": "https://www.smh.com.au/national/the-human-reality-of-sydneys-homelessness-crisis-20260801-p60kil.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "As makeshift shelters line Sydney’s streets, vulnerable residents and support groups reveal the human reality behind the city's housing crisis.",
+      "pubDate": "Sat, 01 Aug 2026 07:03:24 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2dfad63e33f1c144699e5ce7cc92296bd455d55f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Stowaway school teacher who disguised herself as a boy on a tall ship",
+      "link": "https://www.abc.net.au/news/2026-08-01/stowaway-school-teacher-jeanne-day-disguised-as-boy-tall-ship-sa/106707878",
+      "desc": "In 1928, Balaklava school teacher Jeanne Day set her eyes on a Finnish tall ship docked at Port Lincoln and decided to disguise herself as a boy for the voyage of a lifetime.",
+      "pubDate": "Fri, 31 Jul 2026 20:30:08 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/3ea5f10d6207aeb01078c8ba20fe53d9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "An ‘informal’ will and the missing jewellery: What will happen to Virginia Giuffre’s $30 million estate?",
       "link": "https://www.smh.com.au/national/an-informal-will-and-the-missing-jewellery-what-will-happen-to-virginia-giuffre-s-30-million-estate-20260729-p60jpl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -205,6 +295,16 @@
       "desc": "<p>Federal government plan outlines cuts to California, Arizona and Nevada but fix is likely to be only temporary</p><p>The US government released its anxiously awaited plan for how to manage the Colo",
       "pubDate": "Fri, 31 Jul 2026 17:38:28 GMT",
       "img": "https://i.guim.co.uk/img/media/cf44e69a58dcf36953963a85109286a4c31f0a69/717_0_7200_5760/master/7200.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Washington Post’s opinion editor resigns after just one year in role",
+      "link": "https://www.theguardian.com/media/2026/jul/31/washington-post-opinion-editor-resigns-adam-oneal",
+      "desc": "<p>Adam O’Neal did not give reason for his departure at end of August in another major shakeup at US publication</p><p>The Washington Post had realized a state of relative calm in the five months sinc",
+      "pubDate": "Fri, 31 Jul 2026 17:24:42 GMT",
+      "img": "https://i.guim.co.uk/img/media/c8071f5c25118c9764064eb510299f8a0162be83/491_0_4913_3933/master/4913.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -34398,126 +34498,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ASX edges up while shoe retailer Betts shuts stores — as it happened",
-      "link": "https://www.abc.net.au/news/2026-07-02/asx-markets-business-news-live-updates-thursday-2-july/106868142",
-      "desc": "The ASX ends up following a sea of red on Wall Street.",
-      "pubDate": "Wed, 01 Jul 2026 21:34:57 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/e82554cfb24e2e63759d27d90f957f4a?impolicy=wcms_crop_resize&amp;cropH=2801&amp;cropW=2101&amp;xPos=294&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Brawl erupts at Sydney shopping centre",
-      "link": "https://www.smh.com.au/national/brawl-erupts-at-sydney-shopping-centre-20260702-p60bvb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A brawl erupted at a shopping centre in Bankstown, Sydney, after two women were approached by a loss prevention officer.",
-      "pubDate": "Thu, 02 Jul 2026 07:14:44 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0b0fab809ed0dc4be57a97b67131c3ac52fea03f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Live: Minister announces tweak to controversial aged care assessment tool",
-      "link": "https://www.abc.net.au/news/2026-07-02/federal-politics-live-blog-july-2/106867206",
-      "desc": "Aged care minister Sam Rae says the government's controversial algorithm-assisted tool can be changed in \"extenuating circumstances\". Follow live.",
-      "pubDate": "Wed, 01 Jul 2026 21:04:49 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/c4ccea9680847fb5c00fa74bb486c038?impolicy=wcms_crop_resize&amp;cropH=5223&amp;cropW=3917&amp;xPos=1621&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "‘Appalling betrayal’: Two men accused of fleecing elderly man of $600k",
-      "link": "https://www.smh.com.au/national/nsw/appalling-betrayal-two-men-accused-of-fleecing-elderly-man-of-600k-20260702-p60bv6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The pair allegedly transferred the man’s money to themselves as well as buying shares, draining hundreds of thousands of dollars from the 88-year-old’s account.",
-      "pubDate": "Thu, 02 Jul 2026 07:01:32 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3537%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_528%2C$y_362/t_crop_custom/q_86%2Cf_auto/3e433ab738375ed371fe80bf1c5a604043442907",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia news LIVE: NSW Liberal Party under imvestigation by ICAC; US-Iran talks conclude in Doha",
-      "link": "https://www.smh.com.au/national/australia-news-live-investigations-into-nsw-liberals-victorian-cfmeu-canberra-celebrates-midwinter-ball-us-iran-talks-to-conclude-20260702-p60bv5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Join us for rolling coverage for the latest developments and news from around Australia and the world.",
-      "pubDate": "Thu, 02 Jul 2026 06:37:21 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_92%2C$y_0/t_crop_custom/q_86%2Cf_auto/6989d79f2e887933d05396943ee1418bbd7f7d8fff5ca5604ef9c5feaf9ca963",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Melatonin found beneficial for chronic pain",
-      "link": "https://www.smh.com.au/national/melatonin-found-beneficial-for-chronic-pain-20260702-p60bv9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An Australian study has found melatonin helps chronic pain sufferers.",
-      "pubDate": "Thu, 02 Jul 2026 06:24:52 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c86ee7c96431aa2a35305eccf53be769402ccbb3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Teenager dies outside Melbourne medical centre",
-      "link": "https://www.smh.com.au/national/teenager-dies-outside-melbourne-medical-centre-20260702-p60bv7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police are investigating a teenage boy's death outside a Melbourne medical centre.",
-      "pubDate": "Thu, 02 Jul 2026 06:24:04 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6123f2053725b59d924345d7a6a2a6e5df8f0063",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Social media ban blowback",
-      "link": "https://www.smh.com.au/national/social-media-ban-blowback-20260702-p60bva.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Parents say they are concerned about delays in strengthening the social media ban.",
-      "pubDate": "Thu, 02 Jul 2026 06:23:55 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/847d15c0c7c9fee0f4f9006cd2bb8b0e1598d17b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "As main street shops vanish, could they help solve housing shortages?",
-      "link": "https://www.abc.net.au/news/2026-07-02/plan-to-turn-empty-regional-shops-into-houses/106859536",
-      "desc": "As businesses shut up shop in regional main streets, the government is weighing up whether they could help solve the housing crisis.",
-      "pubDate": "Wed, 01 Jul 2026 20:00:59 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8a9578b2f5f562c2a2b3dabf17da024e?impolicy=wcms_crop_resize&amp;cropH=2584&amp;cropW=1938&amp;xPos=151&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "‘Show some gratitude’ – how this rhetoric shapes views on immigration, even for migrants",
-      "link": "https://theconversation.com/show-some-gratitude-how-this-rhetoric-shapes-views-on-immigration-even-for-migrants-286332",
-      "desc": "When migrants internalise expectations of gratefulness, they can come to think of racism and discrimination as inevitable – to be endured rather than challenged.",
-      "pubDate": "2026-07-01T19:55:10Z",
-      "img": "https://images.theconversation.com/files/744994/original/file-20260630-63-fk8iik.jpg?ixlib=rb-4.1.0&amp;rect=0%2C287%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "What makes a star a star? A strange ‘in-between’ celestial object is testing astronomers’ boundaries",
-      "link": "https://theconversation.com/what-makes-a-star-a-star-a-strange-in-between-celestial-object-is-testing-astronomers-boundaries-286371",
-      "desc": "A ‘failed star’ 1,350 light years away may hold clues about what makes other stars succeed.",
-      "pubDate": "2026-07-01T19:54:16Z",
-      "img": "https://images.theconversation.com/files/745022/original/file-20260630-77-uc0et0.jpg?ixlib=rb-4.1.0&amp;rect=720%2C0%2C7472%2C3736&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Migration is dropping, but public concern is climbing. Why?",
-      "link": "https://theconversation.com/migration-is-dropping-but-public-concern-is-climbing-why-285808",
-      "desc": "As long as the debate stays politicised, anti-immigration sentiment will persist, and so will support for the parties that trade on it.",
-      "pubDate": "2026-07-01T19:53:06Z",
-      "img": "https://images.theconversation.com/files/745289/original/file-20260701-57-1j68k2.png?ixlib=rb-4.1.0&amp;rect=0%2C50%2C1600%2C800&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
     }
   ]
 }

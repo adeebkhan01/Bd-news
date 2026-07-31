@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T19:40:03.283Z",
-  "summary": "Global headlines today reflect mounting pressures across multiple fronts: Western nations are confronting security threats from North Korea's IT operations funding nuclear weapons and Iran's reported retaliatory strikes, while trade tensions simmer around potential US tariffs on major economies. Migration crises dominate geopolitical attention as Spain deploys military forces after tens of thousands of migrants surge into Ceuta, and the United States moves against migrant detention expansions. FIFA faces internal crisis as key executives resign over controversial World Cup restructuring plans that have triggered boycott threats from major continental football bodies, while the technology sector wrestles with security vulnerabilities as multiple AI firms disclose their systems were breached during testing. In the Middle East, reported Palestinian-Israeli disarmament and ceasefire discussions offer a potential diplomatic opening, though on-the-ground violence continues.",
+  "fetchedAt": "2026-07-31T22:09:27.207Z",
+  "summary": "Global climate concerns intensified as the UN warned of an accelerating El Niño exacerbating planetary heat, while geopolitical tensions flared across multiple fronts including Poland's protest over Russian missile incursions, North Korean IT workers funding nuclear arsenals, and escalating regional conflicts in the Middle East. A humanitarian crisis unfolded at Spain's borders as tens of thousands of migrants surged into Ceuta in 24 hours, prompting military deployment and sparking diplomatic tensions with Morocco, while a separate Ebola outbreak in the Democratic Republic of Congo became the world's second largest. Major institutional upheaval struck the sporting world as FIFA faced mounting pressure over Gianni Infantino's World Cup restructuring plan, triggering staff resignations and boycott threats from UEFA and continental confederations, while artificial intelligence firms grappled with security disclosures of their systems being compromised during safety tests. Economic headwinds emerged from soaring UK energy prices, BP's North Sea divestment, and Apple's warning of supply constraints, though South Korean markets rallied on chip sector recovery.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
+      "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
+      "desc": "UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide",
+      "pubDate": "Fri, 31 Jul 2026 20:38:56 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6cfa8d5b-1785526925.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘Strategic partner’: Peru’s Fujimori plans to intensify ties with the US",
+      "link": "https://www.aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss",
+      "desc": "Peru&#039;s newly inaugurated president indicates her government will join Trump&#039;s Shield of the Americas coalition.",
+      "pubDate": "Fri, 31 Jul 2026 19:55:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6ce5eeb7ca-1785521646.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Poland protests to Russian ambassador over missile incursion",
+      "link": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
+      "desc": "Warsaw asserts missile recently made, illustrating Russia&#039;s nightly barrage against Ukraine is draining arsenal.",
+      "pubDate": "Fri, 31 Jul 2026 19:48:17 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260723__C2YG8CR__v1__HighRes__PolandPalestinianDiplomacy-1785518403.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "AI firms must answer for rogue bots, says boss of hacked company",
       "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&amp;at_campaign=rss",
@@ -13513,26 +13543,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "State of emergency: Bolivia’s currency plummets as anger simmers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/state-of-emergency-bolivias-currency-plummets-as-anger-simmers?traffic_source=rss",
-      "desc": "Bolivia’s President Paz declared a state of emergency after 50 days of protests against his policies.",
-      "pubDate": "Wed, 01 Jul 2026 20:44:36 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1782938599.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
-      "link": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Ukrainian-born businessman Vadym Yermolaiev was reportedly injured in a suspected assassination attempt in Monaco. Kyiv had previously imposed sanctions on him. What is known about the case?",
-      "pubDate": "2026-07-01T19:53:00Z",
-      "img": "https://static.dw.com/image/77763087_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
     }
   ]
 }
