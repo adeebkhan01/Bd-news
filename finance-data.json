@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T16:59:47.383Z",
+  "fetchedAt": "2026-07-31T19:58:30.700Z",
   "asx200": {
     "value": 8976.8,
     "change": 198.1,
@@ -103,8 +103,8 @@
   },
   "audusd": {
     "value": 0.7,
-    "change": 0.01,
-    "changePercent": 2.12,
+    "change": 0.02,
+    "changePercent": 2.31,
     "previousClose": 0.69,
     "asOf": "2026-07-31",
     "history": [
@@ -211,33 +211,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4099.4,
-      "change": 76.5,
-      "changePercent": 1.9
+      "price": 4109.6,
+      "change": 86.7,
+      "changePercent": 2.16
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.63,
-      "change": -1.85,
-      "changePercent": -3.11
+      "price": 58.14,
+      "change": -1.34,
+      "changePercent": -2.26
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 84.75,
-      "change": 15.25,
-      "changePercent": 21.94
+      "price": 84.8,
+      "change": 15.3,
+      "changePercent": 22.01
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.46,
-      "change": 0.27,
-      "changePercent": 4.38
+      "price": 6.54,
+      "change": 0.35,
+      "changePercent": 5.6
     },
     {
       "name": "BHP Group",
@@ -846,6 +846,20 @@
   ],
   "news": [
     {
+      "title": "Celebrity chef’s tip-tax ‘plan’ for broken glasses heads to court",
+      "link": "https://www.smh.com.au/business/workplace/celebrity-chef-s-tip-tax-plan-for-broken-glasses-heads-to-court-20260716-p60fu7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Celebrity chef Michael Lambie is locked in a court fight with a former manager at his fine-dining restaurant.",
+      "pubDate": "Sat, 01 Aug 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "The artist, the ex-bikie and a scandal at the ABC that won’t end",
+      "link": "https://www.smh.com.au/business/companies/the-artist-the-ex-bikie-and-a-scandal-at-the-abc-that-won-t-end-20260730-p60jw8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Months ago, an explosive email circulated among ABC staff about one of their colleagues. It has reignited debates about race, integrity and bureaucracy at the broadcaster.",
+      "pubDate": "Sat, 01 Aug 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "Infantino's advisor quits as FIFA's World Cup plan triggers backlash",
       "link": "https://www.abc.net.au/news/2026-07-31/fifa-sale-continue-despite-opposition-/106984546",
       "snippet": "",
@@ -867,7 +881,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Live: 'Extremely disappointed': Aussie cyclists disqualified from individual pursuit",
+      "title": "Live: Kennedy in the mix for pole vault glory, Aussie teen claims race walk gold",
       "link": "https://www.abc.net.au/news/2026-07-31/live-blog-commonwealth-games-day-eight/106980504",
       "snippet": "",
       "pubDate": "Fri, 31 Jul 2026 08:21:48 +0000",
@@ -913,20 +927,6 @@
       "link": "https://www.smh.com.au/business/companies/kyle-sandilands-quits-australian-idol-as-activists-target-advertisers-20260731-p60kdr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The controversial radio host told Seven Network on Friday he would stand down “for the good of the brand.”",
       "pubDate": "Fri, 31 Jul 2026 15:46:07 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "‘Not my signature’: Anytime Fitness probes false signatures on contracts",
-      "link": "https://www.smh.com.au/business/companies/not-my-signature-anytime-fitness-probes-false-signatures-on-contracts-20260730-p60k4s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The gym giant has apologised over a string of incidents alleging contract misconduct, including a customer told to sign a largely blank contract.",
-      "pubDate": "Fri, 31 Jul 2026 15:02:21 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Fresh data backs Amplia push against pancreatic, ovarian cancer",
-      "link": "https://www.smh.com.au/business/companies/fresh-data-backs-amplia-push-against-pancreatic-ovarian-cancer-20260731-p60kcs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Amplia Therapeutics has pointed to new preclinical data showing its pancreatic cancer drug candidate narmafotinib can hit several drivers of the intractable disease.",
-      "pubDate": "Fri, 31 Jul 2026 13:15:08 +1000",
       "source": "SMH Business"
     }
   ]
