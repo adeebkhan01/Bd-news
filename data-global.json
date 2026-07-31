@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T16:47:59.410Z",
-  "summary": "Spain faces an unprecedented migration crisis as tens of thousands of migrants surge into the North African enclave of Ceuta, prompting the military deployment and claims from the prime minister that Morocco has breached territorial integrity. In the Middle East, a potential breakthrough emerges with Hamas agreeing to a disarmament plan that could pave the way for Israeli withdrawal from Gaza, though tensions remain high with Iran claiming retaliatory actions against Kuwait. FIFA faces institutional turmoil as major football confederations including UEFA threaten boycotts over Gianni Infantino's World Cup expansion proposals, with his senior adviser already resigning. Oil markets are roiled by Middle Eastern tensions while UK energy costs surge, and tech companies grapple with cybersecurity concerns following disclosures that AI systems have been exploited to access external networks.",
+  "fetchedAt": "2026-07-31T19:40:03.283Z",
+  "summary": "Global headlines today reflect mounting pressures across multiple fronts: Western nations are confronting security threats from North Korea's IT operations funding nuclear weapons and Iran's reported retaliatory strikes, while trade tensions simmer around potential US tariffs on major economies. Migration crises dominate geopolitical attention as Spain deploys military forces after tens of thousands of migrants surge into Ceuta, and the United States moves against migrant detention expansions. FIFA faces internal crisis as key executives resign over controversial World Cup restructuring plans that have triggered boycott threats from major continental football bodies, while the technology sector wrestles with security vulnerabilities as multiple AI firms disclose their systems were breached during testing. In the Middle East, reported Palestinian-Israeli disarmament and ceasefire discussions offer a potential diplomatic opening, though on-the-ground violence continues.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "AI firms must answer for rogue bots, says boss of hacked company",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
+      "pubDate": "Fri, 31 Jul 2026 18:10:28 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+      "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
+      "desc": "New York is one of many states with cases against Kalshi and others in dispute with Trump gov&#039;t on who gets to regulate.",
+      "pubDate": "Fri, 31 Jul 2026 17:52:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a595ac7-1784240839.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
+      "desc": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off plan.",
+      "pubDate": "Fri, 31 Jul 2026 17:38:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26212426849244-1785518233.jpg?resize=1920%2C1333",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+      "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
+      "desc": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+      "pubDate": "Fri, 31 Jul 2026 17:06:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6cb2e9-1785508585.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+      "link": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss",
+      "desc": "Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.",
+      "pubDate": "Fri, 31 Jul 2026 16:52:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-31T085504Z_1086036890_RC2EQLA5ZO6Q_RTRMADP_3_HEALTH-EBOLA-1785508479.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss",
@@ -13483,76 +13533,6 @@
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
-    },
-    {
-      "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
-      "desc": "An Israeli drone strike near a Gaza hospital and fuel station kills at least three people, reports Wafa news agency.",
-      "pubDate": "Wed, 01 Jul 2026 19:29:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4556832320-1782929027.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US blocks long-term renewal of North American trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
-      "pubDate": "Wed, 01 Jul 2026 18:56:36 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4da/live/64317d10-757e-11f1-b1b0-0d044d289b5c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "How AI is being weaponised against India’s Muslim women",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss",
-      "desc": "For years, India&#039;s Muslim women have been subject to online abuse.",
-      "pubDate": "Wed, 01 Jul 2026 18:06:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/16x9thumbnail_dnr_videos-with_hostno_title_720-1782929089.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
-      "desc": "The RSF wants to seize the strategic southern city from the Sudanese military.",
-      "pubDate": "Wed, 01 Jul 2026 17:39:02 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1782926036.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-      "link": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
-      "desc": "Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.",
-      "pubDate": "Wed, 01 Jul 2026 17:36:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/02/RMW07202-1739860463_3e53ca-1739870772.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
-      "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Official documents show the US president made billions of dollars as he returned to the White House.",
-      "pubDate": "Wed, 01 Jul 2026 17:22:25 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/594f/live/8d250090-7572-11f1-9634-57b9e01d300c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "What military capabilities does Iran possess as it negotiates with US?",
-      "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-      "desc": "US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.",
-      "pubDate": "Wed, 01 Jul 2026 17:19:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a17eaf3-1779952371.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
