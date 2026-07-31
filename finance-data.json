@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T09:21:31.813Z",
+  "fetchedAt": "2026-07-31T11:36:36.153Z",
   "asx200": {
     "value": 8976.8,
     "change": 198.1,
@@ -107,8 +107,8 @@
   },
   "audusd": {
     "value": 0.7,
-    "change": 0.02,
-    "changePercent": 2.31,
+    "change": 0.01,
+    "changePercent": 2.09,
     "previousClose": 0.69,
     "asOf": "2026-07-31",
     "history": [
@@ -215,33 +215,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4113.3,
-      "change": 90.4,
-      "changePercent": 2.25
+      "price": 4116.3,
+      "change": 93.4,
+      "changePercent": 2.32
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.27,
-      "change": -1.21,
-      "changePercent": -2.04
+      "price": 58.24,
+      "change": -1.24,
+      "changePercent": -2.09
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 82.88,
-      "change": 13.38,
-      "changePercent": 19.25
+      "price": 84.77,
+      "change": 15.27,
+      "changePercent": 21.97
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.51,
-      "change": 0.32,
-      "changePercent": 5.14
+      "price": 6.49,
+      "change": 0.29,
+      "changePercent": 4.76
     },
     {
       "name": "BHP Group",
@@ -850,6 +850,20 @@
   ],
   "news": [
     {
+      "title": "FIFA presses ahead with private investment plan despite opposition",
+      "link": "https://www.abc.net.au/news/2026-07-31/fifa-sale-continue-despite-opposition-/106984546",
+      "snippet": "",
+      "pubDate": "Fri, 31 Jul 2026 10:51:51 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Bulldogs up for the Freo challenge in tough first half",
+      "link": "https://www.abc.net.au/news/2026-07-31/afl-round-21-friday-dockers-bulldogs-live-blog/106984196",
+      "snippet": "",
+      "pubDate": "Fri, 31 Jul 2026 09:19:33 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "It's easy to see why Australia brought a psychiatrist to Glasgow",
       "link": "https://www.abc.net.au/news/2026-07-31/australian-team-psychiatrist-glasgow-commonwealth-games/106974328",
       "snippet": "",
@@ -857,7 +871,7 @@
       "source": "ABC News"
     },
     {
-      "title": "Live: Aussies set to go for gold, again, in 1,500 T54 race is re-run",
+      "title": "Live: Aussie to box for gold, Aussies in action on track",
       "link": "https://www.abc.net.au/news/2026-07-31/live-blog-commonwealth-games-day-eight/106980504",
       "snippet": "",
       "pubDate": "Fri, 31 Jul 2026 08:21:48 +0000",
@@ -878,7 +892,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Storm lose another star with finals hopes at risk against Bulldogs",
+      "title": "Live: Vital clash going down to the wire as understrength Storm threaten upset",
       "link": "https://www.abc.net.au/news/2026-07-31/nrl-live-updates-dragons-dolphins-storm-bulldogs/106977948",
       "snippet": "",
       "pubDate": "Fri, 31 Jul 2026 06:59:22 +0000",
@@ -917,20 +931,6 @@
       "link": "https://www.smh.com.au/business/companies/fresh-data-backs-amplia-push-against-pancreatic-ovarian-cancer-20260731-p60kcs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Amplia Therapeutics has pointed to new preclinical data showing its pancreatic cancer drug candidate narmafotinib can hit several drivers of the intractable disease.",
       "pubDate": "Fri, 31 Jul 2026 13:15:08 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Magpies coach throws support behind Bobby Hill as star exits",
-      "link": "https://www.abc.net.au/news/2026-07-31/magpies-coach-throws-support-behind-hill-as-star-exits/106981454",
-      "snippet": "",
-      "pubDate": "Fri, 31 Jul 2026 02:24:51 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Miners push ASX into the green; Microsoft’s $US450b record day",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-jump-microsoft-leads-wall-street-rally-apple-results-ahead-20260731-p60k79.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The Australian sharemarket closed slightly higher on Friday, helped by a rally in the mining sector, as shares also climbed across Asia.",
-      "pubDate": "Fri, 31 Jul 2026 11:06:46 +1000",
       "source": "SMH Business"
     }
   ]
