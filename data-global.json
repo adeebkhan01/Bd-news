@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T22:09:40.939Z",
-  "summary": "Global tensions are escalating across multiple fronts, with the Iran-US conflict entering a new phase marked by American strikes and potential Saudi involvement in the region, while Russia's missile activities near Poland are heightening NATO concerns. Economic pressures are mounting in the US and Europe, as GDP growth slows due to inflation and trade imbalances, while climate-driven crises like record low Danube water levels are forcing critical infrastructure shutdowns. The conflict in Gaza continues to dominate international attention, drawing accusations of genocide complicity and provoking widespread pro-Palestinian protests, while humanitarian crises from Pakistan to Uganda underscore deteriorating security and human rights conditions. Meanwhile, regional conflicts from the West Bank to Ukraine remain active, with mounting civilian casualties and international criticism of military operations.",
+  "fetchedAt": "2026-07-31T03:22:47.811Z",
+  "summary": "Global tensions are escalating across multiple flashpoints, with Russia's missile strikes in Poland raising NATO concerns, Iran-backed forces intensifying attacks on Israel and regional allies, and Middle East peace negotiations reportedly advancing through a Gaza disarmament agreement involving Hamas. Domestic political upheaval is roiling several democracies, including Uganda's clampdown on opposition figures, disputes over election interference in the United States, and labor unrest in Israel's military. Economic headwinds are mounting as US growth slows amid inflation and trade deficits, supply chain disruptions threaten major tech manufacturers, and climate-driven crises from nuclear plant shutdowns to mine disasters compound structural challenges. Humanitarian emergencies span migrant surges in Europe, earthquake aftermath in Venezuela, and intensifying conflict in the occupied West Bank.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss",
+      "desc": "Dozens of Israeli soldiers have abandoned their weapons and walked out of the Sde Teiman military base.",
+      "pubDate": "Fri, 31 Jul 2026 01:43:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785462208.jpg?resize=1918%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Three things we learned about AI from Big Tech earnings",
+      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+      "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "pubDate": "Fri, 31 Jul 2026 01:31:14 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Spain deploys military to Ceuta after deadly migrant surge",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss",
+      "desc": "Spain has deployed its military to Ceuta after thousands of migrants overwhelmed police barricades.",
+      "pubDate": "Fri, 31 Jul 2026 01:29:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-02.23.59-1785461168.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+      "desc": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
+      "pubDate": "Fri, 31 Jul 2026 00:03:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-29T073301Z_1360096356_RC2INMA7BR39_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1785392659.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+      "desc": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
+      "pubDate": "Thu, 30 Jul 2026 23:51:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-00.45.14-1785455315.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
+      "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Shares of Apple plunged on a warning of slower sales in the coming months.",
+      "pubDate": "Thu, 30 Jul 2026 23:25:42 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a0d/live/81d2aa70-8c52-11f1-ba3e-21e9a16dd8e9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US appeals court rejects Trump expansion of mandatory migrant detention",
+      "link": "https://www.aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention?traffic_source=rss",
+      "desc": "Appeals court rules that the Trump administration cannot deny detained migrants the chance for release on bond.",
+      "pubDate": "Thu, 30 Jul 2026 23:24:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2022/09/AP22270000869079.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hamas reaches Gaza disarmament agreement with Board of Peace",
+      "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+      "desc": "US president says Israel will withdraw from Gaza once the Palestinian group disarms.",
+      "pubDate": "Thu, 30 Jul 2026 22:34:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260728__C3EH47Y__v1__HighRes__PalestinianIsraelConflictGaza-1785392877.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Why is US GDP growth slowing, and how can it be reversed?",
       "link": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
@@ -13450,116 +13540,6 @@
       "desc": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
       "pubDate": "Wed, 01 Jul 2026 03:31:08 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "UN chief fears for ‘millions’ of Palestinians amid UNRWA funding shortfall",
-      "link": "https://www.aljazeera.com/news/2026/7/1/un-chief-fears-for-millions-of-palestinians-amid-unrwa-funding-shortfall?traffic_source=rss",
-      "desc": "Antonio Guterres denounces &#039;disinformation, smear campaigns&#039; against the UN agency for Palestinian refugees.",
-      "pubDate": "Wed, 01 Jul 2026 02:56:49 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a447ae80f631-1782872808.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss",
-      "desc": "Iran was unable to export any oil during the US blockade of its ports, the country&#039;s chief negotiator has said.",
-      "pubDate": "Wed, 01 Jul 2026 02:45:34 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1782873915.jpg?resize=1441%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
-      "link": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss",
-      "desc": "AI firm says it will begin restoring access to Claude Fable 5 and Mythos 5 after the removal of export controls.",
-      "pubDate": "Wed, 01 Jul 2026 02:16:34 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-24T235306Z_1565019599_RC2LU7A411MD_RTRMADP_3_ANTHROPIC-AI-ALIBABA-1782869791.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
-      "link": "https://www.aljazeera.com/sports/2026/7/1/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award?traffic_source=rss",
-      "desc": "Argentina&#039;s Messi is level on goals with France&#039;s Mbappe as World Cup favourites look to power through the knockouts.",
-      "pubDate": "Wed, 01 Jul 2026 01:56:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-22T210641Z_1447901906_UP1EM6M1MN4TN_RTRMADP_3_SOCCER-WORLDCUP-FRA-IRQ-1782870850.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Algeria to vote in test of post-Hirak political landscape",
-      "link": "https://www.aljazeera.com/news/2026/7/1/algeria-to-vote-in-test-of-post-hirak-political-landscape?traffic_source=rss",
-      "desc": "Algeria holds legislative elections amid debates over reform, turnout and political stability.",
-      "pubDate": "Wed, 01 Jul 2026 01:45:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-14T131215Z_1471865111_RC21PKAWTTHQ_RTRMADP_3_POPE-AFRICA-ALGERIA-1776742807.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi",
-      "link": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss",
-      "desc": "Kim Jong Un has sent Xi Jinping a congratulatory message to mark the 105th anniversary of the Chinese Communist Party.",
-      "pubDate": "Wed, 01 Jul 2026 01:17:24 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a446505-1782867205.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-      "desc": "Iran says talks on a final deal will not begin until hostilities end in Lebanon and US releases frozen Iranian funds.",
-      "pubDate": "Wed, 01 Jul 2026 00:00:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/14110954-1782878858.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
-      "pubDate": "Tue, 30 Jun 2026 23:49:19 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8c/live/75e572e0-74da-11f1-8546-8f19e4fe30f4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "‘A rally like none other’: Trump unveils 2026 Republican midterm convention",
-      "link": "https://www.aljazeera.com/news/2026/6/30/a-rally-like-no-other-trump-announces-2026-midterm-convention?traffic_source=rss",
-      "desc": "The Republican Party hopes to retain control of both chambers of Congress in November&#039;s US midterm elections.",
-      "pubDate": "Tue, 30 Jun 2026 23:20:38 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a4440576e6e-1782857815.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Plea for households to read energy meter as prices rise",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
-      "pubDate": "Tue, 30 Jun 2026 23:02:02 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7116/live/a644e1c0-746f-11f1-b8da-6d87dfdc4508.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-      "pubDate": "Tue, 30 Jun 2026 22:29:47 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1a/live/16f1e680-74c4-11f1-b1db-af71d47507d6.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"

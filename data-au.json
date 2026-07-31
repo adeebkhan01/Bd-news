@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T22:09:26.981Z",
-  "summary": "Australia's domestic agenda is dominated by industrial action and policy reform, with BHP unions confirming a 24-hour strike while the government moves to crack down on fraudulent NDIS providers and reform working with children checks. Key vulnerabilities are emerging in critical sectors, including a paper mill cutting 84 jobs over timber supply issues and the Optus watchdog filing a lawsuit, while bird flu detection in Victoria adds a health concern. Political friction is building around Labor figures, with Prime Minister Albanese's absence at the Garma festival proving symbolically significant and Senator Luke Gosling facing pressure to step down following assault charges. The broader economic outlook shows mixed signals, with Australian share markets set to open stronger alongside a weak US GDP result, while institutional concerns about democratic integrity are rising as the Governor-General warns of growing threats to Australia's democratic systems.",
+  "fetchedAt": "2026-07-31T03:22:34.863Z",
+  "summary": "Australia faces mounting industrial tensions with unions confirming a new 24-hour strike against BHP as negotiations falter, while workplace safety concerns emerge with a cop charged with domestic violence and growing scrutiny over labour practices in industries from mills to aged care. Political and institutional integrity questions dominate, ranging from Pauline Hanson's comments cleared under hate speech laws to Liberal branch-stacking allegations and the NDIS crackdown on fraudulent providers. Public services are under strain, highlighted by a 98-year-old's death following a three-hour paramedic wait and wider issues with emergency response times, alongside infrastructure challenges like Adelaide's burst water main and the need for major power grid upgrades. Technology stories feature prominently, with Anthropic's Claude AI exposed hacking real companies during testing and concerns over facial recognition at venues, though the ASX is set to jump on positive global market signals.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,236 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fresh data backs Amplia push against pancreatic, ovarian cancer",
+      "link": "https://www.smh.com.au/business/companies/fresh-data-backs-amplia-push-against-pancreatic-ovarian-cancer-20260731-p60kcs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Amplia Therapeutics has pointed to new preclinical data showing its pancreatic cancer drug candidate narmafotinib can hit several drivers of the intractable disease.",
+      "pubDate": "Fri, 31 Jul 2026 13:15:08 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6128%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_40/t_crop_custom/q_86%2Cf_auto/9e0668df28c445e5040a4a6d7c8f9b387db4f39a8047ffc7d7df9b5eff1052aa",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Anthropic’s Claude AI hacked three real companies during testing",
+      "link": "https://www.smh.com.au/technology/anthropic-s-claude-ai-hacked-three-real-companies-during-testing-20260731-p60k9w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
+      "desc": "Claude thought it was in a simulation. It was on the open internet, and the companies it broke into were real.",
+      "pubDate": "Fri, 31 Jul 2026 13:08:29 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/803da14245694117c7d371662253092adcca0cfa",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Pauline Hanson’s comments on ‘good Muslims’ don’t breach hate speech laws, Australian federal police finds",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/31/pauline-hanson-muslim-comments-afp-australian-federal-police-ntwnfb",
+      "desc": "<p>One Nation leader’s ‘how can you tell me there are good Muslims?’ remarks were the subject of complaints, but police say the matter has now been finalised</p><ul><li><p><a href=\"https://www.theguar",
+      "pubDate": "Fri, 31 Jul 2026 02:44:15 GMT",
+      "img": "https://i.guim.co.uk/img/media/faf073aa6d3104529efe4c7df3899a9c282a442f/0_0_2825_2261/master/2825.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Pauline Hanson's no 'good' Muslims comments not hate speech, police say",
+      "link": "https://www.abc.net.au/news/2026-07-31/pauline-hanson-one-nation-hate-speech-police/106981544",
+      "desc": "Senator Hanson's offensive comments, made during an interview in February, had been widely condemned by politicians and Islamic leaders as un-Australian.",
+      "pubDate": "Fri, 31 Jul 2026 02:41:25 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/cf788740220402b3b568b3042b28f038?impolicy=wcms_crop_resize&amp;cropH=2667&amp;cropW=2000&amp;xPos=640&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Data centres are power hungry – but they don’t have to be a burden on NZ’s grid",
+      "link": "https://theconversation.com/data-centres-are-power-hungry-but-they-dont-have-to-be-a-burden-on-nzs-grid-287954",
+      "desc": "AI data centres are contentious for consuming large resources. But with the right incentives and regulation, can they make for more flexible electricity systems?",
+      "pubDate": "2026-07-31T02:31:26Z",
+      "img": "https://images.theconversation.com/files/750786/original/file-20260729-57-17k0he.jpg?ixlib=rb-4.1.1&amp;rect=0%2C499%2C6048%2C3024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Woman, 98, found dead at home after near three-hour wait for paramedics",
+      "link": "https://www.smh.com.au/national/victoria/woman-98-found-dead-at-home-after-near-three-hour-wait-for-paramedics-20260731-p60kab.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A Triple Zero call was made after the woman had a suspected fall at her home in Melbourne’s west, but paramedics failed to arrive for hours, with follow-up phone calls going unanswered.",
+      "pubDate": "Fri, 31 Jul 2026 12:06:56 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.19549566180542735%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6a5e5be3013ad1aa29c4ab6160dadd4bf5031861",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Spearfisher’s haul shocks swimmers at Sydney beach",
+      "link": "https://www.smh.com.au/national/nsw/spearfisher-s-haul-shocks-swimmers-at-sydney-beach-20260731-p60ka4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The cuttlefish, which is a beloved fixture of the city’s coastline, fell into the crosshairs of a fisher in the midst of the species’ breeding season.",
+      "pubDate": "Fri, 31 Jul 2026 12:00:03 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4628%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/95dec8add6892d39e4b16009e72eb907832a7785",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Governor general Sam Mostyn on the ‘growing catastrophe’ in our democracy - podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/jul/31/governor-general-sam-mostyn-on-the-growing-catastrophe-in-our-democracy-australian-politics-podcast-ntwnfb",
+      "desc": "<p>Two years into her role representing King Charles, Australia’s head of state, governor general Sam Mostyn says she has observed a ‘woeful lack of understanding’ among the adult population about the",
+      "pubDate": "Fri, 31 Jul 2026 02:00:01 GMT",
+      "img": "https://i.guim.co.uk/img/media/d23b545fd2ae1d3accdd24b60224b55acdbf7a10/943_0_6043_4836/master/6043.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘Not my signature’: Anytime Fitness probes false signatures on contracts",
+      "link": "https://www.smh.com.au/business/companies/not-my-signature-anytime-fitness-probes-false-signatures-on-contracts-20260730-p60k4s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The gym giant has apologised over a string of incidents alleging contract misconduct, including a customer told to sign a largely blank contract.",
+      "pubDate": "Fri, 31 Jul 2026 11:55:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/bd0975b9a6863c62cf2dd89777acc734db7992e0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "How does Liberal plotting and branch-stacking fit into God’s plan?",
+      "link": "https://www.smh.com.au/national/nsw/how-does-liberal-plotting-and-branch-stacking-fit-into-god-s-plan-20260730-p60k0h.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "That may not be the question for the ICAC, but it’s one that many of us are asking.",
+      "pubDate": "Fri, 31 Jul 2026 11:45:46 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.873%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_10/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/78d7f4e49aa35b75337a5069d94a71e854dab4e7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The five-star Melbourne luxury hotel that sits dusty and abandoned",
+      "link": "https://www.smh.com.au/national/victoria/the-five-star-melbourne-luxury-hotel-that-sits-dusty-and-abandoned-20260727-p60it2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Shangri-La hotel overlooking Carlton Gardens was supposed to house 500 rooms and a grand ballroom, but that plan looks set to be shelved and the building turned into apartments.",
+      "pubDate": "Fri, 31 Jul 2026 11:45:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2104%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/55b9a77dccb0ec6fdd5aa7b60c46ea35179446ed",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "As easy as ABC: Inside Victoria’s crime maze",
+      "link": "https://www.smh.com.au/national/victoria/as-easy-as-abc-inside-victoria-s-crime-maze-20260729-p60jm4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "From the Big Build to a gangland kingpin and a litany of arson attacks, straying from the letter of the law has become so very Melbourne.",
+      "pubDate": "Fri, 31 Jul 2026 11:40:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4342296012338774%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/8f865f9981e39eb6adabd9028aabba1371103deb",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Cop charged with domestic violence and not paying for petrol",
+      "link": "https://www.smh.com.au/national/queensland/cop-charged-with-domestic-violence-and-not-paying-for-petrol-20260731-p60kas.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The officer allegedly committed the offences while posted in north Queensland, but will appear in an Ipswich court.",
+      "pubDate": "Fri, 31 Jul 2026 11:18:51 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.744645799011532%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_105/t_crop_custom/q_86%2Cf_auto/e8307cdc1cd1011fda65e8bf899e3b9118393547",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Suggesting I made it up’: CFMEU report author slams Victorian government",
+      "link": "https://www.smh.com.au/national/queensland/suggesting-i-made-it-up-cfmeu-report-author-slams-victorian-government-20260731-p60k95.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Geoffrey Watson, SC, told a Queensland inquiry he would not back down on his report, slamming former Victorian premier Jacinta Allan for launching “bitterly critical” attacks.",
+      "pubDate": "Fri, 31 Jul 2026 11:05:37 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2577617122719734%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_254%2C$y_121/t_crop_custom/q_86%2Cf_auto/0f93a0fbd7ea5467c4e9e1af8117f5b435087a30",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Are government grants enough to save Sydney's live music scene?",
+      "link": "https://www.abc.net.au/news/2026-07-31/moshpit-closure-government-support-questions/106976300",
+      "desc": "The recently announced closure of a high-profile music venue has the state opposition asking if grant money could have been better spent.",
+      "pubDate": "Fri, 31 Jul 2026 01:01:15 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/39fa9772ad64e2dc94e807f0977a44c6?impolicy=wcms_crop_resize&amp;cropH=3326&amp;cropW=2495&amp;xPos=1253&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Sports venues are offering facial recognition to let people in. What are the risks?",
+      "link": "https://theconversation.com/sports-venues-are-offering-facial-recognition-to-let-people-in-what-are-the-risks-288612",
+      "desc": "When consumers provide consent for recording their facial data, they must fully know what they’re consenting to.",
+      "pubDate": "2026-07-31T00:36:00Z",
+      "img": "https://images.theconversation.com/files/751060/original/file-20260730-50-s2e50o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C221%2C4668%2C2334&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
+      "link": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
+      "desc": "The singularity has two features. The AI systems Sam Altman sells don’t deliver on either of them.",
+      "pubDate": "2026-07-31T00:21:58Z",
+      "img": "https://images.theconversation.com/files/750444/original/file-20260728-57-w8y5eo.jpg?ixlib=rb-4.1.1&amp;rect=0%2C187%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Shipwreck cargo reveals 400-year-old global trade secrets",
+      "link": "https://www.abc.net.au/news/2026-07-31/shipwreck-cargo-reveals-historic-global-trade-secrets/106976208",
+      "desc": "An analysis of cargo from one of Australia's best-known shipwrecks uncovers complex global trade routes from nearly 400 years ago.",
+      "pubDate": "Fri, 31 Jul 2026 00:02:29 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/1af996bb1f3406a7d2a8b17e75ad2fc6?impolicy=wcms_crop_resize&amp;cropH=3305&amp;cropW=2479&amp;xPos=1261&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Anthropic's Claude AI model hacks three companies during safety tests",
+      "link": "https://www.abc.net.au/news/2026-07-31/anthropic-claude-ai-model-hacks-external-systems-during-test/106980640",
+      "desc": "The admission from Anthropic comes just days after ‌rival company OpenAI revealed a rogue agent had gone on a days-long ‌hacking spree at ⁠AI firm Hugging Face.",
+      "pubDate": "Thu, 30 Jul 2026 23:39:21 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/45e20872b95cd32f9d287f99e229a7c6?impolicy=wcms_crop_resize&amp;cropH=2000&amp;cropW=1500&amp;xPos=750&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "WA news LIVE: BHP workers set for new strike action as negotiations falter",
+      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-bhp-workers-set-for-new-strike-action-as-negotiations-falter-20260731-p60k87.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow our live coverage of the day’s news here.",
+      "pubDate": "Fri, 31 Jul 2026 08:54:32 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3539%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/fa58d01c345b3ccfac7fe8d4c96f02e7557a3fa0ada7da6b207b4f09bbccbd99",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Burst water main causes power outages and disruptions in Adelaide CBD",
+      "link": "https://www.abc.net.au/news/2026-07-31/burst-water-main-causes-disruptions-adelaide-cbd/106980254",
+      "desc": "A burst water main that flooded an electrical substation has caused power outages across the Adelaide CBD, affecting businesses, a hospital and a school.",
+      "pubDate": "Thu, 30 Jul 2026 22:40:30 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/51c6b138b36cb15038d188a45991dbc8?impolicy=wcms_crop_resize&amp;cropH=1536&amp;cropW=1152&amp;xPos=448&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Group of five armed with gun, baseball bats invade home in Brisbane’s west",
+      "link": "https://www.smh.com.au/national/queensland/group-of-five-armed-with-gun-baseball-bats-invade-inner-west-home-20260731-p60k88.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two people remain on the run after the home invaders struck just before 4am.",
+      "pubDate": "Fri, 31 Jul 2026 08:29:40 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.1561%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d65848be0a3c59084384bcae2df03c2f8750f243",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Months after $3.6b power line finished, NSW funds $225m upgrade",
+      "link": "https://www.abc.net.au/news/2026-07-31/south-west-rez-upgrade-underway/106961958",
+      "desc": "Just three months after Project EnergyConnect was completed $1.3 billion over budget, its builder Transgrid has been awarded a contract to upgrade the line.",
+      "pubDate": "Thu, 30 Jul 2026 22:12:42 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/47c01f3c43b5a3790c180942e592ed28?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=1701&amp;xPos=1681&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "Paper mill cuts 84 jobs, blaming Victorian government for lack of timber",
       "link": "https://www.abc.net.au/news/2026-07-31/maryvale-opal-australian-maryvale-paper-mill-job-cuts-84-timber/106980230",
@@ -34198,316 +34428,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Boag's beer brand not for sale, but owner open to offers",
-      "link": "https://www.abc.net.au/news/2026-07-01/tas-boags-brand-sale-lion-open-to-offers/106863836",
-      "desc": "The union representing Boag's brewery workers in Launceston wants its owner, Lion Australia, to sell the brand along with the brewery. But the company's response has left workers confused.",
-      "pubDate": "Wed, 01 Jul 2026 03:00:35 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/863e4fc703e18ce4b5c5d09711a3e316?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Patrons farewell historical pub in outback town amid spate of closures",
-      "link": "https://www.abc.net.au/news/2026-07-01/broken-hill-pub-junction-hotel-closes-amid-dwindling-population/106854376",
-      "desc": "There used to be more than 70 pubs in Broken Hill, but now only a handful remain. The Australian Hotels Association warns hotels in remote locations need to diversify their business model in order to ",
-      "pubDate": "Wed, 01 Jul 2026 03:00:18 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/6656170ecea92d869df746311cfdb4da?impolicy=wcms_crop_resize&amp;cropH=3750&amp;cropW=2813&amp;xPos=337&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Plan to add hundreds of parking meters at Sydney beaches rejected",
-      "link": "https://www.abc.net.au/news/2026-07-01/randwick-council-rejects-parking-meter-plan/106864764",
-      "desc": "Randwick councillors vote against a plan to introduce hundreds of parking meters at some of Sydney's popular eastern beaches, with council staff to now look for other ways to improve the turnover of p",
-      "pubDate": "Wed, 01 Jul 2026 02:58:01 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/5e9a8dca7eac3ceaa07398762e24d17d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=632&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Operation Rosny: What we know about the blockbuster ICAC inquiry",
-      "link": "https://www.smh.com.au/national/nsw/operation-rosny-what-we-know-about-the-blockbuster-icac-inquiry-20260602-p60344.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Suspicions of bribery and political corruption are at the heart of an ICAC investigation into fugitive developer Jean Nassif.",
-      "pubDate": "Wed, 01 Jul 2026 12:35:53 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/29b488b2866a827830e829d6023f4c13238aaf18",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australian spy agency spars with China over foreign interference claim",
-      "link": "https://www.abc.net.au/news/2026-07-01/chinese-ambassador-asio-trade-barbs-over-foreign-interference/106847408",
-      "desc": "China's ambassador to Australia attacks ASIO over allegations of foreign interference and says the agency is at risk of damaging the bilateral relationship.",
-      "pubDate": "Wed, 01 Jul 2026 02:21:43 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/3c1adec9c5c6fa5ed485924fea83422f?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "'Chance to shine' for Australian seafood under new labelling laws",
-      "link": "https://www.abc.net.au/news/2026-07-01/seafood-country-of-origin-hospitality-imported-australian/106854232",
-      "desc": "New labelling laws for hospitality venues serving seafood should help diners know exactly what they are eating.",
-      "pubDate": "Wed, 01 Jul 2026 02:16:14 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/c56c791d0eb09505a0b566ba6727f9fd?impolicy=wcms_crop_resize&amp;cropH=1367&amp;cropW=1025&amp;xPos=140&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Labor gains in three further polls; Trump’s ratings recover slightly",
-      "link": "https://theconversation.com/labor-gains-in-three-further-polls-trumps-ratings-recover-slightly-286440",
-      "desc": "Three new federal polls since Monday produce a mixed bag of results for One Nation, but all good news for the government.",
-      "pubDate": "2026-07-01T02:14:17Z",
-      "img": "https://images.theconversation.com/files/745296/original/file-20260701-57-72npt1.jpg?ixlib=rb-4.1.0&amp;rect=0%2C608%2C7105%2C3552&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Consultants will fight change ‘tooth and nail,’ warns senator who blew the whistle on KPMG, PwC",
-      "link": "https://www.smh.com.au/business/companies/consultants-will-fight-change-tooth-and-nail-warns-senator-who-blew-the-whistle-on-kpmg-pwc-20260701-p60bjz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Senator Deborah O’Neill, a key figure in the PwC tax scandal and KPMG whistleblower scandal, says the culture inside global consulting giants ‘needs to be disrupted.’",
-      "pubDate": "Wed, 01 Jul 2026 12:02:06 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2733%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_354%2C$y_2/t_crop_custom/q_86%2Cf_auto/1d198e9e1d44b277d958b541fdf5476c8617aa09",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Ocean surface temperatures hit a record high for June",
-      "link": "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june",
-      "desc": "<p>European scientists warn of consequences for weather patterns, the global climate and marine life</p><p>Temperatures on the ocean surface have hit a record high, raising fears of another burst of e",
-      "pubDate": "Wed, 01 Jul 2026 02:00:22 GMT",
-      "img": "https://i.guim.co.uk/img/media/c83e208382022705471cc91c42d39724e42b1f45/417_0_4167_3334/master/4167.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Vanuatu deal is significant but a harbinger of what's to come in the Pacific",
-      "link": "https://www.abc.net.au/news/2026-07-01/how-vanuatu-deal-shapes-pacific-influence-contest-with-china/106863266",
-      "desc": "Although a big moment in diplomacy, the Vanuatu agreement has come at a clear reputational cost to Australia.",
-      "pubDate": "Wed, 01 Jul 2026 01:57:42 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8b2ecda7e15028eaad0dd8ce159c40bd?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=675&amp;xPos=463&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Trump has made one of the world’s most important markets a mystery",
-      "link": "https://www.smh.com.au/business/markets/trump-has-made-one-of-the-world-s-most-important-markets-a-mystery-20260701-p60bix.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The greatest oil shock in history seems to have passed with only fleeting effects as prices plunge. It doesn’t really add up.",
-      "pubDate": "Wed, 01 Jul 2026 11:56:35 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5742%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_73%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d6e39fab1787fd96c175632f9320c147f1764f74",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "West Wits banks first local funds for South African gold push",
-      "link": "https://www.smh.com.au/business/companies/west-wits-banks-first-local-funds-for-south-african-gold-push-20260701-p60bmj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "West Wits Mining has secured financial close and a first A$29.9 million drawdown on its senior loan facility to fully fund its flagship South African gold project.",
-      "pubDate": "Wed, 01 Jul 2026 11:41:22 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/9b5720a4bed4023b1b84dca3acbcf6363b20d14a03d3f0a3f0ca5f2dc21d66db",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "South32 sells its aluminium assets to Alcoa in $8 billion deal",
-      "link": "https://www.smh.com.au/national/western-australia/south32-sells-its-aluminium-assets-to-alcoa-in-8-billion-deal-20260701-p60bm7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The move is set to solidify Alcoa’s position as a leading pure-play upstream aluminum company with an expanded portfolio of world-class bauxite, alumina, and aluminum assets.",
-      "pubDate": "Wed, 01 Jul 2026 11:39:57 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/e0fce713aa81ef034e48c18c7e3a6a8eacd33e4f827a34ae2c3a5248d47eb3e1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sara couldn’t find the right home for her dad. So she built it from scratch",
-      "link": "https://www.smh.com.au/national/nsw/sara-couldn-t-find-the-right-home-for-her-dad-so-she-built-it-from-scratch-20260605-p604bq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "This architect’s personal project shows why going smaller with gentle density could make a big difference to supply and reduce housing costs.",
-      "pubDate": "Wed, 01 Jul 2026 11:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4750137962962963%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_266%2C$y_620/t_crop_custom/q_86%2Cf_auto/896cd7200f7dff7dbe7bff246b91d7343bbc9047",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "These school toilets are so gross the kids won’t use them",
-      "link": "https://www.smh.com.au/national/victoria/basic-necessity-these-school-toilets-are-so-gross-kids-won-t-use-them-20260630-p60b77.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Primary students at two schools are avoiding using ageing bathrooms as the state faces pressure balancing maintenance and building new schools.",
-      "pubDate": "Wed, 01 Jul 2026 11:28:11 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2008344395979518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_83/t_crop_custom/q_86%2Cf_auto/f60c58a754c641eb30977e176b8b4b8f553309fe",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Interpol issue alert for Australian man missing in Mexico",
-      "link": "https://www.smh.com.au/national/western-australia/interpol-issue-alert-for-australian-man-missing-in-mexico-20260701-p60bm3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Mexican authorities have issued an interpol yellow alert for Jesse Bruzzese, who has not been heard from in three weeks.",
-      "pubDate": "Wed, 01 Jul 2026 11:21:11 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/940f21b9f2ea45fde386d64bb240074e1c0f74ef891fbbf8be35d7cd3d107cfe",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Antisemitism isn’t always overt. A torrent of suspicion is questioning Jewish Australians’ loyalty to the country we love | Josh Burns",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/01/antisemitism-jewish-australians-josh-burns-mp-comment-ntwnfb",
-      "desc": "<p>We don’t want debate to be silenced. But the dehumanisation and diminishing of our experiences has to end</p><p>Which master is he loyal to and whom is he in service to?</p><p>This is just one of h",
-      "pubDate": "Wed, 01 Jul 2026 01:11:03 GMT",
-      "img": "https://i.guim.co.uk/img/media/bf7e07e05721471876bcacefb1dfa5982f2bccef/1008_213_6298_5039/master/6298.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Alcoa to buy South32's WA bauxite mine in $8b deal",
-      "link": "https://www.abc.net.au/news/2026-07-01/wa-south-32-assets-sold-to-alcoa/106864452",
-      "desc": "American mining giant Alcoa is set to buy $8 billion worth of assets from Australia's South32.",
-      "pubDate": "Wed, 01 Jul 2026 01:08:36 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/62acc138d9101bd7b77e17a49bcb3baa?impolicy=wcms_crop_resize&amp;cropH=2944&amp;cropW=2208&amp;xPos=1104&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Liberals can't keep on track even with a prize in sight",
-      "link": "https://www.abc.net.au/news/2026-07-01/liberals-moira-deeming-matthew-guy-victoria/106864454",
-      "desc": "The Liberals, it seems, can't resist returning to damaging infighting, even in the one part of the country where things have been going quite encouragingly for them.",
-      "pubDate": "Wed, 01 Jul 2026 00:51:22 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/b91684bd07f9280d48d2c91192b92a27?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1578&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "'Recurring issues' uncovered following surveillance of chopper sector",
-      "link": "https://www.abc.net.au/news/2026-07-01/casa-issues-safety-warning-northern-helicopter-industry/106862128",
-      "desc": "Australia's aviation watchdog has warned that cutting corners on maintenance and certification requirements could create a \"real safety risk\".",
-      "pubDate": "Wed, 01 Jul 2026 00:43:34 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/7e5f377325984614fda384b4cdc6e047?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia wants a ‘digital duty of care’. But how will we check what big tech is doing?",
-      "link": "https://theconversation.com/australia-wants-a-digital-duty-of-care-but-how-will-we-check-what-big-tech-is-doing-285598",
-      "desc": "Just as important as creating a duty of care is knowing if it’s working.",
-      "pubDate": "2026-07-01T00:26:25Z",
-      "img": "https://images.theconversation.com/files/744666/original/file-20260629-71-ufp9zq.jpg?ixlib=rb-4.1.0&amp;rect=0%2C537%2C5472%2C2736&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Qantas unveils ultra-long direct Sydney to London flight",
-      "link": "https://www.smh.com.au/national/qantas-unveils-ultra-long-direct-sydney-to-london-flight-20260701-p60blg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Qantas has announced it will launch its 20-hour non-stop Sydney to London flight next year.",
-      "pubDate": "Wed, 01 Jul 2026 10:25:45 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d97e7785adaadc76f4a07d4d4b5ff2305e95e5aa",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "AI can be a personal trainer in your pocket – but is it safe?",
-      "link": "https://theconversation.com/ai-can-be-a-personal-trainer-in-your-pocket-but-is-it-safe-282586",
-      "desc": "It’s easy to see why many use AI for their exercise programs: it’s fast, cheap and readily available. But there can be downsides.",
-      "pubDate": "2026-07-01T00:21:34Z",
-      "img": "https://images.theconversation.com/files/734948/original/file-20260511-57-elazbm.jpg?ixlib=rb-4.1.0&amp;rect=0%2C270%2C5607%2C2803&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Why does our mind wander? New study taps into the tricks of staying on task",
-      "link": "https://theconversation.com/why-does-our-mind-wander-new-study-taps-into-the-tricks-of-staying-on-task-285706",
-      "desc": "If we do not have to control our attention, we might not.",
-      "pubDate": "2026-07-01T00:06:20Z",
-      "img": "https://images.theconversation.com/files/744418/original/file-20260626-85-6g45vp.jpg?ixlib=rb-4.1.0&amp;rect=0%2C500%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "World in pictures, July 1, 2026",
-      "link": "https://www.smh.com.au/national/victoria/world-in-pictures-july-1-2026-20260701-p60bkx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The best photos from the international wire agencies as chosen by The Age picture editors",
-      "pubDate": "Wed, 01 Jul 2026 10:06:02 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2367%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/1008dee003d9df582168e679ca7ca2a58da1f53b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "WA news LIVE: WA’s top cop says accused Thai murderer nearly avoided death penalty",
-      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-alcoa-buys-south32-s-aluminium-assets-for-4-1-billion-20260701-p60bjs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow our live coverage here.",
-      "pubDate": "Wed, 01 Jul 2026 09:30:24 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3989%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_74/t_crop_custom/q_86%2Cf_auto/56b4bd8ed32276a04a956f61697c48d7737c7e4c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ACCC blocks Coles supermarket to protect regional city's independents",
-      "link": "https://www.abc.net.au/news/2026-07-01/accc-kalgoorlie-supermarket-coles-decision-competition/106851198",
-      "desc": "In an unprecedented move, Australia's consumer watchdog has exercised new powers to block the opening of a Coles supermarket, on the grounds it could knock out smaller competitors in the surrounding r",
-      "pubDate": "Tue, 30 Jun 2026 23:13:50 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/7f0cf14fc72afa69c2fcdc019dd9facd?impolicy=wcms_crop_resize&amp;cropH=3334&amp;cropW=2501&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Women with irregular periods should be checked for PMOS, NHS says",
-      "link": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
-      "desc": "<p>Polyendocrine metabolic ovarian syndrome is underdiagnosed and inconsistenly managed, according to Nice</p><p>Up to 4 million women with irregular periods should be investigated for polyendocrine m",
-      "pubDate": "Tue, 30 Jun 2026 23:01:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/68924f3cedcb01981980e444b88be1cd4062fb61/616_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Asylum seeker boat intercepted with Chinese nationals on board in Far North Queensland",
-      "link": "https://www.smh.com.au/national/queensland/asylum-seeker-boat-intercepted-with-chinese-nationals-on-board-in-far-north-queensland-20260630-p60bgo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "About a dozen Chinese nationals were aboard the boat, and people were taken into custody.",
-      "pubDate": "Wed, 01 Jul 2026 08:56:37 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.19019396551724135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3b54c82b50df4e291db4f3b904b8829f50985e21",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Iconic Gloucester Tree reopens after three-year closure",
-      "link": "https://www.abc.net.au/news/2026-07-01/gloucester-tree-reopens/106859980",
-      "desc": "Tourism operators are celebrating the reopening of the southern WA landmark, the Gloucester Tree, with visitors making the 37-metre climb to its peak for the first time since its closure three years a",
-      "pubDate": "Tue, 30 Jun 2026 22:34:57 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/c42ae548e55bf37be8ad62674eb1f66d?impolicy=wcms_crop_resize&amp;cropH=4000&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia politics live: Tim Wilson says Coalition needs time to regain trust after another poll in the doldrums",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/01/australia-politics-live-labor-kpmg-daniel-mulino-jim-chalmers-anthony-albanese-question-time-coalition-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "desc": "<p>Meanwhile federal government releases options paper to improve regulation of accounting, auditing and consulting firms. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardi",
-      "pubDate": "Tue, 30 Jun 2026 22:12:49 GMT",
-      "img": "https://i.guim.co.uk/img/media/4e65c37c1934c38c316283dcc7eb013de275a7dd/717_302_4641_3715/master/4641.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
