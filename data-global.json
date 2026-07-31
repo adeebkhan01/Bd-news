@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T11:31:34.174Z",
-  "summary": "Global energy markets face fresh pressure as UK petrol prices surge to their highest since Iran tensions escalated, while BP divests its North Sea operations amid the transition away from fossil fuels. FIFA's controversial World Cup expansion plan is fracturing the sport's governance, with UEFA and CONCACAF backing a boycott that prompted senior adviser Cordeiro's resignation, raising questions about the organization's future. The Middle East remains volatile with Iran claiming retaliatory strikes on Kuwait and potential Saudi involvement in escalating tensions, overshadowing a tentative Hamas disarmament agreement that could offer a pathway toward resolving the Gaza conflict. Domestically, Western governments grapple with migration pressures from Spain's military deployment to Ceuta to Pakistan's mining disaster, while artificial intelligence security breaches at major tech firms signal emerging risks in the AI sector.",
+  "fetchedAt": "2026-07-31T14:18:06.492Z",
+  "summary": "Global tensions remain high across multiple regions as Spain deployed military forces to Ceuta following a deadly migrant surge from Morocco, while the Middle East faces escalating confrontation with Iran claiming retaliatory attacks and a potential ceasefire emerging in Gaza tied to Hamas disarmament. FIFA's World Cup expansion plans have triggered unprecedented backlash, with senior officials resigning and major continental federations threatening boycotts over Gianni Infantino's proposals. Economic pressures mount worldwide, from UK petrol prices hitting multi-year highs to concerns about US GDP growth slowdown and Apple warning of supply constraints, while technology companies grapple with security breaches as both OpenAI and Anthropic disclosed their AI systems were compromised during testing.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,36 @@
   ],
   "articles": [
     {
+      "title": "Spain deploys military to Ceuta after migrant surge: What we know",
+      "link": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know?traffic_source=rss",
+      "desc": "At least 34 people reported killed trying to cross into the Spanish enclave bordering Morocco.",
+      "pubDate": "Fri, 31 Jul 2026 13:52:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6c964699fa-1785501254.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "FIFA World Cup plan: Infantino tackles UEFA and global game – all to know",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss",
+      "desc": "Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino&#039;s private investment plan.",
+      "pubDate": "Fri, 31 Jul 2026 13:06:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26211607511071-1785483714.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Palestinians in Gaza react to latest ceasefire deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+      "desc": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
+      "pubDate": "Fri, 31 Jul 2026 12:59:48 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785502725.jpg?resize=1630%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "UK petrol prices hit highest level since Iran war began",
       "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
       "desc": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
@@ -33,6 +63,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco",
+      "link": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss",
+      "desc": "Regional leader says 60,000 crossed into Ceuta by land and sea as EU chief calls situation &#039;unacceptable&#039;.",
+      "pubDate": "Fri, 31 Jul 2026 10:40:11 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6c6290-1785488016.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
     },
     {
       "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
@@ -523,6 +563,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "BMW to Volkswagen: How deep is Germany's auto industry cull?",
+      "link": "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695?maca=en-rss-en-bus-2091-rdf",
+      "desc": "BMW joins VW, Porsche and Mercedes-Benz in cutting thousands of jobs, as Chinese rivals erode their market share. DW recaps the major reforms German automakers are pursuing to safeguard their future.",
+      "pubDate": "2026-07-30T13:24:00Z",
+      "img": "https://static.dw.com/image/78172963_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Detained Ugandan opposition leader Besigye in intensive care, wife says",
@@ -13533,66 +13583,6 @@
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
-    },
-    {
-      "title": "Caught between the US and China, can Europe remain competitive?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/1/caught-between-the-us-and-china-can-europe-remain-competitive?traffic_source=rss",
-      "desc": "As trade tensions grow, Europe tries to remain competitive while balancing ties with the US and China.",
-      "pubDate": "Wed, 01 Jul 2026 14:00:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/WEB-1782914433.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Colorado primary election results: Melat Kiros wins – key takeaways",
-      "link": "https://www.aljazeera.com/news/2026/7/1/colorado-primary-election-results-melat-kiros-wins-key-takeaways?traffic_source=rss",
-      "desc": "Melat Kiros defeated Diana DeGette, who has been in office for as long as the 29-year-old Kiros has been alive.",
-      "pubDate": "Wed, 01 Jul 2026 13:59:07 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a450d7d49747-1782910333.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN Human Rights Council to hold urgent meeting on Sudan crisis",
-      "link": "https://www.aljazeera.com/news/2026/7/1/un-human-rights-council-to-hold-urgent-meeting-on-sudan-crisis?traffic_source=rss",
-      "desc": "The emergency session follows warnings that 500,000 civilians around el-Obeid are at risk of large-scale atrocities.",
-      "pubDate": "Wed, 01 Jul 2026 12:26:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1782894481.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US Supreme Court upholds birthright citizenship: Who wins, who loses?",
-      "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-upholds-birthright-citizenship-who-wins-who-loses?traffic_source=rss",
-      "desc": "Court struck down US President Trump&#039;s executive order abolishing it, but he has pledged to challenge the ruling.",
-      "pubDate": "Wed, 01 Jul 2026 12:24:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a44f0294341-1782902825_a2384a-1782908093.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Brewery boss who banned phones and swearing from pubs dies aged 81",
-      "link": "https://www.bbc.co.uk/news/articles/c0ky1v2e275o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Humphrey Smith had been at the helm of the Tadcaster brewer since the 1980s.",
-      "pubDate": "Wed, 01 Jul 2026 12:20:49 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9b/live/16a01630-7536-11f1-9510-1546718f668b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?",
-      "link": "https://www.aljazeera.com/news/2026/7/1/who-is-vadym-yermolaiev-the-ukrainian-tycoon-injured-in-monaco-blast?traffic_source=rss",
-      "desc": "Police in Monaco and France are hunting for a suspect seen leaving an explosive device at a residential building.",
-      "pubDate": "Wed, 01 Jul 2026 12:15:39 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-30T054312Z_672130109_RC254MAHTJXJ_RTRMADP_3_MONACO-SECURITY-1782902162.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
