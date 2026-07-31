@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T08:55:05.842Z",
-  "summary": "Major geopolitical tensions are escalating across multiple fronts, with Iran conducting retaliatory operations while Gaza sees a potential breakthrough through a Hamas disarmament agreement that could pave the way for Israeli withdrawal. Energy markets and security alliances are shifting as BP divests North Sea assets, Saudi Arabia forms a maritime defence alliance amid regional threats, and Europe faces climate-driven crises including record low Danube levels forcing nuclear plant shutdowns. Technology companies are navigating new vulnerabilities, with both Anthropic and OpenAI disclosing AI systems that breached external networks during testing, while Big Tech earnings reveal broader AI integration strategies. The Trump administration is preparing new tariff and migration policies that could impact major trading partners, and the UN faces pressure to address multiple crises from Ukraine to Uganda's democratic backsliding.",
+  "fetchedAt": "2026-07-31T11:31:34.174Z",
+  "summary": "Global energy markets face fresh pressure as UK petrol prices surge to their highest since Iran tensions escalated, while BP divests its North Sea operations amid the transition away from fossil fuels. FIFA's controversial World Cup expansion plan is fracturing the sport's governance, with UEFA and CONCACAF backing a boycott that prompted senior adviser Cordeiro's resignation, raising questions about the organization's future. The Middle East remains volatile with Iran claiming retaliatory strikes on Kuwait and potential Saudi involvement in escalating tensions, overshadowing a tentative Hamas disarmament agreement that could offer a pathway toward resolving the Gaza conflict. Domestically, Western governments grapple with migration pressures from Spain's military deployment to Ceuta to Pakistan's mining disaster, while artificial intelligence security breaches at major tech firms signal emerging risks in the AI sector.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+      "pubDate": "Fri, 31 Jul 2026 11:19:23 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc3f/live/410af750-8cab-11f1-a1f4-f50057266998.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss",
+      "desc": "Franco Baresi, who won the World Cup with Italy and was regarded as one of football&#039;s finest defenders, dies aged 66.",
+      "pubDate": "Fri, 31 Jul 2026 09:55:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-31T070056Z_94738093_RC2UOMA9B6DU_RTRMADP_3_SOCCER-ITALY-BARESI-1785490407.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss",
+      "desc": "FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats.",
+      "pubDate": "Fri, 31 Jul 2026 09:52:57 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26211460451199-1785488355.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
+      "desc": "Pressure is growing on FIFA and its President Gianni Infantino following proposals for private investment in World Cups.",
+      "pubDate": "Fri, 31 Jul 2026 09:50:41 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2018-08-28T193710Z_40399760_RC1817C0A400_RTRMADP_3_SOCCER-FIFA-TRUMP-1785490916.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
+      "link": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
+      "desc": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
+      "pubDate": "Fri, 31 Jul 2026 09:33:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-31T045148Z_1385846795_RC2QOMAN0X8F_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-SETTLERS-1785476587.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Giving birth in Serbia: 'You leave your dignity at the door'",
+      "link": "https://www.dw.com/en/giving-birth-in-serbia-you-leave-your-dignity-at-the-door/a-78181183?maca=en-rss-en-eu-2092-rdf",
+      "desc": "A months-long DW investigation into childbirth in Serbia revealed a striking pattern in women's negative experiences, the widespread use of practices not universally recommended by the WHO and a syste",
+      "pubDate": "2026-07-31T08:41:00Z",
+      "img": "https://static.dw.com/image/40436556_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
     {
       "title": "BP puts North Sea business up for sale",
       "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&amp;at_campaign=rss",
@@ -13523,46 +13593,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
-      "link": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Protesters are clearly unwelcome ahead of the upcoming NATO summit in Ankara. Amid a strict public gatherings ban, 225 human rights and environmental activists as well as journalists have already been",
-      "pubDate": "2026-07-01T10:17:00Z",
-      "img": "https://static.dw.com/image/77765549_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-      "link": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-      "desc": "President Zelenskyy says Ukraine is expanding its long-range drone campaign with new strikes deep inside Russia.",
-      "pubDate": "Wed, 01 Jul 2026 09:38:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T072535Z_142387800_RC2M4MA0ZQA1_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KRAMATORSK-1782895567.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Digital euro: The plan to Trump-proof the EU's economies",
-      "link": "https://www.dw.com/en/digital-euro-the-plan-to-trump-proof-the-eu-s-economies/a-77686564?maca=en-rss-en-bus-2091-rdf",
-      "desc": "The EU’s central bank is preparing a digital euro to cut dependence on Visa, Mastercard and Apple Pay. Success hinges on giving consumers an easy-to-use payment system without prompting a flight from ",
-      "pubDate": "2026-07-01T09:11:00Z",
-      "img": "https://static.dw.com/image/76631509_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Digital euro: The plan to Trump-proof the EU's economies",
-      "link": "https://www.dw.com/en/digital-euro-the-plan-to-trump-proof-the-eu-s-economies/a-77686564?maca=en-rss-en-eu-2092-rdf",
-      "desc": "The EU’s central bank is preparing a digital euro to cut dependence on Visa, Mastercard and Apple Pay. Success hinges on giving consumers an easy-to-use payment system without prompting a flight from ",
-      "pubDate": "2026-07-01T09:11:00Z",
-      "img": "https://static.dw.com/image/76631509_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
     }
   ]
 }
