@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-01T19:14:41.632Z",
-  "summary": "Global tensions are escalating across multiple fronts as Russia intensifies missile attacks on Ukraine's civilian areas while Iran warns against potential US military strikes on its energy infrastructure. Political upheaval is reshaping international institutions, with FIFA President Infantino under mounting pressure to resign following UEFA's loss of confidence in his leadership and the scrapping of a controversial World Cup investment plan. A humanitarian crisis is unfolding on Europe's southern border where thousands of migrants crossed into Spain's Ceuta enclave from Morocco, with at least 67 deaths, prompting Spain to demand coordinated EU action. Meanwhile, India is facing criticism for cracking down on student protesters, a serious Ebola outbreak threatens the Democratic Republic of Congo, and Trump faces legal complications while signaling readiness for military confrontation with Iran.",
+  "fetchedAt": "2026-08-01T21:59:54.448Z",
+  "summary": "A humanitarian crisis is unfolding at Spain's Ceuta enclave where a mass migrant crossing from Morocco has killed at least 67 people and triggered an EU emergency meeting, with Spain criticizing member states for insufficient solidarity. In the Middle East, tensions are escalating as Iran warns against US strikes on its energy infrastructure while Israel conducts raids and settles accounts in the West Bank, and Russia continues missile attacks on Ukraine killing at least nine in Kyiv. Domestically, former US President Trump faces legal jeopardy and the Justice Department's decision to drop certain charges, while FIFA is in turmoil with calls for Gianni Infantino's replacement after scrapping a controversial World Cup investment scheme. Elsewhere, the DR Congo faces its worst Ebola outbreak on record, Colombia experiences pre-election violence, and India's government tightens restrictions on anti-government protests.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+      "desc": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.",
+      "pubDate": "Sat, 01 Aug 2026 21:15:50 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785618936.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+      "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
+      "desc": "Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.",
+      "pubDate": "Sat, 01 Aug 2026 20:38:41 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/WEB-1000x562-ETHIOPIA-TIGRAY-1785610774.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "pubDate": "Sat, 01 Aug 2026 20:09:27 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
+      "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
+      "desc": "The US president pushes back after a federal prosecutor says damage caused by &#039;botched&#039; installation, not vandalism.",
+      "pubDate": "Sat, 01 Aug 2026 19:08:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a6e37aeccf5f-1785608110.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Palestinian children among those detained by Israel in West Bank raids",
+      "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
+      "desc": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
+      "pubDate": "Sat, 01 Aug 2026 18:51:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2024/08/AFP__20240828__36EV6X7__v3__HighRes__TopshotPalestinianIsraelConflictWestBank-1724889036.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
       "link": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
@@ -203,6 +253,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "War in Ukraine: Why Crimea has become a strategic target",
+      "link": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how does Kyiv hope this strategy will affect the course o",
+      "pubDate": "2026-08-01T10:03:00Z",
+      "img": "https://static.dw.com/image/74330836_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
@@ -13480,46 +13540,6 @@
       "desc": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
       "pubDate": "Thu, 02 Jul 2026 23:02:09 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
-      "link": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
-      "pubDate": "Thu, 02 Jul 2026 21:21:36 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9745/live/6c75c790-7652-11f1-a627-714adb4eed6e.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Could water become a flashpoint between Islamabad and New Delhi?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
-      "desc": "Pakistan has warned India over the Indus Water Treaty.",
-      "pubDate": "Thu, 02 Jul 2026 21:01:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783022752.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "WHO declares cruise-linked hantavirus outbreak officially over",
-      "link": "https://www.aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss",
-      "desc": "WHO declares cruise-linked hantavirus outbreak over as final exposed person completes quarantine and tests negative.",
-      "pubDate": "Thu, 02 Jul 2026 20:50:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-05-22T074055Z_46338696_RC2FCLA1BJUP_RTRMADP_3_CRUISESHIP-HANTAVIRUS-AFRICA-1783020128.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-      "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-      "pubDate": "Thu, 02 Jul 2026 20:34:52 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062b/live/8a25abc0-764d-11f1-a011-354a7c444b02.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"

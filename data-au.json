@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-01T19:14:27.582Z",
-  "summary": "Australia faces mounting public health concerns with bird flu cases surging in South Australia, with authorities warning of a potential first mass mortality event among native birds. On the domestic policy front, fuel prices will rise sharply tonight as the government's excise cut expires, while serious criminal cases including teenage murder charges and serious sexual offenders on community orders highlight ongoing law enforcement pressures. Cultural and economic stories include the spectacular property collapse of developer Daniel Grollo and growing consumer enthusiasm for Japanese goods, alongside broader political discussions about Australia's multicultural identity and international defence commitments.",
+  "fetchedAt": "2026-08-01T21:59:38.741Z",
+  "summary": "Australia's fuel excise cut expires tonight, pushing petrol prices higher at the bowser. Several serious crime stories dominate the news cycle, including a teen charged with murder over a hat on the Central Coast and concerns about sexual offenders and violent offenders being released into the community. Governor-General Sam Mostyn has raised alarm about democratic decline, while policy debates are heating up around voluntary assisted dying access and visa treatment of skilled migrants. Environmental concerns are emerging with a potential bird flu mass mortality event feared off South Australia's coast and recent discussion about a contentious sandstone mining project being scrapped after farmer opposition.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fuel excise cut to end at midnight",
+      "link": "https://www.smh.com.au/national/fuel-excise-cut-to-end-at-midnight-20260802-p60kmj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Petrol prices are set to rise with the fuel excise cut due to end at midnight.",
+      "pubDate": "Sun, 02 Aug 2026 07:33:55 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b7dbf6eaa7f2af165cd999668c9ab61170473b6d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man fighting for life after being hit by car in Melbourne",
+      "link": "https://www.smh.com.au/national/man-fighting-for-life-after-being-hit-by-car-in-melbourne-20260802-p60kml.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man trying to stop his own car being stolen was struck and left with critical injuries in Heidelberg West, Melbourne.",
+      "pubDate": "Sun, 02 Aug 2026 07:33:46 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/739f07601eb784c4340a17aa2fc9988d1b870868",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "EU holds crisis meeting after Spanish border crossing",
+      "link": "https://www.smh.com.au/national/eu-holds-crisis-meeting-after-spanish-border-crossing-20260802-p60kmk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The EU will hold a crisis meeting after tens of thousands of people swept across a border checkpoint in Ceuta, a Spanish city in north Africa.",
+      "pubDate": "Sun, 02 Aug 2026 07:29:37 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/dd5586fbcd57689413a8a8a2d70671664e8a574b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Sandstone miner scraps Lockyer Valley project after farmers' pleas",
+      "link": "https://www.abc.net.au/news/2026-08-02/lockyer-valley-sandstone-quarry-application-withdrawn/106976660",
+      "desc": "A quiet farming community found itself at the centre of a major battle when mining threatened their land. What happened next surprised everyone.",
+      "pubDate": "Sat, 01 Aug 2026 20:47:05 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/3842f5292b346ca8e2df66e1bafe5486?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "The case for a blatantly discriminatory Australian voting system",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/02/the-case-for-a-blatantly-discriminatory-australian-voting-system",
+      "desc": "<p>Older Australians are overrepresented in every sphere of life, from politics to the economy and media … and they’re living longer. It’s time we stack the deck in favour of young people. Here’s how<",
+      "pubDate": "Sat, 01 Aug 2026 20:00:03 GMT",
+      "img": "https://i.guim.co.uk/img/media/bd0251698e2f0fc16c9e5dc44b52993efcd43796/521_39_3281_2626/master/3281.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Governor general Sam Mostyn on the ‘growing catastrophe’ in our democracy - podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/aug/02/governor-general-sam-mostyn-on-the-growing-catastrophe-in-our-democracy-full-story-podcast",
+      "desc": "<p>Two years into her role representing King Charles, Australia’s head of state, governor general Sam Mostyn says she has observed a ‘woeful lack of understanding’ among the adult population about the",
+      "pubDate": "Sat, 01 Aug 2026 20:00:03 GMT",
+      "img": "https://i.guim.co.uk/img/media/d702a25f2bc67aeafd192f00a91ff2626c458750/313_0_1875_1500/master/1875.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Australia prevents telehealth for voluntary assisted dying consults. Why, and could that change?",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/02/australia-telehealth-voluntary-assisted-dying",
+      "desc": "<p>Labor’s national conference voted to repeal the ban but the PM fears it could undermine medical safeguards. We look at the debate shaping up</p><ul><li><p>Get our <a href=\"https://www.theguardian.c",
+      "pubDate": "Sat, 01 Aug 2026 20:00:03 GMT",
+      "img": "https://i.guim.co.uk/img/media/7cae8f1c0a9b522096c629ae652672f508c13cfd/468_0_4680_3744/master/4680.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "My highly educated Uber driver’s heartache underscores how transactional Australia’s visa regime has become | Julianne Schultz",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/02/uber-driver-australia-expensive-visa-system-international-students",
+      "desc": "<p>Belonging is hard when gaining citizenship is so expensive. The state has just become a regulator of the market</p><p>I had scarcely closed the door of the Uber that saved me from getting drenched ",
+      "pubDate": "Sat, 01 Aug 2026 20:00:01 GMT",
+      "img": "https://i.guim.co.uk/img/media/d523e8ed822021278fea96944a74bc90367371c0/0_0_6827_5464/master/6827.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "'We're blowing this thing into the harbour': 50 years since woodchip bombing",
       "link": "https://www.abc.net.au/news/2026-08-02/50-years-since-bunbury-woodchip-bombing/106925942",
@@ -33578,226 +33658,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Private equity boss keeps his job but hit with ‘disciplinary action’ after guilty plea",
-      "link": "https://www.smh.com.au/business/companies/tpg-retains-joel-thickins-but-imposes-disciplinary-action-after-guilty-plea-20260703-p60c8p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Joel Thickins pleaded guilty this week to two charges involving drink-driving relating to an incident in Sydney in early June, when he crashed his BMW into five cars and then twice refused to take an ",
-      "pubDate": "Fri, 03 Jul 2026 07:47:40 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5568901851851852%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_54%2C$y_60/t_crop_custom/q_86%2Cf_auto/a960ac8be1c8f21576e58cbd8fda9fd0a57928c4",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ASX gains ground, PEXA shares lose 20pc in value — as it happened",
-      "link": "https://www.abc.net.au/news/2026-07-03/asx-markets-business-news-live-updates/106872202",
-      "desc": "The ASX closed 1.37 per cent higher on Friday, but PEXA shares lost 20 per cent in value after an IPART draft report recommended cutting PEXA regulated revenue. Catch up on the day's events and insigh",
-      "pubDate": "Thu, 02 Jul 2026 21:28:34 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/d1ddc8ba198652a065f26bdb53d17726?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=442&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Live: Minister defends calling former PM Menzies a 'Nazi appeaser'",
-      "link": "https://www.abc.net.au/news/2026-07-03/federal-politics-live-blog-gambling-ads-july-3/106874238",
-      "desc": "Defence Industry Minister Pat Conroy has doubled down on calling former prime minister Robert Menzies a \"Nazi appeaser\" at the National Press Club. Follow live.",
-      "pubDate": "Thu, 02 Jul 2026 21:05:53 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/45442538a734802de8791df277bb0178?impolicy=wcms_crop_resize&amp;cropH=2814&amp;cropW=2111&amp;xPos=1351&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia news LIVE: Police probe CFMEU ‘inside job’ leak; Moira Deeming launches legal action; UNSW ordered to pay back staff",
-      "link": "https://www.smh.com.au/national/australia-news-live-police-probe-cfmeu-inside-job-leak-moira-deeming-launches-legal-action-unsw-ordered-to-pay-back-staff-20260703-p60c7t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow our rolling coverage of the latest developments and news from around Australia and the world.",
-      "pubDate": "Fri, 03 Jul 2026 06:50:23 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2251%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/13ce5be7db398fd3641e6aecec7e4c81e475e235",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Fears $1m to remove lead-contaminated soil in Captains Flat 'won't go very far'",
-      "link": "https://www.abc.net.au/news/2026-07-03/act-captains-flat-residents-lead-contamination-remediation-fund/106872534",
-      "desc": "Residents of Captains Flat have welcomed the promise of a $1 million fund to help them remediate lead contamination on private properties, but some fear it will not be enough.",
-      "pubDate": "Thu, 02 Jul 2026 20:34:22 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/72a2b3252b0aebd7a621bc6678584c5e?impolicy=wcms_crop_resize&amp;cropH=1512&amp;cropW=1134&amp;xPos=876&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Record rainfall smashes South Australia",
-      "link": "https://www.smh.com.au/national/record-rainfall-smashes-south-australia-20260703-p60c82.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A burst of wild winter weather has hit South Australia and more states are in the firing line.",
-      "pubDate": "Fri, 03 Jul 2026 06:25:25 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8abf175438004bf1a475932f9ca7f31eb926d230",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Tolls raised on Sydney Harbour Bridge",
-      "link": "https://www.smh.com.au/national/tolls-raised-on-sydney-harbour-bridge-20260703-p60c80.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The NSW government has raised tolls on the Sydney Harbour Bridge and tunnel for the third time since taking power.",
-      "pubDate": "Fri, 03 Jul 2026 06:25:05 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/04c0ee01a93b39be9f9d51bded038c636489edff",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "New drug offers hope to MND patients",
-      "link": "https://www.smh.com.au/national/new-drug-offers-hope-to-mnd-patients-20260703-p60c7z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A drug developed in Queensland offers a breakthrough in the treatment of MND.",
-      "pubDate": "Fri, 03 Jul 2026 06:24:36 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c7419506c297d12318360a7ff8e27ea5375e03ba",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Melbourne teenager charged with murder",
-      "link": "https://www.smh.com.au/national/melbourne-teenager-charged-with-murder-20260703-p60c7w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "More arrests have been made over the alleged stabbing death of a 15-year-old boy in Melbourne.",
-      "pubDate": "Fri, 03 Jul 2026 06:19:53 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ab7366c560cd20e7d1bf56c8587c2f83b3b36c8a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Second man charged over Cape York boat arrival",
-      "link": "https://www.smh.com.au/national/second-man-charged-over-cape-york-boat-arrival-20260703-p60c7v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A second man has been charged over an alleged people smuggling attempt in Queensland.",
-      "pubDate": "Fri, 03 Jul 2026 06:19:18 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/95e984ec5c9cd211c1381d6c521f3eceac18e698",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Governments warned about $240m Nyrstar subsidy payouts",
-      "link": "https://www.abc.net.au/news/2026-07-03/nyrstar-shareholders-warned-governments-about-trafigura-payouts/106866586",
-      "desc": "A group of international shareholders are warning state and federal governments against giving global commodities giant Trafigura hundreds of millions of dollars to keep smelting operations going in A",
-      "pubDate": "Thu, 02 Jul 2026 20:16:06 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/7da0268da5f9bcb1f5bae521efca13fc?impolicy=wcms_crop_resize&amp;cropH=3330&amp;cropW=2498&amp;xPos=1251&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Laws to curtail online bile can’t come at cost of legitimate anonymity claims",
-      "link": "https://www.smh.com.au/national/nsw/laws-to-curtail-online-bile-can-t-come-at-cost-of-legitimate-anonymity-claims-20260702-p60c64.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The proposed Digital Duty of Care laws must be made with care, thought and consideration.",
-      "pubDate": "Fri, 03 Jul 2026 06:05:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/ac6323d96085dfa1fea791155958ca6b446c0b6f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "After 250 years of American independence, what do Australians think about the US?",
-      "link": "https://theconversation.com/after-250-years-of-american-independence-what-do-australians-think-about-the-us-286253",
-      "desc": "A new survey shows Australians have made their mind up on Donald Trump and are questioning why Australia needs its closest ally.",
-      "pubDate": "2026-07-02T19:53:34Z",
-      "img": "https://images.theconversation.com/files/745302/original/file-20260701-57-lzwblx.jpg?ixlib=rb-4.1.0&amp;rect=0%2C744%2C4461%2C2230&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "The US is turning 250 – and Trump is making it all about him",
-      "link": "https://theconversation.com/the-us-is-turning-250-and-trump-is-making-it-all-about-him-284563",
-      "desc": "Trump is not the first president to lean into an exaggerated patriotism at a time of crisis. But the vanity of his actions signals something perhaps unique.",
-      "pubDate": "2026-07-02T19:39:07Z",
-      "img": "https://images.theconversation.com/files/745305/original/file-20260701-57-n9jyvo.jpg?ixlib=rb-4.1.0&amp;rect=0%2C627%2C5912%2C2956&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "With the World Cup in full swing, why have the geopolitical criticisms quietened?",
-      "link": "https://theconversation.com/with-the-world-cup-in-full-swing-why-have-the-geopolitical-criticisms-quietened-286255",
-      "desc": "It is a difficult juggling act to be both a soccer fan and social critic. After tournaments start, it becomes even harder.",
-      "pubDate": "2026-07-02T19:38:47Z",
-      "img": "https://images.theconversation.com/files/744657/original/file-20260629-57-2yqxre.jpg?ixlib=rb-4.1.0&amp;rect=605%2C693%2C6402%2C3201&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Who has access to my bank details? What protections are in place to prevent misuse?",
-      "link": "https://theconversation.com/who-has-access-to-my-bank-details-what-protections-are-in-place-to-prevent-misuse-286560",
-      "desc": "While alarming, incidents involving alleged unauthorised or inappropriate access can actually be a sign that safeguards to protect our data are working.",
-      "pubDate": "2026-07-02T19:31:57Z",
-      "img": "https://images.theconversation.com/files/745531/original/file-20260702-71-8ahw1x.jpg?ixlib=rb-4.1.0&amp;rect=0%2C606%2C3935%2C1967&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "If we force online platforms to control harmful content, where does that leave sex ed?",
-      "link": "https://theconversation.com/if-we-force-online-platforms-to-control-harmful-content-where-does-that-leave-sex-ed-285601",
-      "desc": "Current online safety rules are focused on removing harmful content, not on supporting health promotion.",
-      "pubDate": "2026-07-02T19:31:37Z",
-      "img": "https://images.theconversation.com/files/744723/original/file-20260629-71-gv6pi9.jpg?ixlib=rb-4.1.0&amp;rect=0%2C494%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Can tighter rules on short-stay rentals help the long-term market?",
-      "link": "https://theconversation.com/can-tighter-rules-on-short-stay-rentals-help-the-long-term-market-286240",
-      "desc": "There are some promising results for local residents from different states’ approaches.",
-      "pubDate": "2026-07-02T19:31:24Z",
-      "img": "https://images.theconversation.com/files/744719/original/file-20260629-57-g7cg50.jpg?ixlib=rb-4.1.0&amp;rect=0%2C969%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Sea turtles diving through the eye of the storm help develop better cyclone forecasts",
-      "link": "https://theconversation.com/sea-turtles-diving-through-the-eye-of-the-storm-help-develop-better-cyclone-forecasts-284960",
-      "desc": "We paired a GPS tracker with a probe that measures temperature when the turtle dives.",
-      "pubDate": "2026-07-02T19:30:43Z",
-      "img": "https://images.theconversation.com/files/742361/original/file-20260617-63-79rx0f.jpg?ixlib=rb-4.1.0&amp;rect=0%2C362%2C1600%2C800&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "NZ wants to end climate lawsuits. How does that sit with its international commitments?",
-      "link": "https://theconversation.com/nz-wants-to-end-climate-lawsuits-how-does-that-sit-with-its-international-commitments-285348",
-      "desc": "A proposed law change would end an activist’s landmark climate case. It also raises questions about whether NZ’s domestic laws match its global commitments.",
-      "pubDate": "2026-07-02T19:27:16Z",
-      "img": "https://images.theconversation.com/files/745031/original/file-20260630-63-jrrhdu.jpg?ixlib=rb-4.1.0&amp;rect=0%2C657%2C7874%2C3937&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Is Tasmania ready for the AI data centre boom?",
-      "link": "https://www.abc.net.au/news/2026-07-03/firmus-ai-data-centres-is-tasmania-ready/106869862",
-      "desc": "An artificial intelligence company wants to build three AI factories in Tasmania, but questions are being raised about the impacts and benefits for the state.",
-      "pubDate": "Thu, 02 Jul 2026 19:23:37 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/d62b239a96a0a2c6ec18f786cd6524f2?impolicy=wcms_crop_resize&amp;cropH=3604&amp;cropW=2703&amp;xPos=827&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "ASX set to rise, tech stocks weigh on Wall Street",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-tech-stocks-weigh-on-wall-street-20260703-p60c7m.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Most US stocks are rising after the latest update on the job market suggested the Federal Reserve may feel less pressure to hike interest rates, but tech stocks again weighed on the market.",
-      "pubDate": "Fri, 03 Jul 2026 05:20:39 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2491178546224418%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/ec2c2c6cdde39dc4afa8cd2507e77d5ad1a93578",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
