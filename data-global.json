@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-01T03:21:16.216Z",
-  "summary": "Russia's war in Ukraine and escalating tensions with Iran dominate today's news, with Russia conducting missile strikes on Kyiv while Trump threatens Iranian strikes and analysts warn of strategic deadlock. FIFA faces internal turmoil after CEO Infantino scrapped a controversial World Cup investment plan, prompting staff resignations and threatening boycotts from global football confederations. Migration crises are intensifying across borders, notably Spain's military deployment to Ceuta after 60,000 migrants arrived from Morocco in a single day, while the Gaza conflict continues with new ceasefire developments. Climate threats and technological concerns also feature prominently, with the UN warning of intensifying El Niño heat and major AI firms scrambling to combat generative AI spam infiltrating their platforms.",
+  "fetchedAt": "2026-08-01T08:26:33.362Z",
+  "summary": "Russian missile strikes on Kyiv have killed civilians as Moscow and Kyiv continue trading attacks, while tensions between the US and Iran have escalated with Trump threatening strikes and Tehran preparing a response. FIFA's Gianni Infantino has scrapped a controversial World Cup investment plan after staff complained of deception, triggering senior adviser resignations and potential boycotts from continental football bodies. Spain deployed military forces to its North African territory of Ceuta after around sixty thousand migrants arrived in twenty-four hours from Morocco, a crisis the Prime Minister characterized as a violation of territorial integrity. The Democratic Republic of Congo faces a worsening Ebola epidemic now ranking as the world's second largest outbreak, while Peru's ex-president Humala had his corruption conviction overturned following legal proceedings.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "pubDate": "Sat, 01 Aug 2026 08:24:09 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8710/live/778466c0-8d4d-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "pubDate": "Sat, 01 Aug 2026 05:42:31 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "pubDate": "Sat, 01 Aug 2026 05:01:56 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678b/live/ea29f390-8c56-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Peru’s ex-president Humala released after conviction overturned",
+      "link": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
+      "desc": "Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.",
+      "pubDate": "Sat, 01 Aug 2026 03:52:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-01T022111Z_246013989_RC2CPMANN6EO_RTRMADP_3_PERU-POLITICS-HUMALA-1785551514.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
+      "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+      "desc": "As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.",
+      "pubDate": "Sat, 01 Aug 2026 03:18:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/preview-1-1785512765.webp?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Russian missile attack kills three in Ukraine’s Kyiv",
       "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
@@ -53,6 +103,26 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+      "pubDate": "Sat, 01 Aug 2026 00:20:43 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "pubDate": "Sat, 01 Aug 2026 00:04:26 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
@@ -13463,86 +13533,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
-      "desc": "US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication.",
-      "pubDate": "Thu, 02 Jul 2026 08:19:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1782980296.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "China’s new ethnic unity law extends its legal reach overseas",
-      "link": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas?traffic_source=rss",
-      "desc": "Rather than promote ethnic harmony, activists say the law could justify transnational repression.",
-      "pubDate": "Thu, 02 Jul 2026 06:30:21 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-03-12T091651Z_2090049942_RC2V2KAT989L_RTRMADP_3_CHINA-PARLIAMENT-ETHNICLAW-1782970956.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
-      "pubDate": "Thu, 02 Jul 2026 06:02:17 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6671/live/b15f9170-75ca-11f1-9106-bb5823bc9ead.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
-      "link": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss",
-      "desc": "Brent falls below $71 a barrel amid reports of progress in talks to end the war permanently.",
-      "pubDate": "Thu, 02 Jul 2026 05:17:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T093820Z_1180277915_RC2AWLAKSPWG_RTRMADP_3_IRAN-CRISIS-SHIPPING-FEES-1782963523_758afb-1782968112.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-      "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-      "pubDate": "Thu, 02 Jul 2026 04:59:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec3/live/6f002bc0-709b-11f1-86cf-0fd142c2b6fb.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
-      "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
-      "pubDate": "Thu, 02 Jul 2026 04:59:47 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e82/live/5992ae70-7573-11f1-9510-1546718f668b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
-      "link": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
-      "desc": "Ecuador&#039;s government praises the US for backing President Noboa&#039;s campaign to dismantle gang-crime networks.",
-      "pubDate": "Thu, 02 Jul 2026 03:58:07 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20241127__36NF8AC__v1__HighRes__EcuadorCrimeSecurity-1782955097.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "At least eight killed in major missile and drone strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Russia launched its biggest strikes on the city in weeks hours after Volodymyr Zelensky said Moscow was planning a \"massive\" attack.",
-      "pubDate": "Thu, 02 Jul 2026 03:24:45 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b5a/live/4f8a2030-75c7-11f1-bb41-9f45e759ab46.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
