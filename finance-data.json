@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T03:57:36.495Z",
+  "fetchedAt": "2026-08-01T08:36:42.378Z",
   "asx200": {
     "value": 8976.8,
     "change": 198.1,
@@ -209,7 +209,7 @@
         "close": 0.7
       },
       {
-        "date": "2026-07-31",
+        "date": "2026-08-01",
         "close": 0.7
       }
     ]
@@ -219,33 +219,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4098.6,
-      "change": 75.7,
-      "changePercent": 1.88
+      "price": 4107,
+      "change": 84.1,
+      "changePercent": 2.09
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.78,
-      "change": -1.7,
-      "changePercent": -2.86
+      "price": 57.79,
+      "change": -1.69,
+      "changePercent": -2.84
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 86.8,
-      "change": 17.3,
-      "changePercent": 24.89
+      "price": 84.67,
+      "change": 15.17,
+      "changePercent": 21.83
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.51,
-      "change": 0.32,
-      "changePercent": 5.09
+      "price": 6.47,
+      "change": 0.27,
+      "changePercent": 4.41
     },
     {
       "name": "BHP Group",
@@ -854,7 +854,21 @@
   ],
   "news": [
     {
-      "title": "Live: Swans and Hawks look to cement top four spots against wildcard hopefuls",
+      "title": "Dozens of greyhounds to land in Australia as NZ racing ban begins",
+      "link": "https://www.abc.net.au/news/2026-08-01/nz-greyhound-racing-ban-charter-flights/106985844",
+      "snippet": "",
+      "pubDate": "Sat, 01 Aug 2026 04:48:33 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Penrith flyer equals premiership record as Panthers run riot on Raiders",
+      "link": "https://www.abc.net.au/news/2026-08-01/nrl-live-titans-warriors-panthers-raiders-broncos-knights/106977952",
+      "snippet": "",
+      "pubDate": "Sat, 01 Aug 2026 04:30:48 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Irish star lights up AFLW clash with remarkable soccer goal as Aussies lead",
       "link": "https://www.abc.net.au/news/2026-08-01/afl-r21-saints-swans-hawks-roos-port-gws-blues-lions-live-blog/106972530",
       "snippet": "",
       "pubDate": "Sat, 01 Aug 2026 02:56:13 +0000",
@@ -868,7 +882,7 @@
       "source": "ABC News"
     },
     {
-      "title": "One young Aussie hopes to silence Glasgow on the last night at Scotstoun",
+      "title": "72 years after the Miracle Mile, a young Aussie wants to rewrite history",
       "link": "https://www.abc.net.au/news/2026-08-01/cameron-myers-s-mile-clash-with-josh-kerr-to-light-up-games/106942226",
       "snippet": "",
       "pubDate": "Sat, 01 Aug 2026 02:16:52 +0000",
@@ -882,7 +896,7 @@
       "source": "ABC News"
     },
     {
-      "title": "FIFA scraps World Cup sell-off plans after global backlash",
+      "title": "Football Australia welcomes U-turn on FIFA World Cup sell-off after backlash",
       "link": "https://www.abc.net.au/news/2026-08-01/fifa-scraps-world-cup-sell-off-plans/106985360",
       "snippet": "",
       "pubDate": "Fri, 31 Jul 2026 23:48:56 +0000",
@@ -910,13 +924,6 @@
       "source": "ABC News"
     },
     {
-      "title": "Chaos vs calm: What to expect when Australia and Ireland go head-to-head",
-      "link": "https://www.abc.net.au/news/2026-08-01/aflw-australia-vs-ireland-inaugural-clash-preview/106983814",
-      "snippet": "",
-      "pubDate": "Fri, 31 Jul 2026 21:54:47 +0000",
-      "source": "ABC News"
-    },
-    {
       "title": "Celebrity chef’s tip-tax ‘plan’ for broken glasses heads to court",
       "link": "https://www.smh.com.au/business/workplace/celebrity-chef-s-tip-tax-plan-for-broken-glasses-heads-to-court-20260716-p60fu7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Celebrity chef Michael Lambie is locked in a court fight with a former manager at his fine-dining restaurant.",
@@ -929,13 +936,6 @@
       "snippet": "Months ago, an explosive email circulated among ABC staff about one of their colleagues. It has reignited debates about race, integrity and bureaucracy at the broadcaster.",
       "pubDate": "Sat, 01 Aug 2026 05:00:00 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Infantino's advisor quits as FIFA's World Cup plan triggers backlash",
-      "link": "https://www.abc.net.au/news/2026-07-31/fifa-sale-continue-despite-opposition-/106984546",
-      "snippet": "",
-      "pubDate": "Fri, 31 Jul 2026 10:51:51 +0000",
-      "source": "ABC News"
     }
   ]
 }
