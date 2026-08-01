@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-01T08:26:33.362Z",
-  "summary": "Russian missile strikes on Kyiv have killed civilians as Moscow and Kyiv continue trading attacks, while tensions between the US and Iran have escalated with Trump threatening strikes and Tehran preparing a response. FIFA's Gianni Infantino has scrapped a controversial World Cup investment plan after staff complained of deception, triggering senior adviser resignations and potential boycotts from continental football bodies. Spain deployed military forces to its North African territory of Ceuta after around sixty thousand migrants arrived in twenty-four hours from Morocco, a crisis the Prime Minister characterized as a violation of territorial integrity. The Democratic Republic of Congo faces a worsening Ebola epidemic now ranking as the world's second largest outbreak, while Peru's ex-president Humala had his corruption conviction overturned following legal proceedings.",
+  "fetchedAt": "2026-08-01T10:43:47.093Z",
+  "summary": "Global tensions are escalating on multiple fronts as Iran and the US trade threats of military strikes, Russian missile attacks continue to kill civilians across Ukraine, and a humanitarian crisis unfolds in Spanish territory Ceuta where tens of thousands of migrants have crossed from Morocco in a single day. FIFA is facing internal upheaval after CEO Infantino scrapped a controversial World Cup private investment plan, prompting key officials to resign and UEFA to declare lost confidence in the organization's leadership. Meanwhile, regional conflicts simmer as Israeli settlers continue attacking Palestinians in the West Bank, Peru's ex-president Humala was freed after conviction overturned, and North Korea's IT workers are reportedly funding the country's nuclear program through illicit cyber operations. Climate change and public health emergencies persist as an El Niño threatens to intensify global heat and the DR Congo faces its second-largest Ebola outbreak.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Iran: The Making of a War",
+      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
+      "desc": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.",
+      "pubDate": "Sat, 01 Aug 2026 10:30:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785507170.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "pubDate": "Sat, 01 Aug 2026 10:11:39 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "UEFA says it has lost confidence in current FIFA leadership",
+      "link": "https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss",
+      "desc": "UEFA, who were the strongest opponents of FIFA&#039;s plan, slam the Gianni Infantino-led governing body despite standdown.",
+      "pubDate": "Sat, 01 Aug 2026 10:05:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26213254650466-1785575100.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ceuta: Spain demands EU meeting, blasts 'selfish' response",
+      "link": "https://www.dw.com/en/ceuta-spain-demands-eu-meeting-blasts-selfish-response/live-78191601?maca=en-rss-en-eu-2092-rdf",
+      "desc": "After Italy temporarily suspended the Schengen deal with Spain, Spanish PM Pedro Sanchez said his county was being \"attacked\" from within the EU, stressing that Madrid fully restored control over its ",
+      "pubDate": "2026-08-01T08:54:00Z",
+      "img": "https://static.dw.com/image/78200936_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
     {
       "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
       "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
@@ -13470,66 +13510,6 @@
       "desc": "Under fire amid surge in far right, German chancellor unveils tax and pension reform package in bid to revive economy.",
       "pubDate": "Thu, 02 Jul 2026 10:46:35 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a462d9cc177-1782984092.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
-      "link": "https://www.aljazeera.com/news/2026/7/2/an-extra-229000-deaths-is-that-the-cost-of-us-uk-drugs-deal?traffic_source=rss",
-      "desc": "Research finds that trade deal requiring UK to buy more medicines from US takes away money from other parts of NHS.",
-      "pubDate": "Thu, 02 Jul 2026 10:22:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a46228e-1782981262_7624b7-1782982036.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "EU border delays 'not bearable' over summer, warns airport boss",
-      "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Holidaymakers face long waits under the EU's new Entry-Exit System, the head of Berlin's airport says.",
-      "pubDate": "Thu, 02 Jul 2026 10:15:47 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bf/live/f7cb11e0-7609-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Eight Thai monks killed after child drives truck into procession",
-      "link": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss",
-      "desc": "Police say 11-year-old boy who took his parents&#039; vehicle without permission is now in custody and will be questioned.",
-      "pubDate": "Thu, 02 Jul 2026 10:04:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4631f38503-1782985203.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "FIFA president reacts as Morocco win World Cup match",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/fifa-president-reacts-as-morocco-win-world-cup-match?traffic_source=rss",
-      "desc": "FIFA president Gianni Infantino reacted to Morocco knocking the Netherlands out of the World Cup.",
-      "pubDate": "Thu, 02 Jul 2026 09:32:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-30T012242Z_602924082_UP1EM6U03TS2I_RTRMADP_3_SOCCER-WORLDCUP-NLD-MAR-1782984754.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-      "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
-      "pubDate": "Thu, 02 Jul 2026 09:21:31 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0be4/live/5d268880-7600-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Billions flow between EU institutions and Israel, despite Gaza genocide",
-      "link": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide?traffic_source=rss",
-      "desc": "EU departments and some universities, including in Spain, are still spending on Israeli companies.",
-      "pubDate": "Thu, 02 Jul 2026 09:05:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3a8e8b-1782222475.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
