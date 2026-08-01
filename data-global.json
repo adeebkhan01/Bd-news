@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-31T22:09:27.207Z",
-  "summary": "Global climate concerns intensified as the UN warned of an accelerating El Niño exacerbating planetary heat, while geopolitical tensions flared across multiple fronts including Poland's protest over Russian missile incursions, North Korean IT workers funding nuclear arsenals, and escalating regional conflicts in the Middle East. A humanitarian crisis unfolded at Spain's borders as tens of thousands of migrants surged into Ceuta in 24 hours, prompting military deployment and sparking diplomatic tensions with Morocco, while a separate Ebola outbreak in the Democratic Republic of Congo became the world's second largest. Major institutional upheaval struck the sporting world as FIFA faced mounting pressure over Gianni Infantino's World Cup restructuring plan, triggering staff resignations and boycott threats from UEFA and continental confederations, while artificial intelligence firms grappled with security disclosures of their systems being compromised during safety tests. Economic headwinds emerged from soaring UK energy prices, BP's North Sea divestment, and Apple's warning of supply constraints, though South Korean markets rallied on chip sector recovery.",
+  "fetchedAt": "2026-08-01T03:21:16.216Z",
+  "summary": "Russia's war in Ukraine and escalating tensions with Iran dominate today's news, with Russia conducting missile strikes on Kyiv while Trump threatens Iranian strikes and analysts warn of strategic deadlock. FIFA faces internal turmoil after CEO Infantino scrapped a controversial World Cup investment plan, prompting staff resignations and threatening boycotts from global football confederations. Migration crises are intensifying across borders, notably Spain's military deployment to Ceuta after 60,000 migrants arrived from Morocco in a single day, while the Gaza conflict continues with new ceasefire developments. Climate threats and technological concerns also feature prominently, with the UN warning of intensifying El Niño heat and major AI firms scrambling to combat generative AI spam infiltrating their platforms.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+      "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "desc": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+      "pubDate": "Sat, 01 Aug 2026 02:06:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a6d3fd2-1785544658.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+      "desc": "The jet went down on Friday near the Miramar airbase in San Diego.",
+      "pubDate": "Sat, 01 Aug 2026 01:55:27 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/14188135-1785542872.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+      "link": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+      "desc": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
+      "pubDate": "Sat, 01 Aug 2026 01:10:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T174452Z_495035235_RC2HOMAHO1HM_RTRMADP_3_SOCCER-FIFA-STAKE-1785546163.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+      "desc": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
+      "pubDate": "Fri, 31 Jul 2026 23:59:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-30T093156Z_1005172950_RC26OMA4U719_RTRMADP_3_IRAN-CRISIS-1785404749.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "FIFA’s Infantino scraps controversial World Cup private investment plan",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+      "desc": "FIFA and its president Infantino faced fierce backlash across football world over plans to sell stake in World Cup.",
+      "pubDate": "Fri, 31 Jul 2026 23:47:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-30T191416Z_1451887255_UP1EM7U1HFRW7_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1785541600.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Analyst: the US faces a strategic ‘dead end’ in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
+      "desc": "Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.",
+      "pubDate": "Fri, 31 Jul 2026 23:30:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785540613.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
+      "desc": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+      "pubDate": "Fri, 31 Jul 2026 22:12:48 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785535958.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+      "pubDate": "Fri, 31 Jul 2026 21:57:59 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
       "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
@@ -13460,86 +13540,6 @@
       "desc": "Russia launched its biggest strikes on the city in weeks hours after Volodymyr Zelensky said Moscow was planning a \"massive\" attack.",
       "pubDate": "Thu, 02 Jul 2026 03:24:45 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b5a/live/4f8a2030-75c7-11f1-bb41-9f45e759ab46.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "EU border rules causing travel chaos ahead of summer peak, industry warns",
-      "link": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss",
-      "desc": "European airlines and airports call for flexibility to suspend digital border system amid severe delays.",
-      "pubDate": "Thu, 02 Jul 2026 03:14:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-06T111745Z_519232909_RC2AGJAP0XB9_RTRMADP_3_EUROPE-WEATHER-GERMANY-1782954002.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Did this AI anti-drug video make drugs look appealing?",
-      "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Hong Kong’s Correctional Services Department removed a AI-generated K-pop video, after facing backlash that it made substances look too appealing.",
-      "pubDate": "Thu, 02 Jul 2026 01:54:26 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/437e/live/066f07f0-75bb-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
-      "link": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
-      "desc": "Aid workers fear disease outbreaks in temporary shelters amid overcrowding, lack of access to clean water, sanitation.",
-      "pubDate": "Thu, 02 Jul 2026 01:24:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a45b951-1782954321.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
-      "desc": "Tehran says a &#039;communication channel&#039; will be established with Washington to report and discuss breaches of the MoU.",
-      "pubDate": "Thu, 02 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T162237Z_430738501_RC235MAXUC9U_RTRMADP_3_NODESC-1782947761.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Don't expect trackers to save your stolen car, experts say",
-      "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
-      "pubDate": "Wed, 01 Jul 2026 23:31:43 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/376d7550-75a5-11f1-8672-df1a6610885c.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
-      "link": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
-      "desc": "President Trump has sought to limit mail-in voting and has ordered his administration to impose limits on the practice.",
-      "pubDate": "Wed, 01 Jul 2026 22:53:50 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T201249Z_1152626629_RC285MAFBIDU_RTRMADP_3_USA-250-TRUMP-1782938139.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US declines to renew USMCA trade pact with Mexico, Canada",
-      "link": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686?maca=en-rss-en-bus-2091-rdf",
-      "desc": "Lengthy negotiations are expected as the Trump administration seeks changes to a trade deal with Mexico and Canada that has streamlined supply chains across North America.",
-      "pubDate": "2026-07-01T22:41:00Z",
-      "img": "https://static.dw.com/image/77311671_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-      "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-      "pubDate": "Wed, 01 Jul 2026 22:36:43 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcae/live/0a189580-759b-11f1-aa81-a5efa93da41b.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
