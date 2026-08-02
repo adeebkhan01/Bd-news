@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T19:16:51.466Z",
-  "summary": "Australia's news agenda is dominated by structural economic challenges, with major stories covering the dismantling of KPMG, threats to private equity stability at Healthscope, and a deepening property downturn described as showing rapid deterioration. Child welfare emerges as a critical issue, with reports of escalating abuse and exploitation across multiple contexts, from NSW police describing an epidemic to investigations into child labour in the chocolate industry. Infrastructure and urban development preoccupy policymakers, particularly around Parramatta's growth constraints and Brisbane's preparation for the 2032 Olympics, while Western Australia faces a security concern with offenders cutting off ankle monitors. The broader political landscape shows One Nation returning to polling prominence amid criticism of governance standards, as Australia navigates drought impacts, housing affordability pressures, and debate over renewable energy policy.",
+  "fetchedAt": "2026-08-02T21:58:37.456Z",
+  "summary": "Australia faces mounting economic pressures as the fuel excise cut ends and the property market experiences its steepest downturn since 2022, prompting Treasury efforts to monitor service station pricing and ongoing concerns about housing affordability. The government is pursuing new taxes on big tech companies and investigating corporate scandals including allegations against broadcaster Alan Jones and the dismantling of auditor KPMG, signalling a crackdown on institutional accountability. Major cabinet changes are underway in Victoria with Ben Carroll filling a vacancy, while law enforcement confronts serious challenges including alleged police car rammings, escaping offenders with cut ankle monitors, and what police describe as an epidemic of child abuse across NSW. On international fronts, Trump has cancelled planned attacks on Iran as geopolitical tensions ease, while Greece evacuates residents near Athens amid Europe's wildfire crisis.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,146 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia news live: Chalmers asks regulator to watch service stations ‘like a hawk’ as fuel excise cut ends",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "desc": "<p>Fuel excise cut, which was imposed after outbreak of Iran conflict, ended at midnight on Monday. Follow today’s news live</p><p><strong>Chalmers maintains fuel excise cut never meant to be permanen",
+      "pubDate": "Sun, 02 Aug 2026 21:52:25 GMT",
+      "img": "https://i.guim.co.uk/img/media/68e48dbf6ff4a029f52fa286a4d9e3ec44e6cfb8/619_0_6188_4950/master/6188.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Teenager allegedly rams police car after tyre theft",
+      "link": "https://www.smh.com.au/national/queensland/teenager-allegedly-rams-police-car-after-tyre-theft-20260803-p60kss.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two police officers were taken to hospital and a member of the public suffered injuries.",
+      "pubDate": "Mon, 03 Aug 2026 07:35:33 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3488441297743055%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_318%2C$y_200/t_crop_custom/q_86%2Cf_auto/00c7c216548982078d6c0c52cc06f6d4001e1126146d2358ae79152716a23fdd",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Outback businesses blame Live Traffic NSW for customer downturn",
+      "link": "https://www.abc.net.au/news/2026-08-03/outback-businesses-blame-live-traffic-nsw-for-loss-of-customers/106948060",
+      "desc": "Small businesses in the outback say inaccuracies on Live Traffic NSW about whether roads are open or closed, or if they even exist, are causing confusion among travellers and a loss of vital income.",
+      "pubDate": "Sun, 02 Aug 2026 21:35:22 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/6ca422d83e6840d6ec2487f3378d0876?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=2110&amp;xPos=1445&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Australia news LIVE: House price fall most significant slump since 2022; Israeli strikes kill 18 in Gaza despite Trump’s announcement of a breakthrough",
+      "link": "https://www.smh.com.au/national/australia-news-live-house-price-fall-most-significant-slump-since-2022-israeli-strikes-kill-18-in-gaza-20260803-p60ksg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow along as we bring you the latest live news updates from Australia and around the world.",
+      "pubDate": "Mon, 03 Aug 2026 07:29:03 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1979%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_2/t_crop_custom/q_86%2Cf_auto/4dc596c0e5da97aee66ee31747b47f8f03fa5dc2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Single mum has front-row seat to first home buyer struggles",
+      "link": "https://www.abc.net.au/news/2026-08-03/first-homebuyers-struggle-despite-property-market-cooling/106968668",
+      "desc": "Tess McKenna is an example of how hard it is to find an affordable home in Perth, saying it is not getting easier despite the market cooling.",
+      "pubDate": "Sun, 02 Aug 2026 21:17:46 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/e48481d4f3cb08cb8947bd8f2e655555?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1110&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Live: Big tech faces higher tax if it does not reach deals with local publishers",
+      "link": "https://www.abc.net.au/news/2026-08-03/federal-politics-live-blog-news-bargaining-incentive/106988882",
+      "desc": "Tech companies will be forced to pay a 2.5 per cent tax on digital advertising revenue if they do not reach deals with media companies. Follow live.",
+      "pubDate": "Sun, 02 Aug 2026 21:10:47 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/aa5c0969d90287d1a450dec93f39b298?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=675&amp;xPos=463&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Alan Jones to face court over sex abuse allegations",
+      "link": "https://www.smh.com.au/national/alan-jones-to-face-court-over-sex-abuse-allegations-20260803-p60ksm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Former radio host Alan Jones will face court for the first day of a trial over sex abuse allegations.",
+      "pubDate": "Mon, 03 Aug 2026 07:02:27 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ac638c1c44ac2bdeb06e30e04cf80f67d311e89d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ben Carroll to fill one of three vacancies in Victorian cabinet, ABC understands",
+      "link": "https://www.abc.net.au/news/2026-08-03/ben-carroll-labor-premier-cabinet-reshuffle/106988818",
+      "desc": "MPs tell the ABC Victoria's new premier is only expected to fill one of the three vacancies in cabinet.",
+      "pubDate": "Sun, 02 Aug 2026 20:28:24 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/e208519c3a12f9c46e316618dfbabc93?impolicy=wcms_crop_resize&amp;cropH=1079&amp;cropW=809&amp;xPos=474&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Birds messing up your garden mulch? Why I’d think twice before reaching for the mulch glue",
+      "link": "https://theconversation.com/birds-messing-up-your-garden-mulch-why-id-think-twice-before-reaching-for-the-mulch-glue-288076",
+      "desc": "Mulch glue allows water and air to penetrate the soil, but there are concerns it may limit birds turning over and foraging in mulch.",
+      "pubDate": "2026-08-02T20:12:18Z",
+      "img": "https://images.theconversation.com/files/750446/original/file-20260728-57-q2xnl7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C177%2C2121%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "How many packs of Pokémon cards do you have to buy to catch ’em all? Probably hundreds, and most will be quite boring",
+      "link": "https://theconversation.com/how-many-packs-of-pokemon-cards-do-you-have-to-buy-to-catch-em-all-probably-hundreds-and-most-will-be-quite-boring-288727",
+      "desc": "A mathematical simulation shows why it can take so long to collect a full set of Pokémon cards.",
+      "pubDate": "2026-08-02T20:12:06Z",
+      "img": "https://images.theconversation.com/files/751341/original/file-20260731-50-ol75yu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C351%2C4256%2C2128&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Good things take time – but new research suggests mindfulness can make the wait easier",
+      "link": "https://theconversation.com/good-things-take-time-but-new-research-suggests-mindfulness-can-make-the-wait-easier-287955",
+      "desc": "Mindfulness can change how we experience time, making it easier to wait for future rewards without relying on greater willpower.",
+      "pubDate": "2026-08-02T20:11:54Z",
+      "img": "https://images.theconversation.com/files/750725/original/file-20260728-69-hq3g6n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C500%2C8000%2C4000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Change or die: how the Liberal Party’s long resistance to reform has left it fighting for life",
+      "link": "https://theconversation.com/change-or-die-how-the-liberal-partys-long-resistance-to-reform-has-left-it-fighting-for-life-288606",
+      "desc": "The Liberals never gave members the same scope to be involved and influence policy as Labor did. Now, they are paying the price for it.",
+      "pubDate": "2026-08-02T20:11:28Z",
+      "img": "https://images.theconversation.com/files/751349/original/file-20260731-50-ypr9su.jpg?ixlib=rb-4.1.1&amp;rect=0%2C689%2C8256%2C4128&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "From flushing our toilets to building new schools, this is why filling in your census form matters",
+      "link": "https://theconversation.com/from-flushing-our-toilets-to-building-new-schools-this-is-why-filling-in-your-census-form-matters-288520",
+      "desc": "Here are ten practical things to know about the 2026 census, including fines if you lie or ignore it, what happens to your data and how to ask for help.",
+      "pubDate": "2026-08-02T20:10:49Z",
+      "img": "https://images.theconversation.com/files/750801/original/file-20260729-57-26e6y0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1130%2C7200%2C3600&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "ASX set to slip; Amazon soars, Apple sinks on Wall Street",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-slip-amazon-soars-apple-sinks-on-wall-street-20260803-p60ks4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "US stocks rose to finish a wild July for Wall Street as Amazon leaped, Apple sank and rising oil prices worsened worries about inflation staying high.",
+      "pubDate": "Mon, 03 Aug 2026 05:23:30 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_709%2C$y_500/t_crop_custom/q_86%2Cf_auto/d2da9cf522383a4bfc06e63838d33fe44d35b23a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "The dismantling of KPMG is about to begin",
       "link": "https://www.smh.com.au/business/companies/the-dismantling-of-kpmg-is-about-to-begin-20260731-p60k9m.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -33405,76 +33545,6 @@
       "desc": "In Australia's tropical north, a mining town is preparing for the departure of its biggest employer, and locals are accusing the mining giant of squeezing out small businesses on its way out.",
       "pubDate": "Fri, 03 Jul 2026 22:34:49 +0000",
       "img": "https://live-production.wcms.abc-cdn.net.au/fbbf3517cb42531a86a365efa8d6fe73?impolicy=wcms_crop_resize&amp;cropH=3750&amp;cropW=2813&amp;xPos=616&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Authorities working to confirm if bird found in NSW has deadly bird flu",
-      "link": "https://www.smh.com.au/national/authorities-working-to-confirm-if-bird-found-in-nsw-has-deadly-bird-flu-20260704-p60cjq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Authorities are working to confirm if a bird found on the NSW Mid-North Coast has the deadly bird flu strain.",
-      "pubDate": "Sat, 04 Jul 2026 07:46:34 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/010f82b44109c3606182a34810719ae7a392cb66",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The Pharaohs rule in Dallas as the Socceroos are knocked out",
-      "link": "https://theconversation.com/the-pharaohs-rule-in-dallas-as-the-socceroos-are-knocked-out-286441",
-      "desc": "The Socceroos World Cup campaign is over. But there’s plenty to be optimistic about for the next one in four years’ time.",
-      "pubDate": "2026-07-03T21:44:22Z",
-      "img": "https://images.theconversation.com/files/745930/original/file-20260703-56-md409m.jpg?ixlib=rb-4.1.0&amp;rect=0%2C272%2C4621%2C2310&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Gold Coast unit destroyed by blaze",
-      "link": "https://www.smh.com.au/national/gold-coast-unit-destroyed-by-blaze-20260704-p60cjn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A vacant unit complex has been destroyed by a fire on the Gold Coast.",
-      "pubDate": "Sat, 04 Jul 2026 07:42:16 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/21b5a548ef3a8a13227cab0242bbe935f8da3c02",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Man charged following alleged fatal hit-and-run in Brisbane",
-      "link": "https://www.smh.com.au/national/man-charged-following-alleged-fatal-hit-and-run-in-brisbane-20260704-p60cjp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man has been charged after allegedly hitting and killing an elderly woman in Brisbane.",
-      "pubDate": "Sat, 04 Jul 2026 07:41:07 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/5dcd56050b161298b34431432371f8dc8295516c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Farmers turn restaurant food scraps into 'very valuable commodities'",
-      "link": "https://www.abc.net.au/news/2026-07-04/food-scrap-horse-manure-compost-hospitality-fogo/106695360",
-      "desc": "While diners enjoy their seaside meals, Andrew Collins is happily outside chasing the scraps.",
-      "pubDate": "Fri, 03 Jul 2026 20:30:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/197f8283920597d8ee7fe805644ca29d?impolicy=wcms_crop_resize&amp;cropH=3750&amp;cropW=2813&amp;xPos=922&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Doctors almost sent Kris home with a migraine. Then her whole face went numb",
-      "link": "https://www.smh.com.au/national/queensland/doctors-almost-sent-kris-home-with-a-migraine-then-her-whole-face-went-numb-20260505-p5zu07.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An estimated 55,000 Australians suffer stroke each year, with varying outcomes depending on where they live.",
-      "pubDate": "Sat, 04 Jul 2026 06:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_29/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/33a8da0bf5a3de9aa435051e134db702afb48a217080ea3429ba1f593c1c7dad",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "175 years ago, Victoria struck gold. 230,000 scars remain",
-      "link": "https://www.abc.net.au/news/2026-07-04/mineshafts-lidar-map-gold-rush-geological-survey-victoria/106860926",
-      "desc": "It has been 175 years since gold was first discovered in Victoria, and now a state government mapping project has discovered that there are far more relics of the gold rush left in the landscape than ",
-      "pubDate": "Fri, 03 Jul 2026 19:45:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/466540e6861ba34bba97557757afcb14?impolicy=wcms_crop_resize&amp;cropH=768&amp;cropW=576&amp;xPos=25&amp;yPos=0&amp;width=862&amp;height=1149",
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
