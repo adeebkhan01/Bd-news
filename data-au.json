@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T13:36:28.072Z",
-  "summary": "Australia is grappling with several serious social and infrastructure challenges, from a critical shortage of medical safety staff managing thousands of equipment problems to concerning trends in education access and transport availability for regional students. Major developments include the government's Victoria Park masterplan for the Brisbane 2032 Olympics, record electric vehicle sales signalling a shift in transport, and mounting questions about institutional accountability, with ICAC investigations continuing and the Alan Jones trial beginning. Domestically, tragic incidents including a teenager's death after being hit by a car in Adelaide and a Melbourne hiker found dead in the US underscore community safety concerns, while political divisions are emerging on issues from greyhound racing to polling showing One Nation returning to top positions. International events are also capturing attention, including wildfires affecting Greece and shooting incidents in the United States.",
+  "fetchedAt": "2026-08-02T16:02:59.601Z",
+  "summary": "Australia's housing market is deepening its downturn as property prices deteriorate, while the mortgage market faces potential upheaval as an excise cut ends and rates stabilise. Several significant crime and safety stories dominate the news, from Western Australian police tracking offenders with cut ankle monitors to high-profile legal cases including Alan Jones' trial beginning and a critical shortage of medical safety staff putting millions at risk. The political landscape shifts with One Nation returning to top polling positions while the government navigates contentious issues from net zero policy debates to labour's controversial backing of greyhound racing despite an MP breaking ranks to demand a ban.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Britain could face food shortages as drought continues, farmers warn",
+      "link": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
+      "desc": "<p>Wheat is half normal height, while England is seeing earliest ever harvest as farmers battle to salvage what they can of their crops</p><p>Britain could face shortages of certain foods after parts ",
+      "pubDate": "Sun, 02 Aug 2026 15:54:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/264f6a189017278348b832a55d6ac2782e8a91cf/807_0_4607_3686/master/4607.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’",
+      "link": "https://www.theguardian.com/environment/2026/aug/03/the-great-net-zero-debate-was-anything-but-so-beware-coalition-claims-of-renewables-taking-over-two-tasmanias",
+      "desc": "<p>One expert described Nationals leader Matt Canavan’s claim of land used for clean energy as ‘plain wrong and plain silly’</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/",
+      "pubDate": "Sun, 02 Aug 2026 15:00:27 GMT",
+      "img": "https://i.guim.co.uk/img/media/5e2aa83daaebe8132e58884b078a71fe32f93ae1/735_0_5793_4635/master/5793.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Housing market seeing 'rapid deterioration' as property downturn deepens",
+      "link": "https://www.abc.net.au/news/2026-08-03/housing-market-downturn-spreads-property-prices-cotality/106975270",
+      "desc": "Australia's housing downturn is spreading across the country, with the latest property price data showing previously resilient markets that had recently set record-high prices are now experiencing a d",
+      "pubDate": "Sun, 02 Aug 2026 14:01:13 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/a99c8992995bca5c38efa7ea31fe53d9?impolicy=wcms_crop_resize&amp;cropH=1536&amp;cropW=1152&amp;xPos=448&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Superquiz, Monday, August 3",
+      "link": "https://www.smh.com.au/national/superquiz-monday-august-3-20260731-p60kbf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "pubDate": "Sun, 02 Aug 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_285/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "WA police race to track down offenders who cut off ankle monitors",
+      "link": "https://www.smh.com.au/national/wa-police-race-to-track-down-offenders-who-cut-off-ankle-monitors-20260802-p60krm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two offenders are on the run after cutting off their electronic ankle monitors, leaving police trying to track them down.",
+      "pubDate": "Sun, 02 Aug 2026 23:51:37 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8580629e2a3ba32088221648834c41446964ce98",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Trump calls off new attack on Iran",
+      "link": "https://www.smh.com.au/national/trump-calls-off-new-attack-on-iran-20260802-p60krn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "US President Donald Trump has called off a new attack on Iran, saying “the perimeters of a deal has been agreed to”.",
+      "pubDate": "Sun, 02 Aug 2026 23:50:54 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/13c78c6b4c80c9a149127e4791c6c66a7295f698",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Western Europe’s wildfire crisis retreats as Greece evacuates hundreds near Athens",
       "link": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
@@ -33445,56 +33505,6 @@
       "desc": "City pubs and bars were also busy after Premier Jacinta Allan allowed licensed venues to operate while Australia played.",
       "pubDate": "Sat, 04 Jul 2026 04:15:26 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/c4dfc509693bc7ced7e0e9d3096c0576ad96a8a8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
-      "link": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
-      "desc": "<p>Port expansion and protections for whales part of BC and Alberta plan to expand country’s presence overseas</p><p>The governments of <a href=\"https://www.theguardian.com/world/canada\">Canada</a> an",
-      "pubDate": "Fri, 03 Jul 2026 15:34:32 GMT",
-      "img": "https://i.guim.co.uk/img/media/dbf73f24efb9f64b0a64fcb29d9eb3064b0c64d0/3_98_3534_2828/master/3534.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "One Nation is campaigning directly to Christians. But will party policies rub against worshippers’ conscience?",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/03/one-nation-christians-christian-voters-churchgoers-ntwnfb",
-      "desc": "<p>Anti-abortion policies may have appeal, but with one in three Australian churchgoers born overseas, talk of a monoculture may put them off</p><ul><li><p>Get our <a href=\"https://www.theguardian.com",
-      "pubDate": "Fri, 03 Jul 2026 14:57:34 GMT",
-      "img": "https://i.guim.co.uk/img/media/06589c5babbed4af020f39197b89ec0549cf77ef/917_223_7578_6063/master/7578.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Almost no one is happy with Labor’s gambling crackdown. Albanese may as well do the right thing and get tough",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/03/almost-no-one-is-happy-with-labors-gambling-crackdown-albanese-may-as-well-do-the-right-thing-and-get-tough",
-      "desc": "<p>A NSW mayor’s push against pokies should serve as inspiration for federal Labor to make stronger moves against the harms of gambling addiction</p><p>When the New South Wales Labor faithful gather f",
-      "pubDate": "Fri, 03 Jul 2026 14:54:32 GMT",
-      "img": "https://i.guim.co.uk/img/media/77b0c4c6fb4b5d984d48e90d1df411b662bee3bc/253_0_3923_3139/master/3923.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "The Sydney detention centre filled with children yet to be convicted",
-      "link": "https://www.smh.com.au/national/the-sydney-detention-centre-filled-with-children-yet-to-be-convicted-20260703-p60cdq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The state’s youth detention centres house children charged with shoplifting to murder. Less than four per cent of children in custody are sentenced.",
-      "pubDate": "Sat, 04 Jul 2026 00:00:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b08cd536b01f1ebf51cdb70c32283a480272bb56",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Test your general knowledge with the Good Weekend quiz",
-      "link": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20260702-p60c0u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
-      "pubDate": "Fri, 03 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.103125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/297b54b43fec49dc75ceb1969fd1a88bc723fd9a",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T13:36:42.296Z",
-  "summary": "Global tensions are escalating on multiple fronts, with Donald Trump announcing he is canceling planned strikes on Iran while claiming to be close to a deal, even as Tehran warns against war. Climate-related crises are intensifying worldwide, from South Korea's record heat to Hungary shutting its sole nuclear plant during drought conditions, while wildfires ravage Europe and unusual weather patterns trigger ecological disruption. Migration pressures are mounting across Europe, prompting an EU emergency meeting over mass migrant crossings in Spain, while long-running conflicts from Sudan to Ethiopia and Ukraine continue to generate casualties and humanitarian concerns. In other significant developments, Israeli military discipline is fracturing with soldiers jailed over a walkout protest, and geopolitical alignments are shifting with Turkey-Iraq oil deals and Russian sanctions evasion through Mali shipments.",
+  "fetchedAt": "2026-08-02T16:03:15.605Z",
+  "summary": "Global tensions remain elevated with the Middle East dominating headlines as Israeli strikes on Gaza resumed following a Hamas disarmament agreement, while Trump claims to be negotiating a deal to avoid attacking Iran, signaling uncertainty around potential escalation. Ukraine continues striking Russian military infrastructure as Moscow reports casualties, while eastern Europe faces multiple pressures including Poland's Prime Minister defying anti-Ukrainian sentiment and Hungary shutting its only nuclear plant due to drought conditions exacerbated by extreme heatwaves affecting multiple regions. Migration crises are intensifying across continents, with the EU calling emergency meetings on surging migrant crossings in Ceuta and Spain, while Africa grapples with conflict in Ethiopia's Tigray region and the worst Ebola outbreak ever recorded in the Democratic Republic of Congo. Climate impacts are becoming more severe, with record temperatures documented in South Korea and heatwaves triggering nuclear shutdowns, dead fish in rivers, and escalating wildfire battles across Europe.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "pubDate": "Sun, 02 Aug 2026 15:50:59 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "pubDate": "Sun, 02 Aug 2026 15:48:00 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Heatwave forces nuclear shutdown in Hungary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+      "desc": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
+      "pubDate": "Sun, 02 Aug 2026 14:44:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785681692.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Tanks, troops and space",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
+      "desc": "Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.",
+      "pubDate": "Sun, 02 Aug 2026 14:34:21 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785681252.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hundreds mourn Moroccan footballer who died trying to reach Ceuta",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss",
+      "desc": "Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.",
+      "pubDate": "Sun, 02 Aug 2026 13:46:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785678322.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "South Korea has hottest day on record amid extreme weather globally",
       "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
@@ -13600,26 +13650,6 @@
       "desc": "Back and forth over defence spending comes as NATO leaders set to meet in Ankara next week.",
       "pubDate": "Fri, 03 Jul 2026 16:05:29 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a47d2688e-1783091816.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
-      "link": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
-      "pubDate": "Fri, 03 Jul 2026 15:35:07 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00b9/live/f1a6c370-76f1-11f1-a627-714adb4eed6e.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
-      "link": "https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss",
-      "desc": "With Columbia University set to be represented in Congress by former protester, advocates see &#039;new wave of hope&#039;.",
-      "pubDate": "Fri, 03 Jul 2026 14:03:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26170035201247-1783017793.jpg?resize=1200%2C675",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
