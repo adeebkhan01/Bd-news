@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T10:43:46.155Z",
-  "summary": "Australian news today is dominated by tragic incidents and policy developments. A Melbourne hiker has been found dead on a US trail, while domestically a teenager died after being hit by a car in Adelaide and a shopworker remains critical after confronting alleged thieves. On the political front, One Nation has returned to the top in polling while Labor backs greyhound racing despite internal dissent, and a controversial masterplan for the Brisbane 2032 Olympics precinct has been unveiled. The economic landscape shows petrol price hikes looming as fuel excise cuts end, though electric vehicle sales have surged to record levels, and a new mortgage price war is emerging.",
+  "fetchedAt": "2026-08-02T13:36:28.072Z",
+  "summary": "Australia is grappling with several serious social and infrastructure challenges, from a critical shortage of medical safety staff managing thousands of equipment problems to concerning trends in education access and transport availability for regional students. Major developments include the government's Victoria Park masterplan for the Brisbane 2032 Olympics, record electric vehicle sales signalling a shift in transport, and mounting questions about institutional accountability, with ICAC investigations continuing and the Alan Jones trial beginning. Domestically, tragic incidents including a teenager's death after being hit by a car in Adelaide and a Melbourne hiker found dead in the US underscore community safety concerns, while political divisions are emerging on issues from greyhound racing to polling showing One Nation returning to top positions. International events are also capturing attention, including wildfires affecting Greece and shooting incidents in the United States.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Western Europe’s wildfire crisis retreats as Greece evacuates hundreds near Athens",
+      "link": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+      "desc": "<p>High winds prevent firefighting aircraft from collecting seawater as flames spread through Attica</p><p>Europe’s wildfire crisis fractured along starkly different fronts on Sunday: gale-force winds",
+      "pubDate": "Sun, 02 Aug 2026 13:19:53 GMT",
+      "img": "https://i.guim.co.uk/img/media/485ae932972d035de5428a185f0ec362fd2a790e/638_0_4583_3668/master/4583.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘There’s no nurdle fairy’: thousands mobilise to clean up plastic spillage in north-east England",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/02/nurdles-clean-up-plastic-spillage-beaches-north-east-england",
+      "desc": "<p>Volunteers painstakingly gather plastic pellets washing up on beaches after ship collision on 19 July</p><p>“You’ve got a local community that really cares about the coastline,” said Alice Laverty,",
+      "pubDate": "Sun, 02 Aug 2026 13:00:23 GMT",
+      "img": "https://i.guim.co.uk/img/media/b87bc9c64d30e642be7474e6940b1e3f40f9218e/291_0_3818_3055/master/3818.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Struggling to get through summer? Treat yourself like a beloved dog – and six other survival tips | Emma Beddington",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/02/summer-survival-tips-august",
+      "desc": "<p>August usually sends me into an anxious funk, but I think I’ve worked out how to handle 2026’s terrifying heat and apocalyptic images</p><p>Unfortunately for hairdressers, “How’s your summer going?",
+      "pubDate": "Sun, 02 Aug 2026 13:00:22 GMT",
+      "img": "https://i.guim.co.uk/img/media/57b4e45c99670bca33c3af615c28f80ba45344a9/4_0_3790_3031/master/3790.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Putting faith in the paper trail",
+      "link": "https://www.smh.com.au/national/nsw/putting-faith-in-the-paper-trail-20260731-p60k96.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Holy Trinity have form.",
+      "pubDate": "Sun, 02 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "‘Forever in the mountain’: Melbourne hiker, 28, found dead on US trail",
       "link": "https://www.smh.com.au/national/forever-in-the-mountain-melbourne-hiker-28-found-dead-on-us-trail-20260802-p60kpe.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -33458,16 +33498,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "US residents angry at datacenters ‘being shoved down our throats’ are recalling officials",
-      "link": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
-      "desc": "<p>People across the country are pushing for moratoriums, and electeds who approve projects are being punished</p><p>Lenoxdatacenter.com <a href=\"https://www.documentcloud.org/documents/28182726-lenox",
-      "pubDate": "Fri, 03 Jul 2026 11:00:27 GMT",
-      "img": "https://i.guim.co.uk/img/media/ae2f775703d83c556943f025dda1fd97bfe3b4e5/64_0_3001_2400/master/3001.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }

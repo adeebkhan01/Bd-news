@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T10:43:59.788Z",
-  "summary": "Global tensions dominate the news cycle, with Trump signaling a pause on Iran strikes while claiming negotiations are advancing, though details remain vague. Europe faces multiple crises simultaneously: Spain is managing a migrant surge through Ceuta that has left dozens dead, Hungary is shutting its sole nuclear plant amid drought concerns, and the continent battles unprecedented wildfires. In Africa, the Democratic Republic of Congo faces its worst Ebola outbreak while Ethiopia's western region descends into renewed fighting. Elsewhere, Russia continues circumventing sanctions to arm Mali, and Pakistan reports mounting civilian unrest, reflecting broader instability across multiple regions.",
+  "fetchedAt": "2026-08-02T13:36:42.296Z",
+  "summary": "Global tensions are escalating on multiple fronts, with Donald Trump announcing he is canceling planned strikes on Iran while claiming to be close to a deal, even as Tehran warns against war. Climate-related crises are intensifying worldwide, from South Korea's record heat to Hungary shutting its sole nuclear plant during drought conditions, while wildfires ravage Europe and unusual weather patterns trigger ecological disruption. Migration pressures are mounting across Europe, prompting an EU emergency meeting over mass migrant crossings in Spain, while long-running conflicts from Sudan to Ethiopia and Ukraine continue to generate casualties and humanitarian concerns. In other significant developments, Israeli military discipline is fracturing with soldiers jailed over a walkout protest, and geopolitical alignments are shifting with Turkey-Iraq oil deals and Russian sanctions evasion through Mali shipments.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "South Korea has hottest day on record amid extreme weather globally",
+      "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
+      "desc": "Scientists say the climate crisis driven by human activity is making heatwaves more frequent.",
+      "pubDate": "Sun, 02 Aug 2026 12:34:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6ee9fc23-1785653756.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why has EU called an emergency meeting on Spain migrant surge?",
+      "link": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss",
+      "desc": "In joint letter, 22 member states call for &#039;strengthening of external borders&#039; after nearly 60,000 migrants enter Ceuta.",
+      "pubDate": "Sun, 02 Aug 2026 12:32:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a6f1675a467-1785665141.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "The Board of Peace is a failed body and should be abandoned",
+      "link": "https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned?traffic_source=rss",
+      "desc": "The Palestinian issue should be returned to the UN framework and anchored again in international law.",
+      "pubDate": "Sun, 02 Aug 2026 12:06:31 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-02-19T162838Z_1239067050_RC21PJA6TLWT_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-TRUMP-BOARD-1785672286.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
+      "desc": "Indigenous people protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.",
+      "pubDate": "Sun, 02 Aug 2026 11:09:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785668859.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
+      "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
+      "desc": "A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.",
+      "pubDate": "Sun, 02 Aug 2026 11:07:13 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/YouTube-Thumb_A-1785668052.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli soldiers jailed over Sde Teiman walkout",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
+      "desc": "Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.",
+      "pubDate": "Sun, 02 Aug 2026 10:31:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785666598.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
+      "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the dang",
+      "pubDate": "2026-08-02T09:24:00Z",
+      "img": "https://static.dw.com/image/77718987_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
     {
       "title": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
       "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
@@ -13550,46 +13620,6 @@
       "desc": "With Columbia University set to be represented in Congress by former protester, advocates see &#039;new wave of hope&#039;.",
       "pubDate": "Fri, 03 Jul 2026 14:03:35 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26170035201247-1783017793.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Far-right AfD threatens eastern Germany's energy transition",
-      "link": "https://www.dw.com/en/far-right-afd-threatens-eastern-germany-s-energy-transition/a-77806872?maca=en-rss-en-bus-2091-rdf",
-      "desc": "Germany's far-right AfD wants to revive coal and nuclear power and curb non-EU immigration. Businesses in eastern Germany warn that its policies could harm the economy.",
-      "pubDate": "2026-07-03T13:07:00Z",
-      "img": "https://static.dw.com/image/77788553_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
-      "link": "https://www.aljazeera.com/news/2026/7/3/un-sounds-red-alert-over-human-rights-catastrophe-in-sudans-el-obeid?traffic_source=rss",
-      "desc": "UN human rights chief Volker Turk issued the warning over growing fears of an imminent RSF assault.",
-      "pubDate": "Fri, 03 Jul 2026 12:23:41 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1783076077.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
-      "link": "https://www.aljazeera.com/news/2026/7/3/mourners-pay-respects-as-irans-slain-leader-ali-khamenei-laid-in-state?traffic_source=rss",
-      "desc": "Iran begins seven-day state funeral for late ayatollah as some 100 foreign delegations arrive under a tense ceasefire",
-      "pubDate": "Fri, 03 Jul 2026 12:00:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/14119098-1783074781.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Moldova’s prime minister quits, triggering government’s resignation",
-      "link": "https://www.aljazeera.com/news/2026/7/3/moldovas-prime-minister-quits-triggering-governments-resignation?traffic_source=rss",
-      "desc": "Alexandru Munteanu&#039;s resignation came as pressure has intensified over alleged corruption in a state-owned company.",
-      "pubDate": "Fri, 03 Jul 2026 10:45:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a478623ae95-1783072291.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
