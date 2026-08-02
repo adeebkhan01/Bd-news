@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-01T21:59:54.448Z",
-  "summary": "A humanitarian crisis is unfolding at Spain's Ceuta enclave where a mass migrant crossing from Morocco has killed at least 67 people and triggered an EU emergency meeting, with Spain criticizing member states for insufficient solidarity. In the Middle East, tensions are escalating as Iran warns against US strikes on its energy infrastructure while Israel conducts raids and settles accounts in the West Bank, and Russia continues missile attacks on Ukraine killing at least nine in Kyiv. Domestically, former US President Trump faces legal jeopardy and the Justice Department's decision to drop certain charges, while FIFA is in turmoil with calls for Gianni Infantino's replacement after scrapping a controversial World Cup investment scheme. Elsewhere, the DR Congo faces its worst Ebola outbreak on record, Colombia experiences pre-election violence, and India's government tightens restrictions on anti-government protests.",
+  "fetchedAt": "2026-08-02T03:21:22.476Z",
+  "summary": "The most pressing global crisis centers on Iran, where Trump has cancelled planned military strikes while claiming agreement on deal \"perimeters,\" though Tehran warns against any escalation that could ignite wider conflict. In Europe, Spain faces a migration emergency after tens of thousands crossed into Ceuta from Morocco with at least 67 deaths reported, prompting EU calls for emergency response and Spanish criticism of unequal burden-sharing. Ukraine continues absorbing Russian missile strikes on Kyiv that have killed at least nine people, while the broader Middle East remains volatile with reports of Israeli military dissatisfaction and Palestinian detentions during West Bank operations. Separately, FIFA faces institutional crisis with UEFA withdrawing confidence in President Infantino and the organization scrapping a controversial World Cup investment plan.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+      "pubDate": "Sun, 02 Aug 2026 03:05:16 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Hungary plans to shut down only nuclear power plant amid drought",
+      "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
+      "desc": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
+      "pubDate": "Sun, 02 Aug 2026 00:49:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6e8b8573-1785629573.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "desc": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
+      "pubDate": "Sun, 02 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T103635Z_958657427_RC27OMAWQQQD_RTRMADP_3_IRAN-CRISIS-1785627529.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+      "link": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+      "desc": "Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
+      "pubDate": "Sat, 01 Aug 2026 23:15:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2020/05/6a94f39b58124d81a1ad959c656538c6_18.jpeg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Russian ship defies sanctions to send military vehicles to Mali",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+      "pubDate": "Sat, 01 Aug 2026 23:03:23 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f867/live/e4bf7ee0-8cf4-11f1-b8ee-9b3c26ad07bb.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "pubDate": "Sat, 01 Aug 2026 22:57:55 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/c9f00e60-8df6-11f1-902e-fd8182e85c3f.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
@@ -53,6 +113,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "How does eastern Europe commemorate the Roma Holocaust?",
+      "link": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-eu-2092-rdf",
+      "desc": "In 2015, the EU designated August 2 as the European Roma Holocaust Memorial Day. In Germany, the day is marked with memorial services, educational activites and public addresses. And in eastern Europe",
+      "pubDate": "2026-08-01T20:08:00Z",
+      "img": "https://static.dw.com/image/78162484_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
@@ -13503,46 +13573,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran warns ships against using unapproved routes in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss",
-      "desc": "Military command issues threat a day after Qatari mediators hailed &#039;positive progress&#039; in indirect US-Iranian talks.",
-      "pubDate": "Fri, 03 Jul 2026 03:01:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T093726Z_1153167832_RC254MAEYBTP_RTRMADP_3_IRAN-CRISIS-SHIPPING-FEES-1783038289_6c2c55-1783041542.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who are the rogue bishops defying Pope Leo XIV?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss",
-      "desc": "A rebel group of Roman Catholics has ordained its own bishops in direct defiance of Pope Leo XIV and the Vatican order.",
-      "pubDate": "Fri, 03 Jul 2026 02:36:54 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783046170.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss",
-      "desc": "Lebanon&#039;s Health Ministry says at least 4,298 people have been killed and 12,196 injured in Israeli attacks since March.",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260702__B8ZU83Z__v1__HighRes__IranUsIsraelWarKhameneiFuneral-1783049324_2ccbdf-1783049398.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
-      "pubDate": "Thu, 02 Jul 2026 23:02:09 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
