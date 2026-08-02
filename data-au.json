@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T16:02:59.601Z",
-  "summary": "Australia's housing market is deepening its downturn as property prices deteriorate, while the mortgage market faces potential upheaval as an excise cut ends and rates stabilise. Several significant crime and safety stories dominate the news, from Western Australian police tracking offenders with cut ankle monitors to high-profile legal cases including Alan Jones' trial beginning and a critical shortage of medical safety staff putting millions at risk. The political landscape shifts with One Nation returning to top polling positions while the government navigates contentious issues from net zero policy debates to labour's controversial backing of greyhound racing despite an MP breaking ranks to demand a ban.",
+  "fetchedAt": "2026-08-02T19:16:51.466Z",
+  "summary": "Australia's news agenda is dominated by structural economic challenges, with major stories covering the dismantling of KPMG, threats to private equity stability at Healthscope, and a deepening property downturn described as showing rapid deterioration. Child welfare emerges as a critical issue, with reports of escalating abuse and exploitation across multiple contexts, from NSW police describing an epidemic to investigations into child labour in the chocolate industry. Infrastructure and urban development preoccupy policymakers, particularly around Parramatta's growth constraints and Brisbane's preparation for the 2032 Olympics, while Western Australia faces a security concern with offenders cutting off ankle monitors. The broader political landscape shows One Nation returning to polling prominence amid criticism of governance standards, as Australia navigates drought impacts, housing affordability pressures, and debate over renewable energy policy.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,116 @@
     }
   ],
   "articles": [
+    {
+      "title": "The dismantling of KPMG is about to begin",
+      "link": "https://www.smh.com.au/business/companies/the-dismantling-of-kpmg-is-about-to-begin-20260731-p60k9m.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Any day now, the dismantling of the global accounting/consulting giant KPMG will start in earnest, but massive job cuts are only the beginning.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_11/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/a234725174c086326634c5a5948f91a01784ef68e282b682254c4d5759fe6162",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Healthscope meets landlords to head off private equity break-up threat",
+      "link": "https://www.smh.com.au/business/companies/healthscope-meets-landlords-to-head-off-private-equity-break-up-threat-20260731-p60k9o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Meetings this week are expected to decide the future of Australia’s second-largest private hospital operator, which financially collapsed more than a year ago.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5174%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/8b72f7b926003f7ecf9aa48eddfc64524d4dc34d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Lockdowns are looming for Perth’s roaming cats. Here’s what you need to know",
+      "link": "https://www.smh.com.au/national/western-australia/lockdowns-are-looming-for-perth-s-roaming-cats-here-s-what-you-need-to-know-20260619-p608el.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Could your cat soon be confined to your home? Here’s where councils across WA currently stand on cat containment.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1282703488372093%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/4ca2382a41d9f302239532b1bcf21d8972472a21",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "People think my suburb is just the shopping centre. For better or worse, we do orbit it",
+      "link": "https://www.smh.com.au/national/queensland/people-think-my-suburb-is-just-the-shopping-centre-for-better-or-worse-we-do-orbit-it-20260717-p60g5h.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "My suburb offers koala-filled parks and great family life, but its mega Westfield continues to dominate, when all I want is easy access to a flat white.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/9697416583374e38a715190dcec0749ad3eb10f79ae49dff7cb1d1ae07421311",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Thousands of NSW children are being abused. Police say it has become an epidemic",
+      "link": "https://www.smh.com.au/national/nsw/thousands-of-nsw-children-are-being-abused-police-say-it-has-become-an-epidemic-20260723-p60ht9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "More than 300 incidents involving children, including serious sexual and physical assaults, are being reported to authorities a week.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/9df1c375f8c02f17fa4a436c7f9a672c3bd4b7ae48451dd06b4f6f307b711123",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Cities need momentum’: The growing pains at the heart of Parramatta",
+      "link": "https://www.smh.com.au/national/nsw/cities-need-momentum-the-growing-pains-at-the-heart-of-parramatta-20260730-p60k53.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Parramatta’s mayor wants the city to be reserved for jobs. Others want to maximise housing. Who wins?",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/434cc1c35437c71c62b9c9d4a979fca7ac8cbc20",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Money, power, influence, secrecy: This same old rinse cycle is destroying politics",
+      "link": "https://www.smh.com.au/national/money-power-influence-secrecy-this-same-old-rinse-cycle-is-destroying-politics-20260802-p60kob.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Events of the past fortnight have reminded Australians why they’ve become cynical about the people – elected or not – who run this country.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2288%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_29/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/ccdcbc5bfc9d3bc8312f7a10c28dca250ee21253",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The Kyle and Karl pity party podcast",
+      "link": "https://www.smh.com.au/cbd/the-kyle-and-karl-pity-party-podcast-20260802-p60kpp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Sandilands said he doesn’t feel as “bad as I would have imagined” after he was dumped from the top-rating Kyle and Jackie O Show in March.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/fb74b91c820e7533563ac4432e0c31a7bca21e5c66608e550e41f7d944fa3923",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Parramatta needs room for jobs as well as homes",
+      "link": "https://www.smh.com.au/national/nsw/parramatta-needs-room-for-jobs-as-well-as-homes-20260802-p60kq9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Parramatta has an expertly planned and established CBD – it’s not so simple to start confining its footprint without room for commercial growth.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2012%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/60b11578a47cb61e1a6eb141d3c1eaa03b329639",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Child workers are the chocolate industry's 'dirty secret'",
+      "link": "https://www.abc.net.au/news/2026-08-03/chocolate-industry-child-labour-in-ghana-despite-promises/106970782",
+      "desc": "For decades, major chocolate companies have pledged to eradicate child labour. Four Corners discovered that in Ghana, the promises don't always match the reality.",
+      "pubDate": "Sun, 02 Aug 2026 18:39:58 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/4494c05791ee606fe9288b4377bdb426?impolicy=wcms_crop_resize&amp;cropH=1079&amp;cropW=809&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "The Guardian view on drought: hot, dry conditions make inequality starker | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/02/the-guardian-view-on-drought-hot-dry-conditions-make-inequality-starker",
+      "desc": "<p>Water is a vital shared resource, and privatisation has made a just transition harder </p><p>Compared with rising heat-related deaths, and devastating wildfires in the Cairngorms and Suffolk, the a",
+      "pubDate": "Sun, 02 Aug 2026 16:30:25 GMT",
+      "img": "https://i.guim.co.uk/img/media/45295863febdd28f6c872d46f43a08c4d1a7273b/623_0_6099_4879/master/6099.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Britain could face food shortages as drought continues, farmers warn",
       "link": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
@@ -33368,146 +33478,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Today Show ratings in 'freefall' as Channel Nine looks to replace Karl Stefanovic",
-      "link": "https://www.abc.net.au/news/2026-07-04/today-show-ratings-in-freefall-following-karl-stefanovic-exit/106877606",
-      "desc": "The Today Show's ratings are in decline following the Nine Network's dumping of host Karl Stefanovic. Former head of News and Current Affairs at Seven, Nine, and 10, Peter Meakin says the audience wil",
-      "pubDate": "Fri, 03 Jul 2026 19:10:23 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/885653f374ed5f40d5075cd9ebb527bd?impolicy=wcms_crop_resize&amp;cropH=3311&amp;cropW=2483&amp;xPos=1641&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "One red-hot tip has kept the rumour mill swirling for years. It could land senior Liberals in jail",
-      "link": "https://www.smh.com.au/national/nsw/one-red-hot-tip-has-kept-the-rumour-mill-swirling-for-years-it-could-land-senior-liberals-in-jail-20260702-p60bwa.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Three years ago, the Independent Commission Against Corruption began to dig into the explosive allegations.",
-      "pubDate": "Sat, 04 Jul 2026 05:05:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5174%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f24e5ff7d2704687af00a32da42906dc0dd2f051da439c78bb258e465baa568c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia's woeful Asian languages literacy is failing us",
-      "link": "https://www.abc.net.au/news/2026-07-04/indonesia-economy-china-asian-languages-region/106875164",
-      "desc": "As Asian language enrolments wither Australia is failing to make lasting ties within our region.",
-      "pubDate": "Fri, 03 Jul 2026 19:00:20 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/fe1ba39b642db029d1e42acfb81fba85?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=2194&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Conroy's 'dead cat' reminds us Labor has tough calls ahead",
-      "link": "https://www.abc.net.au/news/2026-07-04/pat-conroy-defence-aukus-labor-conference-economy-history-wars/106775108",
-      "desc": "After guiding the country through a tumultuous six months, the Albanese government faces tough fiscal and political decisions.",
-      "pubDate": "Fri, 03 Jul 2026 19:00:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/45442538a734802de8791df277bb0178?impolicy=wcms_crop_resize&amp;cropH=2814&amp;cropW=2111&amp;xPos=1351&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "It’s been two years since Susie Cave closed down The Vampire’s Wife. Now she’s back",
-      "link": "https://www.smh.com.au/national/it-s-been-two-years-since-susie-cave-closed-down-the-vampire-s-wife-now-she-s-back-20260614-p606mp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Her new brand celebrates the most joyous – and saddest – of occasions.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6539230673626646%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_960%2C$y_285/t_crop_custom/q_86%2Cf_auto/97e004d983cbb362ebd9d9d5104daa2a87e081c1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Is it acceptable for a waiter to turn my expensive red into a blend?",
-      "link": "https://www.smh.com.au/national/is-it-acceptable-for-a-waiter-to-turn-my-expensive-red-into-a-blend-20260618-p607x8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Pricey wine should be served intact and untainted, on a velvet cushion, and carried by Margot Robbie, advises our Modern Guru.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5204%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_40/t_crop_custom/q_86%2Cf_auto/b007c060d128c7fd4156b1cfd39a48e696e79d1a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Andy Lee: ‘Who invented the idea that the dad bod was desirable?’",
-      "link": "https://www.smh.com.au/national/andy-lee-who-invented-the-idea-that-the-dad-bod-was-desirable-20260618-p6080l.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Lee, who rose to fame as one half of comedy duo Hamish & Andy, helms and writes the animated series Do Not Watch This Show.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.418312003968254%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_259%2C$y_250/t_crop_custom/q_86%2Cf_auto/e8e8d2fb3e90f75eac8b6cfe5224f273cc93d15e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "From chalk leather to a Cuban heel, 8 winter boots starting from $32",
-      "link": "https://www.smh.com.au/national/from-chalk-leather-to-a-cuban-heel-8-winter-boots-starting-from-32-20260618-p6084n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "From rhinestone shine to a polished Western silhouette, step up your winter footwear game.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2104%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_403%2C$y_0/t_crop_custom/q_86%2Cf_auto/f6ff4a511e3ab4a7b9f9cc3242ba73e66afe8b53",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "An ugly jumper is still ugly at half-price: The ultimate rules for designer outlet shopping",
-      "link": "https://www.smh.com.au/national/an-ugly-jumper-is-still-ugly-at-half-price-the-ultimate-rules-for-designer-outlet-shopping-20260618-p6085a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow these expert tips to make the most of sample sales.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.28099945582269714%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_3%2C$y_56/t_crop_custom/q_86%2Cf_auto/de466c8def47aa96123d8afa9fff57f0aad76d6a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Want to be funnier? Stop saying this one phrase before you tell a joke",
-      "link": "https://www.smh.com.au/national/want-to-be-funnier-stop-saying-this-one-phrase-before-you-tell-a-joke-20260623-p6099z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "To optimise the chances of getting a laugh try following these tips.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2847%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/dca03d9a4bd8fc53e9e8874bde1501f3b5a1f8f0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The Sydney detention centre filled with children yet to be convicted",
-      "link": "https://www.smh.com.au/national/nsw/the-sydney-detention-centre-filled-with-children-yet-to-be-convicted-20260624-p609o7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The state imprisons children charged with shoplifting to murder. Less than 4 per cent of children in custody are sentenced.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1806%2C$y_1279/t_crop_custom/q_86%2Cf_auto/6bc92b1e1fca9e04fe377917a9340e925d685479",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The July 4 edition",
-      "link": "https://www.smh.com.au/national/the-july-4-edition-20260702-p60bzu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Want proof of how America is changing? It’s here in Miami I Susie Cave’s new label I Andy Lee on dad bods | How to tell a joke",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.52%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/9387ec0481dacfb765a78d835e7e64d2a0e78bbdb0bbb083fb8ca5de5cd0349f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘30 per cent’: Inside the meeting where Allan’s top adviser named CFMEU premium",
-      "link": "https://www.smh.com.au/national/30-per-cent-inside-the-meeting-where-allan-s-top-adviser-named-cfmeu-premium-20260703-p60c9u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Workplace watchdog documents released under freedom of information detail a meeting in which Victoria’s infrastructure chief put his price on the rogue union’s conduct.",
-      "pubDate": "Sat, 04 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2744%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f48c2d323b50f069db4da6aec222e987d51c5c6e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Where the true believers come’: Fans and flares descend on Federation Square for Socceroos",
-      "link": "https://www.smh.com.au/national/victoria/where-the-true-believers-come-fans-and-flares-descend-on-federation-square-for-socceroos-20260703-p60cej.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "City pubs and bars were also busy after Premier Jacinta Allan allowed licensed venues to operate while Australia played.",
-      "pubDate": "Sat, 04 Jul 2026 04:15:26 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/c4dfc509693bc7ced7e0e9d3096c0576ad96a8a8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
