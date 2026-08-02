@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-01T22:22:21.903Z",
+  "fetchedAt": "2026-08-02T04:02:03.266Z",
   "asx200": {
     "value": 8976.8,
     "change": 198.1,
     "changePercent": 2.26,
     "previousClose": 8778.7,
-    "asOf": "2026-08-01",
+    "asOf": "2026-08-02",
     "history": [
       {
         "date": "2026-06-30",
@@ -110,7 +110,7 @@
     "change": 0.01,
     "changePercent": 2.08,
     "previousClose": 0.69,
-    "asOf": "2026-08-01",
+    "asOf": "2026-08-02",
     "history": [
       {
         "date": "2026-06-29",
@@ -220,32 +220,32 @@
       "icon": "🥇",
       "iconBg": "#fef9ee",
       "price": 4107,
-      "change": 84.1,
-      "changePercent": 2.09
+      "change": -5.7,
+      "changePercent": -0.14
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
       "price": 57.79,
-      "change": -1.69,
-      "changePercent": -2.84
+      "change": -2.86,
+      "changePercent": -4.71
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
       "price": 84.67,
-      "change": 15.17,
-      "changePercent": 21.83
+      "change": 15.98,
+      "changePercent": 23.26
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
       "price": 6.47,
-      "change": 0.27,
-      "changePercent": 4.41
+      "change": 0.35,
+      "changePercent": 5.74
     },
     {
       "name": "BHP Group",
@@ -854,6 +854,55 @@
   ],
   "news": [
     {
+      "title": "Live: Sharks and Rabbitohs make late changes for top eight clash",
+      "link": "https://www.abc.net.au/news/2026-08-02/nrl-live-updates-sharks-rabbitohs-tigers-eels/106977954",
+      "snippet": "",
+      "pubDate": "Sun, 02 Aug 2026 03:31:00 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Glorious athletics campaign ends in an empty stadium near midnight",
+      "link": "https://www.abc.net.au/news/2026-08-02/australia-athletics-understated-commonwealth-games-finale/106986994",
+      "snippet": "",
+      "pubDate": "Sun, 02 Aug 2026 02:43:38 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Live: Eagles hampered by inaccuracy as errant elbow leaves Tiger bloodied",
+      "link": "https://www.abc.net.au/news/2026-08-02/afl-round-21-tigers-eagles-suns-demons-bombers-crows-live-blog/106972882",
+      "snippet": "",
+      "pubDate": "Sun, 02 Aug 2026 02:37:54 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "After javelin gold, Aussie star heads straight back to hospital work",
+      "link": "https://www.abc.net.au/news/2026-08-02/commonwealth-games-mackenzie-little-wins-javelin-gold/106987376",
+      "snippet": "",
+      "pubDate": "Sun, 02 Aug 2026 01:51:38 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Quick hits: Sprinter's surprise, a bored prince and a stunning upset",
+      "link": "https://www.abc.net.au/news/2026-08-02/commonwealth-games-glasgow-day-nine-quick-hits/106985382",
+      "snippet": "",
+      "pubDate": "Sun, 02 Aug 2026 00:15:24 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "'Pattern of missteps': Football bodies launch stunning Infantino rebuke",
+      "link": "https://www.abc.net.au/news/2026-08-02/uefa-has-no-confidence-fifa-president-gianni-infantino/106987232",
+      "snippet": "",
+      "pubDate": "Sat, 01 Aug 2026 23:50:03 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "One final clean sweep proves Aussie track stars are the real deal",
+      "link": "https://www.abc.net.au/news/2026-08-02/commonwealth-games-mile-abbey-caldwell-cameron-myers-josh-kerr/106986962",
+      "snippet": "",
+      "pubDate": "Sat, 01 Aug 2026 23:30:55 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Riders sent flying in spectacular crash as Aussie avoids carnage to medal",
       "link": "https://www.abc.net.au/news/2026-08-02/commonwealth-games-spectacular-crash-mens-10km-scratch/106987110",
       "snippet": "",
@@ -875,60 +924,11 @@
       "source": "ABC News"
     },
     {
-      "title": "Granny Grommets connect women far beyond the waves",
-      "link": "https://www.abc.net.au/news/2026-08-02/granny-grommets-find-fitness-and-friendship-in-the-waves/106965728",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 21:02:18 +0000",
-      "source": "ABC News"
-    },
-    {
       "title": "‘People want something more than value’: Why we’re so into buying Japanese stuff",
       "link": "https://www.smh.com.au/business/companies/people-want-something-more-than-value-why-we-re-so-into-buying-japanese-stuff-20260728-p60jag.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Uniqlo, Muji, Daiso: Australians are stuffing our suitcases and homes with Japanese brands – and they’re ambitious about selling us a distinctively sleek, minimalist lifestyle.",
       "pubDate": "Sun, 02 Aug 2026 05:00:00 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "'Who says girls can't play baseball?': America's pastime goes pro for women",
-      "link": "https://www.abc.net.au/news/2026-08-02/womens-pro-baseball-league-usa/106984674",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 18:59:01 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Pure shock as Diamonds fumble Australia's most anticipated gold medal",
-      "link": "https://www.abc.net.au/news/2026-08-02/diamonds-lose-jamaica-semifinal-commonwealth-games-netball/106986392",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 16:35:11 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Gold medallist makes no apologies for 'selfish' racing in Aussie podium sweep",
-      "link": "https://www.abc.net.au/news/2026-08-01/commonwealth-games-jemima-montag-race-walk-lizzy-mcmillen/106986368",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 13:24:00 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Aussies reign supreme over Irish in AFLW international",
-      "link": "https://www.abc.net.au/news/2026-08-01/australia-beats-ireland-in-aflw-with-thrills-and-spills-at-north/106986172",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 09:43:39 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Live: Aussies sweep women's mile after sprinters' history-making triumph",
-      "link": "https://www.abc.net.au/news/2026-08-01/commonwealth-games-day-nine-live-updates-medals/106985380",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 08:36:05 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Dozens of greyhounds to land in Australia as NZ racing ban begins",
-      "link": "https://www.abc.net.au/news/2026-08-01/nz-greyhound-racing-ban-charter-flights/106985844",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 04:48:33 +0000",
-      "source": "ABC News"
     },
     {
       "title": "Celebrity chef’s tip-tax ‘plan’ for broken glasses heads to court",
