@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T16:26:29.611Z",
+  "fetchedAt": "2026-08-02T19:39:54.277Z",
   "asx200": {
     "value": 8976.8,
     "change": 198.1,
@@ -106,9 +106,9 @@
     ]
   },
   "audusd": {
-    "value": 0.7,
-    "change": 0.01,
-    "changePercent": 2.08,
+    "value": 0.71,
+    "change": 0.02,
+    "changePercent": 2.53,
     "previousClose": 0.69,
     "asOf": "2026-08-02",
     "history": [
@@ -210,7 +210,7 @@
       },
       {
         "date": "2026-08-02",
-        "close": 0.7
+        "close": 0.71
       }
     ]
   },
@@ -854,6 +854,27 @@
   ],
   "news": [
     {
+      "title": "ASX set to slip; Amazon soars, Apple sinks on Wall Street",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-slip-amazon-soars-apple-sinks-on-wall-street-20260803-p60ks4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "US stocks rose to finish a wild July for Wall Street as Amazon leaped, Apple sank and rising oil prices worsened worries about inflation staying high.",
+      "pubDate": "Mon, 03 Aug 2026 05:23:30 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "The dismantling of KPMG is about to begin",
+      "link": "https://www.smh.com.au/business/companies/the-dismantling-of-kpmg-is-about-to-begin-20260731-p60k9m.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Any day now, the dismantling of the global accounting/consulting giant KPMG will start in earnest, but massive job cuts are only the beginning.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Healthscope meets landlords to head off private equity break-up threat",
+      "link": "https://www.smh.com.au/business/companies/healthscope-meets-landlords-to-head-off-private-equity-break-up-threat-20260731-p60k9o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Meetings this week are expected to decide the future of Australia’s second-largest private hospital operator, which financially collapsed more than a year ago.",
+      "pubDate": "Mon, 03 Aug 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "Diamonds win bronze medal with an eye to greater things for netball",
       "link": "https://www.abc.net.au/news/2026-08-02/diamonds-bronze-medal-commonwealth-games-england/106988168",
       "snippet": "",
@@ -868,7 +889,7 @@
       "source": "SMH Business"
     },
     {
-      "title": "Live: Closing ceremony flagbearer announced, more medals in the velodrome",
+      "title": "Live: Delta Goodrem headlines closing ceremony as Australia completes medal haul",
       "link": "https://www.abc.net.au/news/2026-08-02/live-blog-commonwealth-games-day-ten/106987006",
       "snippet": "",
       "pubDate": "Sun, 02 Aug 2026 07:58:47 +0000",
@@ -915,27 +936,6 @@
       "snippet": "",
       "pubDate": "Sun, 02 Aug 2026 00:15:24 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "'Pattern of missteps': Football bodies launch stunning Infantino rebuke",
-      "link": "https://www.abc.net.au/news/2026-08-02/uefa-has-no-confidence-fifa-president-gianni-infantino/106987232",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 23:50:03 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "One final clean sweep proves Aussie track stars are the real deal",
-      "link": "https://www.abc.net.au/news/2026-08-02/commonwealth-games-mile-abbey-caldwell-cameron-myers-josh-kerr/106986962",
-      "snippet": "",
-      "pubDate": "Sat, 01 Aug 2026 23:30:55 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "‘People want something more than value’: Why we’re so into buying Japanese stuff",
-      "link": "https://www.smh.com.au/business/companies/people-want-something-more-than-value-why-we-re-so-into-buying-japanese-stuff-20260728-p60jag.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Uniqlo, Muji, Daiso: Australians are stuffing our suitcases and homes with Japanese brands – and they’re ambitious about selling us a distinctively sleek, minimalist lifestyle.",
-      "pubDate": "Sun, 02 Aug 2026 05:00:00 +1000",
-      "source": "SMH Business"
     }
   ]
 }
