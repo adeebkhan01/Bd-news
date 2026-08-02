@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T03:21:07.574Z",
-  "summary": "Australia's news cycle today is dominated by Olympic planning controversies, with concept images of the disputed 2032 Brisbane precinct sparking fresh scrutiny, while political accountability remains under the spotlight as Premier Minns downplays ICAC implications for Labor. On the economic front, Australia is experiencing record electric vehicle sales even as the fuel excise cut expires tonight, pushing petrol prices higher at the pump. Several serious systemic issues are attracting attention including alleged sentencing loopholes failing sexual assault victims, the emerging threat of avian flu in Australian wildlife, and growing concerns about abandoned vehicles and e-bike enforcement across the country.",
+  "fetchedAt": "2026-08-02T08:28:57.220Z",
+  "summary": "Australian politics is in flux as One Nation surges in polling while Labor faces mounting scrutiny from an ICAC probe, with additional divisions emerging over greyhound racing. Major infrastructure projects are advancing, including Brisbane's Victoria Park masterplan for the 2032 Olympics and Queensland's e-bike regulations, though concerns about pork barrelling have emerged. Domestic challenges are mounting on multiple fronts: petrol prices will rise after the fuel excise cut ends tonight, water supply problems threaten housing targets, and Australia faces a potentially devastating bird flu outbreak in wildlife. Several serious criminal cases are progressing, including the Alan Jones trial and investigations into assaults and drug-related deaths, while consumer issues range from EV sales reaching record highs to concerns about 5G tower placements near homes.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,196 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wanted woman allegedly drove at police",
+      "link": "https://www.smh.com.au/national/wanted-woman-allegedly-drove-at-police-20260802-p60kq3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A woman is accused of driving at police and hitting multiple cars before running away.",
+      "pubDate": "Sun, 02 Aug 2026 18:27:38 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/786293afa935a7cda3cf598533d1d16184f730b6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "One Nation returns to top in poll",
+      "link": "https://www.smh.com.au/national/one-nation-returns-to-top-in-poll-20260802-p60kr5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "One Nation is back as the most popular party in the new Redbridge poll.",
+      "pubDate": "Sun, 02 Aug 2026 18:27:04 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d8e547704603e5ca530985171a238411f455f2cf",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Government unveils Victoria Park masterplan for Brisbane 2032",
+      "link": "https://www.smh.com.au/national/government-unveils-victoria-park-masterplan-for-brisbane-2032-20260802-p60kr2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A new masterplan for Victoria Park reveals pedestrian bridges, wetlands and public spaces designed to become its Olympic legacy, but key costings remain unknown.",
+      "pubDate": "Sun, 02 Aug 2026 18:18:30 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0a6c716ab46056a2dc465db383af3163160f0a13",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘I have an understanding housemate’: the student who makes videos of fungus on faeces",
+      "link": "https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe",
+      "desc": "<p>Alfred Drummond-Herdman’s extraordinary timelapses have been viewed by millions – and led him to identify new species</p><p>Alfred Drummond-Herdman is possibly the only person in the UK who is sent",
+      "pubDate": "Sun, 02 Aug 2026 08:00:15 GMT",
+      "img": "https://i.guim.co.uk/img/media/059a3cd5a3a7fa85bbe95c346182ad24d8570b0d/569_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Everything you need to know about Ekka 2026, including discounts, transport and showbags",
+      "link": "https://www.smh.com.au/national/queensland/everything-you-need-to-know-about-ekka-2026-including-discounts-transport-and-showbags-20260723-p60hxf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Going to the Show? We asked a superfan for their top picks of the Ekka in its 150th year.",
+      "pubDate": "Sun, 02 Aug 2026 18:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_41%2C$y_0/t_crop_custom/q_86%2Cf_auto/a1ee5f41a2978a811fd5bd28bd2db815f6750883760e5a6231820b348b66a85a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Five teens charged after assault on good Samaritan in Sunshine",
+      "link": "https://www.smh.com.au/national/victoria/five-teens-charged-after-assault-on-good-samaritan-in-sunshine-20260802-p60kpu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Five teenagers have been charged after an assault in Melbourne’s west that left a man in a critical condition.",
+      "pubDate": "Sun, 02 Aug 2026 16:49:19 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.24618030181750172%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/19cb5a33eaf855e8a689186dbd48ab31602f8eea",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Amy’s boyfriend found her dying and injected her with drugs. He wasn’t charged with her death",
+      "link": "https://www.smh.com.au/national/victoria/amy-s-boyfriend-found-her-dying-and-injected-her-with-drugs-he-wasn-t-charged-with-her-death-20260320-p5rm8x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "As she lay dying on her bedroom floor, a young Melbourne woman’s partner shot her up with meth instead of calling for help. Now, her mother is fighting for change.",
+      "pubDate": "Sun, 02 Aug 2026 16:47:42 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_318/t_crop_custom/q_86%2Cf_auto/0ca8e7237d3bd09a64d414de699b68b7119ebe3d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Dubai luxury comes to Collins Street: High-end valet parking service launches",
+      "link": "https://www.smh.com.au/national/victoria/dubai-luxury-comes-to-collins-street-high-end-valet-parking-service-launches-20260802-p60knz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Traders say the scheme will make it easier for shoppers to visit Melbourne’s most prestigious street, but others are worried it will clog the city even further.",
+      "pubDate": "Sun, 02 Aug 2026 16:42:04 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4182%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_540%2C$y_320/t_crop_custom/q_86%2Cf_auto/f6fb11183934dc5bba548fb5846ba8433e0d9011",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Labor backs greyhound racing as MP breaks ranks to demand ban",
+      "link": "https://www.smh.com.au/national/queensland/labor-backs-greyhound-racing-as-mp-breaks-ranks-to-demand-ban-20260802-p60kqb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Cameron Dick has reaffirmed his party’s support for the industry after Ipswich MP Jennifer Howard called on Labor to take a ban to the next election.",
+      "pubDate": "Sun, 02 Aug 2026 16:34:47 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.26264880952380953%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/100bd6e1436de795569727da3e72037fc7860983",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
+      "link": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
+      "desc": "<p>Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homes</p><p>The government’s housebuilding agenda is hitting the stark reality of a lack o",
+      "pubDate": "Sun, 02 Aug 2026 06:00:14 GMT",
+      "img": "https://i.guim.co.uk/img/media/01100570125b7be60fc504536dab5b9b022e2d24/383_0_6353_5083/master/6353.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Man, 21, dies in hospital a week after chaotic scenes",
+      "link": "https://www.smh.com.au/national/queensland/man-21-dies-in-hospital-a-week-after-chaotic-scenes-20260802-p60kq4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police are still searching for the offender a week after a large disturbance in which the young man was assaulted south of Brisbane.",
+      "pubDate": "Sun, 02 Aug 2026 15:33:32 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.258544921875%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_34/t_crop_custom/q_86%2Cf_auto/9f4d9cdde21b0f187a7aee0ed0715c84c701c153",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Drivers brace for petrol price hikes as fuel excise cut comes to end",
+      "link": "https://www.abc.net.au/news/2026-08-02/fuel-excise-cut-ending/106987482",
+      "desc": "Prices are forecast to increase to about $2.20 a litre for unleaded and $2.60 a litre for diesel when the fuel excise returns to its normal rate.",
+      "pubDate": "Sun, 02 Aug 2026 05:21:23 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/26d05dba28d6a9735d1beed6ab7ae8a5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "From playing on a rock to rocking out — the 'steep rise' of Wild Honey",
+      "link": "https://www.abc.net.au/news/2026-08-02/wild-honey-garma-festival-rock-arnhem-land-yothu-yindi/106987804",
+      "desc": "The grandsons of Yothu Yindi's lead singer have ambitions to take their band Wild Honey from Garma to the MCG and beyond.",
+      "pubDate": "Sun, 02 Aug 2026 05:20:05 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/44e72856bc7e8573416e5ec6e0f3e0de?impolicy=wcms_crop_resize&amp;cropH=3072&amp;cropW=2304&amp;xPos=990&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "How a factually dubious video by Ivanka Trump angered an entire nation",
+      "link": "https://www.abc.net.au/news/2026-08-02/albanias-flamingo-revolution-awash-with-trump-greed-oligarchs/106924816",
+      "desc": "Albania's coastline has become a hotspot for cheap European summer sojourns but as Ivanka Trump claims her Christopher Columbus moment locals are adamant that their island is not for sale.",
+      "pubDate": "Sun, 02 Aug 2026 05:09:59 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d5ba37eef0a3d263ec399ed4c4ba5772?impolicy=wcms_crop_resize&amp;cropH=6160&amp;cropW=4620&amp;xPos=2310&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "‘Perfect strangers’ and alleged power dynamics: Alan Jones’ trial to begin",
+      "link": "https://www.smh.com.au/national/nsw/perfect-strangers-and-alleged-power-dynamics-alan-jones-trial-to-begin-20260728-p60j9t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The broadcasting legend is accused of indecently assaulting or sexually touching six men over nearly two decades. Here’s what we know ahead of Monday’s much-anticipated trial.",
+      "pubDate": "Sun, 02 Aug 2026 13:55:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/45744a84d805f21fae61a37cde92f7a550de43be2579e63a081e65635066b3ea",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Two teenagers charged with animal cruelty over black swan video",
+      "link": "https://www.smh.com.au/national/western-australia/two-teenagers-charged-with-animal-cruelty-over-black-swan-video-20260802-p60kpf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The teenagers’ faces are visible in the video, which has been widely shared across social media and appeared to show the bird pinned to the floor.",
+      "pubDate": "Sun, 02 Aug 2026 13:38:18 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/d2b83968514df660b630d30ec03e332ea0e2dcf95a96337d57fb6401265ccbe4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "FIFA and Infantino face an uncertain future as leading soccer nations fight for change",
+      "link": "https://theconversation.com/fifa-and-infantino-face-an-uncertain-future-as-leading-soccer-nations-fight-for-change-288815",
+      "desc": "Recent FIFA controversies have exposed structural tensions within world soccer, which may result in significant change at the top.",
+      "pubDate": "2026-08-02T03:35:44Z",
+      "img": "https://images.theconversation.com/files/751545/original/file-20260802-50-p3lm0g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C535%2C6408%2C3204&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Denzel was the first in his family to go to university, but there’s a worrying drop-off in students like him",
+      "link": "https://www.smh.com.au/national/victoria/denzel-was-the-first-in-his-family-to-go-to-university-but-there-s-a-worrying-drop-off-in-students-like-him-20260723-p60hvp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Nearly every Victorian university has seen its share of students from low socioeconomic backgrounds decline since 2018.",
+      "pubDate": "Sun, 02 Aug 2026 13:32:39 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2720267146159774%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4966ed52e0efe94d44bf710326bd7932b3e822f6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Tony Abbott recalls a whiter Australia than I do. Menzies rejected his version, as do many Liberals",
+      "link": "https://www.smh.com.au/national/tony-abbott-recalls-a-whiter-australia-than-i-do-menzies-rejected-his-version-as-do-many-liberals-20260802-p60km9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Abbott upset a lot of Liberals by pronouncing multiculturalism a failure. Our party’s founder ridiculed the notion that we should be a “species of drab uniformity”.",
+      "pubDate": "Sun, 02 Aug 2026 13:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7825758998034699%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_920%2C$y_669/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/3d5dfdb2ebef037344031f97e369ee86e642b920",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Australia news live: concept images of controversial 2032 Brisbane Olympics precinct revealed",
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
@@ -33395,216 +33585,6 @@
       "desc": "What those opposing multiculturalism fail to grasp is that it is a natural adjutant of, and to, the human condition",
       "pubDate": "Fri, 03 Jul 2026 18:30:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.1924%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_255/t_crop_custom/q_86%2Cf_auto/420c7b3bc3eaa2904136644edd4192e453c54c5f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Notorious child killer bashed after moving prisons",
-      "link": "https://www.smh.com.au/national/victoria/notorious-child-killer-bashed-after-moving-prisons-20260703-p60cgy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The killer, now in his 50s, was taken to hospital after fellow inmates found out the extent of his crimes, sources say.",
-      "pubDate": "Fri, 03 Jul 2026 18:26:28 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3775401069518716%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_15/t_crop_custom/q_86%2Cf_auto/e47c54dd9c88e15347d0194d1ea354fdc5d0ae33",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Deeming delays de-selection move, as Hanson declares One Nation doesn’t want her",
-      "link": "https://theconversation.com/deeming-delays-de-selection-move-as-hanson-declares-one-nation-doesnt-want-her-286039",
-      "desc": "A planned meeting of the Liberal Party executive was nixed after Deeming brought court action against them.",
-      "pubDate": "2026-07-03T08:20:28Z",
-      "img": "https://images.theconversation.com/files/745815/original/file-20260703-57-rb5out.jpg?ixlib=rb-4.1.0&amp;rect=0%2C554%2C7886%2C3943&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Perth doctor arrested thanks to help of ‘vigilante’ paedophile hunter, court told",
-      "link": "https://www.smh.com.au/national/western-australia/perth-doctor-arrested-thanks-to-help-of-vigilante-paedophile-hunter-court-told-20260703-p60che.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "New information about how paediatrician Chia Saw was arrested and charged with child sex abuse was revealed in court on Friday.",
-      "pubDate": "Fri, 03 Jul 2026 18:09:17 +1000",
-      "img": "https://static.ffx.io/images/$zoom_5.295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/45ad6ff679494796d8a3ce1abb675158f8caa92863693fbf549e05ec625cc3ad",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Laurence Escalante resigns from online casino empire amid ongoing domestic violence, drugs charges",
-      "link": "https://www.smh.com.au/national/western-australia/laurence-escalante-resigns-from-online-casino-empire-amid-ongoing-domestic-violence-drugs-charges-20260703-p60chp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A statement from Escalante’s booming online casino group was posted late on Friday afternoon, with his company citing criminal charges levelled against him by WA police in its announcement of his resi",
-      "pubDate": "Fri, 03 Jul 2026 17:58:44 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/01c2af751dde5588595fc99b713c0cabb596fe6b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘This is modern Australia’: Why Albanese is obsessed with western Sydney",
-      "link": "https://www.smh.com.au/national/nsw/this-is-modern-australia-why-albanese-is-obsessed-with-western-sydney-20260703-p60c9o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The prime minister made two stops in western Sydney on Friday – a sign of the area’s growing political and economic importance in Sydney.",
-      "pubDate": "Fri, 03 Jul 2026 17:49:12 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3142%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_155%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/517a768ddf31f5c94668ebe965be2028d0d3fae4",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "SA music festival Harvest Rock going on hiatus",
-      "link": "https://www.abc.net.au/news/2026-07-03/harvest-rock-2026-cancelled-south-australia-festival-tourism/106878050",
-      "desc": "Promoter Secret Sounds has announced that the SA government-backed event won't be going ahead this October.",
-      "pubDate": "Fri, 03 Jul 2026 07:23:58 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/c752ae35048ca5b0e7db4101bd290140?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1236&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "'Similar to a blender': Gina Rinehart defends helipad amid noise concerns",
-      "link": "https://www.abc.net.au/news/2026-07-03/gina-rinehart-renews-bid-for-west-perth-helipad/106875726",
-      "desc": "Mining billionaire Gina Rinehart wants to be able to land a helicopter on the roof of her corporate HQ, and says the noise experienced by nearby residents would be similar to using a coffee machine or",
-      "pubDate": "Fri, 03 Jul 2026 07:13:45 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/7c7c27c3d460a1370e8303003eee386d?impolicy=wcms_crop_resize&amp;cropH=1707&amp;cropW=1280&amp;xPos=692&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Charges dropped over alleged teen kidnapping, marriage plot",
-      "link": "https://www.smh.com.au/national/victoria/charges-dropped-over-alleged-teen-kidnapping-marriage-plot-20260703-p60cgq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police had previously alleged two males had abducted a schoolgirl, before holding her hostage to marry against her will.",
-      "pubDate": "Fri, 03 Jul 2026 17:09:01 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/78b8df56ad5a882d24c08576247e6ad067cb1185",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Revealed: The images showing Lidia Thorpe being assaulted outside the MCG",
-      "link": "https://www.smh.com.au/national/revealed-the-images-showing-lidia-thorpe-being-assaulted-outside-the-mcg-20260622-p6090u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A woman found guilty of assaulting the senator after an AFL game has been slapped with a community corrections order and told to complete an anger management program.",
-      "pubDate": "Fri, 03 Jul 2026 16:59:52 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4209%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/5b277af68e47db039f37e44e16318722223ca318",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Predicted $27bn wartime windfall for Australian LNG exporters reignites calls for new gas tax",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/03/australia-gas-tax-lng-exporters-predicted-windfall",
-      "desc": "<p>David Pocock says the huge revenue boost for gas companies underscores that Australians are ‘missing out on a fair return’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newslette",
-      "pubDate": "Fri, 03 Jul 2026 06:54:40 GMT",
-      "img": "https://i.guim.co.uk/img/media/be3200f1f5efdde225108d66dbe6d0359505c73a/0_443_4264_3413/master/4264.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "A suspected bird flu case has now been found in NSW. Here’s what that means",
-      "link": "https://theconversation.com/a-suspected-bird-flu-case-has-now-been-found-in-nsw-heres-what-that-means-286764",
-      "desc": "Another apparent case of H5 avian influenza in a wild bird is a cause for concern – but it’s not the same as an outbreak.",
-      "pubDate": "2026-07-03T06:37:43Z",
-      "img": "https://images.theconversation.com/files/745813/original/file-20260703-69-1vak7z.jpg?ixlib=rb-4.1.0&amp;rect=0%2C150%2C2048%2C1024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Extreme heat conference cancelled due to extreme heat",
-      "link": "https://www.smh.com.au/environment/climate-change/extreme-heat-conference-cancelled-due-to-extreme-heat-20260702-p60c69.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
-      "desc": "The event on June 24 was to have marked the start of London Climate Week.",
-      "pubDate": "Fri, 03 Jul 2026 15:55:01 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/5f155e74ce4dadaefc61acad33f2caa16ea3620e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Uber goes back to the future with plans to start accepting cash in Australia",
-      "link": "https://www.smh.com.au/business/companies/uber-goes-back-to-the-future-with-plans-to-start-accepting-cash-in-australia-20260703-p60c9q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The ride-share giant will make the change from July 16. This is how it will work.",
-      "pubDate": "Fri, 03 Jul 2026 15:50:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/51d8975d48e94bff09534c2b150663290bdd604d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ASX Runners of the Week: Baumart, NuEnergy & Wide Open Agriculture",
-      "link": "https://www.smh.com.au/business/companies/asx-runners-of-the-week-baumart-nuenergy-and-wide-open-agriculture-20260703-p60cg4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The Bulls N’ Bears ASX Runner of the Week is… Baumart Holdings, after it kicked off work on its inaugural BuildMart modular housing project, with delivery of its first-ever units.",
-      "pubDate": "Fri, 03 Jul 2026 15:21:21 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/459274c6ebaf89bf0f19f79123ff51e165f00af01824aed3fffab63b8c11604e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Big Hits: FireFly Metals, Azzuro Resources and Kingston Resources",
-      "link": "https://www.smh.com.au/business/companies/big-hits-firefly-metals-azzuro-resources-and-kingston-resources-20260703-p60cfr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Bulls N’ Bears Big Hits looks at notable drill hits recently reported to the ASX, led by FireFly Metals in Canada, Azzuro Resources in Mongolia and Kingston Resources in NSW.",
-      "pubDate": "Fri, 03 Jul 2026 15:16:22 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_381%2C$y_125/t_crop_custom/q_86%2Cf_auto/3c00f94877cb2ad86ad91237913cc7abd8013d515252a8c5783840647ae21ab9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "How to keep your home warm if you're renting or on a budget",
-      "link": "https://www.abc.net.au/news/2026-07-03/how-to-keep-your-home-warm-if-you-are-renting-or-on-a-budget/106842576",
-      "desc": "If you're searching for ways to make your home warmer, these easy and inexpensive tricks can make a big difference.",
-      "pubDate": "Fri, 03 Jul 2026 05:00:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/a6a257d6b561558e1e1a6b53d14ee823?impolicy=wcms_crop_resize&amp;cropH=1281&amp;cropW=961&amp;xPos=411&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "We took a self-driving car on the road for 100 days to see how it handled itself – these are the mistakes it kept making",
-      "link": "https://theconversation.com/we-took-a-self-driving-car-on-the-road-for-100-days-to-see-how-it-handled-itself-these-are-the-mistakes-it-kept-making-286265",
-      "desc": "Autonomous vehicles work much better than many people think – and much worse. Some simple changes to our roads could make them safer.",
-      "pubDate": "2026-07-03T04:35:50Z",
-      "img": "https://images.theconversation.com/files/745800/original/file-20260703-69-9zjuom.png?ixlib=rb-4.1.0&amp;rect=0%2C160%2C3840%2C1920&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "‘Scavenger’ dolphins increasingly rely on trawlers for food in overfished Adriatic, say scientists",
-      "link": "https://www.theguardian.com/environment/2026/jul/03/dolphins-scavenging-food-trawlers-adriatic-study",
-      "desc": "<p>In one area 76% of fishing boats were followed, with baby dolphins learning the technique from their parents</p><p>Bottlenose dolphins in the Adriatic are increasingly following trawlers to scaveng",
-      "pubDate": "Fri, 03 Jul 2026 04:00:18 GMT",
-      "img": "https://i.guim.co.uk/img/media/bae7a9f796770fe9ab508afd2b549ceede7870c6/1104_0_5392_4316/master/5392.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Cause of wrongly-positioned aircraft control in Shellharbour crash unknown",
-      "link": "https://www.abc.net.au/news/2026-07-03/shellharbour-fatal-plane-crash-cause-unknown/106874618",
-      "desc": "Investigators are unable to work out why a take-off control was wrongly-positioned leading to a fatal plane crash at Shellharbour Airport last October.",
-      "pubDate": "Fri, 03 Jul 2026 03:38:48 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/ec52128c14fa46be034c226a7bb48e4d?impolicy=wcms_crop_resize&amp;cropH=863&amp;cropW=647&amp;xPos=580&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "AFL great Nicky Winmar found guilty of smashing woman’s head into a door",
-      "link": "https://www.smh.com.au/national/victoria/afl-great-nicky-winmar-found-guilty-of-smashing-woman-s-head-into-a-door-20260703-p60cdo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A magistrate found the AFL Hall of Fame inductee had grabbed a woman by the arm, dragged her by the hair and hit her head against a door during an attack in May last year.",
-      "pubDate": "Fri, 03 Jul 2026 13:32:27 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2043%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/q_86%2Cf_auto/eba4e3ca40b1da838f41830790827cb45e867a72",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "First suspected bird flu case in NSW, as state ramps up surveillance",
-      "link": "https://www.smh.com.au/environment/conservation/first-suspected-bird-flu-case-in-nsw-as-state-ramps-up-surveillance-20260703-p60cdk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
-      "desc": "The dead seabird was found by a member of the public at Hawks Nest on the NSW Mid North Coast. The risk to humans remains low, but the H5 virus would be devastating to the poultry industry and wildlif",
-      "pubDate": "Fri, 03 Jul 2026 13:29:27 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5515625%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/6a339af8fec32cc6726879d035749b87914664fb",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
