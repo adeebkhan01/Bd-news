@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T17:21:54.378Z",
+  "fetchedAt": "2026-08-03T20:05:22.129Z",
   "asx200": {
     "value": 9019.3,
     "change": 174.9,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.16,
+    "changePercent": 1.24,
     "previousClose": 0.69,
     "asOf": "2026-08-03",
     "history": [
@@ -195,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4089.7,
-      "change": -23,
-      "changePercent": -0.56
+      "price": 4108,
+      "change": -4.7,
+      "changePercent": -0.11
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.8,
-      "change": -2.84,
-      "changePercent": -4.69
+      "price": 58.24,
+      "change": -2.41,
+      "changePercent": -3.97
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 80.13,
-      "change": 11.44,
-      "changePercent": 16.65
+      "price": 80.15,
+      "change": 11.46,
+      "changePercent": 16.68
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.53,
-      "change": 0.41,
-      "changePercent": 6.75
+      "price": 6.54,
+      "change": 0.43,
+      "changePercent": 7.01
     },
     {
       "name": "BHP Group",
@@ -830,6 +830,20 @@
   ],
   "news": [
     {
+      "title": "ASX set to dip, Wall Street rallies on falling oil prices; Amazon hits $US3tr valuation",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-dip-wall-street-rallies-on-falling-oil-prices-amazon-hits-us3tr-valuation-20260804-p60l4o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "US stocks are rallying to the edge of their all-time high after easing oil prices helped calm Wall Street’s worries that inflation could get even worse.",
+      "pubDate": "Tue, 04 Aug 2026 05:19:54 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Bookshops begin discounting Alan Joyce’s memoir as it drops from Amazon lists",
+      "link": "https://www.smh.com.au/business/companies/bookshops-begin-discounting-alan-joyce-s-memoir-as-it-drops-from-amazon-lists-20260803-p60kyu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Booksellers have said Alan Joyce’s autobiography is not a runaway bestseller, but the appetite for the book could pick up.",
+      "pubDate": "Tue, 04 Aug 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "'Lot of nonsense': Dearden clears air on Cowboys future",
       "link": "https://www.abc.net.au/news/2026-08-03/tom-dearden-clears-air-on-cowboys-future/106992486",
       "snippet": "",
@@ -897,20 +911,6 @@
       "link": "https://www.smh.com.au/business/companies/news-corp-attacks-gutted-plan-to-make-tech-giants-pay-for-news-20260803-p60kzd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The publishing giant has slammed last-minute changes to the government’s plan, saying they risk letting Google and Meta avoid paying for local journalism.",
       "pubDate": "Mon, 03 Aug 2026 16:00:21 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Horizon bags high grade gold outside WA mine plan",
-      "link": "https://www.smh.com.au/business/companies/horizon-bags-high-grade-gold-outside-wa-mine-plan-20260803-p60l17.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Horizon Gold has hit a superb 23m at 5.26g/t gold from drilling outside its recently defined mine plan at its Gum Creek project in WA, including 15m at 7.65g/t.",
-      "pubDate": "Mon, 03 Aug 2026 15:31:00 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "The path to first home ownership might be under a flight path",
-      "link": "https://www.smh.com.au/business/the-economy/the-path-to-first-home-ownership-might-be-under-a-flight-path-20260803-p60kwr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "A new report shows the lengths to which some would-be home owners are prepared to go to reach stage one of the property ownership dream.",
-      "pubDate": "Mon, 03 Aug 2026 15:22:29 +1000",
       "source": "SMH Business"
     }
   ]
