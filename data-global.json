@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-03T03:23:12.043Z",
-  "summary": "The United States and Iran have moved toward de-escalation after mounting tensions, with Trump announcing he is canceling planned strikes and saying deal parameters have been reached, though details remain unclear. In other major developments, Brazil's president Lula launched his reelection campaign amid foreign interference allegations, Japan and the US jointly intervened to support the yen, and Israeli strikes in Gaza killed at least 13 people following Hamas agreement to a disarmament deal. Multiple crises are unfolding on Europe's periphery, including a significant migrant surge at Spain's borders and ongoing conflict in Sudan where a drone attack killed 35 people. Extreme weather is affecting multiple regions, with South Korea recording its hottest day on record and Hungary forced to shut its nuclear plant due to drought conditions.",
+  "fetchedAt": "2026-08-03T09:53:26.091Z",
+  "summary": "Global tensions over Iran have intensified as Donald Trump announced a pause on military action and plans to resume talks beginning Monday, though the situation remains volatile with both sides trading demands. Humanitarian crises are escalating across multiple regions, including confirmed deaths in Sudan's Darfur from drone attacks, at least 13 killed in Gaza following a Hamas disarmament agreement, and a surge in migrant crossings at Spain's borders triggering an EU emergency meeting. Extreme weather is causing widespread disruption, with record-breaking heatwaves across Europe, South Korea and Japan forcing nuclear shutdowns and fueling devastating wildfires, while Myanmar has released first images of Aung San Suu Kyi after 2.5 years, suggesting she remains healthy amid international scrutiny of her detention. Economic pressures are mounting with Japan and the US intervening to support the yen and fuel theft in the UK surging since tensions with Iran began.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
+      "link": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+      "desc": "Climate change makes Europe&#039;s summers hotter, intensifying fires and droughts while threatening lives and economies.",
+      "pubDate": "Mon, 03 Aug 2026 09:13:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T182032Z_1382079259_RC24NMA562JA_RTRMADP_3_EUROPE-WEATHER-SPAIN-WILDFIRE-1785706616.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
+      "desc": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
+      "pubDate": "Mon, 03 Aug 2026 09:05:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785747728.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+      "link": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
+      "desc": "Suspected attacker, identified as 24-year-old Chad Williams, killed at least three people in the US on Saturday.",
+      "pubDate": "Mon, 03 Aug 2026 09:01:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26213861910547-1785632236.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Michael Thorbjornsen wins first PGA Tour title at Rocket Classic",
+      "link": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss",
+      "desc": "Thorbjornsen, who joined the Tour as a rookie in 2025, is widely considered one of the rising stars of US golf.",
+      "pubDate": "Mon, 03 Aug 2026 08:25:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-02T230142Z_980928243_MT1USATODAY29500770_RTRMADP_3_PGA-ROCKET-CLASSIC-FINAL-ROUND-1785742812.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "pubDate": "Mon, 03 Aug 2026 08:03:15 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f8/live/c0137640-8f07-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "pubDate": "Mon, 03 Aug 2026 06:53:09 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+      "desc": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
+      "pubDate": "Mon, 03 Aug 2026 03:17:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785726988.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
@@ -1013,6 +1083,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Humanoid robots: Trump's latest China trade battle?",
+      "link": "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-bus-2091-rdf",
+      "desc": "The US has banned foreign-made humanoid robots, a market Chinese tech firms dominate. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers ",
+      "pubDate": "2026-07-31T13:06:00Z",
+      "img": "https://static.dw.com/image/78184502_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Palestinians in Gaza react to latest ceasefire deal",
@@ -13590,66 +13670,6 @@
       "desc": "Kyiv&#039;s drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.",
       "pubDate": "Sat, 04 Jul 2026 10:29:19 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a48d1ab-1783157163.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
-      "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss",
-      "desc": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.",
-      "pubDate": "Sat, 04 Jul 2026 08:59:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a48b6f6b582-1783150326.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-      "pubDate": "Sat, 04 Jul 2026 07:52:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "At 250, America is still deciding who belongs",
-      "link": "https://www.aljazeera.com/opinions/2026/7/4/at-250-america-is-still-deciding-who-belongs?traffic_source=rss",
-      "desc": "Birthright citizenship survived, but the fight over who is fully recognised as American is far from over.",
-      "pubDate": "Sat, 04 Jul 2026 07:07:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a440a3f-1782843967.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Could Israel really build settlements in Gaza?",
-      "link": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-      "desc": "After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.",
-      "pubDate": "Sat, 04 Jul 2026 05:41:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP25123433268989-1782211456.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
-      "link": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Just over a year after World War II ended, a mob in the Polish city of Kielce killed around 40 Jews, some of them Holocaust survivors. A lie about ritual child murder escalated the violence.",
-      "pubDate": "2026-07-04T04:24:00Z",
-      "img": "https://static.dw.com/image/77818576_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "FIFA World Cup: Round of 16 match schedule and which teams qualified",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified?traffic_source=rss",
-      "desc": "Full list of teams in the World Cup&#039;s last-16, who they play for a place in the quarterfinals and match start times.",
-      "pubDate": "Sat, 04 Jul 2026 04:14:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a455479a048-1782928505_4e1d72-1782928578.jpg?resize=1200%2C630&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
