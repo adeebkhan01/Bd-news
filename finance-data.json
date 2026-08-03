@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T15:21:52.780Z",
+  "fetchedAt": "2026-08-03T17:21:54.378Z",
   "asx200": {
     "value": 9019.3,
     "change": 174.9,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.21,
+    "changePercent": 1.16,
     "previousClose": 0.69,
     "asOf": "2026-08-03",
     "history": [
@@ -203,25 +203,25 @@
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 57.55,
-      "change": -3.09,
-      "changePercent": -5.1
+      "price": 57.8,
+      "change": -2.84,
+      "changePercent": -4.69
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 79.49,
-      "change": 10.8,
-      "changePercent": 15.72
+      "price": 80.13,
+      "change": 11.44,
+      "changePercent": 16.65
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.5,
-      "change": 0.39,
-      "changePercent": 6.35
+      "price": 6.53,
+      "change": 0.41,
+      "changePercent": 6.75
     },
     {
       "name": "BHP Group",
