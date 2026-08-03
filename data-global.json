@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T21:58:50.485Z",
-  "summary": "Global tensions remain elevated as the Trump administration cancels planned military strikes on Iran while claiming progress toward a deal, offering a potential diplomatic off-ramp to regional escalation. Meanwhile, migration crises are intensifying across multiple continents, with the UK pledging action on Channel crossings, the EU convening emergency meetings on Spain's migrant surge, and hundreds dying attempting dangerous journeys to Europe. The Israel-Gaza conflict continues despite Hamas's agreement to disarmament, with fresh Israeli strikes killing civilians, while Ukraine reports battlefield successes against Russian infrastructure. Extreme weather is forcing infrastructure shutdowns globally, with Hungary shuttering its only nuclear plant amid drought and heatwave conditions, as several countries experience record temperatures.",
+  "fetchedAt": "2026-08-03T03:23:12.043Z",
+  "summary": "The United States and Iran have moved toward de-escalation after mounting tensions, with Trump announcing he is canceling planned strikes and saying deal parameters have been reached, though details remain unclear. In other major developments, Brazil's president Lula launched his reelection campaign amid foreign interference allegations, Japan and the US jointly intervened to support the yen, and Israeli strikes in Gaza killed at least 13 people following Hamas agreement to a disarmament deal. Multiple crises are unfolding on Europe's periphery, including a significant migrant surge at Spain's borders and ongoing conflict in Sudan where a drone attack killed 35 people. Extreme weather is affecting multiple regions, with South Korea recording its hottest day on record and Hungary forced to shut its nuclear plant due to drought conditions.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
+      "desc": "Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched his reelection campaign.",
+      "pubDate": "Mon, 03 Aug 2026 02:54:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785725603.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Japan and US confirm rare joint intervention to prop up yen",
+      "link": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
+      "desc": "US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.",
+      "pubDate": "Mon, 03 Aug 2026 01:34:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-02T233755Z_609247456_RC2NQMATKU91_RTRMADP_3_JAPAN-YEN-1785717755.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+      "pubDate": "Mon, 03 Aug 2026 01:04:23 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42db/live/1194f890-8e8b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+      "desc": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+      "pubDate": "Mon, 03 Aug 2026 00:00:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260802__C3TB3WF__v1__HighRes__IranUsIsraelWar-1785715714.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says new round of Iran talks will begin Monday",
+      "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+      "desc": "The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response.",
+      "pubDate": "Sun, 02 Aug 2026 23:48:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-02T223827Z_1015294631_RC2LQMAP3H72_RTRMADP_3_USA-TRUMP-1785712640.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Sudan army drone attack on Darfur kills 35, rights group says",
+      "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
+      "desc": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
+      "pubDate": "Sun, 02 Aug 2026 22:51:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-14T152421Z_809494607_RC2VWFA9SRKY_RTRMADP_3_SUDAN-CRISIS-UN-1785708763.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
@@ -63,6 +123,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ceuta: Most who breached border have left, Spain says",
+      "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Nearly all of the more than 50,000 migrants who breached the border this week have returned to Morocco, according to Spanish officials. At least 72 people died in the border rush. DW has more.",
+      "pubDate": "2026-08-02T16:47:00Z",
+      "img": "https://static.dw.com/image/78208979_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
@@ -13580,36 +13650,6 @@
       "desc": "Full list of teams in the World Cup&#039;s last-16, who they play for a place in the quarterfinals and match start times.",
       "pubDate": "Sat, 04 Jul 2026 04:14:29 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a455479a048-1782928505_4e1d72-1782928578.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-      "desc": "Mukesh Kapila, ex-UN Humanitarian Coordinator for Sudan warns that, &#039;El Obeid crisis could be worse than El Fasher&#039;.",
-      "pubDate": "Sat, 04 Jul 2026 02:28:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/QUOTABLE-SUDAN-SEIGE-WIDE-THUMB-1783132025.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come.",
-      "pubDate": "Sat, 04 Jul 2026 00:57:05 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-      "desc": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
-      "pubDate": "Sat, 04 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-04T023616Z_1441683112_RC2Q6MAXCLCA_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1783132835.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
