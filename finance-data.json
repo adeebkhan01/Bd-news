@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T20:05:22.129Z",
+  "fetchedAt": "2026-08-03T22:30:47.246Z",
   "asx200": {
     "value": 9019.3,
     "change": 174.9,
@@ -96,7 +96,7 @@
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.24,
+    "changePercent": 1.21,
     "previousClose": 0.69,
     "asOf": "2026-08-03",
     "history": [
@@ -185,6 +185,10 @@
         "close": 0.7
       },
       {
+        "date": "2026-08-02",
+        "close": 0.7
+      },
+      {
         "date": "2026-08-03",
         "close": 0.7
       }
@@ -195,25 +199,25 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4108,
-      "change": -4.7,
-      "changePercent": -0.11
+      "price": 4106.6,
+      "change": -6.1,
+      "changePercent": -0.15
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.24,
-      "change": -2.41,
-      "changePercent": -3.97
+      "price": 58.27,
+      "change": -2.37,
+      "changePercent": -3.91
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 80.15,
-      "change": 11.46,
-      "changePercent": 16.68
+      "price": 79.98,
+      "change": 11.29,
+      "changePercent": 16.44
     },
     {
       "name": "Copper",
@@ -221,7 +225,7 @@
       "iconBg": "#fef0e6",
       "price": 6.54,
       "change": 0.43,
-      "changePercent": 7.01
+      "changePercent": 6.97
     },
     {
       "name": "BHP Group",
@@ -830,10 +834,38 @@
   ],
   "news": [
     {
-      "title": "ASX set to dip, Wall Street rallies on falling oil prices; Amazon hits $US3tr valuation",
+      "title": "Haugset goes it alone to claim Tour de France Femmes third stage",
+      "link": "https://www.abc.net.au/news/2026-08-04/haugset-goes-it-alone-to-claim-tour-de-france-femmes-third-stage/106993276",
+      "snippet": "",
+      "pubDate": "Mon, 03 Aug 2026 21:51:14 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Qantas mulls offshoring up to 1000 jobs to India: report",
+      "link": "https://www.smh.com.au/business/companies/qantas-mulls-offshoring-up-to-1000-jobs-to-india-report-20260804-p60l5e.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The airline is reportedly considering shifting jobs in marketing, finance, human resources and other back-office positions as part of a deal with consulting giant Accenture.",
+      "pubDate": "Tue, 04 Aug 2026 07:49:36 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Infantino could face UEFA lawsuit as he scrambles for FIFA presidency support",
+      "link": "https://www.abc.net.au/news/2026-08-04/fifa-boss-infantino-could-face-uefa-lawsuit/106993192",
+      "snippet": "",
+      "pubDate": "Mon, 03 Aug 2026 21:31:16 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "High school dropout’s company valued at $4.8 billion",
+      "link": "https://www.smh.com.au/business/companies/high-school-dropout-s-company-valued-at-4-8-billion-20260804-p60l4q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "James Dacombe was only 17 when he left school and started a brain-scanning company. Now aged 25, his new start-up is taking on one of the world’s most valuable companies.",
+      "pubDate": "Tue, 04 Aug 2026 07:01:53 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "ASX set for flat start, Wall Street rallies on falling oil prices; Amazon hits $US3tr valuation, Boeing jumps",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-dip-wall-street-rallies-on-falling-oil-prices-amazon-hits-us3tr-valuation-20260804-p60l4o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "US stocks are rallying to the edge of their all-time high after easing oil prices helped calm Wall Street’s worries that inflation could get even worse.",
-      "pubDate": "Tue, 04 Aug 2026 05:19:54 +1000",
+      "snippet": "US stocks rallied the edge of their all-time high after easing oil prices helped calm Wall Street’s worries that inflation could get even worse.",
+      "pubDate": "Tue, 04 Aug 2026 06:24:45 +1000",
       "source": "SMH Business"
     },
     {
@@ -883,34 +915,6 @@
       "link": "https://www.smh.com.au/business/markets/asx-set-to-slip-amazon-soars-apple-sinks-on-wall-street-20260803-p60ks4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "Australia’s sharemarket closed in the green, helped by strong performances from utilities, industrials and healthcare stocks.",
       "pubDate": "Mon, 03 Aug 2026 17:35:42 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Olympio builds Quebec gold system with more solid drill hits",
-      "link": "https://www.smh.com.au/business/companies/olympio-builds-quebec-gold-system-with-more-solid-drill-hits-20260803-p60l29.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Olympio Metals has strengthened confidence in its Bousquet gold project in Quebec after first Phase 3 assays returned 5m at 4.54g/t gold.",
-      "pubDate": "Mon, 03 Aug 2026 16:54:28 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Wallabies to battle heat, typhoon in Japanese Test",
-      "link": "https://www.abc.net.au/news/2026-08-03/wallabies-to-battle-heat-typhoon-in-japanese-test/106991928",
-      "snippet": "",
-      "pubDate": "Mon, 03 Aug 2026 06:50:33 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Peninsula recruits uranium veteran to drive Wyoming production growth",
-      "link": "https://www.smh.com.au/business/companies/peninsula-recruits-uranium-veteran-to-drive-wyoming-production-growth-20260803-p60l1o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Peninsula Energy has recruited veteran ISR uranium operator Gary Birch as chief technical officer and formed a technical committee to support growth at its Lance project in Wyoming, USA.",
-      "pubDate": "Mon, 03 Aug 2026 16:19:45 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "News Corp says plan to make tech giants pay for news has been ‘gutted’",
-      "link": "https://www.smh.com.au/business/companies/news-corp-attacks-gutted-plan-to-make-tech-giants-pay-for-news-20260803-p60kzd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The publishing giant has slammed last-minute changes to the government’s plan, saying they risk letting Google and Meta avoid paying for local journalism.",
-      "pubDate": "Mon, 03 Aug 2026 16:00:21 +1000",
       "source": "SMH Business"
     }
   ]
