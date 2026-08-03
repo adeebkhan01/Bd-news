@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T10:09:42.848Z",
+  "fetchedAt": "2026-08-03T15:21:52.780Z",
   "asx200": {
     "value": 9019.3,
     "change": 174.9,
@@ -90,17 +90,13 @@
       {
         "date": "2026-07-31",
         "close": 8976.8
-      },
-      {
-        "date": "2026-08-03",
-        "close": 9019.3
       }
     ]
   },
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.29,
+    "changePercent": 1.21,
     "previousClose": 0.69,
     "asOf": "2026-08-03",
     "history": [
@@ -199,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4111,
-      "change": -1.7,
-      "changePercent": -0.04
+      "price": 4089.7,
+      "change": -23,
+      "changePercent": -0.56
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 58.41,
-      "change": -2.23,
-      "changePercent": -3.68
+      "price": 57.55,
+      "change": -3.09,
+      "changePercent": -5.1
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 79.96,
-      "change": 11.27,
-      "changePercent": 16.41
+      "price": 79.49,
+      "change": 10.8,
+      "changePercent": 15.72
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.53,
-      "change": 0.41,
-      "changePercent": 6.72
+      "price": 6.5,
+      "change": 0.39,
+      "changePercent": 6.35
     },
     {
       "name": "BHP Group",
@@ -862,9 +858,9 @@
       "source": "SMH Business"
     },
     {
-      "title": "Engineer sacked after rebooting Singapore Airlines plane, causing 17-minute delay",
+      "title": "Engineer wins $40,000 after being sacked for delaying flight by 17 minutes",
       "link": "https://www.smh.com.au/business/workplace/engineer-sacked-after-rebooting-singapore-airlines-plane-causing-17-minute-delay-20260803-p60kxq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "An aircraft maintenance manager will be paid $40,000 but has failed to win back his job after Singapore Airlines said an investigation into his conduct was biased.",
+      "snippet": "The aircraft maintenance worker failed to win his job back, despite the compensation, in part because he had been working shifts with a competing company.",
       "pubDate": "Mon, 03 Aug 2026 17:45:00 +1000",
       "source": "SMH Business"
     },
