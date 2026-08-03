@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-03T09:53:26.091Z",
-  "summary": "Global tensions over Iran have intensified as Donald Trump announced a pause on military action and plans to resume talks beginning Monday, though the situation remains volatile with both sides trading demands. Humanitarian crises are escalating across multiple regions, including confirmed deaths in Sudan's Darfur from drone attacks, at least 13 killed in Gaza following a Hamas disarmament agreement, and a surge in migrant crossings at Spain's borders triggering an EU emergency meeting. Extreme weather is causing widespread disruption, with record-breaking heatwaves across Europe, South Korea and Japan forcing nuclear shutdowns and fueling devastating wildfires, while Myanmar has released first images of Aung San Suu Kyi after 2.5 years, suggesting she remains healthy amid international scrutiny of her detention. Economic pressures are mounting with Japan and the US intervening to support the yen and fuel theft in the UK surging since tensions with Iran began.",
+  "fetchedAt": "2026-08-03T14:48:01.902Z",
+  "summary": "Global tensions remain elevated across multiple fronts as Russia and Ukraine sustain heavy losses in ongoing conflict while Iran nuclear diplomacy shows signs of movement, with Trump suggesting talks could resume Monday after earlier threats of military action. Climate emergencies are intensifying across Europe, where extreme heatwaves and wildfires have forced nuclear facility shutdowns and sparked mass evacuations in Spain and France. Meanwhile, the Middle East faces renewed instability with fresh Israeli strikes on Gaza complicating recent Hamas disarmament agreements, and the long-detained Myanmar leader Aung San Suu Kyi has appeared in public for the first time since the 2021 military coup, signaling possible shifts in her detention status. Humanitarian crises are mounting from Sudan to Ethiopia, where renewed fighting threatens to reignite civil war as thousands flee their homes.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+      "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
+      "desc": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
+      "pubDate": "Mon, 03 Aug 2026 14:23:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/14191114-1785767290.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hilltop Youth: A group intent on taking over the West Bank by violence",
+      "link": "https://www.aljazeera.com/news/2026/8/3/hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence?traffic_source=rss",
+      "desc": "The Hilltop Youth is a radical religious Zionist group devoted to seizing Palestinian land in the occupied West Bank.",
+      "pubDate": "Mon, 03 Aug 2026 14:15:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a6dd1b2537a-1785582002.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who will shape post-war Iran?",
+      "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
+      "desc": "There are competing narratives in Tehran for its post-war recovery.",
+      "pubDate": "Mon, 03 Aug 2026 12:11:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-08T073518Z_825604796_RC2UOLAIX8LM_RTRMADP_3_IRAN-CRISIS-1785758946.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+      "pubDate": "Mon, 03 Aug 2026 11:49:48 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1a0/live/a76d9830-8f27-11f1-b5a8-c9ccaae98ebb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Find funding and save Jodrell Bank, stars say",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl87j3yw5o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Astronaut Tim Peake, guitarist Johnny Marr and 150 other public figures have signed an open letter.",
+      "pubDate": "Mon, 03 Aug 2026 09:56:52 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c35d/live/45bd48e0-8f29-11f1-ad38-d1c77c68a0b1.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Wildfires still burning in France and Spain amid fears of more to come",
+      "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
+      "desc": "Europe&#039;s warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.",
+      "pubDate": "Mon, 03 Aug 2026 09:32:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26209248451350-1785736309.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "link": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
@@ -13633,46 +13693,6 @@
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
-    },
-    {
-      "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-      "link": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
-      "desc": "Yemen&#039;s health professionals have been leaving the country in search of higher income and a safer working environment.",
-      "pubDate": "Sat, 04 Jul 2026 13:38:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/8-1783167324.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-      "pubDate": "Sat, 04 Jul 2026 13:13:52 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-      "pubDate": "Sat, 04 Jul 2026 10:42:47 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f69/live/f6627020-7788-11f1-a627-714adb4eed6e.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
-      "link": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
-      "desc": "Kyiv&#039;s drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.",
-      "pubDate": "Sat, 04 Jul 2026 10:29:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a48d1ab-1783157163.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
