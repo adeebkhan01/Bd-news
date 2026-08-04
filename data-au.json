@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T19:42:19.109Z",
-  "summary": "Australian students are underperforming in key literacy and numeracy areas, with roughly one in three failing to meet NAPLAN benchmarks across reading, writing and mathematics, raising fresh concerns about education standards. The economy appears resilient despite cost-of-living pressures, with the ASX set to rise and the government expanding solar subsidies to boost business uptake. Regulatory gaps are becoming increasingly apparent, particularly around gambling influencers flooding social media with minimal enforcement and concerns about adulterated supplements reaching consumers. Political instability continues to simmer, with questions over One Nation's Victorian leadership and the government preparing migration policy changes amid broader calls for stronger gambling reform.",
+  "fetchedAt": "2026-08-04T22:16:15.369Z",
+  "summary": "Australia's government is grappling with several policy pressures today, including mounting calls for stricter gambling reforms amid illicit drug concerns and a quiet visa change prioritising onshore workers over green job targets in new contract rules. The airline Jetstar announced new overhead baggage fees while Labor addressed its controversial \"widow tax\" proposal following criticism. A more pressing public health concern has emerged with H5N1 bird flu detected in over 100 wild seabirds, raising fears for species like Phillip Island penguins, while new NAPLAN education results show declining numeracy and literacy standards across Australian schools. On the legal front, the Alan Jones trial continues and police are investigating a defence manufacturer attack as potential terrorism.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,206 @@
     }
   ],
   "articles": [
+    {
+      "title": "WA government has no plans to change uranium mining ban",
+      "link": "https://www.abc.net.au/news/2026-08-05/cook-government-rules-out-uranium-policy-shift/106992496",
+      "desc": "New Mines Minister Daniel Pastorelli says the government will not shift approach to uranium mining, amid mounting pressure from WA's resources industry.",
+      "pubDate": "Tue, 04 Aug 2026 22:07:30 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/f509b603e40d5d24771af82abbc83ad3?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=812&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Australia news live: Jetstar to charge passengers for overhead baggage; Labor drops so-called ‘widow tax’",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+      "desc": "<p>Airline removes carry-on weight limit but will charge for bags that don’t fit under seat. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=c",
+      "pubDate": "Tue, 04 Aug 2026 22:06:56 GMT",
+      "img": "https://i.guim.co.uk/img/media/26227a352ba03008b4d4589082575fa039b71424/603_0_4760_3808/master/4760.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Jetstar to charge new fees for overhead carry-on baggage",
+      "link": "https://www.abc.net.au/news/2026-08-05/jetstar-to-charge-fees-for-overhead-carry-on-baggage/106997626",
+      "desc": "Jetstar has announced it will charge passengers to stow carry-on luggage in overhead lockers from next year, allowing only a small under-seat bag at no extra cost.",
+      "pubDate": "Tue, 04 Aug 2026 21:54:30 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/3c12c74a894eee60d415ec5e1d3bbb92?impolicy=wcms_crop_resize&amp;cropH=4000&amp;cropW=3000&amp;xPos=271&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Driver dies after crashing head-on into parked truck",
+      "link": "https://www.smh.com.au/national/queensland/driver-dies-after-crashing-head-on-into-parked-truck-20260805-p60lij.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The car hit a parked truck head on along the suburban stretch of road.",
+      "pubDate": "Wed, 05 Aug 2026 07:37:01 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.128119358854653%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_906%2C$y_463/t_crop_custom/q_86%2Cf_auto/1d36feba44f04afa906b0962d256e763bfa7b7a0b1a337db98112344ca9a4324",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Government contracts to require job creation instead of green targets under new rules",
+      "link": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
+      "desc": "<p>Louise Haigh says taxpayer money must benefit local communities amid backlash from environmental groups</p><p>Ministers will scrap the requirement for companies to prove their green and progressive",
+      "pubDate": "Tue, 04 Aug 2026 21:30:00 GMT",
+      "img": "https://i.guim.co.uk/img/media/27f027de93aa21c3a4e7d413a9dfb952828a6cbf/285_0_2735_2188/master/2735.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Jetstar to charge overhead baggage fee",
+      "link": "https://www.smh.com.au/national/jetstar-to-charge-overhead-baggage-fee-20260805-p60lil.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Jetstar is overhauling its baggage charges to institute a fee for anything stored in an overhead compartment.",
+      "pubDate": "Wed, 05 Aug 2026 07:27:34 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/cb050132e5337874bcd35c753f9bee49a4ea2169",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Australia news LIVE: Government faces mounting pressure on gambling reforms; H5N1 bird flu virus detected in over 100 wild seabirds",
+      "link": "https://www.smh.com.au/national/australia-news-live-gambling-industry-rejects-inquiry-claims-albanese-faces-mounting-pressure-on-reforms-iran-considers-letting-europe-help-remove-mines-from-strait-of-hormuz-20260805-p60li1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow along as we bring you the latest live news updates from Australia and around the world.",
+      "pubDate": "Wed, 05 Aug 2026 07:22:48 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2884%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_229%2C$y_1/t_crop_custom/q_86%2Cf_auto/24f5c9bf0cd6ce5e08ec798f9e26eabbb294d892",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Alan Jones trial continues",
+      "link": "https://www.smh.com.au/national/alan-jones-trial-continues-20260805-p60lii.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Former broadcaster Alan Jones will face the third day of his sex abuse allegations trial.",
+      "pubDate": "Wed, 05 Aug 2026 07:21:52 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3ba4bc371ca033c8d5630ebd282f1b90084fb953",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Prisoners paid compensation for sleeping on floor amid overcrowding",
+      "link": "https://www.abc.net.au/news/2026-08-05/prisoners-receiving-compensation-due-to-overcrowding-in-wa-jails/106992406",
+      "desc": "Prisoners are receiving financial compensation for sleeping on the floor due to overcrowding across Western Australian jails, the ABC can reveal.",
+      "pubDate": "Tue, 04 Aug 2026 21:12:25 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/bde518ae6bab5c25dc20118ee1141b21?impolicy=wcms_crop_resize&amp;cropH=978&amp;cropW=733&amp;xPos=265&amp;yPos=328&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Live: Shadow treasurer brands Labor's 'widows tax' fix a 'patch-up job'",
+      "link": "https://www.abc.net.au/news/2026-08-05/federal-politics-live-blog-widow-tax-reaction/106997570",
+      "desc": "Shadow Treasurer Tim Wilson says Labor's attempt to address unintended consequences of its federal budget measures is a \"patch-up job\". Follow live.",
+      "pubDate": "Tue, 04 Aug 2026 21:10:52 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/67255a0b37b79e8fd1a633d7d5ae7499?impolicy=wcms_crop_resize&amp;cropH=2270&amp;cropW=1703&amp;xPos=1789&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Attack on defence company treated as terror",
+      "link": "https://www.smh.com.au/national/attack-on-defence-company-treated-as-terror-20260805-p60lid.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An arson attack on a defence company in Victoria last year is being investigated as an alleged terrorist incident.",
+      "pubDate": "Wed, 05 Aug 2026 07:07:44 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8f3fe807df039fff5adc898b977462a8d43d9f7e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Fears bird flu could have 'devastating' effect on Phillip Island penguins",
+      "link": "https://www.abc.net.au/news/2026-08-05/phillip-island-penguins-bird-flu-fears/106982242",
+      "desc": "Conservationists say they fear the arrival of H5 bird flu in Australia could have a devastating impact on Phillip Island's penguin population.",
+      "pubDate": "Tue, 04 Aug 2026 21:03:16 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/07ccacb66b9fd08e9806e0752ffd38f4?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=987&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Cream puff institution closes in Sydney's Chinatown amid ATO scrutiny",
+      "link": "https://www.abc.net.au/news/2026-08-05/cream-puff-shop-emperors-garden-sydney-chinatown-closure/106996828",
+      "desc": "The popular Haymarket restaurant and bakery known best for its cream puffs has been shuttered with signage noting the premises \"has been lawfully re-entered and possession taken\".",
+      "pubDate": "Tue, 04 Aug 2026 21:01:31 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/9562884149167d4f4a2929c3e67a9b77?impolicy=wcms_crop_resize&amp;cropH=3072&amp;cropW=2304&amp;xPos=1152&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Stokes open to coaching England",
+      "link": "https://www.smh.com.au/national/stokes-open-to-coaching-england-20260805-p60li8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Retired Test captain Ben Stokes says he is interested in coaching the England team one day.",
+      "pubDate": "Wed, 05 Aug 2026 06:37:51 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/413ad5965bf571440c68a7dced39c5eadb1a4ae9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Labor's quiet visa change prioritises onshore workers",
+      "link": "https://www.abc.net.au/news/2026-08-05/government-prioritises-onshore-workers-for-permanent-visas/106997084",
+      "desc": "The Home Affairs minister has quietly de-prioritised overseas skilled workers to reduce net overseas migration in a move the Coalition says is managing \"migration by stealth\".",
+      "pubDate": "Tue, 04 Aug 2026 20:13:03 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/8bc800cfd99154739604e4fa1c7c7b61?impolicy=wcms_crop_resize&amp;cropH=4672&amp;cropW=3504&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "On the origin of feces: how animal poo drove Earth’s greatest evolutionary event",
+      "link": "https://theconversation.com/on-the-origin-of-feces-how-animal-poo-drove-earths-greatest-evolutionary-event-288826",
+      "desc": "Is the evolution of excrement the reason we exist?",
+      "pubDate": "2026-08-04T20:06:26Z",
+      "img": "https://images.theconversation.com/files/751864/original/file-20260804-50-dalgi9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C80%2C2560%2C1280&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Is it a gift or a loan when parents help kids buy a home? How to avoid family fights over money",
+      "link": "https://theconversation.com/is-it-a-gift-or-a-loan-when-parents-help-kids-buy-a-home-how-to-avoid-family-fights-over-money-288726",
+      "desc": "When money is coming from the ‘Bank of Mum and Dad’, a recent study found parents and adult children can have very different assumptions – which they rarely discuss.",
+      "pubDate": "2026-08-04T20:05:51Z",
+      "img": "https://images.theconversation.com/files/751842/original/file-20260803-50-8cjsb8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C59%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Bird flu decimated South America’s marine mammals. What can Australia do differently?",
+      "link": "https://theconversation.com/bird-flu-decimated-south-americas-marine-mammals-what-can-australia-do-differently-288800",
+      "desc": "An expert explains why the H5N1 strain is such a threat to seals worldwide.",
+      "pubDate": "2026-08-04T20:05:05Z",
+      "img": "https://images.theconversation.com/files/751574/original/file-20260802-50-hnzka5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C494%2C3500%2C1750&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Powerless against bird flu? Not entirely. Here are 8 ways to help protect Australia’s birds and mammals",
+      "link": "https://theconversation.com/powerless-against-bird-flu-not-entirely-here-are-8-ways-to-help-protect-australias-birds-and-mammals-288909",
+      "desc": "As a lethal bird flu spreads in Australian wildlife, it can be easy to think nothing can stop it. That’s an error – much can be done.",
+      "pubDate": "2026-08-04T20:04:55Z",
+      "img": "https://images.theconversation.com/files/751875/original/file-20260804-50-hjwjvs.jpg?ixlib=rb-4.1.1&amp;rect=0%2C759%2C5824%2C2912&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Big falls ahead for some of Australia's major stocks as they reveal profits",
+      "link": "https://www.abc.net.au/news/2026-08-05/miners-set-to-post-solid-results-amid-low-consumer-sentiment/106993966",
+      "desc": "Australia's largest companies will reveal how they performed financially over the next few weeks, against the gloomy backdrop of a property downturn, stubborn inflation, higher interest rates and the ",
+      "pubDate": "Tue, 04 Aug 2026 19:49:51 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/3dc3a24824b0ed81a1ef99f67b742061?impolicy=wcms_crop_resize&amp;cropH=1412&amp;cropW=1059&amp;xPos=164&amp;yPos=3&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "ASX set to rise as Wall Street surges; SpaceX results ahead",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-surges-spacex-results-ahead-20260805-p60lhu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -34488,146 +34688,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Australia news live: Albanese apologises for podcast comment about Kylie Minogue; auction clearances below 50% again",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
-      "desc": "<p>Meanwhile Queensland premier vows to imprison more youth offenders at party state conference. Follow today’s news live</p><p><strong>Auction clearance rates remain under 50%</strong></p><p>Just<a h",
-      "pubDate": "Sun, 05 Jul 2026 22:01:28 GMT",
-      "img": "https://i.guim.co.uk/img/media/d47828c866a5332e43af5b31d0ac29433f7bf206/1299_0_11785_9429/master/11785.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Police lay charges over man’s death after West End park punch",
-      "link": "https://www.smh.com.au/national/queensland/police-lay-charges-over-man-s-death-after-west-end-park-punch-20260706-p60cu9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man accused of attacking another man almost 40 years his senior will appear in a Brisbane court.",
-      "pubDate": "Mon, 06 Jul 2026 07:52:54 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.21623035325241205%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_167%2C$y_219/t_crop_custom/q_86%2Cf_auto/96a94b0b0ca314090c88d6895ab359be4849c61bad342321ad8320f5b9033b08",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Live: PM apologises for Kylie Minogue 'shag' comment",
-      "link": "https://www.abc.net.au/news/2026-07-06/federal-politics-live-blog-pm-podcast/106883162",
-      "desc": "Prime Minister Anthony Albanese's office has released a statement, apologising for the PM's comments about Kylie Minogue on a podcast.",
-      "pubDate": "Sun, 05 Jul 2026 21:12:27 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/caf2056d127204d87775f1daac344e17?impolicy=wcms_crop_resize&amp;cropH=3512&amp;cropW=2634&amp;xPos=1803&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Aussies claim T20 World Cup glory",
-      "link": "https://www.smh.com.au/national/aussies-claim-t20-world-cup-glory-20260706-p60cu4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A blistering run chase led by Beth Mooney lifted Australia to victory over England in the T20 World Cup final.",
-      "pubDate": "Mon, 06 Jul 2026 07:11:57 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/86ab0ea381a10b09e62c7db0591ae753e9bd5079",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ASX dragged down by banks and miners, Vault Minerals jumps on takeover battle — as it happened",
-      "link": "https://www.abc.net.au/news/2026-07-06/asx-markets-business-live-news/106854126",
-      "desc": "The ASX closes lower, despite the Gulf ceasefire holding and a positive sentiment on global markets.",
-      "pubDate": "Sun, 05 Jul 2026 20:54:40 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/df3caa9e83fb225a3573200b2590a425?impolicy=wcms_crop_resize&amp;cropH=694&amp;cropW=521&amp;xPos=332&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Burns victim's family furious about Temu 'safety pledge'",
-      "link": "https://www.abc.net.au/news/2026-07-06/queensland-burn-victims-family-furious-about-temu-safety-pledge/106869836",
-      "desc": "Daniella Jacobs-Herd's mother is furious Temu has been approved for a government \"safety pledge\" while denying liability for her daughter's life-changing injuries.",
-      "pubDate": "Sun, 05 Jul 2026 20:45:49 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/d0c5e7d799f3ce5ef849c4cf43ed14bc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=2110&amp;xPos=1571&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia news LIVE: PM arrives in Fiji to sign new security pact; Labor’s gambling ad reform blasted",
-      "link": "https://www.smh.com.au/national/australia-news-live-albanese-arrives-in-fiji-gambling-ad-reform-blasted-cocaine-from-gm-crops-floods-nation-20260706-p60ctp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow the news of the day live.",
-      "pubDate": "Mon, 06 Jul 2026 06:45:47 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1978%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_344%2C$y_218/t_crop_custom/q_86%2Cf_auto/af060324e3e3673f813bd691ab4c36fa1bd54687",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ASX to fall amid AI jitters, oil steadies",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-fall-amid-ai-jitters-oil-drops-20260706-p60ctd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Australian shares expected to fall slightly after rallying last week following strong gains by gold miners.",
-      "pubDate": "Mon, 06 Jul 2026 06:23:17 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2116%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/fafe7e93b829aa79d8ac34dfcdd444686562ec36",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Millions mourn for slain Iranian supreme leader",
-      "link": "https://www.smh.com.au/national/millions-mourn-for-slain-iranian-supreme-leader-20260706-p60cto.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Millions of Iranians have begun eight days of mourning for their former supreme leader.",
-      "pubDate": "Mon, 06 Jul 2026 06:06:51 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a69a65ad7e2b87c013ba17b08eeaa2ff6210d36b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "America marks 250th birthday",
-      "link": "https://www.smh.com.au/national/america-marks-250th-birthday-20260706-p60ctl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Donald Trump has praised the US military as America marks 250 years of independence.",
-      "pubDate": "Mon, 06 Jul 2026 06:06:25 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c4d441065bd7579f68ea55499b270bd2f911fdb7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "AI fuelling HSC cheating",
-      "link": "https://www.smh.com.au/national/ai-fuelling-hsc-cheating-20260706-p60ctn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "New figures show a steep rise in HSC students cheating with the help of AI.",
-      "pubDate": "Mon, 06 Jul 2026 06:06:19 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/7f3e07d5934bbbbacd7b53465f4f8a56f21ffa5a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "PM's diplomatic trip to Fiji",
-      "link": "https://www.smh.com.au/national/pms-diplomatic-trip-to-fiji-20260706-p60ctm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Prime Minister will sign a security deal with Fiji as he launches a diplomatic push in the Pacific.",
-      "pubDate": "Mon, 06 Jul 2026 06:06:05 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b04210f35ce4421b808a121d7381e83a175a79cd",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Melbourne footy player fighting for life",
-      "link": "https://www.smh.com.au/national/melbourne-footy-player-fighting-for-life-20260706-p60cth.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An amateur Aussie rules player hurt in a freak accident is unlikely to survive.",
-      "pubDate": "Mon, 06 Jul 2026 05:56:26 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/70f09fcc37ff66e347a7c0be6477ad4236f2a2aa",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "New Queensland breach of bail laws",
-      "link": "https://www.smh.com.au/national/new-queensland-breach-of-bail-laws-20260706-p60cti.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Queensland government will today unveil tougher penalties for young offenders who commit crimes while on bail",
-      "pubDate": "Mon, 06 Jul 2026 05:56:13 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4806e18f2a77b14dd1803fbf9f38bad93ed6f5a6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
