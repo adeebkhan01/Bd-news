@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T02:52:08.810Z",
-  "summary": "Australia's news cycle today is dominated by the high-profile trial of former broadcaster Alan Jones, with court testimony detailing serious allegations of inappropriate conduct toward young people at his home. Major economic developments include Qantas considering offshore job cuts to India affecting up to 1000 positions and progress on Western Australia's rare earths and potential oil refinery projects. Emergency services face mounting pressure with Sydney hospitals overwhelmed and Melbourne doctors preparing strikes, while a spate of violent incidents including hit-and-runs, armed robberies, and arson attacks underscore public safety concerns. Health authorities are also monitoring rising H5N1 bird flu cases amid concerns about potential mass casualty events.",
+  "fetchedAt": "2026-08-04T05:51:51.248Z",
+  "summary": "Australian news today is dominated by several serious institutional and legal issues, with the Alan Jones trial continuing to expose allegations of sexual misconduct, while a separate Senate inquiry investigates claims that betting companies offered drugs and sex workers to encourage high-stakes gambling. In politics, two new polls suggest Coalition gains against Labor ahead of an expected election, though climate change remains a flashpoint within conservative ranks. The economy shows mixed signals, with household spending rising on strong EV sales but major employers like Qantas considering significant job cuts and offshore shifts, while industrial action looms as Melbourne hospital doctors prepare to strike over pay disputes. Extreme weather has claimed lives internationally, with three lions dying of suspected heatstroke at a Tokyo zoo, highlighting the escalating impact of climate-related events.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,166 @@
     }
   ],
   "articles": [
+    {
+      "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
+      "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
+      "desc": "<p>Most of the zoo’s 16 lions have struggled to cope with high humidity this summer</p><p>Three lions from a Tokyo zoo have died from suspected heatstroke and others are undergoing treatment, a spokes",
+      "pubDate": "Tue, 04 Aug 2026 05:46:06 GMT",
+      "img": "https://i.guim.co.uk/img/media/04514260d6d38e9e1a0ff13351bbd57563ce31bd/133_0_904_723/master/904.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+      "link": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
+      "desc": "<p>Large tabby cat that wiped out dozens of rare pāteke, or brown teal, has been killed after eluding trappers with its ‘very erratic’ behaviour</p><p>A notorious feral cat given the name “Nine Lives”",
+      "pubDate": "Tue, 04 Aug 2026 05:45:57 GMT",
+      "img": "https://i.guim.co.uk/img/media/49f6b7dc7ac72ae8aaf71342c9fdcb9dff0ebd16/673_408_1018_815/master/1018.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Tuesday briefing: Inside the right’s heated climate-denial debate",
+      "link": "https://www.theguardian.com/world/2026/aug/04/tuesday-briefing-inside-the-rights-heated-climate-denial-debate",
+      "desc": "<p>In today’s newsletter: A small chorus of right-leaning critics are trying to convince politicians that climate action is deeply unpopular, downplaying its seriousness in the process</p><p>Good morn",
+      "pubDate": "Tue, 04 Aug 2026 05:45:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/855719869d1becd3736f796c9ce2886c0560eaec/960_0_5001_4000/master/5001.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Sacked for fighting crime, Wendy 'The Enforcer' wins bottle-o job back",
+      "link": "https://www.abc.net.au/news/2026-08-04/fair-work-wendy-the-enforcer-wins-job-back-at-bws-bottle-shop/106994360",
+      "desc": "A Tasmanian bottle shop worker who earned the nickname The Enforcer after she used a roller door to deter would-be thieves was sacked by her employer, BWS. But now, Wendy is back in business.",
+      "pubDate": "Tue, 04 Aug 2026 05:44:04 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/ac89a2f6aa7e0d1d0f8eac226b76e0a1?impolicy=wcms_crop_resize&amp;cropH=2667&amp;cropW=2000&amp;xPos=1000&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Household spending increases in June, powered by EV sales",
+      "link": "https://www.abc.net.au/news/2026-08-04/abs-household-spending-june-2026-transport-vehicle-purchases/106995370",
+      "desc": "Australian household spending rose for a second month in June as consumers splashed out on electric vehicles amid rising fuel costs.",
+      "pubDate": "Tue, 04 Aug 2026 05:40:29 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/f5bbe75859b7d2495e5dcec57c7969ac?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Police ‘gave control of CBD’ to Opera House protesters, royal commission hears",
+      "link": "https://www.smh.com.au/national/police-gave-control-of-cbd-to-opera-house-protesters-royal-commission-hears-20260804-p60lck.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police effectively handed control of the Sydney CBD to pro-Palestine protesters two days after the October 7 attack, a Jewish community leader testified.",
+      "pubDate": "Tue, 04 Aug 2026 15:30:21 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2043%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/e41a8233487f12e50d594e2625966415f050f8b4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Two Victorian polls have the Coalition leading Labor, with One Nation down",
+      "link": "https://theconversation.com/two-victorian-polls-have-the-coalition-leading-labor-with-one-nation-down-288811",
+      "desc": "In the immediate aftermath of Labor’s leadership spill, new polls bring better news for the struggling Coalition.",
+      "pubDate": "2026-08-04T05:28:12Z",
+      "img": "https://images.theconversation.com/files/751886/original/file-20260804-50-sndj23.jpg?ixlib=rb-4.1.1&amp;rect=0%2C464%2C5569%2C2784&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "UK plastic manufacturer could face legal action over toxic emissions",
+      "link": "https://www.theguardian.com/business/2026/aug/04/plastic-manufacturer-legal-action-emissions-toxic-carcinogenic-chemical-environment",
+      "desc": "<p>Exclusive: Environment Agency is considering whether to prosecute Huntsman Polyurethanes over emissions of carcinogenic benzene</p><p>A plastic manufacturer in the north of England is facing potent",
+      "pubDate": "Tue, 04 Aug 2026 05:00:12 GMT",
+      "img": "https://i.guim.co.uk/img/media/ead65fa966f20dc83d7fcf35d594802abbf5a635/332_0_4947_3956/master/4947.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Doctors to walk off job at major Melbourne hospitals over pay dispute",
+      "link": "https://www.smh.com.au/national/victoria/doctors-to-walk-off-job-at-major-melbourne-hospitals-next-week-over-pay-dispute-20260804-p60lby.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Doctors will take action next week in a push to secure better pay and a safer working environment.",
+      "pubDate": "Tue, 04 Aug 2026 14:55:46 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4448%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/8a2838cdfa4d8571ba5222ab3a205951ae523b60",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Companies may find it easier to join the ASX if these rule changes go ahead",
+      "link": "https://theconversation.com/companies-may-find-it-easier-to-join-the-asx-if-these-rule-changes-go-ahead-288911",
+      "desc": "Right now, you can’t advertise a stock market debut before filing a prospectus. Could loosening this rule give shrinking public markets a boost?",
+      "pubDate": "2026-08-04T04:44:29Z",
+      "img": "https://images.theconversation.com/files/751832/original/file-20260803-50-kaojgi.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1378%2C8256%2C4128&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Plea for action over $1b cruise industry loss",
+      "link": "https://www.smh.com.au/national/plea-for-action-over-1b-cruise-industry-loss-20260804-p60lcx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australia is at risk of losing it's position as one of the top cruising hotspots according to industry experts.",
+      "pubDate": "Tue, 04 Aug 2026 14:07:31 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/15d1c0399d563abf96b414936b4ed522c48afbbf",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Tourist charged $1200 reservation fee at Brisbane fine-dining establishment",
+      "link": "https://www.smh.com.au/national/queensland/tourist-charged-1200-reservation-fee-at-brisbane-fine-dining-establishment-20260803-p60l1r.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Sally Tsai didn’t immediately notice Restaurant Dan Arnold had charged her a $400 fee three times, despite saying they didn’t charge for reservations.",
+      "pubDate": "Tue, 04 Aug 2026 13:28:27 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_288%2C$y_328/t_crop_custom/q_86%2Cf_auto/8f585f72cdaba45883a4c285eaf108cbaddd1f96f2105eb2bc8649ba055bda29",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "With its new leverage over the Strait of Hormuz, does Iran want – or need – a nuclear weapon?",
+      "link": "https://theconversation.com/with-its-new-leverage-over-the-strait-of-hormuz-does-iran-want-or-need-a-nuclear-weapon-288702",
+      "desc": "Iran’s new supreme leader is reportedly more interested in building a bomb than his father. Where does this leave future negotiations?",
+      "pubDate": "2026-08-04T03:18:21Z",
+      "img": "https://images.theconversation.com/files/751878/original/file-20260804-50-ijdefa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C174%2C2000%2C1000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Media and political complacency is letting Pauline Hanson re-write the rules on accountability",
+      "link": "https://theconversation.com/media-and-political-complacency-is-letting-pauline-hanson-re-write-the-rules-on-accountability-288945",
+      "desc": "The media have the power to make Hanson’s tyrannical attitudes and behaviour a central issue, and their failure to use this power has only emboldened her.",
+      "pubDate": "2026-08-04T03:04:49Z",
+      "img": "https://images.theconversation.com/files/751852/original/file-20260804-50-v5gf1s.jpg?ixlib=rb-4.1.1&amp;rect=0%2C412%2C6765%2C3382&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Osborne Park gym wins Supreme Court fight after judge dismisses hospital’s noise complaints",
+      "link": "https://www.smh.com.au/national/western-australia/osborne-park-gym-wins-supreme-court-fight-after-judge-dismisses-hospital-s-noise-complaints-20260804-p60lb5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Perth Day Hospital took Fitness Cartel to court alleging that since the gym opened, excessive noise from music and dropped weights had reverberated through the ceiling.",
+      "pubDate": "Tue, 04 Aug 2026 12:58:29 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5515625%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_81/t_crop_custom/q_86%2Cf_auto/2e2179515bb7e794a679d6ffa4eda84ed9118794a31d1d452bb517382b830c22",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
+      "desc": "<p>Betting firms respond to claims made by anti-gambling campaigners Tim Costello and Luke Bateman at parliamentary inquiry</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/",
+      "pubDate": "Tue, 04 Aug 2026 02:55:00 GMT",
+      "img": "https://i.guim.co.uk/img/media/bf746daf7505a41a0035d709356a124e52ae3d88/269_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Alan Jones trial live updates: Former 2GB broadcaster told complainant to wear ‘robe and nothing else’, court told",
       "link": "https://www.smh.com.au/national/nsw/alan-jones-trial-live-updates-former-2gb-broadcaster-s-relationship-with-complainants-examined-as-trial-continues-over-alleged-indecent-assault-sexual-touching-20260803-p60l0s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -34228,86 +34388,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Liberal frontbencher Dan Tehan says coalition with One Nation ‘not even being talked about’",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb",
-      "desc": "<p>Anthony Albanese mocks ructions on conservative side of politics and says three rightwing parties are caught up in ‘race to the bottom’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/em",
-      "pubDate": "Sun, 05 Jul 2026 05:07:24 GMT",
-      "img": "https://i.guim.co.uk/img/media/0661d56a319a030935becaf27598cebec508d440/827_0_2683_2146/master/2683.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘They ate the shrimp, they even ate the crab’: Thai fishers count the cost of a voracious invader",
-      "link": "https://www.theguardian.com/environment/2026/jul/05/blackchin-tilapia-thailand-invasive-fish-fishers-count-cost-aoe",
-      "desc": "<p>Huge numbers of blackchin tilapia, a fish native to west Africa, are wreaking havoc among Thailand’s river ecosystems. Experts – and some chefs – are seeking sustainable solutions</p><p>The menu at",
-      "pubDate": "Sun, 05 Jul 2026 04:00:16 GMT",
-      "img": "https://i.guim.co.uk/img/media/7a36a85a85569c39f8e3a3729ed4ecca55d7e7af/912_0_4560_3648/master/4560.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Mandatory jail announced for Queensland kids who breach bail",
-      "link": "https://www.smh.com.au/national/queensland/mandatory-jail-announced-for-queensland-kids-who-breach-bail-20260705-p60cpe.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Premier David Crisafulli announced the extension of the government’s harsh Adult Crime, Adult Time laws at the LNP state convention on Sunday.",
-      "pubDate": "Sun, 05 Jul 2026 13:58:36 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1658315064202944%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/q_86%2Cf_auto/ec629410d0b447432c4d17e459a1fdfd7869e23e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Stop the show’: What Murray saw at a crowded theatre set him on a crusade to change the law",
-      "link": "https://www.smh.com.au/national/victoria/stop-the-show-what-murray-saw-at-a-crowded-theatre-set-him-on-a-crusade-to-change-the-law-20260702-p60c0z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Murray Wight watched a man die inside a Melbourne theatre. A year later, he’s determined to prevent the same scene from playing out again.",
-      "pubDate": "Sun, 05 Jul 2026 13:36:22 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.22417442845046567%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_104/t_crop_custom/q_86%2Cf_auto/a14604364d4d45e19f81b4f3b2b650ea94c847bc",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘All hopes destroyed’: Teen lured into underage sex work in Sydney",
-      "link": "https://www.smh.com.au/national/nsw/all-hopes-destroyed-teen-lured-into-underage-sex-work-in-sydney-20260703-p60cfs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "As two men await sentencing for the “planned and sophisticated” scheme, a woman trafficked to work in Sydney brothels has spoken of the ongoing trauma from her brutal treatment.",
-      "pubDate": "Sun, 05 Jul 2026 13:35:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1565b213e48c3e09544eef70b2111343590dc4b3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Angus Taylor must take the fight up to One Nation – or look weak",
-      "link": "https://www.smh.com.au/national/angus-taylor-must-take-the-fight-up-to-one-nation-or-look-weak-20260703-p60cgj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Liberal Party must expose the truth about Pauline Hanson – when you lift the lid, it’s pretty ugly.",
-      "pubDate": "Sun, 05 Jul 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d872050d1f7c4edc37f3a8ac2973311e5e450932",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia news live: Tehan criticises Labor for rising electricity bills as Bowen points to Coalition ‘hypocrisy’; suspected space debris washes up near Townsville",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb",
-      "desc": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> ",
-      "pubDate": "Sun, 05 Jul 2026 03:15:21 GMT",
-      "img": "https://i.guim.co.uk/img/media/76466ceac29e62fd0690fdbfa9402fa33d82336d/254_0_5313_4252/master/5313.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Nicky Winmar’s statue removed from Optus Stadium after assault conviction",
-      "link": "https://www.smh.com.au/national/western-australia/nicky-winmar-s-statue-removed-from-optus-stadium-after-assault-conviction-20260705-p60cqi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Crews arrived at Optus Stadium early on Sunday morning to pull the statue down in the wake of the disgraced AFL great’s conviction.",
-      "pubDate": "Sun, 05 Jul 2026 13:11:22 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.19484820607175712%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/36b719f9684e23b0c956bc85a27e53d3ed67c896bb0aa8843fb61693bc99c885",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
