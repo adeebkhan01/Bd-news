@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T05:51:51.248Z",
-  "summary": "Australian news today is dominated by several serious institutional and legal issues, with the Alan Jones trial continuing to expose allegations of sexual misconduct, while a separate Senate inquiry investigates claims that betting companies offered drugs and sex workers to encourage high-stakes gambling. In politics, two new polls suggest Coalition gains against Labor ahead of an expected election, though climate change remains a flashpoint within conservative ranks. The economy shows mixed signals, with household spending rising on strong EV sales but major employers like Qantas considering significant job cuts and offshore shifts, while industrial action looms as Melbourne hospital doctors prepare to strike over pay disputes. Extreme weather has claimed lives internationally, with three lions dying of suspected heatstroke at a Tokyo zoo, highlighting the escalating impact of climate-related events.",
+  "fetchedAt": "2026-08-04T08:43:59.574Z",
+  "summary": "Australia's news cycle is dominated by crime and legal proceedings, with the Alan Jones trial continuing to draw headlines alongside cases involving vehicle deaths, sexual assault convictions, and the death of notorious Melbourne crime figure \"Granny Evil\" Kath Pettingill. Industrial unrest is emerging across multiple sectors, including strikes by ferry workers, Arnott's employees seeking better pay, and Melbourne hospital doctors over wage disputes, while infrastructure improvements like the new Mandurah Hospital expansion signal ongoing government spending. Several stories highlight systemic concerns ranging from ICAC allegations affecting Catholic schools to questions about HSC ranking validity and police conduct during Opera House protests. The broader economic backdrop shows mixed signals, with household spending rising in June yet concerns mounting over news media jobs and the hospitality sector's recovery challenges.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,286 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bus driver who struck and killed teen girl loses appeal",
+      "link": "https://www.smh.com.au/national/bus-driver-who-struck-and-killed-teen-girl-loses-appeal-20260804-p60lgs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A former council bus driver has failed to have his conviction overturned over the death of 18-year-old Tia Cameron in a 2024 CBD crash.",
+      "pubDate": "Tue, 04 Aug 2026 18:40:26 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/763826262c22c46242ae7b91a5fcd2ba42b578a1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Unlicenced driver leads police on chase in stolen car",
+      "link": "https://www.smh.com.au/national/unlicenced-driver-leads-police-on-chase-in-stolen-car-20260804-p60lgr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An unlicenced driver in a stolen car has led police on an hour-long chase from Merrylands to Revesby.",
+      "pubDate": "Tue, 04 Aug 2026 18:34:57 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1a5adbffb9de8f8c4e1215df6852ac53983f600f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "HSC rankings are not a true measure of educational excellence",
+      "link": "https://www.smh.com.au/national/nsw/hsc-rankings-are-not-a-true-measure-of-educational-excellence-20260804-p60l7z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A more meaningful assessment of schools would focus on the value they add, rather than test scores.",
+      "pubDate": "Tue, 04 Aug 2026 18:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3093%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_182%2C$y_305/t_crop_custom/q_86%2Cf_auto/a480b9b614cca8e04f46e60b5253bea352948230",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "ICAC allegations cast a shadow on our Catholic schools. That makes me angry",
+      "link": "https://www.smh.com.au/national/nsw/icac-allegations-cast-a-shadow-on-our-catholic-schools-that-makes-me-angry-20260804-p60lco.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The shadow of those allegations reaches out and touches all who somehow come under the “Catholic school” umbrella.",
+      "pubDate": "Tue, 04 Aug 2026 18:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_47/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/1958385b80912789a35c70cbb87745d947fc14f75789c518a670c2edf7edae30",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Alan Jones faces more allegations as trial continues",
+      "link": "https://www.smh.com.au/national/alan-jones-faces-more-allegations-as-trial-continues-20260804-p60lfr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Veteran broadcaster Alan Jones has faced more allegations on day two of his criminal trial.",
+      "pubDate": "Tue, 04 Aug 2026 18:28:42 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f053779102d0e30b7f5ee98034a566d5d7b28c81",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man arrested over Sydney gun scare claims he was at dress-up party",
+      "link": "https://www.smh.com.au/national/man-arrested-over-sydney-gun-scare-claims-he-was-at-dress-up-party-20260804-p60lfk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man arrested over a gun scare at a Sydney entertainment precinct claimed he was at a dress-up party with colleagues.",
+      "pubDate": "Tue, 04 Aug 2026 18:28:25 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/990e547170d781afdf6fbf99dd301a4db25d47e8",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The fight to save a historic English landscape - podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/aug/04/wildlife-trusts-fight-to-save-historic-english-landscape-podcast",
+      "desc": "<p>Madeleine Finlay travels to the Rothbury estate in Northumberland, in north-east England. It’s a piece of land that has been in the same family for 700 years, but now it has been put up for sale an",
+      "pubDate": "Tue, 04 Aug 2026 08:28:15 GMT",
+      "img": "https://i.guim.co.uk/img/media/feb2e795bef14ed64d090a3ab51fb84e465f3b72/1187_0_7200_5760/master/7200.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Search for woman who allegedly mowed down Melbourne man",
+      "link": "https://www.smh.com.au/national/search-for-woman-who-allegedly-mowed-down-melbourne-man-20260804-p60lgp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "",
+      "pubDate": "Tue, 04 Aug 2026 18:17:45 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f75e4549eff4b73bb7840049bf6b592fab007743",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Notorious Melbourne crime matriarch dies",
+      "link": "https://www.smh.com.au/national/notorious-melbourne-crime-matriarch-dies-20260804-p60lgo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Notorious Melbourne crime matriarch Kath Pettingill, also known as &#34;Granny Evil&#34;, has died aged 91.",
+      "pubDate": "Tue, 04 Aug 2026 18:16:53 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/563f90b3121f3669d41f63f77cd68c533b09acb6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "More jail time for couple who raped 15yo at house party",
+      "link": "https://www.smh.com.au/national/queensland/more-jail-time-for-couple-who-raped-15yo-at-house-party-20260804-p60lgl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Queensland’s attorney-general appealed their original sentences, arguing they were “manifestly inadequate” for the crime.",
+      "pubDate": "Tue, 04 Aug 2026 18:12:25 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5138%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_609%2C$y_0/t_crop_custom/q_86%2Cf_auto/fe16685b4dbcf082c74bf7548279d6f4dfc391eb",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The New York inspiration behind Brisbane cafe queen’s next specials",
+      "link": "https://www.smh.com.au/national/queensland/the-new-york-inspiration-behind-brisbane-cafe-queen-s-next-specials-20260722-p60hnb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Giorgina Venzin tells CityChats what it takes to run three successful cafes in Brisbane.",
+      "pubDate": "Tue, 04 Aug 2026 18:08:30 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5446041304976852%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_54%2C$y_75/t_crop_custom/q_86%2Cf_auto/e037c74c0ea25eb6e79eabcea143d004e18dce2b4e18784895c57ade4b32eb4c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Cafe queen on the 'fun drink' trend in cafes",
+      "link": "https://www.smh.com.au/national/queensland/cafe-queen-on-the-fun-drink-trend-in-cafes-20260804-p60l8x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Giorgina Venzin from Venzin Group tells CityChats about the creative trends in the hospitality industry.",
+      "pubDate": "Tue, 04 Aug 2026 18:00:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/5ed3c20c6c4e6ebec6effce9c818f495d4d44846",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Cafe queen on being a positive force in the hospitality scene",
+      "link": "https://www.smh.com.au/national/queensland/cafe-queen-on-being-a-positive-force-in-the-hospitality-scene-20260804-p60l8y.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Giorgina Venzin tells CityChats why she chooses to uplift other cafes and bakeries in Brisbane.",
+      "pubDate": "Tue, 04 Aug 2026 18:00:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/fab6f0f4b1dbbd32da254c28147ef8065be6d0db",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "He lied about an affair and cost his company nearly $30 million. Now he has a new job",
+      "link": "https://www.smh.com.au/business/companies/he-lied-about-an-affair-and-cost-his-company-nearly-30-million-now-he-has-a-new-job-20260804-p60lbc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The disgraced former chief executive of Rebel Sport owner Super Retail has been hired to lead luxury appliances seller Winning Group.",
+      "pubDate": "Tue, 04 Aug 2026 17:31:58 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1462%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_51%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/12cd4d0d833cf15fbab64bfe115f6c8b84ae6eb1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Deeply misled’: Nine says news bargaining plan could cost jobs",
+      "link": "https://www.smh.com.au/technology/deeply-misled-nine-says-news-bargaining-plan-could-cost-jobs-20260804-p60lfh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
+      "desc": "Nine chief executive Matt Stanton says a late change to how deals are counted undervalues the company’s journalism and puts newsroom jobs at risk.",
+      "pubDate": "Tue, 04 Aug 2026 17:28:47 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1457%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/c7709114e4a95d38b47bffb262d963642883266f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Brisbane set for second peak-hour ferry strike in as many weeks",
+      "link": "https://www.smh.com.au/national/queensland/brisbane-set-for-second-peak-hour-ferry-strike-in-as-many-weeks-20260804-p60lfw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Labor had called on Lord Mayor Adrian Schrinner to intervene in the dispute between workers and the CityCat operator.",
+      "pubDate": "Tue, 04 Aug 2026 17:26:33 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2626%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_115/t_crop_custom/q_86%2Cf_auto/d863dcae9dc053fec68151c6e4c6cd7108252934",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Arnott's workers strike over hourly pay rises worth less than a packet of biscuits",
+      "link": "https://www.abc.net.au/news/2026-08-04/arnotts-workers-adelaide-factory-walk-off-job-seeking-pay-rise/106994062",
+      "desc": "Arnott's workers in Adelaide have walked off the job over a pay dispute, with their union saying previous pay rises have equated to less than $1 per hour — not enough to buy a packet of biscuits.",
+      "pubDate": "Tue, 04 Aug 2026 07:24:50 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/ea0e99f4cc52257eb4783bac1174ee0d?impolicy=wcms_crop_resize&amp;cropH=2954&amp;cropW=2216&amp;xPos=908&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "New CCTV shows the moment car smashes into side of bus",
+      "link": "https://www.smh.com.au/national/new-cctv-shows-the-moment-car-smashes-into-side-of-bus-20260804-p60lff.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Dramatic new vision has emerged of the moment an airborne car speared the side of a bus in Brisbane last week.",
+      "pubDate": "Tue, 04 Aug 2026 17:18:46 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1f9e1b57d3df796b91cedf16d50a266727359e03",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Granny Evil’ to some, ‘Nanna Kath’ to others. The matriarch who built a crime empire and inspired a movie",
+      "link": "https://www.smh.com.au/national/victoria/granny-evil-to-some-nanna-kath-to-others-the-matriarch-who-built-a-crime-empire-and-inspired-a-movie-20260804-p60l9x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Kath Pettingill would turn up at court often wearing a T-shirt that read, “Life’s A Bitch. Then You Die”. She lived the slogan more than most and died at the weekend, aged 91.",
+      "pubDate": "Tue, 04 Aug 2026 17:12:08 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6271469907407408%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_111%2C$y_99/t_crop_custom/q_86%2Cf_auto/ca7bbdabb8464b86551e160654df4ec4a808b0afd48b5a90a2045862a72e8192",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘I just want justice’: Complainant’s emotional testimony in Alan Jones trial",
+      "link": "https://www.smh.com.au/national/nsw/i-just-want-justice-complainant-s-emotional-testimony-in-alan-jones-trial-20260804-p60l67.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A former teen athlete who alleges he was indecently assaulted by the then 2GB broadcaster told a court he froze when attempting to confront him years earlier.",
+      "pubDate": "Tue, 04 Aug 2026 17:08:32 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4628%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_14/t_crop_custom/q_86%2Cf_auto/e6905277ce7b76b0bf01d448b77a4b58e14c2869",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Trump wants ‘fair treatment’ in fight over Labor’s levy on tech giants to pay for news, US trade group warns",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/04/australia-news-bargaining-incentive-us-trade-trump-albanese",
+      "desc": "<p>National Foreign Trade Council ‘disappointed’ at move to expand News Bargaining Incentive but Australian experts say government is not going far enough</p><ul><li><p><a href=\"https://www.theguardia",
+      "pubDate": "Tue, 04 Aug 2026 07:06:24 GMT",
+      "img": "https://i.guim.co.uk/img/media/66a63b267799bda4e38b0a2354fb0a1c7db01da0/413_0_4583_3667/master/4583.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Labor to tip another $950 million into new Mandurah Hospital",
+      "link": "https://www.smh.com.au/national/western-australia/labor-to-tip-another-950-million-into-new-mandurah-hospital-20260804-p60lfc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "West Australian Health Infrastructure Minister John Carey claims there “is always capacity in the budget for health” as construction officially begins on the new Mandurah Hospital site.",
+      "pubDate": "Tue, 04 Aug 2026 16:40:56 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/a7afa7b30e0f407751eaf2d87b2564365730dd00ef406839db72a8e171199f43",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Major crash on Sydney Harbour Bridge",
+      "link": "https://www.smh.com.au/national/major-crash-on-sydney-harbour-bridge-20260804-p60lfj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two cars have crashed on the Sydney Harbour Bridge, closing several lanes and causing major traffic dramas.",
+      "pubDate": "Tue, 04 Aug 2026 16:34:05 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1307a47ef27e15ae07607eefd95173f537b2bf5d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Salmon farm releasing nutrients, but EPA says it's not causing algae",
+      "link": "https://www.abc.net.au/news/2026-08-04/tassal-salmon-farming-lease-renewed-long-bay-tasmania/106994446",
+      "desc": "The waters around Tassal's Long Bay fish farm near Port Arthur have signs of excess nutrients — including nuisance algae and seagrass loss. But the EPA has questioned if the fish farm is responsible, ",
+      "pubDate": "Tue, 04 Aug 2026 06:29:40 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/fad4fd3c97c0628ddef9b599fe074de6?impolicy=wcms_crop_resize&amp;cropH=715&amp;cropW=536&amp;xPos=506&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Tom Holland and Zendaya become most bankable box office couple in Hollywood",
+      "link": "https://www.abc.net.au/news/2026-08-04/tom-holland-zendaya-in-spider-man-brand-new-day-the-odyssey/106994354",
+      "desc": "Real-life Hollywood couple Tom Holland and Zendaya are celebrating simultaneous box office success stories in Spider-Man: Brand New Day and The Odyssey – smash hit movies they both star in.",
+      "pubDate": "Tue, 04 Aug 2026 06:25:28 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/51348b45baca7d08547ea15ae4f09efc?impolicy=wcms_crop_resize&amp;cropH=4447&amp;cropW=3335&amp;xPos=0&amp;yPos=401&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Sportsbet, TAB deny allegations reps offered escort and drugs to gambler",
+      "link": "https://www.abc.net.au/news/2026-08-04/sportsbet-tab-gambling-reform-luke-bateman-inducements/106994616",
+      "desc": "Sportsbet and TAB have denied explosive claims they offered a young gambler access to illicit drugs and escorts as part of an inducement program.",
+      "pubDate": "Tue, 04 Aug 2026 06:20:03 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/82c46501ed0dca79d4c644f2c14a13c0?impolicy=wcms_crop_resize&amp;cropH=2882&amp;cropW=2161&amp;xPos=1480&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Mine's ex-bosses forced into bankruptcy over allegedly misappropriated funds",
+      "link": "https://www.abc.net.au/news/2026-08-04/former-hellyer-mine-bosses-face-8-point-5-million-bankruptcy/106994784",
+      "desc": "The former bosses of Hellyer mine, in Tasmania's north-west, have been ordered to repay a combined $8.5 million in allegedly misappropriated funds after failing to set aside a bankruptcy ruling in the",
+      "pubDate": "Tue, 04 Aug 2026 06:08:41 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/5f2080919441964c5bd6ee26c67677e5?impolicy=wcms_crop_resize&amp;cropH=773&amp;cropW=580&amp;xPos=231&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "‘I’ve got him locked in’: Sandilands’ big call on Roberts-Smith scoop",
+      "link": "https://www.smh.com.au/business/companies/i-ve-got-him-locked-in-sandilands-big-call-on-brs-scoop-20260728-p60jd7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The former KIIS FM star claimed Karl Stefanovic’s show was not proving hugely lucrative and dismissed comedian Dave Hughes’ political turn, but praised One Nation.",
+      "pubDate": "Tue, 04 Aug 2026 16:00:04 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.532953946749459%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_544/t_crop_custom/q_86%2Cf_auto/3a4c0658d66719c84d2020b5a9a6f015900e5770",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
       "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
@@ -34278,116 +34558,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Queensland premier unveils new crime policy",
-      "link": "https://www.smh.com.au/national/queensland-premier-unveils-new-crime-policy-20260705-p60cs9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Queensland Premier David Crisafulli has unveiled a major new crime policy.",
-      "pubDate": "Sun, 05 Jul 2026 18:42:44 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d9ce3128f59349cc5219058f07004ad4563f2359",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Woman’s body found in Victorian backyard",
-      "link": "https://www.smh.com.au/national/woman-s-body-found-in-victorian-backyard-20260705-p60cs8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A woman’s body has been found in a backyard in Melbourne’s outskirts, with a man believed to be her partner under police guard.",
-      "pubDate": "Sun, 05 Jul 2026 18:42:27 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/96e5e8a1c5bb476de74e3dd7e4e52d7c4402490b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "PM promises more reform after tax fight",
-      "link": "https://www.smh.com.au/national/pm-promises-more-reform-after-tax-fight-20260705-p60cs6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Prime Minister Anthony Albanese has promised to deliver more reform despite a bruising battle over the government’s tax changes.",
-      "pubDate": "Sun, 05 Jul 2026 18:32:45 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e1ca0a48cefec405efc5f0039c689574fda6b641",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Mother charged with murdering four-year-old son",
-      "link": "https://www.smh.com.au/national/mother-charged-with-murdering-four-year-old-son-20260705-p60cs4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A woman has been charged with the murder of her four-year-old son on the NSW Central Coast.",
-      "pubDate": "Sun, 05 Jul 2026 18:32:35 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0f9b4c14d025d56f0f8f669b72ba25c9a3c7f489",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "US independence events fittingly cancelled by extreme weather",
-      "link": "https://www.smh.com.au/national/nsw/us-independence-events-fittingly-cancelled-by-extreme-weather-20260704-p60cl8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "In a world full of doom and gloom, thankfully Mother Nature can still provide schadenfreude amusement.",
-      "pubDate": "Sun, 05 Jul 2026 18:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/q_86%2Cf_auto/f5f82f4da732d059e16d2548d729768962fbebf1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Low auction clearance rates tipped to continue, according to Cotality",
-      "link": "https://www.abc.net.au/news/2026-07-05/property-auctions-cotality-figures-brisbane-sydney-melbourne/106882230",
-      "desc": "Less than half of all properties that went to auction in Australia were actually sold over the last week.",
-      "pubDate": "Sun, 05 Jul 2026 08:22:37 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/a24dad7694d0cb2bfcbfa4340092e3e1?impolicy=wcms_crop_resize&amp;cropH=3064&amp;cropW=2298&amp;xPos=1147&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "‘We are devastated’: Young footballer receiving end-of-life care after head injury",
-      "link": "https://www.smh.com.au/national/victoria/we-are-devastated-young-footballer-receiving-end-of-life-care-after-head-injury-20260705-p60crv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The update comes after 27-year-old Nathan Fitzgerald clashed heads with a fellow player during a suburban match in Lalor on Saturday.",
-      "pubDate": "Sun, 05 Jul 2026 17:59:46 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0105%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_45/t_crop_custom/q_86%2Cf_auto/e6a577a60e496a0ba45669114c9305f8f9db4a3a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "SA government's promotion of Origin's concession scheme under attack",
-      "link": "https://www.abc.net.au/news/2026-07-05/origin-bill-prices-affect-pensioners/106882186",
-      "desc": "The state government is facing increasing criticism over an Origin Energy electricity offer that was promoted to pensioners in the lead-up to the state election, after the company introduced a new pri",
-      "pubDate": "Sun, 05 Jul 2026 07:37:45 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/2f81d202b987366cfb84a11e5c9b62d4?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=1037&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "1 in 3 people catch a cat-linked brain parasite. This trick stops it",
-      "link": "https://www.smh.com.au/national/1-in-3-people-catch-a-cat-linked-brain-parasite-this-trick-stops-it-20260702-p60bza.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The incurable bug is linked to eye damage and possibly mental issues such as bipolar. Here’s how to avoid it.",
-      "pubDate": "Sun, 05 Jul 2026 16:45:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5723659736923049%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_54%2C$y_94/t_crop_custom/q_86%2Cf_auto/c345d10f81be562b9220da5bb49c40315270fd57c488901318ad1eef203ffdbf",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "With Google’s new home speaker, more AI doesn’t mean more useful",
-      "link": "https://www.smh.com.au/technology/with-google-s-new-home-speaker-more-ai-doesn-t-mean-more-useful-20260702-p60c06.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
-      "desc": "A decade after the original Google Home, smart speakers have become pedestrian appliances rather than exciting advancements. Adding Gemini doesn’t change that.",
-      "pubDate": "Sun, 05 Jul 2026 16:45:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.24236718518518516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_152%2C$y_286/t_crop_custom/q_86%2Cf_auto/c23a6850fd4ff0fb7b0bcad7ab2c48f08dcde63c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel",
-      "desc": "<p>Australian Space Agency working to confirm origin of objects as space archaeologist says they may be connected to a rocket launch</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-ne",
-      "pubDate": "Sun, 05 Jul 2026 05:52:24 GMT",
-      "img": "https://i.guim.co.uk/img/media/e6998a28e4d9cc051f1a87ac994645dd7700c9d3/0_262_1200_960/master/1200.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
