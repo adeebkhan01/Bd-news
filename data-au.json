@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T11:27:22.554Z",
-  "summary": "Australia's news cycle is dominated by legal and political turbulence, with high-profile figures facing serious allegations including broadcaster Alan Jones in ongoing trial testimony, and One Nation's appointment of a conspiracy theorist as Victorian leader drawing scrutiny. Industrial unrest is emerging across multiple sectors, from Arnott's biscuit workers striking over minimal pay rises to ferry workers in Brisbane staging their second walkout in weeks, reflecting broader worker discontent. The country is grappling with environmental and public safety concerns, ranging from bird flu threats to poultry farms and climate change impacts, to law enforcement pursuing multiple high-profile crime cases including car theft and violence. Queensland's appointment of Thomas Bradley as its first openly gay governor represents a notable social milestone amid these turbulent headlines.",
+  "fetchedAt": "2026-08-04T14:24:46.280Z",
+  "summary": "Australia's renewable energy sector is expanding with the government extending solar subsidies to larger businesses, cementing the nation's world-leading position in rooftop installations. In politics, Tony Burke is expected to unveil significant migration cuts and Labor has moved to address a \"widow tax\" controversy sparked by negative gearing changes. Media mogul Alan Jones faces mounting allegations as his trial continues, while former Queensland governor Thomas Bradley makes history as the state's first openly gay governor. Separately, aviation and retail sectors are adjusting operations with Jetstar cutting carry-on allowances and biscuit workers striking over conditions.",
   "sources": [
     {
       "id": "abcnews",
@@ -30,6 +30,46 @@
   ],
   "articles": [
     {
+      "title": "Jetstar halves number of carry-on items customers are allowed",
+      "link": "https://www.smh.com.au/business/companies/jetstar-halves-number-of-carry-on-items-customers-are-allowed-20260804-p60lbg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The airline will also begin charging a fee for guaranteed access to overhead bins, but is increasing its in-cabin weight allowance.",
+      "pubDate": "Wed, 05 Aug 2026 00:01:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0292%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0b3910fbb232a886444524047ca45e22b3fbb59e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Government expands discount scheme to encourage larger businesses to install rooftop solar",
+      "link": "https://theconversation.com/government-expands-discount-scheme-to-encourage-larger-businesses-to-install-rooftop-solar-289040",
+      "desc": "The Albanese government will expand the scheme which provides incentives to households and businesses to install rooftop solar.",
+      "pubDate": "2026-08-04T12:54:47Z",
+      "img": "https://images.theconversation.com/files/751885/original/file-20260804-50-y1kguz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C228%2C7388%2C3694&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Australia leads the world in rooftop solar, but only on certain roofs. Until now",
+      "link": "https://www.smh.com.au/environment/climate-change/australia-leads-the-world-in-rooftop-solar-but-only-on-certain-roofs-until-now-20260804-p60lbx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
+      "desc": "An Albanese government plan to use idle roof space on factories and warehouses for solar panels tackles the “missing middle” in Labor’s quest to push more renewables into the power grid.",
+      "pubDate": "Tue, 04 Aug 2026 22:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.23696759259259256%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_165%2C$y_357/t_crop_custom/q_86%2Cf_auto/e172b3bbd0b9f9a9e10e6c166915797ed1953547",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Solar costs for business to be slashed under energy scheme expansion",
+      "link": "https://www.abc.net.au/news/2026-08-04/solar-installation-savings-ssre-expansion-chrise-bowen/106997140",
+      "desc": "The federal government is set to announce changes to the Small-scale Renewable Energy scheme in a bid to help businesses install solar systems and close the gap with residential take-up.",
+      "pubDate": "Tue, 04 Aug 2026 12:26:56 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/a7281d9b75b43b277dd62729a7434d8b?impolicy=wcms_crop_resize&amp;cropH=1937&amp;cropW=1453&amp;xPos=1782&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
       "title": "Meet Thomas Bradley: Arts patron, youth mentor, and Qld’s first openly gay governor",
       "link": "https://www.smh.com.au/national/queensland/meet-thomas-bradley-arts-patron-youth-mentor-and-qld-s-first-openly-gay-governor-20260804-p60ldq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
       "desc": "From boardrooms to LGBTQ+ youth charities, legal and community leaders have praised the incoming Queensland governor for his warmth and service.",
@@ -38,6 +78,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
+      "link": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
+      "desc": "<p>Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic steward</p><p>It must feel strange to argue that government action is inevitably counter-produc",
+      "pubDate": "Tue, 04 Aug 2026 11:00:48 GMT",
+      "img": "https://i.guim.co.uk/img/media/0237766b2a274712f1a493a9f3856ffb8d20b57a/333_0_3333_2667/master/3333.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Falsetto, with added grit",
@@ -440,6 +490,16 @@
       "sourceColor": "#052962"
     },
     {
+      "title": "BP profits more than double as Iran war sends oil prices soaring",
+      "link": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
+      "desc": "<p>Energy company’s $5.73bn quarterly profits come after Shell posted second highest quarterly earnings on record</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/04/oil-profi",
+      "pubDate": "Tue, 04 Aug 2026 06:54:30 GMT",
+      "img": "https://i.guim.co.uk/img/media/6f72596ac717ce7fbeb0e21056e95b484829e050/752_1202_2653_2122/master/2653.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
       "title": "Labor to tip another $950 million into new Mandurah Hospital",
       "link": "https://www.smh.com.au/national/western-australia/labor-to-tip-another-950-million-into-new-mandurah-hospital-20260804-p60lfc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
       "desc": "West Australian Health Infrastructure Minister John Carey claims there “is always capacity in the budget for health” as construction officially begins on the new Mandurah Hospital site.",
@@ -618,6 +678,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Price of olive oil expected to rise again as European crops feel the heat",
+      "link": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
+      "desc": "<p>Farmers warn impact of high temperatures, drought and wildfires on range of foodstuffs means costs will increase</p><p></p><p>Farmers across Europe are warning of a slump in food production and ris",
+      "pubDate": "Tue, 04 Aug 2026 04:00:13 GMT",
+      "img": "https://i.guim.co.uk/img/media/b52f9322bf0631613feef0b0ec89bc4e8c8fc3de/913_0_4587_3668/master/4587.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Tourist charged $1200 reservation fee at Brisbane fine-dining establishment",
@@ -908,6 +978,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "US states sue Trump administration over new tariffs on 60 trading partners",
+      "link": "https://www.theguardian.com/us-news/2026/aug/03/states-sue-trump-administration-tariffs",
+      "desc": "<p>Coalition of 25 states asks US Court of International Trade to halt tariffs and declare them them unlawful</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jul/23/trump-administratio",
+      "pubDate": "Mon, 03 Aug 2026 22:35:38 GMT",
+      "img": "https://i.guim.co.uk/img/media/6c63732f043a33c54aefb57e26f095c70b4c732b/209_0_2141_1712/master/2141.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Cleaner escapes through fire after gym set alight, people exercising flee",
@@ -1868,6 +1948,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Why has Trump stepped in to prop up Japan’s currency?",
+      "link": "https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer",
+      "desc": "<p>The US has bought up yen to strengthen the currency for the first time in almost 30 years, with the moves raising questions about America’s motives</p><p>The US has launched a bid to prop up the va",
+      "pubDate": "Mon, 03 Aug 2026 04:45:51 GMT",
+      "img": "https://i.guim.co.uk/img/media/facb0ce4be3fc414e2693192fde47c853c4a3a39/154_0_1538_1231/master/1538.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "ClearVue coated glass breakthrough opens global façade market",
@@ -34645,36 +34735,6 @@
       "desc": "<p>Grazier is worried towns will ‘run out of water’ if flows don’t improve, urging state government to take action regardless of federal funds</p><ul><li><p>Get our <a href=\"https://www.theguardian.co",
       "pubDate": "Sun, 05 Jul 2026 15:00:29 GMT",
       "img": "https://i.guim.co.uk/img/media/3db0c535c6e3fcc4c8bec02808615102e26d3ed7/638_0_4560_3648/master/4560.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Trump’s $2bn bonanza heralds the rise of political grifters across the west",
-      "link": "https://www.theguardian.com/us-news/2026/jul/05/trumps-2bn-bonanza-heralds-the-rise-of-political-grifters-across-the-west",
-      "desc": "<p>With voters embracing leaders who brazenly monetise public office, experts say an ethical code is breaking down</p><p>Donald Trump came to office in 2017 after decades of bankruptcies and business ",
-      "pubDate": "Sun, 05 Jul 2026 14:24:28 GMT",
-      "img": "https://i.guim.co.uk/img/media/7e837f828cd9d310ce42248e664bed68f4accbda/219_72_3558_2848/master/3558.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Superquiz, Monday, July 6",
-      "link": "https://www.smh.com.au/national/superquiz-monday-july-6-20260703-p60ccp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
-      "pubDate": "Sun, 05 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_234/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
-      "link": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
-      "desc": "<p>As Britain reached its hottest June temperature on record, readers recall the summer when temperatures hit 36C</p><p>The <a href=\"https://www.theguardian.com/environment/2026/jun/26/uk-government-u",
-      "pubDate": "Sun, 05 Jul 2026 13:00:27 GMT",
-      "img": "https://i.guim.co.uk/img/media/6511e7402ab4119b967fc7a10f0c4589028ba722/45_0_421_337/master/421.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"

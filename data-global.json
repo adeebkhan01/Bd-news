@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T11:27:35.714Z",
-  "summary": "Global tensions centered on Iran dominate today's news, with Donald Trump warning Tehran of a \"last chance\" for nuclear negotiations while Iran denies engaging in talks, creating uncertainty around potential military escalation or diplomacy. Oil markets have surged on Middle East tensions, with BP reporting its highest profits since 2022, while the Israeli-Palestinian conflict continues to deteriorate with settler violence and new illegal outposts in the West Bank alongside the broader question of Netanyahu's political survival. Border crises are straining international relations, with hundreds of migrant minors stranded in Spain's Ceuta enclave and the EU calling for shared responsibility, while humanitarian disasters elsewhere including over 6,000 deaths from Venezuelan earthquakes and renewed civil war fears in Ethiopia underscore a period of global instability.",
+  "fetchedAt": "2026-08-04T14:25:00.894Z",
+  "summary": "Global tensions are intensifying across multiple fronts as the Iran crisis dominates headlines, with Trump alternating between threats and diplomatic overtures while oil companies post record profits amid geopolitical disruption. Russia and Ukraine continue their brutal attrition warfare with escalating long-range strikes, while Israel navigates simultaneous military commitments as Netanyahu faces a pivotal election. In Africa, the DR Congo's Ebola outbreak has killed over 1,700 people even as vaccine trials accelerate, while Venezuela reels from earthquakes that have claimed more than 6,000 lives. Persistent regional flashpoints also demand attention, including settler violence in the occupied West Bank, the EU's struggle with migration flows at Ceuta, and accountability efforts for Yazidi victims of ISIL massacres from over a decade ago.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "Why are oil companies posting record profits amid Iran war disruption?",
+      "link": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss",
+      "desc": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
+      "pubDate": "Tue, 04 Aug 2026 14:04:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-22T180539Z_100274767_RC20JMASYQK4_RTRMADP_3_PAKISTAN-FUEL-1785845120.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
+      "link": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss",
+      "desc": "The vast majority of migrants have left the North African enclave and returned to Morocco.",
+      "pubDate": "Tue, 04 Aug 2026 13:52:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP_21142621036927.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss",
+      "desc": "Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.",
+      "pubDate": "Tue, 04 Aug 2026 12:58:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785847980.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "World's oldest president reshuffles army as his absence stokes unease",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Cameroon's president has been absent for two months while his team denies rumours about his health.",
+      "pubDate": "Tue, 04 Aug 2026 12:43:52 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5313/live/8c8226f0-8ff7-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "link": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
+      "desc": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
+      "pubDate": "Tue, 04 Aug 2026 12:21:41 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a71c2f000-1785840368.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials",
+      "link": "https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss",
+      "desc": "The outbreak is concentrated in the province of Ituri, which accounts for nearly 90 percent of reported cases.",
+      "pubDate": "Tue, 04 Aug 2026 11:47:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26192494155775-1784480811.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan",
+      "link": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss",
+      "desc": "FIFA executive Arsene Wenger backs decision to drop FIFA President Gianni Infantino&#039;s World Cup sell-off plan.",
+      "pubDate": "Tue, 04 Aug 2026 11:30:30 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26216359950953-1785841116.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+      "desc": "Missile and drone strikes far beyond the front lines are causing a mounting civilian death toll in both countries.",
+      "pubDate": "Tue, 04 Aug 2026 11:26:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a719a2750f88-1785829927.jpg?resize=1920%2C1333",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why Israel’s economy hasn’t collapsed during a multi-front war",
+      "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+      "desc": "How has Israel’s economy defied the effects of war?",
+      "pubDate": "Tue, 04 Aug 2026 11:21:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/16x9-1785842251.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who is behind settler violence in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+      "desc": "A look at the main settler groups driving the escalation against Palestinians in the West Bank.",
+      "pubDate": "Tue, 04 Aug 2026 11:04:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a651392-1785009042.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
       "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
@@ -13850,16 +13950,6 @@
       "desc": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
       "pubDate": "Sun, 05 Jul 2026 15:48:55 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb3/live/36fe43e0-7886-11f1-9cf9-9def470a13b4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Australia probes mystery space balls that washed up on beach",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
-      "pubDate": "Sun, 05 Jul 2026 12:55:58 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/4062f360-7866-11f1-ab53-3dbca6ef5ee1.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
