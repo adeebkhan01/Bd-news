@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T20:05:10.510Z",
+  "fetchedAt": "2026-08-04T22:32:11.298Z",
   "asx200": {
     "value": 9145.8,
     "change": 301.4,
@@ -185,6 +185,10 @@
         "close": 0.7
       },
       {
+        "date": "2026-08-03",
+        "close": 0.7
+      },
+      {
         "date": "2026-08-04",
         "close": 0.7
       }
@@ -195,33 +199,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4133.8,
-      "change": 21.1,
+      "price": 4133.5,
+      "change": 20.8,
       "changePercent": 0.51
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 59.77,
-      "change": -0.87,
-      "changePercent": -1.44
+      "price": 59.75,
+      "change": -0.9,
+      "changePercent": -1.48
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 75.87,
-      "change": 7.18,
-      "changePercent": 10.45
+      "price": 75.33,
+      "change": 6.64,
+      "changePercent": 9.67
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
       "price": 6.63,
-      "change": 0.51,
-      "changePercent": 8.37
+      "change": 0.52,
+      "changePercent": 8.47
     },
     {
       "name": "BHP Group",
@@ -830,10 +834,24 @@
   ],
   "news": [
     {
-      "title": "ASX set to rise as Wall Street surges; SpaceX results ahead",
+      "title": "Smith says he will '100 per cent' return to PGA Tour if LIV Golf fails",
+      "link": "https://www.abc.net.au/news/2026-08-05/golf-cameron-smith-will-return-pga-tour-liv-golf-fails/106997702",
+      "snippet": "",
+      "pubDate": "Tue, 04 Aug 2026 22:14:00 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "Embattled FIFA boss faces 'blackmail' allegations from ex-staffer",
+      "link": "https://www.abc.net.au/news/2026-08-05/football-fifa-boss-infantino-accused-of-blackmail-jordan-prince/106997580",
+      "snippet": "",
+      "pubDate": "Tue, 04 Aug 2026 21:02:55 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "ASX set to rise as Wall Street rallies to records; SpaceX posts $768m loss, revenue soars",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-surges-spacex-results-ahead-20260805-p60lhu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The US stock market is rushing toward records as profits keep piling up for companies and as oil prices ease.",
-      "pubDate": "Wed, 05 Aug 2026 05:17:12 +1000",
+      "snippet": "The US stock market jumped to records as companies kept piling up profits and oil prices eased, while SpaceX released its first set of earnings since listing.",
+      "pubDate": "Wed, 05 Aug 2026 06:50:59 +1000",
       "source": "SMH Business"
     },
     {
@@ -898,20 +916,6 @@
       "snippet": "",
       "pubDate": "Tue, 04 Aug 2026 05:07:58 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Critica slashes key cost at WA flagship rare earths project",
-      "link": "https://www.smh.com.au/business/companies/critica-slashes-key-cost-at-wa-flagship-rare-earths-project-20260804-p60law.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Critica Ltd has cut sulphuric acid consumption by approximately 30 per cent at its Jupiter rare earths project in WA, strengthening the economics ahead of an upcoming scoping study.",
-      "pubDate": "Tue, 04 Aug 2026 12:24:44 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Amplia teams up with big pharma for lung cancer trial",
-      "link": "https://www.smh.com.au/business/companies/amplia-teams-up-with-big-pharma-for-lung-cancer-trial-20260804-p60lap.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Amplia Therapeutics and pharmaceutical giant Eli Lilly are teaming up to trial a combination their respective drug therapies for non-small cell lung cancer.",
-      "pubDate": "Tue, 04 Aug 2026 12:23:45 +1000",
-      "source": "SMH Business"
     }
   ]
 }
