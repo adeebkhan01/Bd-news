@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T08:44:09.230Z",
-  "summary": "Tensions between the United States and Iran dominate global headlines, with Trump alternating between threats of military action and offers of diplomatic talks, while Tehran denies involvement in alleged cyberattacks on American water systems. Natural disasters are claiming thousands of lives, particularly the earthquake deaths in Venezuela exceeding 6,000 and Japan's mall collapse killing workers, alongside ongoing wildfire emergencies across Europe. Migration crises are escalating at Europe's borders, with hundreds of minors stranded in Ceuta following a surge in crossings, prompting EU calls for strengthened security measures. Elsewhere, political instability threatens major regions including Israel ahead of consequential elections, Ethiopia facing renewed civil war risks, and Myanmar's junta releasing images of detained opposition leader Aung San Suu Kyi after years of isolation.",
+  "fetchedAt": "2026-08-04T11:27:35.714Z",
+  "summary": "Global tensions centered on Iran dominate today's news, with Donald Trump warning Tehran of a \"last chance\" for nuclear negotiations while Iran denies engaging in talks, creating uncertainty around potential military escalation or diplomacy. Oil markets have surged on Middle East tensions, with BP reporting its highest profits since 2022, while the Israeli-Palestinian conflict continues to deteriorate with settler violence and new illegal outposts in the West Bank alongside the broader question of Netanyahu's political survival. Border crises are straining international relations, with hundreds of migrant minors stranded in Spain's Ceuta enclave and the EU calling for shared responsibility, while humanitarian disasters elsewhere including over 6,000 deaths from Venezuelan earthquakes and renewed civil war fears in Ethiopia underscore a period of global instability.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+      "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+      "desc": "US president has claimed Iran &#039;desperate&#039; to do a deal or given Tehran &#039;last chance&#039; on multiple occasions.",
+      "pubDate": "Tue, 04 Aug 2026 10:53:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-02T223827Z_1015294631_RC2LQMAP3H72_RTRMADP_3_USA-TRUMP-1785779238.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+      "pubDate": "Tue, 04 Aug 2026 10:34:45 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8b7/live/86169830-8fe0-11f1-bb3b-43bf44dc94d9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+      "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+      "desc": "Second-quarter revenue jumped 93 percent but Palantir&#039;s ties to Israel and role in military technology are controversial",
+      "pubDate": "Tue, 04 Aug 2026 10:11:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a719df219-1785830898.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+      "pubDate": "Tue, 04 Aug 2026 10:07:05 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d288/live/6e9f5aa0-8ff6-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
+      "pubDate": "Tue, 04 Aug 2026 09:23:06 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe4/live/f011b0d0-8fe5-11f1-9b57-e74b317a0f23.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Cars burn in reported settler attack in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+      "desc": "Cars burn in reported settler attack in occupied West Bank",
+      "pubDate": "Tue, 04 Aug 2026 08:51:47 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785833498.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Did Iran hack water systems in seven US states?",
       "link": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&amp;at_campaign=rss",
@@ -13803,26 +13863,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump praises US military as it marks 250 years of independence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
-      "desc": "Trump praises US military as it marks 250 years of independence",
-      "pubDate": "Sun, 05 Jul 2026 11:06:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Heidi-Horizontal-thumb-1783249460.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Reform UK’s Farage failed to disclose funds from convicted criminal: Report",
-      "link": "https://www.aljazeera.com/news/2026/7/5/reform-uks-farage-failed-to-disclose-funds-from-convicted-criminal-report?traffic_source=rss",
-      "desc": "George Cottrell provided funds for Reform UK leader&#039;s security, drivers, staff and accommodation, Sunday Times reports.",
-      "pubDate": "Sun, 05 Jul 2026 10:25:04 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a049082903f-1778684034.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }

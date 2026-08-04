@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-04T08:43:59.574Z",
-  "summary": "Australia's news cycle is dominated by crime and legal proceedings, with the Alan Jones trial continuing to draw headlines alongside cases involving vehicle deaths, sexual assault convictions, and the death of notorious Melbourne crime figure \"Granny Evil\" Kath Pettingill. Industrial unrest is emerging across multiple sectors, including strikes by ferry workers, Arnott's employees seeking better pay, and Melbourne hospital doctors over wage disputes, while infrastructure improvements like the new Mandurah Hospital expansion signal ongoing government spending. Several stories highlight systemic concerns ranging from ICAC allegations affecting Catholic schools to questions about HSC ranking validity and police conduct during Opera House protests. The broader economic backdrop shows mixed signals, with household spending rising in June yet concerns mounting over news media jobs and the hospitality sector's recovery challenges.",
+  "fetchedAt": "2026-08-04T11:27:22.554Z",
+  "summary": "Australia's news cycle is dominated by legal and political turbulence, with high-profile figures facing serious allegations including broadcaster Alan Jones in ongoing trial testimony, and One Nation's appointment of a conspiracy theorist as Victorian leader drawing scrutiny. Industrial unrest is emerging across multiple sectors, from Arnott's biscuit workers striking over minimal pay rises to ferry workers in Brisbane staging their second walkout in weeks, reflecting broader worker discontent. The country is grappling with environmental and public safety concerns, ranging from bird flu threats to poultry farms and climate change impacts, to law enforcement pursuing multiple high-profile crime cases including car theft and violence. Queensland's appointment of Thomas Bradley as its first openly gay governor represents a notable social milestone amid these turbulent headlines.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,206 @@
     }
   ],
   "articles": [
+    {
+      "title": "Meet Thomas Bradley: Arts patron, youth mentor, and Qld’s first openly gay governor",
+      "link": "https://www.smh.com.au/national/queensland/meet-thomas-bradley-arts-patron-youth-mentor-and-qld-s-first-openly-gay-governor-20260804-p60ldq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "From boardrooms to LGBTQ+ youth charities, legal and community leaders have praised the incoming Queensland governor for his warmth and service.",
+      "pubDate": "Tue, 04 Aug 2026 21:08:09 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2296%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_167%2C$y_167/t_crop_custom/q_86%2Cf_auto/35fdf1fcbb81fffbaa5f99f0289581c3fa9f32285f6c4cd7021e54b8d04f1ab5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Falsetto, with added grit",
+      "link": "https://www.smh.com.au/national/nsw/falsetto-with-added-grit-20260804-p60l5z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Duke hits a high C.",
+      "pubDate": "Tue, 04 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Tony Burke delays speech expected to reveal sweeping migration cuts",
+      "link": "https://www.abc.net.au/news/2026-08-04/tony-burke-national-press-club-migration-cuts/106996936",
+      "desc": "The ABC understands the cuts to migration numbers are contentious within Labor, but no reason for the delay is given.",
+      "pubDate": "Tue, 04 Aug 2026 10:33:17 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/4e954b12b696305c26c82929495a17cb?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=2109&amp;xPos=1446&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "UK rapper Yung Filly facing more legal trouble in WA",
+      "link": "https://www.smh.com.au/national/uk-rapper-yung-filly-facing-more-legal-trouble-in-wa-20260804-p60lh7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "UK rapper Yung Filly is facing more legal trouble in Western Australia after he was allegedly busted with cannabis in his car.",
+      "pubDate": "Tue, 04 Aug 2026 20:29:25 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1cc7e27697e640b6837a0f113a723478bbe0e64e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Tourist bucked off rogue camel flown to Perth hospital",
+      "link": "https://www.smh.com.au/national/tourist-bucked-off-rogue-camel-flown-to-perth-hospital-20260804-p60lh8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A tourist badly injured after she was bucked off a rogue camel on Broome's Cable Beach has been flown to Perth.",
+      "pubDate": "Tue, 04 Aug 2026 20:27:35 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3130a53135445397ec85fc9b57a725668488c2c1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "We launched a war on nature. Now we are in a climate warzone | Rebecca Solnit",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/04/summer-heat-climate-war-zone",
+      "desc": "<p>Summer is not what it once was. We have been robbed of one of life’s great joys </p><p>Far beyond the fires raging across Europe and North America, the smoke, dangerous to breathe, hangs in the air",
+      "pubDate": "Tue, 04 Aug 2026 10:00:47 GMT",
+      "img": "https://i.guim.co.uk/img/media/81531c39c97e347358c0934cbf71d0f15f7849af/421_0_5600_4480/master/5600.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Inside the world of the self-described conspiracy theorist anointed One Nation’s Victorian leader",
+      "link": "https://www.smh.com.au/national/victoria/inside-the-world-of-the-self-described-conspiracy-theorist-anointed-one-nation-s-victorian-leader-20260804-p60l7s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Warren Pickering, the man anointed by Pauline Hanson to lead One Nation in Victoria, is a former brickie and combat engineer – and a self-described conspiracy theorist.",
+      "pubDate": "Tue, 04 Aug 2026 19:56:45 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2735%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_30/t_crop_custom/q_86%2Cf_auto/668d354c940d1d10547529578acc08de016c1098",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Labor unveils 'widow tax' fix after negative gearing backlash",
+      "link": "https://www.abc.net.au/news/2026-08-04/labor-unveils-widow-tax-after-negative-gearing-backlash/106996750",
+      "desc": "The government is also consulting on carve-outs and changes covering newly built homes, affordable and disability housing and its new capital gains tax system.",
+      "pubDate": "Tue, 04 Aug 2026 09:45:27 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/05870f2a8fb9f1fb9d1088a56db598d5?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=675&amp;xPos=431&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "The best public schools in HSC maths, ranked – and how one non-selective surprised everyone",
+      "link": "https://www.smh.com.au/national/nsw/the-best-public-schools-in-hsc-maths-ranked-and-how-one-non-selective-surprised-everyone-20260729-p60jie.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Balgowlah Boys has a stronger HSC average maths mark than most selective schools. Search the list to see your school.",
+      "pubDate": "Tue, 04 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2276294023662934%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_184/t_crop_custom/q_86%2Cf_auto/51b0673b5264d6ecb603aac9778fefd862c37066",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "A litany of sordid allegations against Alan Jones stripped bare",
+      "link": "https://www.smh.com.au/national/nsw/a-litany-of-sordid-allegations-against-alan-jones-stripped-bare-20260804-p60lf2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The level of detail about the former broadcaster’s alleged offending is proving of utmost importance, the specificity described with calm legalese.",
+      "pubDate": "Tue, 04 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.19019396551724135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/d4eb67ee55807045c854c40dacb16fef26837e52",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Red flags: A tech company claims it can identify Australia’s most at-risk children",
+      "link": "https://www.smh.com.au/technology/red-flags-a-tech-company-claims-it-can-identify-australia-s-most-at-risk-children-20260731-p60kag.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
+      "desc": "Ruby O’Rourke says every warning sign of her own abuse as a child had been missed. She spent 12 years building software so that won’t happen to the next child.",
+      "pubDate": "Tue, 04 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4543%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1036%2C$y_346/t_crop_custom/q_86%2Cf_auto/6b4c916a1422ac0ea0ac5ed328d3b0bbd95adbfc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Woman urged to hand herself in after running over man while stealing his car",
+      "link": "https://www.smh.com.au/national/victoria/woman-urged-to-hand-herself-in-after-running-over-man-while-stealing-his-car-20260804-p60l6n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 68-year-old man continues to fight for his life in hospital after being run over during efforts to stop a woman from stealing his car in Heidelberg West on Saturday.",
+      "pubDate": "Tue, 04 Aug 2026 19:29:19 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_85%2C$y_17/t_crop_custom/q_86%2Cf_auto/abc04a42c4ca3f2668246973ca860d2e6ef6e0d5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Trump’s foolish war is humiliating America",
+      "link": "https://www.smh.com.au/business/markets/trump-s-foolish-war-is-humiliating-america-20260803-p60ks8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Trump’s pointless war has been a strategic fiasco on every level and it is changing the world’s balance of power before our eyes.",
+      "pubDate": "Tue, 04 Aug 2026 19:10:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3439%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_143%2C$y_75/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/68121b73072227785e69efd413abfdfa038352d2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Workers at biscuit giant walk off the job",
+      "link": "https://www.smh.com.au/national/workers-at-biscuit-giant-walk-off-the-job-20260804-p60lgy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Workers at Arnott’s have laid down their tools and walked off the job, taking industrial action for the first time in 30 years.",
+      "pubDate": "Tue, 04 Aug 2026 19:01:53 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f5a8461fb19142d40f149a079f495e4249acdbc2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
+      "link": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+      "desc": "<p>A Guardian investigation finds irrigation canals polluted with microplastics in Turkey, a major destination for UK waste</p><p>• <a href=\"https://composer.gutools.co.uk/content/6a55460e8f08863d4dce",
+      "pubDate": "Tue, 04 Aug 2026 09:00:18 GMT",
+      "img": "https://i.guim.co.uk/img/media/365770995f5cce15507068d14febbdb82deb94a6/234_0_2527_2022/master/2527.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘Nobody cares’: the Turkish farmers bearing the burden of UK’s plastic waste problem",
+      "link": "https://www.theguardian.com/environment/2026/aug/04/plastic-waste-microplastics-exports-recycling-turkey-farmers-pollution-environment-recycling",
+      "desc": "<p>Britain exported 139,000 tonnes of rubbish to Turkey last year, leaving smallholders and poor districts of Adana to cope with the debris, microplastics and toxic smoke</p><ul><li><p><a href=\"https:",
+      "pubDate": "Tue, 04 Aug 2026 09:00:18 GMT",
+      "img": "https://i.guim.co.uk/img/media/af87ec6bdff3b602538e870d4cbbffb5ef56f3db/201_0_3957_3165/master/3957.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The truth about blushing: why we do it, how we can resist it – and why it’s actually good for us",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/aug/04/why-we-blush-how-to-resist-why-good-for-us",
+      "desc": "<p>Humans are the only animals whose faces redden with embarrassment. Should we see that as an affliction, or as a blessing?</p><p>‘Blushing is the most peculiar and most human of all expressions,” Ch",
+      "pubDate": "Tue, 04 Aug 2026 09:00:17 GMT",
+      "img": "https://i.guim.co.uk/img/media/59f8d8130a6cea8142dee0bc3d68fd87a62ce3c9/0_0_2500_2000/master/2500.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Poultry industry racing to keep H5 bird flu out of farms",
+      "link": "https://www.smh.com.au/national/poultry-industry-racing-to-keep-h5-bird-flu-out-of-farms-20260804-p60lgx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australia's poultry industry is racing to keep H5 bird flu out of commercial farms amid fears a single infection could send egg prices soaring.",
+      "pubDate": "Tue, 04 Aug 2026 18:53:06 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2677022c10addb9b31654a9c2324f9b92532b4b0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man fantasised about being a high school shooter, but has been released under cloak of anonymity",
+      "link": "https://www.smh.com.au/national/victoria/man-fantasised-about-being-a-high-school-shooter-but-has-been-released-under-the-cloak-of-anonymity-20260804-p60l9w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The man, 19 at the time, gathered chemicals and ammunition, and wrote a Reddit post so disturbing the FBI intervened. But he has been released after 600 days behind bars without supervision.",
+      "pubDate": "Tue, 04 Aug 2026 18:49:49 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/74f384090d48337c4d0c3eb69c7480fd37f1a45b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Dashcam footage shows police chasing man through shopping centre car park",
+      "link": "https://www.smh.com.au/national/dashcam-footage-shows-police-chasing-man-through-shopping-centre-car-park-20260804-p60lgt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Dramatic video of a police officer driving through a suburban car park, dodging cars to track down an offender, is gaining international attention.",
+      "pubDate": "Tue, 04 Aug 2026 18:43:28 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d0bcf91aac3e6c5de11c1225b4ba3f5f648a4036",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Bus driver who struck and killed teen girl loses appeal",
       "link": "https://www.smh.com.au/national/bus-driver-who-struck-and-killed-teen-girl-loses-appeal-20260804-p60lgs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -34478,86 +34678,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Devastated father’s public plea after daughter vanished",
-      "link": "https://www.smh.com.au/national/devastated-father-s-public-plea-after-daughter-vanished-20260705-p60csm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A devastated father has made a public plea for help after his daughter vanished at a south-east Melbourne beach.",
-      "pubDate": "Sun, 05 Jul 2026 21:25:49 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/266b404e83af3b73ef69f84878505a41a1eb45a2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "British swallowtail split from European cousins much earlier than thought, study finds",
-      "link": "https://www.theguardian.com/environment/2026/jul/05/british-swallowtail-butterfly-distinct-subspecies-study-conservation",
-      "desc": "<p>Finding that Norfolk butterfly has been distinct subspecies for 200,000 years could transform conservation approach</p><p>The endangered swallowtail butterfly <em>Papilio machaon britannicus</em>, ",
-      "pubDate": "Sun, 05 Jul 2026 11:00:25 GMT",
-      "img": "https://i.guim.co.uk/img/media/f392dfa89d69539f01e8c6d70ab5de9751174a26/308_0_3135_2508/master/3135.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Pull the other one",
-      "link": "https://www.smh.com.au/national/nsw/pull-the-other-one-20260703-p60c90.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "It’s got tariffs on.",
-      "pubDate": "Sun, 05 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "AFL great Nicky Winmar’s statue removed from Optus Stadium",
-      "link": "https://www.smh.com.au/national/afl-great-nicky-winmar-s-statue-removed-from-optus-stadium-20260705-p60cse.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The statue of disgraced AFL star Nicky Winmar was removed from outside Optus Stadium before dawn, after he was found guilty of assaulting a woman.",
-      "pubDate": "Sun, 05 Jul 2026 20:17:37 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/53ca3f45c72a1b6be8155da0bf069f7da7c6b1e9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Nearly a million investors lost $5.5 billion on Trump’s crypto coin",
-      "link": "https://www.smh.com.au/business/markets/nearly-a-million-investors-lost-5-5-billion-on-trump-s-crypto-coin-20260705-p60cqm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "An up-to-date tally of Trump followers turned crypto investors is in. And for them, the overall results are remarkably bad.",
-      "pubDate": "Sun, 05 Jul 2026 19:45:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.745%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_822%2C$y_328/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/46b21fa8735074c9fa8dd5c20fb86181c6785d79",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Piping up: Female bagpipers have broken barriers, and now a record",
-      "link": "https://www.smh.com.au/national/victoria/hoots-mon-hold-me-whisky-women-only-bagpipers-aim-for-new-world-record-20260629-p60b2w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Inspired by last year’s AC/DC spectacular, female bagpipers young and old flocked to the city to commemorate the centennial anniversary of a historic world tour.",
-      "pubDate": "Sun, 05 Jul 2026 19:41:08 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.13615325276420673%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/2ad37796049aeef3698f3738a6bb6109ba54b4b9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "More HSC students are cheating, even with wireless earbuds",
-      "link": "https://www.smh.com.au/national/nsw/more-hsc-students-are-cheating-even-with-wireless-earbuds-20260703-p60cgk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A steep rise in cheating in HSC assessments has continued for the second year in a row, as schools grapple with the use of artificial intelligence.",
-      "pubDate": "Sun, 05 Jul 2026 19:40:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1832%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_147%2C$y_0/t_crop_custom/q_86%2Cf_auto/fe4930cc5fbd8d6f6ff15d09b2fdc444da65cd2d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "We’ve never been a monoculture: One group of Australians knows this",
-      "link": "https://www.smh.com.au/national/we-ve-never-been-a-monoculture-one-group-of-australians-knows-this-20260701-p60brx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "First Nations people can teach us a great deal about connection.",
-      "pubDate": "Sun, 05 Jul 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2107%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/056d923f0c12c894963d194ae1e62fb37c9cacea",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
