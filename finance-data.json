@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T17:09:15.407Z",
+  "fetchedAt": "2026-08-04T20:05:10.510Z",
   "asx200": {
     "value": 9145.8,
     "change": 301.4,
@@ -94,9 +94,9 @@
     ]
   },
   "audusd": {
-    "value": 0.7,
+    "value": 0.71,
     "change": 0.01,
-    "changePercent": 1.82,
+    "changePercent": 1.94,
     "previousClose": 0.69,
     "asOf": "2026-08-04",
     "history": [
@@ -195,33 +195,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4149.5,
-      "change": 36.8,
-      "changePercent": 0.89
+      "price": 4133.8,
+      "change": 21.1,
+      "changePercent": 0.51
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 60.07,
-      "change": -0.58,
-      "changePercent": -0.95
+      "price": 59.77,
+      "change": -0.87,
+      "changePercent": -1.44
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 76.17,
-      "change": 7.48,
-      "changePercent": 10.89
+      "price": 75.87,
+      "change": 7.18,
+      "changePercent": 10.45
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.64,
-      "change": 0.53,
-      "changePercent": 8.63
+      "price": 6.63,
+      "change": 0.51,
+      "changePercent": 8.37
     },
     {
       "name": "BHP Group",
@@ -830,6 +830,20 @@
   ],
   "news": [
     {
+      "title": "ASX set to rise as Wall Street surges; SpaceX results ahead",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-surges-spacex-results-ahead-20260805-p60lhu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The US stock market is rushing toward records as profits keep piling up for companies and as oil prices ease.",
+      "pubDate": "Wed, 05 Aug 2026 05:17:12 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Gambling influencers are flooding the internet with videos. Only one has been fined",
+      "link": "https://www.smh.com.au/business/companies/gambling-influencers-are-flooding-the-internet-with-videos-only-one-has-been-fined-20260804-p60l6i.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Influencers glamourising poker machines and online gambling are flooding social media algorithms, prompting concern such posts bypass strict advertising rules.",
+      "pubDate": "Wed, 05 Aug 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "Jetstar halves number of carry-on items customers are allowed",
       "link": "https://www.smh.com.au/business/companies/jetstar-halves-number-of-carry-on-items-customers-are-allowed-20260804-p60lbg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The airline will also begin charging a fee for guaranteed access to overhead bins, but is increasing its in-cabin weight allowance.",
@@ -898,20 +912,6 @@
       "snippet": "Amplia Therapeutics and pharmaceutical giant Eli Lilly are teaming up to trial a combination their respective drug therapies for non-small cell lung cancer.",
       "pubDate": "Tue, 04 Aug 2026 12:23:45 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "The real reason Trump just rushed to help Japan",
-      "link": "https://www.smh.com.au/business/markets/the-real-reason-trump-just-rushed-to-help-japan-20260804-p60l5s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Tactless as ever, Donald Trump invoked the attack on Pearl Harbour as the US jumped in to help boost Japan’s currency. What’s more compelling is why America made the move.",
-      "pubDate": "Tue, 04 Aug 2026 11:57:08 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Aussie swimmer out of leadership group after reported drinking session",
-      "link": "https://www.abc.net.au/news/2026-08-04/isaac-cooper-australia-leadership-group-commonwealth-games/106994178",
-      "snippet": "",
-      "pubDate": "Tue, 04 Aug 2026 01:24:04 +0000",
-      "source": "ABC News"
     }
   ]
 }
