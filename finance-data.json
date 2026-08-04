@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T11:36:19.710Z",
+  "fetchedAt": "2026-08-04T14:55:43.474Z",
   "asx200": {
     "value": 9145.8,
     "change": 301.4,
@@ -88,15 +88,15 @@
         "close": 8976.8
       },
       {
-        "date": "2026-08-04",
-        "close": 9145.8
+        "date": "2026-08-03",
+        "close": 9019.3
       }
     ]
   },
   "audusd": {
     "value": 0.7,
     "change": 0.01,
-    "changePercent": 1.78,
+    "changePercent": 1.81,
     "previousClose": 0.69,
     "asOf": "2026-08-04",
     "history": [
@@ -195,25 +195,25 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4115.3,
-      "change": 2.6,
-      "changePercent": 0.06
+      "price": 4135.2,
+      "change": 22.5,
+      "changePercent": 0.55
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 59.22,
-      "change": -1.42,
-      "changePercent": -2.35
+      "price": 59.62,
+      "change": -1.03,
+      "changePercent": -1.7
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 79.92,
-      "change": 11.23,
-      "changePercent": 16.35
+      "price": 76.8,
+      "change": 8.11,
+      "changePercent": 11.81
     },
     {
       "name": "Copper",
@@ -221,7 +221,7 @@
       "iconBg": "#fef0e6",
       "price": 6.65,
       "change": 0.53,
-      "changePercent": 8.7
+      "changePercent": 8.72
     },
     {
       "name": "BHP Group",
@@ -830,6 +830,13 @@
   ],
   "news": [
     {
+      "title": "Jetstar halves number of carry-on items customers are allowed",
+      "link": "https://www.smh.com.au/business/companies/jetstar-halves-number-of-carry-on-items-customers-are-allowed-20260804-p60lbg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "The airline will also begin charging a fee for guaranteed access to overhead bins, but is increasing its in-cabin weight allowance.",
+      "pubDate": "Wed, 05 Aug 2026 00:01:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "NRLW great Ali Brigginshaw gets three-match ban",
       "link": "https://www.abc.net.au/news/2026-08-04/nrlw-great-ali-brigginshaw-gets-three-match-ban/106994672",
       "snippet": "",
@@ -905,13 +912,6 @@
       "snippet": "",
       "pubDate": "Tue, 04 Aug 2026 01:24:04 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Qantas mulls offshoring up to 1000 jobs to India in AI deal",
-      "link": "https://www.smh.com.au/business/companies/qantas-mulls-offshoring-up-to-1000-jobs-to-india-report-20260804-p60l5e.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "The airline is considering shifting jobs in marketing, finance, human resources and other back-office positions as part of a deal with consulting giant Accenture.",
-      "pubDate": "Tue, 04 Aug 2026 09:42:40 +1000",
-      "source": "SMH Business"
     }
   ]
 }
