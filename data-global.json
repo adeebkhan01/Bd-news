@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-05T19:40:52.262Z",
-  "summary": "Russia's intensifying attacks on Ukraine have killed dozens in recent strikes around Kyiv, with Ukraine warning that critical shortages of air defense interceptors are proving deadly as Moscow exploits the gap. Meanwhile, tensions are escalating across multiple fronts: the US and Iran edge toward a potential deal after Trump warned of a \"hard hit,\" North Korea threatened Japan over its new missile capabilities, and Israel continues military operations in the West Bank amid growing international concerns. Trump's tariff refunds have reached $100 billion as the domestic economy shows strength with stock markets hitting records, while climate and humanitarian crises mount from monsoons in India killing over 100 to drought-driven water rationing in Puerto Rico. The geopolitical landscape is increasingly fractured, with conflicts deepening in the Middle East and Eastern Europe while great powers jockey for advantage.",
+  "fetchedAt": "2026-08-05T22:14:48.513Z",
+  "summary": "The Middle East remains the dominant global concern, with Israeli military operations intensifying across the West Bank and southern Lebanon while tensions with Iran edge toward potential diplomacy, though the UN warns of a surge in Iranian executions. Ukraine faces a critical shortage of air defense interceptors, leaving civilians vulnerable as Russian missile attacks systematically strike Kyiv and surrounding areas. Domestic political upheaval is reshaping several nations, including Bangladesh where Sheikh Hasina signals a return and Pakistan where anniversary protests over Imran Khan's imprisonment underscore deep divisions. Technology and climate issues compound global challenges, from SpaceX's operational difficulties to severe droughts affecting Puerto Rico and India's monsoon crisis that has killed over a hundred people.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,76 @@
   ],
   "articles": [
     {
+      "title": "US officials push back on reports of dangerously low munitions supplies",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+      "desc": "Experts warn that low stockpiles of air defence interceptors as a result of the war on Iran leave the US vulnerable.",
+      "pubDate": "Wed, 05 Aug 2026 22:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a73a0d77d-1785962711.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Fifa admits mistakes but Infantino remains president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
+      "pubDate": "Wed, 05 Aug 2026 21:37:08 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israeli forces raid camp in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+      "desc": "Israeli forces have launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank.",
+      "pubDate": "Wed, 05 Aug 2026 21:31:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785965177.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Clashes on anniversary of Imran Khan imprisonment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
+      "desc": "Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.",
+      "pubDate": "Wed, 05 Aug 2026 21:28:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785965259.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "SpaceX shares slide on the heels of first quarterly report",
+      "link": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+      "desc": "The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.",
+      "pubDate": "Wed, 05 Aug 2026 20:06:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26154448082248-1780532909_76a930-1780540086.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "pubDate": "Wed, 05 Aug 2026 20:03:36 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3da5/live/f0bb6c60-90f8-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Sheikh Hasina says she will return to Bangladesh in December",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
+      "desc": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
+      "pubDate": "Wed, 05 Aug 2026 20:03:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785960181.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
       "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "The repayments represent roughly 60% of all tariff revenue collected by the US government under the policy.",
@@ -33,6 +103,26 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
+      "pubDate": "Wed, 05 Aug 2026 18:38:46 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9ca/live/056db5d0-909c-11f1-b8ee-9b3c26ad07bb.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US authorities say three killed in Prospect Hill, North Carolina shooting",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+      "desc": "Law enforcement says at least three people were killed in shooting at a home, with those involved part of same family.",
+      "pubDate": "Wed, 05 Aug 2026 18:25:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2021-04-27T140752Z_1925053732_RC2E4N9OURQS_RTRMADP_3_USA-POLICE-NORTH-CAROLINA-1785959702.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
     },
     {
       "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
@@ -163,6 +253,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hungary's Lake Velence is drying up",
+      "link": "https://www.dw.com/en/hungary-s-lake-velence-is-drying-up/a-78238238?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Hungary is feeling the heat. The country's third-largest lake is shrinking, the Danube is running low, and soaring temperatures could force the country's only nuclear power plant to shut down.",
+      "pubDate": "2026-08-05T11:25:00Z",
+      "img": "https://static.dw.com/image/78224426_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
@@ -14023,56 +14123,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Canada picks Germany’s TKMS for new submarines",
-      "link": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
-      "desc": "The German-owned naval shipbuilder made the bid with NATO ally Norway, beating out South Korea&#039;s Hanwha Ocean.",
-      "pubDate": "Mon, 06 Jul 2026 22:13:46 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4a313b51ae-1783247163.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
-      "link": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss",
-      "desc": "Police arrest 10 suspects, seizing bladed weapons, military-style clothes and bomb‑making instructions.",
-      "pubDate": "Mon, 06 Jul 2026 21:51:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a4bf2bf4936a-1783362239.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
-      "desc": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
-      "pubDate": "Mon, 06 Jul 2026 20:50:13 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/05/doc-44v96yf-1746645427.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What is the fallout of the increasing violence in Mali?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss",
-      "desc": "Coalition of rebels and armed groups carries out another series of attacks.",
-      "pubDate": "Mon, 06 Jul 2026 20:11:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783364064.jpg?resize=1920%2C1061&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US Supreme Court clears path for Texas to enforce app age verification law",
-      "link": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
-      "desc": "Parents must approve app downloads for minors as legal fight over Texas age verification law continues.",
-      "pubDate": "Mon, 06 Jul 2026 20:06:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4bff1870-1783365400.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
