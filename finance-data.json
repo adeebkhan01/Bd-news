@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T09:14:16.612Z",
+  "fetchedAt": "2026-08-05T11:33:29.916Z",
   "asx200": {
     "value": 9227.8,
     "change": 383.4,
@@ -102,9 +102,9 @@
     ]
   },
   "audusd": {
-    "value": 0.7,
+    "value": 0.71,
     "change": 0.01,
-    "changePercent": 1.89,
+    "changePercent": 1.95,
     "previousClose": 0.69,
     "asOf": "2026-08-05",
     "history": [
@@ -198,7 +198,7 @@
       },
       {
         "date": "2026-08-05",
-        "close": 0.7
+        "close": 0.71
       }
     ]
   },
@@ -207,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4223.9,
-      "change": 68.8,
-      "changePercent": 1.66
+      "price": 4229.5,
+      "change": 74.4,
+      "changePercent": 1.79
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 61.81,
-      "change": -0.11,
-      "changePercent": -0.18
+      "price": 61.87,
+      "change": -0.05,
+      "changePercent": -0.09
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 76.17,
-      "change": 7.62,
-      "changePercent": 11.12
+      "price": 76.24,
+      "change": 7.69,
+      "changePercent": 11.22
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.64,
-      "change": 0.46,
-      "changePercent": 7.45
+      "price": 6.65,
+      "change": 0.47,
+      "changePercent": 7.63
     },
     {
       "name": "BHP Group",
@@ -842,6 +842,13 @@
   ],
   "news": [
     {
+      "title": "Australia's coach says no tour match ahead of India Test series",
+      "link": "https://www.abc.net.au/news/2026-08-05/no-tour-match-india-test-series-says-australia-coach/107001792",
+      "snippet": "",
+      "pubDate": "Wed, 05 Aug 2026 09:17:58 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Tony Modra medical record probe expands to extra staffer",
       "link": "https://www.abc.net.au/news/2026-08-05/sa-health-investigating-staffer-tony-modra-patient-records/107001120",
       "snippet": "",
@@ -856,7 +863,7 @@
       "source": "ABC News"
     },
     {
-      "title": "ASX closes at all-time high as miners, tech stocks climb; Endeavour slumps",
+      "title": "ASX closes at all-time high; Glencore eyes Australian listing",
       "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-surges-spacex-results-ahead-20260805-p60lhu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "The Australian sharemarket has tracked the rally on Wall Street, where stocks jumped to highs amid soaring company profits and easing oil prices.",
       "pubDate": "Wed, 05 Aug 2026 16:54:23 +1000",
@@ -916,13 +923,6 @@
       "link": "https://www.smh.com.au/business/companies/jetstar-really-wants-to-charge-you-for-everything-but-the-seat-20260805-p60llp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "It is the cheapest airline, so travellers are used to corners being cut. But Jetstar’s latest move is a new low.",
       "pubDate": "Wed, 05 Aug 2026 12:44:38 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "Burning billions: SpaceX’s sales are soaring, but its spending even more so",
-      "link": "https://www.smh.com.au/business/companies/burning-billions-spacex-s-sales-are-soaring-but-its-spending-even-more-so-20260805-p60lj5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "SpaceX’s shares plunged after Elon Musk’s mega company said a near-doubling of its revenues was dwarfed by its skyrocketing investments, particularly in AI.",
-      "pubDate": "Wed, 05 Aug 2026 12:05:59 +1000",
       "source": "SMH Business"
     }
   ]
