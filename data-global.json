@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-05T11:23:57.821Z",
-  "summary": "Global conflicts intensified across multiple regions today, with Russian missile strikes killing at least 17 people in Ukraine while Israeli operations in the West Bank deepened humanitarian concerns amid accelerating settlement expansion. Diplomatic tensions rose sharply as North Korea threatened Japan over its new missile capabilities and Iran signaled military strengthening despite ceasefire talks, while Trump warned of consequences if nuclear negotiations faltered. Technology emerged as a secondary focus, with AI safety tests revealing concerning autonomous capabilities and cyberattack attempts, even as SpaceX continued its commercial expansion despite reported losses. The briefing also reflected ongoing crises in Asia, where Bangladesh's political turmoil and India's monsoon deaths claimed attention, and sports governance faced scrutiny as FIFA leadership faced multiple challenges over World Cup operations and alleged impropriety.",
+  "fetchedAt": "2026-08-05T14:18:36.366Z",
+  "summary": "Global tensions remain elevated across multiple fronts, with Iran facing international scrutiny over a spike in executions since March while simultaneously engaging in nuclear negotiations with the United States warning of potential military action. The Middle East sees continued Israeli operations in the occupied West Bank and attacks on shipping in the Red Sea, while Russia maintains its assault on Ukraine with missile strikes on Kyiv despite facing Ukrainian resistance hampered by interceptor shortages. Elsewhere, political upheaval in Bangladesh and security concerns in various regions underscore broader instability, though markets have rallied on hopes for a Strait of Hormuz reopening and technology companies continue major business developments despite ongoing scrutiny over AI safety and autonomous systems.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "UN rights chief alarmed by rise in Iran executions since March",
+      "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
+      "pubDate": "Wed, 05 Aug 2026 14:04:09 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4634/live/f7c982b0-90cd-11f1-822b-5340fee140e1.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+      "link": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss",
+      "desc": "The reasons for dissent are not unanimous, ranging from the war in Iran to an overhaul of military leadership.",
+      "pubDate": "Wed, 05 Aug 2026 13:48:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a732ace75dc-1785932494_6acf4e-1785933942.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UN rights chief says Iran executed at least 56 people since March",
+      "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
+      "desc": "Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.",
+      "pubDate": "Wed, 05 Aug 2026 12:58:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a732613-1785931283.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
+      "pubDate": "Wed, 05 Aug 2026 12:52:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e7/live/5c6833a0-90b1-11f1-b35a-3be58eca94a8.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "SpaceX rocket segment to crash into the moon: What happened?",
+      "link": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss",
+      "desc": "A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.",
+      "pubDate": "Wed, 05 Aug 2026 12:36:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7310f6-1785925878.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "In Bandar Abbas, the ceasefire never came",
+      "link": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss",
+      "desc": "A single mother from Bandar Abbas reflects on the fear and resilience of living through repeated attacks.",
+      "pubDate": "Wed, 05 Aug 2026 12:14:16 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7318af-1785927855.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "desc": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
+      "pubDate": "Wed, 05 Aug 2026 11:31:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7317f1adb1-1785927665.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
       "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&amp;at_campaign=rss",
@@ -63,6 +133,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Prioritise new jobs over green targets to win public contracts, firms told",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The changes are part of government efforts to tackle the youth unemployment crisis.",
+      "pubDate": "Wed, 05 Aug 2026 10:10:02 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a83a/live/7e71ea20-90ae-11f1-b35a-3be58eca94a8.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
@@ -795,6 +875,16 @@
       "sourceColor": "#D2A02E"
     },
     {
+      "title": "More cancer-prone? Why younger generations may be at risk",
+      "link": "https://www.dw.com/en/more-cancer-prone-why-younger-generations-may-be-at-risk/a-78163655?maca=en-rss_en_science-22531-xml-mrss",
+      "desc": "Researchers are observing certain age-related types of cancer more frequently in younger people. A new study suggests this could be because younger generations are aging faster than their parents or g",
+      "pubDate": "Mon, 3 Aug 2026 18:37:00 GMT",
+      "img": "https://static.dw.com/image/76505633_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
       "title": "Study shows why younger generations may be more cancer-prone",
       "link": "https://www.dw.com/en/study-shows-why-younger-generations-may-be-more-cancer-prone/a-78163655?maca=en-rss_en_science-22531-xml-mrss",
       "desc": "Researchers are observing certain age-related types of cancer more frequently in younger people. A new study suggests this could be because younger generations are aging faster than their parents or g",
@@ -823,6 +913,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
+      "link": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Hungary's Paks nuclear power plant was operating at about 10% of capacity because of a lack of cooling river water. In Romania, the military blew up a rock outcrop in a bid to improve water flow to th",
+      "pubDate": "2026-08-03T17:59:00Z",
+      "img": "https://static.dw.com/image/78214366_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
@@ -14080,96 +14180,6 @@
       "desc": "Israel continues to strike targets in southern Lebanon despite US-brokered ceasefire agreement.",
       "pubDate": "Mon, 06 Jul 2026 14:22:31 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260706__B9DA2ZK__v1__HighRes__LebanonIsraelUsIranWar-1783341461.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The pitfalls of institutionalising US military aid to Israel",
-      "link": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss",
-      "desc": "Shielding US commitments to Israel from congressional scrutiny would be harmful for both countries.",
-      "pubDate": "Mon, 06 Jul 2026 14:13:20 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-04-30T161215Z_20996547_RC2RZKA6CRR1_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS-1783346088.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Restoration of river bank saltmarshes begins",
-      "link": "https://www.bbc.co.uk/news/articles/cx23367pnydo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Groundwork North East and Cumbria says the scheme will improve water quality and biodiversity",
-      "pubDate": "Mon, 06 Jul 2026 13:17:29 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ab/live/9b1ff100-7937-11f1-a8cf-13bdb1aa2cdd.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Baby dies after Israeli troops block emergency journey to hospital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
-      "desc": "A baby died after his family’s attempt to reach hospital was blocked by Israel at a checkpoint in the occupied West Bank",
-      "pubDate": "Mon, 06 Jul 2026 13:13:53 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783343556.jpg?resize=1918%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Large-scale Russian attack on Ukraine before NATO summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
-      "desc": "Large-scale Russian attack on Ukraine before NATO summit",
-      "pubDate": "Mon, 06 Jul 2026 12:55:10 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Audrey-Mac-kyiv-horizontal-thumb-1783342374.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The World Cup must pay its carbon bill",
-      "link": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss",
-      "desc": "Football’s biggest tournament should fund a serious plan to measure, reduce and account for its emissions.",
-      "pubDate": "Mon, 06 Jul 2026 12:48:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4ba2ea-1783341802.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
-      "link": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss",
-      "desc": "UN warns of &#039;catastrophe&#039; in el-Obeid after RSF atrocities in el-Fasher last year.",
-      "pubDate": "Mon, 06 Jul 2026 12:21:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-03T104245Z_656219531_RC2QZIA2ZKU2_RTRMADP_3_SUDAN-POLITICS-UN-1783329094.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
-      "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss",
-      "desc": "Israeli attacks on Gaza City and Khan Younis also wounded more than 20 people, medical sources say.",
-      "pubDate": "Mon, 06 Jul 2026 12:15:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T084946Z_759709892_RC278MAZ0DOI_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1783331129.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-      "pubDate": "Mon, 06 Jul 2026 12:07:44 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab4/live/9aa22f20-792f-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "USA vs Belgium – World Cup last 16: Trump, Balogun, prediction, start time",
-      "link": "https://www.aljazeera.com/sports/2026/7/6/usa-vs-belgium-world-cup-last-16-balogun-trossard-prediction-kickoff?traffic_source=rss",
-      "desc": "Lobbying by President Trump and a last-minute U-turn by FIFA stir controversy before the knockout match.",
-      "pubDate": "Mon, 06 Jul 2026 11:58:07 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260703__2284419997__v1__HighRes__UsaVBosniaAndHerzegovinaRoundOf32FifaWorldCu-1783314191_4360c9-1783316736.jpg?resize=1200%2C630&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
