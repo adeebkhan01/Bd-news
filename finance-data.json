@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T14:41:28.536Z",
+  "fetchedAt": "2026-08-05T16:56:19.314Z",
   "asx200": {
     "value": 9227.8,
     "change": 383.4,
@@ -100,7 +100,7 @@
   "audusd": {
     "value": 0.71,
     "change": 0.01,
-    "changePercent": 2.1,
+    "changePercent": 2,
     "previousClose": 0.69,
     "asOf": "2026-08-05",
     "history": [
@@ -203,33 +203,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4300.3,
-      "change": 145.2,
-      "changePercent": 3.49
+      "price": 4302.5,
+      "change": 147.4,
+      "changePercent": 3.55
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 62.68,
-      "change": 0.76,
-      "changePercent": 1.23
+      "price": 62.37,
+      "change": 0.45,
+      "changePercent": 0.72
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 74.98,
-      "change": 6.43,
-      "changePercent": 9.38
+      "price": 75.3,
+      "change": 6.75,
+      "changePercent": 9.85
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.67,
-      "change": 0.5,
-      "changePercent": 8.04
+      "price": 6.72,
+      "change": 0.54,
+      "changePercent": 8.8
     },
     {
       "name": "BHP Group",
@@ -838,6 +838,13 @@
   ],
   "news": [
     {
+      "title": "'Gone down like a lead balloon': Ex-FA boss on FIFA's World Cup backflip",
+      "link": "https://www.abc.net.au/news/2026-08-05/david-gallop-infantino-plan-doesnt-pass-pub-test/107001290",
+      "snippet": "",
+      "pubDate": "Wed, 05 Aug 2026 09:24:34 +0000",
+      "source": "ABC News"
+    },
+    {
       "title": "Australia's coach says no tour match ahead of India Test series",
       "link": "https://www.abc.net.au/news/2026-08-05/no-tour-match-india-test-series-says-australia-coach/107001792",
       "snippet": "",
@@ -913,13 +920,6 @@
       "snippet": "",
       "pubDate": "Wed, 05 Aug 2026 02:47:53 +0000",
       "source": "ABC News"
-    },
-    {
-      "title": "Jetstar really wants to charge you for everything but the seat",
-      "link": "https://www.smh.com.au/business/companies/jetstar-really-wants-to-charge-you-for-everything-but-the-seat-20260805-p60llp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "It is the cheapest airline, so travellers are used to corners being cut. But Jetstar’s latest move is a new low.",
-      "pubDate": "Wed, 05 Aug 2026 12:44:38 +1000",
-      "source": "SMH Business"
     }
   ]
 }
