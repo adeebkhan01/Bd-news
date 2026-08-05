@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T20:00:35.761Z",
+  "fetchedAt": "2026-08-05T22:31:51.093Z",
   "asx200": {
     "value": 9227.8,
     "change": 383.4,
@@ -100,7 +100,7 @@
   "audusd": {
     "value": 0.71,
     "change": 0.01,
-    "changePercent": 2.05,
+    "changePercent": 2.07,
     "previousClose": 0.69,
     "asOf": "2026-08-05",
     "history": [
@@ -207,17 +207,17 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4308.3,
-      "change": 153.2,
-      "changePercent": 3.69
+      "price": 4307.8,
+      "change": 152.7,
+      "changePercent": 3.68
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 62.3,
-      "change": 0.38,
-      "changePercent": 0.61
+      "price": 62.33,
+      "change": 0.41,
+      "changePercent": 0.65
     },
     {
       "name": "Crude Oil (WTI)",
@@ -233,7 +233,7 @@
       "iconBg": "#fef0e6",
       "price": 6.75,
       "change": 0.57,
-      "changePercent": 9.21
+      "changePercent": 9.27
     },
     {
       "name": "BHP Group",
@@ -842,17 +842,31 @@
   ],
   "news": [
     {
+      "title": "Vollering win sets up three-way Tour de France Femmes fight",
+      "link": "https://www.abc.net.au/news/2026-08-06/demi-vollering-wins-tour-de-france-femmes-stage-five/107002398",
+      "snippet": "",
+      "pubDate": "Wed, 05 Aug 2026 21:44:28 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "LIV Golf secures lifeline 'lead investor' for player-driven future",
+      "link": "https://www.abc.net.au/news/2026-08-06/liv-golf-secures-new-investor/107002354",
+      "snippet": "",
+      "pubDate": "Wed, 05 Aug 2026 21:38:05 +0000",
+      "source": "ABC News"
+    },
+    {
+      "title": "ASX set to dip, Wall Street steady as oil slides on Hormuz deal hopes; SpaceX tumbles",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-dip-wall-street-drifts-as-oil-prices-steady-spacex-tumbles-20260806-p60ltv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Stocks meandered to a mixed finish on Wall Street and remained close to their records, while oil prices held steady.",
+      "pubDate": "Thu, 06 Aug 2026 06:32:44 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "Rogue AI fakes identities, switches languages to trick humans",
       "link": "https://www.smh.com.au/business/companies/rogue-ai-fakes-identities-switches-languages-to-trick-humans-20260805-p60lsh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "OpenAI’s ChatGPT and Anthropic’s Mythos went on a hacking spree including concocting fake online profiles to trick human engineers.",
       "pubDate": "Thu, 06 Aug 2026 05:20:00 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "ASX set to dip, Wall Street drifts as oil prices steady; SpaceX tumbles",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-dip-wall-street-drifts-as-oil-prices-steady-spacex-tumbles-20260806-p60ltv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Stocks wavered in afternoon trading on Wall Street and hovered around their records set a day earlier, while oil prices held steady.",
-      "pubDate": "Thu, 06 Aug 2026 05:16:53 +1000",
       "source": "SMH Business"
     },
     {
@@ -909,20 +923,6 @@
       "link": "https://www.smh.com.au/business/companies/true-north-study-shows-87m-cash-flow-for-queensland-copper-project-20260805-p60lq8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
       "snippet": "True North Copper’s Wynberg gold-copper scoping study outlines a low-capital project with potential pre-tax cash flow of up to $87 million near Cloncurry, QLD.",
       "pubDate": "Wed, 05 Aug 2026 15:09:59 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "De Minaur wins all-Australian clash as Popyrin gets through in Montreal",
-      "link": "https://www.abc.net.au/news/2026-08-05/de-minaur-wins-all-australian-clash-popyrin-advances-montreal/107000154",
-      "snippet": "",
-      "pubDate": "Wed, 05 Aug 2026 05:00:58 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "Forrestania clocks 131% WA gold resource uplift, haulage underway",
-      "link": "https://www.smh.com.au/business/companies/forrestania-clocks-131-percent-wa-gold-resource-uplift-haulage-underway-20260805-p60lpj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Forrestania Resources boosts its British Hill gold resource by 131pc to 126,290oz, with ore already being trucked to its nearby Lake Johnston processing hub.",
-      "pubDate": "Wed, 05 Aug 2026 14:23:19 +1000",
       "source": "SMH Business"
     }
   ]
