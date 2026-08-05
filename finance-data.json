@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T16:56:19.314Z",
+  "fetchedAt": "2026-08-05T20:00:35.761Z",
   "asx200": {
     "value": 9227.8,
     "change": 383.4,
@@ -100,7 +100,7 @@
   "audusd": {
     "value": 0.71,
     "change": 0.01,
-    "changePercent": 2,
+    "changePercent": 2.05,
     "previousClose": 0.69,
     "asOf": "2026-08-05",
     "history": [
@@ -193,6 +193,10 @@
         "close": 0.7
       },
       {
+        "date": "2026-08-04",
+        "close": 0.7
+      },
+      {
         "date": "2026-08-05",
         "close": 0.71
       }
@@ -203,33 +207,33 @@
       "name": "Gold",
       "icon": "🥇",
       "iconBg": "#fef9ee",
-      "price": 4302.5,
-      "change": 147.4,
-      "changePercent": 3.55
+      "price": 4308.3,
+      "change": 153.2,
+      "changePercent": 3.69
     },
     {
       "name": "Silver",
       "icon": "🥈",
       "iconBg": "#f8f9fa",
-      "price": 62.37,
-      "change": 0.45,
-      "changePercent": 0.72
+      "price": 62.3,
+      "change": 0.38,
+      "changePercent": 0.61
     },
     {
       "name": "Crude Oil (WTI)",
       "icon": "🛢️",
       "iconBg": "#f3f0f9",
-      "price": 75.3,
-      "change": 6.75,
-      "changePercent": 9.85
+      "price": 75.13,
+      "change": 6.58,
+      "changePercent": 9.6
     },
     {
       "name": "Copper",
       "icon": "🔶",
       "iconBg": "#fef0e6",
-      "price": 6.72,
-      "change": 0.54,
-      "changePercent": 8.8
+      "price": 6.75,
+      "change": 0.57,
+      "changePercent": 9.21
     },
     {
       "name": "BHP Group",
@@ -838,6 +842,27 @@
   ],
   "news": [
     {
+      "title": "Rogue AI fakes identities, switches languages to trick humans",
+      "link": "https://www.smh.com.au/business/companies/rogue-ai-fakes-identities-switches-languages-to-trick-humans-20260805-p60lsh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "OpenAI’s ChatGPT and Anthropic’s Mythos went on a hacking spree including concocting fake online profiles to trick human engineers.",
+      "pubDate": "Thu, 06 Aug 2026 05:20:00 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "ASX set to dip, Wall Street drifts as oil prices steady; SpaceX tumbles",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-dip-wall-street-drifts-as-oil-prices-steady-spacex-tumbles-20260806-p60ltv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "Stocks wavered in afternoon trading on Wall Street and hovered around their records set a day earlier, while oil prices held steady.",
+      "pubDate": "Thu, 06 Aug 2026 05:16:53 +1000",
+      "source": "SMH Business"
+    },
+    {
+      "title": "Empty offices fill up as remote-work momentum shows signs of slowing",
+      "link": "https://www.smh.com.au/business/the-economy/empty-offices-fill-up-as-remote-work-momentum-shows-signs-of-slowing-20260804-p60lda.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "snippet": "There’s growing demand for office space in the CBDs of Australia’s big cities.",
+      "pubDate": "Thu, 06 Aug 2026 05:00:00 +1000",
+      "source": "SMH Business"
+    },
+    {
       "title": "'Gone down like a lead balloon': Ex-FA boss on FIFA's World Cup backflip",
       "link": "https://www.abc.net.au/news/2026-08-05/david-gallop-infantino-plan-doesnt-pass-pub-test/107001290",
       "snippet": "",
@@ -899,27 +924,6 @@
       "snippet": "Forrestania Resources boosts its British Hill gold resource by 131pc to 126,290oz, with ore already being trucked to its nearby Lake Johnston processing hub.",
       "pubDate": "Wed, 05 Aug 2026 14:23:19 +1000",
       "source": "SMH Business"
-    },
-    {
-      "title": "Patriot mapping hints at giant Zambian copper potential",
-      "link": "https://www.smh.com.au/business/companies/patriot-mapping-hints-at-giant-zambian-copper-potential-20260805-p60lpe.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "snippet": "Patriot Resources says initial mapping at its new Zambian copper ground has uncovered geology similar to nearby copper giants, boosting its prospects in the world-class region.",
-      "pubDate": "Wed, 05 Aug 2026 14:19:47 +1000",
-      "source": "SMH Business"
-    },
-    {
-      "title": "NRL club claims player Keith Titmuss contributed to training death",
-      "link": "https://www.abc.net.au/news/2026-08-05/nrl-club-claims-keith-titmuss-contributed-to-training-death/106999580",
-      "snippet": "",
-      "pubDate": "Wed, 05 Aug 2026 04:02:29 +0000",
-      "source": "ABC News"
-    },
-    {
-      "title": "How Australia can harness home support in lead up to Brisbane 2032",
-      "link": "https://www.abc.net.au/news/2026-08-05/water-polo-australia-world-cup-success-brisbane-2032-national/106998168",
-      "snippet": "",
-      "pubDate": "Wed, 05 Aug 2026 02:47:53 +0000",
-      "source": "ABC News"
     }
   ]
 }
