@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-05T14:18:36.366Z",
-  "summary": "Global tensions remain elevated across multiple fronts, with Iran facing international scrutiny over a spike in executions since March while simultaneously engaging in nuclear negotiations with the United States warning of potential military action. The Middle East sees continued Israeli operations in the occupied West Bank and attacks on shipping in the Red Sea, while Russia maintains its assault on Ukraine with missile strikes on Kyiv despite facing Ukrainian resistance hampered by interceptor shortages. Elsewhere, political upheaval in Bangladesh and security concerns in various regions underscore broader instability, though markets have rallied on hopes for a Strait of Hormuz reopening and technology companies continue major business developments despite ongoing scrutiny over AI safety and autonomous systems.",
+  "fetchedAt": "2026-08-05T16:44:25.464Z",
+  "summary": "Major geopolitical tensions dominated today's news as the US and Iran moved closer to a nuclear deal while simultaneously facing escalating concerns over Iranian executions and military threats from North Korea and Russia. The Middle East saw renewed conflict with Israeli forces conducting raids in the West Bank, Russian missiles striking Kyiv killing at least one person, and ongoing fighting in the Red Sea, while diplomatic channels remained active between Tehran and Oman. Economic developments included SpaceX reporting significant losses despite revenue gains, a major Saudi-led acquisition of gaming firm EA, and stock markets reaching records on Strait of Hormuz reopening hopes. Humanitarian crises persisted across multiple regions, from Puerto Rico's severe drought and India's monsoon deaths exceeding 100 to growing concerns about AI safety as tests revealed models using deception and unauthorized cyberattacks.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "Puerto Rican cities hit with water rationing measures during record drought",
+      "link": "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss",
+      "desc": "Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.",
+      "pubDate": "Wed, 05 Aug 2026 16:02:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26217438343856-1785939381.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "War on Iran: US-Iran deal edges closer",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+      "desc": "A deal between the US and Iran could be signed within 48 hours, according to US officials.",
+      "pubDate": "Wed, 05 Aug 2026 15:12:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785942704.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "UN rights chief alarmed by rise in Iran executions since March",
       "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&amp;at_campaign=rss",
@@ -14090,96 +14110,6 @@
       "desc": "Hussam Abu Safia&#039;s family and lawyer say his life is in imminent danger and shows signs of having been tortured.",
       "pubDate": "Mon, 06 Jul 2026 17:09:38 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2a8338-1781171000.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lebanon latest: Teacher killed by Israeli airstrike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
-      "desc": "Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.",
-      "pubDate": "Mon, 06 Jul 2026 16:10:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783353948.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/7/6/netanyahu-says-his-ties-with-trump-are-fine-takes-aim-at-turkiye?traffic_source=rss",
-      "desc": "In Fox News interview, Israeli prime minister lauds US alliance and argues that Ankara should not receive F-35 jets.",
-      "pubDate": "Mon, 06 Jul 2026 15:54:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/04/epa_69e7c68977ab-1776797321.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN discusses prevention of genocide: Six times it failed to do just that",
-      "link": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss",
-      "desc": "The UN General Assembly meets amid Israel&#039;s genocide on Gaza, Myanmar&#039;s genocide against the Rohingya, and other crises.",
-      "pubDate": "Mon, 06 Jul 2026 15:38:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/10/afp_68e27c2e4310-1759673390.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US president Trump defends FIFA’s Balogun red card reversal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/us-president-trump-defends-fifas-balogun-red-card-reversal?traffic_source=rss",
-      "desc": "US President Donald Trump defended FIFA&#039;s decision to overturn Folarin Balogun&#039;s red card suspension.",
-      "pubDate": "Mon, 06 Jul 2026 15:31:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783351889.jpg?resize=1625%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump confirms he asked Fifa to review Balogun ban",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-      "pubDate": "Mon, 06 Jul 2026 15:27:59 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-      "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The sweeping layoffs equate to roughly 2.1% of Microsoft's workforce, with 1,600 job losses at Xbox.",
-      "pubDate": "Mon, 06 Jul 2026 15:18:53 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc35/live/26aac8a0-794f-11f1-bfee-d367081f1131.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Is NATO at breaking point as it meets in Turkiye?",
-      "link": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss",
-      "desc": "NATO leaders gather in Ankara to tackle US-Europe tensions, defence gaps and support for Ukraine’s military resilience.",
-      "pubDate": "Mon, 06 Jul 2026 15:18:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-01T142912Z_644868872_RC2TO0ABOF8S_RTRMADP_3_UKRAINE-CRISIS-TRUMP-FRANCE-1776407091.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
-      "link": "https://www.aljazeera.com/news/2026/7/6/israels-smotrich-declares-revolution-in-west-bank-settlement-expansion?traffic_source=rss",
-      "desc": "Smotrich declares a settlement &#039;revolution&#039; as Israel approves 13 new outposts during big increase in settler violence.",
-      "pubDate": "Mon, 06 Jul 2026 15:02:20 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-08-14T085522Z_81375477_RC2W6GAVQRZM_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLEMENT-1756416967.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israeli attack on vehicle in Lebanon kills at least four",
-      "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss",
-      "desc": "Israel continues to strike targets in southern Lebanon despite US-brokered ceasefire agreement.",
-      "pubDate": "Mon, 06 Jul 2026 14:22:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260706__B9DA2ZK__v1__HighRes__LebanonIsraelUsIranWar-1783341461.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
