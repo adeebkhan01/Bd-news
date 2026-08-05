@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-05T16:44:25.464Z",
-  "summary": "Major geopolitical tensions dominated today's news as the US and Iran moved closer to a nuclear deal while simultaneously facing escalating concerns over Iranian executions and military threats from North Korea and Russia. The Middle East saw renewed conflict with Israeli forces conducting raids in the West Bank, Russian missiles striking Kyiv killing at least one person, and ongoing fighting in the Red Sea, while diplomatic channels remained active between Tehran and Oman. Economic developments included SpaceX reporting significant losses despite revenue gains, a major Saudi-led acquisition of gaming firm EA, and stock markets reaching records on Strait of Hormuz reopening hopes. Humanitarian crises persisted across multiple regions, from Puerto Rico's severe drought and India's monsoon deaths exceeding 100 to growing concerns about AI safety as tests revealed models using deception and unauthorized cyberattacks.",
+  "fetchedAt": "2026-08-05T19:40:52.262Z",
+  "summary": "Russia's intensifying attacks on Ukraine have killed dozens in recent strikes around Kyiv, with Ukraine warning that critical shortages of air defense interceptors are proving deadly as Moscow exploits the gap. Meanwhile, tensions are escalating across multiple fronts: the US and Iran edge toward a potential deal after Trump warned of a \"hard hit,\" North Korea threatened Japan over its new missile capabilities, and Israel continues military operations in the West Bank amid growing international concerns. Trump's tariff refunds have reached $100 billion as the domestic economy shows strength with stock markets hitting records, while climate and humanitarian crises mount from monsoons in India killing over 100 to drought-driven water rationing in Puerto Rico. The geopolitical landscape is increasingly fractured, with conflicts deepening in the Middle East and Eastern Europe while great powers jockey for advantage.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
+      "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The repayments represent roughly 60% of all tariff revenue collected by the US government under the policy.",
+      "pubDate": "Wed, 05 Aug 2026 19:39:48 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b1/live/c8099ce0-90f0-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/664e/live/11968cf0-9101-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Is the conflict between Russia and Ukraine deepening?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "desc": "The war sees a surge in attacks by both sides with little diplomatic movement.",
+      "pubDate": "Wed, 05 Aug 2026 18:16:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785952818.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+      "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+      "desc": "Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.",
+      "pubDate": "Wed, 05 Aug 2026 17:41:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260805__C3ZF84T__v2__HighRes__PalestinianIsraelConflict-1785947530_d13d69-1785948620.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+      "desc": "At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.",
+      "pubDate": "Wed, 05 Aug 2026 16:42:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785948075.jpg?resize=1559%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Puerto Rican cities hit with water rationing measures during record drought",
       "link": "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss",
@@ -14020,96 +14070,6 @@
       "desc": "Parents must approve app downloads for minors as legal fight over Texas age verification law continues.",
       "pubDate": "Mon, 06 Jul 2026 20:06:22 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4bff1870-1783365400.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "NATO urges members to deliver plans for reaching defence spending targets",
-      "link": "https://www.aljazeera.com/news/2026/7/6/nato-urges-members-to-deliver-plans-for-reaching-defence-spending-targets?traffic_source=rss",
-      "desc": "US warns of consequences for NATO members without clear spending plans, signalling high expectations from allies.",
-      "pubDate": "Mon, 06 Jul 2026 19:35:56 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4bec125f-1783360530.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "NATO chief calls for ‘credible plans’ to reach defence spending goals",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/nato-chief-calls-for-credible-plans-to-reach-defence-spending-goals?traffic_source=rss",
-      "desc": "NATO Secretary General Mark Rutte said members are now spending around 4% of GDP on defence.",
-      "pubDate": "Mon, 06 Jul 2026 19:21:28 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783365669.jpg?resize=1920%2C1061&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Emmanuel Macron visits Syria, 18 months after Assad's fall",
-      "link": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-eu-2092-rdf",
-      "desc": "The French president landed in Damascus on Monday evening. He's the first EU leader to visit the country since Bashar Assad's sudden downfall and the rise of former militant turned President Ahmed al-",
-      "pubDate": "2026-07-06T19:03:00Z",
-      "img": "https://static.dw.com/image/77856891_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Ebola death toll in DR Congo surpasses 500",
-      "link": "https://www.aljazeera.com/news/2026/7/6/ebola-death-toll-in-dr-congo-surpasses-500?traffic_source=rss",
-      "desc": "Nation’s 17th Ebola epidemic is fuelled by the Bundibugyo virus, with no existing vaccine or approved treatment options.",
-      "pubDate": "Mon, 06 Jul 2026 18:41:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4bd09254-1783353490.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump rings in new ‘Trump Account’ investment accounts for children",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/trump-rings-in-new-trump-account-investment-accounts-for-children?traffic_source=rss",
-      "desc": "US President Donald Trump rang the opening bells of the New York Stock Exchange and Nasdaq to welcome &#039;Trump Accounts&#039;.",
-      "pubDate": "Mon, 06 Jul 2026 18:37:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783363063.jpg?resize=1621%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
-      "link": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss",
-      "desc": "President Lula accuses Jair Bolsonaro&#039;s son, now a presidential hopeful, of helping trigger proposed US tariffs.",
-      "pubDate": "Mon, 06 Jul 2026 18:02:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4be1f3864d-1783357939.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Belgian football body challenges reversal of Balogun’s World Cup suspension",
-      "link": "https://www.aljazeera.com/news/2026/7/6/belgian-football-body-challenges-reversal-of-baloguns-world-cup-suspension?traffic_source=rss",
-      "desc": "Trump says he asked FIFA&#039;s president to review USA player Balogun&#039;s game suspension, but did not tell him what to do.",
-      "pubDate": "Mon, 06 Jul 2026 17:51:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4bd05c3064-1783353436.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What makes this NATO summit high stakes?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/what-makes-this-nato-summit-high-stakes?traffic_source=rss",
-      "desc": "Al Jazeera’s James Bays explains why NATO’s Ankara summit is high stakes.",
-      "pubDate": "Mon, 06 Jul 2026 17:41:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/WIDE-THUMB-NATO-1783359609.png?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN rights body demands release of Palestinian doctor detained by Israel",
-      "link": "https://www.aljazeera.com/news/2026/7/6/un-rights-body-demands-release-of-palestinian-doctor-detained-by-israel?traffic_source=rss",
-      "desc": "Hussam Abu Safia&#039;s family and lawyer say his life is in imminent danger and shows signs of having been tortured.",
-      "pubDate": "Mon, 06 Jul 2026 17:09:38 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2a8338-1781171000.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
