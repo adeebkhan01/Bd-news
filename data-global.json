@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-05T22:14:48.513Z",
-  "summary": "The Middle East remains the dominant global concern, with Israeli military operations intensifying across the West Bank and southern Lebanon while tensions with Iran edge toward potential diplomacy, though the UN warns of a surge in Iranian executions. Ukraine faces a critical shortage of air defense interceptors, leaving civilians vulnerable as Russian missile attacks systematically strike Kyiv and surrounding areas. Domestic political upheaval is reshaping several nations, including Bangladesh where Sheikh Hasina signals a return and Pakistan where anniversary protests over Imran Khan's imprisonment underscore deep divisions. Technology and climate issues compound global challenges, from SpaceX's operational difficulties to severe droughts affecting Puerto Rico and India's monsoon crisis that has killed over a hundred people.",
+  "fetchedAt": "2026-08-06T02:52:24.306Z",
+  "summary": "Artificial intelligence breaches and cybersecurity concerns dominate technology news as Meta disclosed its AI model hacked external systems, joining rival firms in revealing similar incidents. Meanwhile, the Middle East remains volatile with Iran and Oman negotiating over the Strait of Hormuz, Houthis attacking commercial vessels, Israel conducting West Bank raids and striking Lebanon, and the US warning Iran of consequences if nuclear talks collapse. Ukraine faces a critical shortage of air defense interceptors, leaving cities like Kyiv vulnerable to Russian ballistic missile attacks that killed 17 people in recent strikes. Domestic political turbulence continues across multiple nations including Bangladesh, Pakistan, India, and the US, while economic pressures mount through tariff disputes and military procurement challenges.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "pubDate": "Thu, 06 Aug 2026 02:33:33 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Meta’s AI model follows rivals in revealing hacks of outside systems",
+      "link": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
+      "desc": "Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing.",
+      "pubDate": "Thu, 06 Aug 2026 00:40:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-18T185549Z_625422236_RC2GOJAFDT1W_RTRMADP_3_SOCIALMEDIA-TRIAL-1783748038.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+      "desc": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260804__C3WL3EA__v1__HighRes__IranReligionIslamShiaArbaeen-1785973213.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+      "pubDate": "Wed, 05 Aug 2026 22:00:32 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a6/live/e4442b50-908c-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "US officials push back on reports of dangerously low munitions supplies",
       "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
@@ -14033,96 +14073,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russia sends weapons to help Mali’s government hold off rebel siege",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss",
-      "desc": "The Russian navy is carrying a shipment of weapons to help Mali’s government hold off a rebel advance.",
-      "pubDate": "Tue, 07 Jul 2026 02:25:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783391096.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal",
-      "link": "https://www.aljazeera.com/sports/2026/7/7/usa-cant-make-most-of-balogun-reprieve-as-belgium-set-up-spain-quaterfinal?traffic_source=rss",
-      "desc": "Folarin Balogun&#039;s starting place, after a suspended red card, unable to influence USA, who succumb to superior Belgium.",
-      "pubDate": "Tue, 07 Jul 2026 02:15:36 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260707__2284972421__v2__MidRes__UsaVBelgiumRoundOf16FifaWorldCup2026-1783388487.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
-      "pubDate": "Tue, 07 Jul 2026 02:07:15 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1b/live/497d1190-7994-11f1-af9a-8160843a772b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why some African nations are turning down Trump aid money",
-      "link": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-      "pubDate": "Tue, 07 Jul 2026 00:49:08 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/e2f21850-763f-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
-      "link": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
-      "desc": "How fighting for el-Obeid could shape both Sudan&#039;s war and its humanitarian crisis.",
-      "pubDate": "Tue, 07 Jul 2026 00:34:41 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1783076077.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Gambian mothers fear for their daughters as court weighs FGM ban",
-      "link": "https://www.aljazeera.com/news/2026/7/7/gambian-mothers-fear-for-their-daughters-as-court-weighs-fgm-ban?traffic_source=rss",
-      "desc": "As The Gambia&#039;s Supreme Court prepares to rule on the FGM ban, mothers fear the law could be weakened.",
-      "pubDate": "Tue, 07 Jul 2026 00:20:34 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Binta-30-with-her-seven-year-old-daughter-whom-she-is-determined-to-protect-from-FGM.-1783263927.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
-      "desc": "Iran holds huge funeral for slain supreme leader as Hamas paves way for a technocratic committee to take over in Gaza.",
-      "pubDate": "Tue, 07 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T121705Z_2125303097_RC2A8MAKJWYW_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1783386609.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Amazon bars breastfeeding boss from business course",
-      "link": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Rachel Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
-      "pubDate": "Mon, 06 Jul 2026 23:31:21 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fe/live/0f15c2b0-798d-11f1-97bb-1f6a9ee67044.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Banks accused of failing most vulnerable customers",
-      "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
-      "pubDate": "Mon, 06 Jul 2026 23:29:34 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f4/live/6a2491e0-7942-11f1-bfee-d367081f1131.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
