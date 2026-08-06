@@ -304,12 +304,6 @@ a{color:inherit}
 }
 .headline-title:hover{color:var(--brand)}
 .headline-time{display:block;font-size:.72rem;color:var(--muted);font-family:var(--mono);font-variant-numeric:tabular-nums}
-.topic-cloud{display:flex;flex-wrap:wrap;gap:.35rem}
-.topic{
-  font-size:.72rem;font-weight:500;padding:.25rem .6rem;border-radius:999px;cursor:pointer;
-  border:1px solid var(--border);background:var(--surface);color:var(--text-2);transition:all .15s;font-family:var(--sans);
-}
-.topic:hover{border-color:var(--brand);color:var(--brand);background:var(--brand-dim)}
 
 /* ── Skeletons ──────────────────────────────────────── */
 .loading-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.15rem}
@@ -459,13 +453,6 @@ footer a:hover{text-decoration:underline}
       </div>
       <ul class="headlines-list" id="headlines-list"></ul>
     </div>
-    <div class="panel panel-topics">
-      <div class="panel-label">
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M3 17l5-6 4 4 5-7 4 5"/></svg>
-        Trending
-      </div>
-      <div class="topic-cloud" id="topic-cloud"></div>
-    </div>
   </aside>
 </main>
 
@@ -501,8 +488,6 @@ const REGION_CONFIG = {
   au:     { label: 'Australia',  mark: 'AU', dataFile: 'data-au.json',     hasLang: false },
   global: { label: 'Global',     mark: 'GL', dataFile: 'data-global.json', hasLang: false }
 };
-
-const STOPWORDS = new Set(('the a an and or but of in on at to for from with by as is are was were be been being it its this that these those his her their our your my he she they we you i not no new says said after over into about more most than then out up down off amid during against will would can could has have had do does did dr mr mrs us uk bd au'.split(' ')));
 
 /* ── Theme ── */
 function toggleTheme() {
@@ -615,13 +600,6 @@ function clearSearch() {
   document.getElementById('search-clear').style.display = 'none';
   document.getElementById('kbd-hint').style.display = '';
   renderArticles();
-}
-
-function searchFor(term) {
-  const input = document.getElementById('search-input');
-  input.value = term;
-  onSearch(term);
-  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 document.addEventListener('keydown', e => {
@@ -810,30 +788,6 @@ function showHeadlines(articles) {
   }).join('');
 }
 
-function showTopics(articles) {
-  const freq = {};
-  articles.slice(0, 160).forEach(a => {
-    String(a.title || '').split(/[^A-Za-z'-]+/).forEach(word => {
-      const w = word.trim();
-      if (w.length < 4 || STOPWORDS.has(w.toLowerCase())) return;
-      const key = w.toLowerCase();
-      if (!freq[key]) freq[key] = { label: w, n: 0 };
-      freq[key].n++;
-    });
-  });
-  const top = Object.values(freq).sort((a, b) => b.n - a.n).slice(0, 12);
-  const cloud = document.getElementById('topic-cloud');
-  cloud.innerHTML = '';
-  top.forEach(t => {
-    const btn = document.createElement('button');
-    btn.className = 'topic';
-    btn.textContent = t.label;
-    btn.onclick = () => searchFor(t.label);
-    cloud.appendChild(btn);
-  });
-  document.querySelector('.panel-topics').style.display = top.length ? '' : 'none';
-}
-
 /* ── Data ── */
 async function loadData() {
   if (loading) return;
@@ -860,7 +814,6 @@ async function loadData() {
     }
 
     showHeadlines(allArticles);
-    showTopics(allArticles);
     showPageSummary(data.summary);
     document.getElementById('status-text').textContent =
       'Live · ' + REGION_CONFIG[activeRegion].label;
