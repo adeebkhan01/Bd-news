@@ -109,6 +109,7 @@ a{color:inherit}
 #refresh-btn.spinning svg{animation:spin .9s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 #lang-toggle.bn{background:var(--brand);border-color:var(--brand);color:var(--brand-ink)}
+:root[data-theme="dark"] .i-moon,:root:not([data-theme="dark"]) .i-sun{display:none}
 
 /* ── Toolbar: region + search ───────────────────────── */
 .toolbar{border-bottom:1px solid var(--border);background:var(--surface)}
@@ -207,6 +208,8 @@ a{color:inherit}
   transition:transform .22s cubic-bezier(.2,.7,.3,1),box-shadow .22s,border-color .22s;
 }
 .card:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);border-color:var(--border-strong)}
+.grid > .card{content-visibility:auto;contain-intrinsic-size:auto 340px}
+.grid > .card.featured{content-visibility:visible}
 .thumb{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;background:var(--surface);flex-shrink:0}
 .thumb img{width:100%;height:100%;object-fit:cover;display:block;opacity:0;transition:opacity .4s ease,transform .5s cubic-bezier(.2,.7,.3,1)}
 .thumb img.loaded{opacity:1}
@@ -221,7 +224,9 @@ a{color:inherit}
   font-size:.66rem;font-weight:600;text-transform:uppercase;letter-spacing:.07em;
   margin-bottom:.55rem;display:flex;align-items:center;gap:.4rem;
 }
-.source-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.card-source::before{
+  content:'';width:6px;height:6px;border-radius:50%;flex-shrink:0;background:var(--src,var(--muted));
+}
 .card-title{
   font-family:var(--serif);font-size:1rem;font-weight:700;line-height:1.42;color:var(--text);
   margin-bottom:.5rem;letter-spacing:-.005em;
@@ -237,8 +242,8 @@ a{color:inherit}
   display:flex;align-items:center;justify-content:space-between;margin-top:auto;
   padding-top:.7rem;border-top:1px solid var(--hairline);
 }
-.card-meta .go{display:inline-flex;align-items:center;gap:.25rem;transition:color .15s,transform .2s}
-.card:hover .card-meta .go{color:var(--brand);transform:translateX(2px)}
+.card-meta::after{content:'Read →';transition:color .15s,transform .2s}
+.card:hover .card-meta::after{color:var(--brand);transform:translateX(2px)}
 
 /* Featured */
 .card.featured{grid-column:1/-1;flex-direction:row;align-items:stretch}
@@ -283,19 +288,22 @@ a{color:inherit}
   margin-bottom:.85rem;display:flex;align-items:center;gap:.45rem;
 }
 .headlines-list{list-style:none;display:flex;flex-direction:column;counter-reset:hl}
-.headline-item{padding:.7rem 0;border-bottom:1px solid var(--hairline);display:flex;gap:.7rem}
+.headline-item{
+  padding:.7rem 0;border-bottom:1px solid var(--hairline);
+  display:grid;grid-template-columns:auto 1fr;column-gap:.7rem;align-items:start;
+}
 .headline-item:first-child{padding-top:0}
 .headline-item:last-child{border-bottom:none;padding-bottom:0}
 .headline-item::before{
-  counter-increment:hl;content:counter(hl,decimal-leading-zero);
-  font-family:var(--mono);font-size:.7rem;color:var(--brand);opacity:.6;flex-shrink:0;padding-top:.1rem;
+  counter-increment:hl;content:counter(hl,decimal-leading-zero);grid-row:1/3;
+  font-family:var(--mono);font-size:.7rem;color:var(--brand);opacity:.6;padding-top:.1rem;
 }
 .headline-title{
   font-family:var(--serif);font-size:.8rem;font-weight:700;color:var(--text);line-height:1.45;
   text-decoration:none;display:block;margin-bottom:.2rem;transition:color .15s;
 }
 .headline-title:hover{color:var(--brand)}
-.headline-time{font-size:.72rem;color:var(--muted);font-family:var(--mono);font-variant-numeric:tabular-nums}
+.headline-time{display:block;font-size:.72rem;color:var(--muted);font-family:var(--mono);font-variant-numeric:tabular-nums}
 .topic-cloud{display:flex;flex-wrap:wrap;gap:.35rem}
 .topic{
   font-size:.72rem;font-weight:500;padding:.25rem .6rem;border-radius:999px;cursor:pointer;
@@ -384,7 +392,10 @@ footer a:hover{text-decoration:underline}
     <div class="masthead-right">
       <span class="last-updated" id="last-updated">—</span>
       <button class="btn btn-icon" id="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle dark mode">
-        <svg id="theme-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"></svg>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <path class="i-moon" d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>
+          <g class="i-sun"><circle cx="12" cy="12" r="4.5"/><path d="M12 1.5v2M12 20.5v2M3.6 3.6l1.4 1.4M19 19l1.4 1.4M1.5 12h2M20.5 12h2M3.6 20.4L5 19M19 5l1.4-1.4"/></g>
+        </svg>
       </button>
       <button class="btn" id="lang-toggle" onclick="toggleLang()" aria-label="Switch language" lang="bn">বাংলা</button>
       <button class="btn btn-primary" id="refresh-btn" onclick="loadData()" aria-label="Refresh headlines">
@@ -493,26 +504,20 @@ const REGION_CONFIG = {
 
 const STOPWORDS = new Set(('the a an and or but of in on at to for from with by as is are was were be been being it its this that these those his her their our your my he she they we you i not no new says said after over into about more most than then out up down off amid during against will would can could has have had do does did dr mr mrs us uk bd au'.split(' ')));
 
-const SUN_ICON  = '<circle cx="12" cy="12" r="4.5"/><path d="M12 1.5v2M12 20.5v2M3.6 3.6l1.4 1.4M19 19l1.4 1.4M1.5 12h2M20.5 12h2M3.6 20.4L5 19M19 5l1.4-1.4"/>';
-const MOON_ICON = '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>';
-
 /* ── Theme ── */
-function applyThemeIcon() {
-  const dark = document.documentElement.getAttribute('data-theme') === 'dark';
-  document.getElementById('theme-icon').innerHTML = dark ? SUN_ICON : MOON_ICON;
-}
 function toggleTheme() {
   const root = document.documentElement;
   const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
 
+  // Attribute flip only: the icon swap is CSS, and the storage write is a
+  // synchronous disk hit that has no business in front of the repaint.
   root.classList.add('theme-switch');
   root.setAttribute('data-theme', next);
-  localStorage.setItem('news-theme', next);
-  applyThemeIcon();
-  // Re-enable transitions once the repainted frame has been committed.
-  requestAnimationFrame(() => requestAnimationFrame(() => root.classList.remove('theme-switch')));
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    root.classList.remove('theme-switch');
+    localStorage.setItem('news-theme', next);
+  }));
 }
-applyThemeIcon();
 
 /* ── Helpers ── */
 function escapeHTML(str) {
@@ -681,12 +686,10 @@ function cardHTML(a, isFeatured) {
     + thumb
     + '<div class="card-body">'
     + (isFeatured ? '<span class="lead-badge">Lead story</span>' : '')
-    + '<div class="card-source"><span class="source-dot" style="background:' + color + '"></span>'
-    + '<span style="color:' + color + '">' + source + '</span></div>'
+    + '<div class="card-source" style="--src:' + color + ';color:' + color + '">' + source + '</div>'
     + '<h2 class="card-title"' + (isBn ? ' lang="bn"' : '') + '>' + title + '</h2>'
     + (desc ? '<p class="card-desc"' + (isBn ? ' lang="bn"' : '') + '>' + desc + '</p>' : '')
-    + '<div class="card-meta"><span>' + (timeAgo(a.pubDate) || '—') + '</span>'
-    + '<span class="go">Read<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></div>'
+    + '<div class="card-meta"><span>' + (timeAgo(a.pubDate) || '—') + '</span></div>'
     + '</div></a>';
 }
 
@@ -799,11 +802,11 @@ function showHeadlines(articles) {
     const link = safeURL(a.link);
     const isBn = langMode === 'bn' && a.titleBn;
     const text = escapeHTML(isBn ? a.titleBn : (a.title || ''));
-    return '<li class="headline-item"><div>'
+    return '<li class="headline-item">'
       + '<a class="headline-title" href="' + (link || '#') + '"' + (isBn ? ' lang="bn"' : '')
       + (link ? ' target="_blank" rel="noopener noreferrer"' : '') + '>' + text + '</a>'
-      + '<div class="headline-time">' + (timeAgo(a.pubDate) || '—') + '</div>'
-      + '</div></li>';
+      + '<span class="headline-time">' + (timeAgo(a.pubDate) || '—') + '</span>'
+      + '</li>';
   }).join('');
 }
 
