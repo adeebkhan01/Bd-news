@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-06T11:26:30.923Z",
-  "summary": "Australia faces mounting public safety and institutional integrity challenges today, with serious criminal cases dominating headlines including allegations against a Perth paediatrician and a high-profile assault trial involving NRL figure Nicky Winmar. Environmental and health concerns are pressing, from bird flu preparedness in Western Australia to warnings about wildfire risks and mental health needs following the Bondi Junction tragedy. Political focus has shifted to gambling reform and immigration policy, with Labor facing industry backlash over proposed restrictions on betting inducements. Several investigations into institutional failures continue, including probes into ABC management and corruption allegations affecting union leadership.",
+  "fetchedAt": "2026-08-06T12:59:25.864Z",
+  "summary": "Australia faces a mounting crisis in child safety and violence, with stories dominating headlines including a Perth paediatrician facing additional abuse charges, a domestic violence survivor confronting her attacker in court, and a grocer's death following an alleged assault by teenagers. Law enforcement is responding to multiple emergencies including a police road blitz after a young woman's death in South Australia and officers rescuing a toddler from a violent crime scene, while separately a newborn was thrown from a car seat by a drunk driver. Major governance issues are emerging around gambling reform, with Labor facing fierce backlash from industry giants as the Coalition and Greens push for stricter controls, alongside parliamentary focus on migration policy. The headlines also reflect ongoing concerns about public safety from bird flu preparedness in Western Australia to wildfire threats, though lighter stories include a ginger cat's 11-year homecoming and a school's success in boosting HSC results.",
   "sources": [
     {
       "id": "abcnews",
@@ -30,11 +30,41 @@
   ],
   "articles": [
     {
+      "title": "Grand finalists really do face a baptism of fire",
+      "link": "https://www.smh.com.au/national/nsw/grand-finalists-really-do-face-a-baptism-of-fire-20260806-p60lw0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Yet put their faith in the independent advisor.",
+      "pubDate": "Thu, 06 Aug 2026 21:57:11 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
+      "link": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "desc": "<p>Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales drop</p><p>Nintendo has reported a jump in profits, as the Japanese game maker’s earnings",
+      "pubDate": "Thu, 06 Aug 2026 11:11:46 GMT",
+      "img": "https://i.guim.co.uk/img/media/0cbcc350441f7c7fc33374a98d999e0a5f489251/0_0_4556_3647/master/4556.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
       "title": "‘It’s beautiful but fragile’: fears £150m redevelopment of Falmouth Docks threatens habitats and town itself",
       "link": "https://www.theguardian.com/uk-news/2026/aug/06/falmouth-150m-redevelopment-docks-threatens-habitats-town-cruise-ships",
       "desc": "<p>Plans involve dredging and expanding the docks to allow larger cruise ships to visit with up to 200,000 passengers annually</p><p>Janavi Kramer had just enjoyed a swim with friends and was sitting ",
       "pubDate": "Thu, 06 Aug 2026 11:05:35 GMT",
       "img": "https://i.guim.co.uk/img/media/b9c354c400ae5065da5d58eda5f27023926c9c0f/31_0_7738_6192/master/7738.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
+      "link": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
+      "desc": "<p>When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial security</p><p>Americans may seem increasingly divided on beliefs and values, but ",
+      "pubDate": "Thu, 06 Aug 2026 11:00:50 GMT",
+      "img": "https://i.guim.co.uk/img/media/859ab2723fc56ab47e6ca3d21db9f01e27763cd6/622_0_3164_2533/master/3164.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -1048,6 +1078,16 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
+    },
+    {
+      "title": "Trump team pushes to block court order giving BBC access to financial records",
+      "link": "https://www.theguardian.com/us-news/2026/aug/05/trump-bbc-lawsuit-financial-records",
+      "desc": "<p>President has sued the broadcaster for $10bn, claiming a documentary on 2021 Capitol attack led to financial harm</p><p>Donald Trump’s legal team is making an 11th-hour attempt to block a <a href=\"",
+      "pubDate": "Wed, 05 Aug 2026 21:12:07 GMT",
+      "img": "https://i.guim.co.uk/img/media/c442f29e2226c12f50dd18f9b46aeb2b877bc5c8/162_0_4860_3888/master/4860.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Outback city's young population revels in its housing market amid low prices",
@@ -35335,16 +35375,6 @@
       "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
       "pubDate": "Tue, 07 Jul 2026 23:59:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_231/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Perth teen accused of string of e-bike sexual assaults",
-      "link": "https://www.smh.com.au/national/perth-teen-accused-of-string-of-e-bike-sexual-assaults-20260707-p60dg9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A Perth teenager accused of indecently assaulting more than a dozen women is set to fight a string of charges.",
-      "pubDate": "Tue, 07 Jul 2026 21:30:51 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b4f48f72ee17df3c82ac0b0a418d4531319473a6",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
