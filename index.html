@@ -24,7 +24,7 @@
 :root{
   --bg:#faf7f1;--surface:#f2ece0;--card:#faf7f1;
   --border:#e2dbcd;--hairline:#e6dfd1;--border-strong:#cfc6b4;--input-border:#cfc6b4;
-  --text:#1b1a17;--text-2:#5d564a;--muted:#8b8272;
+  --text:#1b1a17;--text-2:#4c463c;--muted:#6f6759;
   --brand:#146c42;--brand-2:#0f5533;--brand-dim:#e7efe9;--brand-ink:#faf7f1;
   --danger:#a8332b;--danger-dim:#f7ebe6;
   --mark:rgba(20,108,66,.18);
@@ -42,7 +42,7 @@
 :root[data-theme="dark"]{
   --bg:#16161a;--surface:#1c1c21;--card:#16161a;
   --border:#2a2a30;--hairline:#26262c;--border-strong:#3a3a42;--input-border:#3a3a42;
-  --text:#efece4;--text-2:#9a958a;--muted:#6e6a62;
+  --text:#efece4;--text-2:#c6c1b6;--muted:#a5a096;
   --brand:#3fa974;--brand-2:#5cc290;--brand-dim:#1b2b23;--brand-ink:#101014;
   --danger:#e08078;--danger-dim:#2a1e1c;
   --mark:rgba(63,169,116,.24);
@@ -511,6 +511,29 @@ function escapeHTML(str) {
   );
 }
 
+// Older data files were written before the feed parser learned to decode
+// entities before stripping, so they still carry <p>, <br> and href URLs in
+// the copy. Clean it at render time too, rather than waiting on a refetch.
+function decodeEntities(str) {
+  return str
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(+d))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/&nbsp;/g, ' ').replace(/&quot;/g, '"').replace(/&apos;/g, "'")
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');
+}
+
+function plainText(str) {
+  let s = String(str == null ? '' : str);
+  for (let i = 0; i < 3; i++) {
+    const next = decodeEntities(s).replace(/<[^>]*>/g, ' ')
+      .replace(/<[^>]*$/, ' ');   // descriptions get truncated mid-tag
+    if (next === s) break;
+    s = next;
+  }
+  return s.replace(/\s+/g, ' ').trim();
+}
+
 function safeURL(url) {
   const raw = String(url || '').trim();
   return /^https?:\/\//i.test(raw) ? escapeHTML(raw) : '';
@@ -804,7 +827,13 @@ async function loadData() {
     if (!res.ok) throw new Error('HTTP ' + res.status);
 
     const data  = await res.json();
-    allArticles = data.articles || [];
+    allArticles = (data.articles || []).map(a => ({
+      ...a,
+      title:   plainText(a.title),
+      desc:    plainText(a.desc),
+      titleBn: a.titleBn ? plainText(a.titleBn) : a.titleBn,
+      descBn:  a.descBn  ? plainText(a.descBn)  : a.descBn
+    }));
     allSources  = data.sources  || [];
 
     if (data.fetchedAt) {

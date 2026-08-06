@@ -175,9 +175,28 @@ function extractOgImage(html) {
   return m ? m[1] : null;
 }
 
+function decodeEntities(str) {
+  return str
+    .replace(/&#(\d+);/g, function (_, d) { return String.fromCharCode(+d); })
+    .replace(/&#x([0-9a-f]+);/gi, function (_, h) { return String.fromCharCode(parseInt(h, 16)); })
+    .replace(/&nbsp;/g, ' ').replace(/&quot;/g, '"').replace(/&apos;/g, "'")
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');   // last, so &amp;lt; unwraps one layer per pass
+}
+
+// Feeds escape their markup to varying depths: some send raw HTML, some send
+// it entity-encoded, some do both. Decoding before stripping (and repeating)
+// is what keeps <p>, <br> and href URLs out of the copy — decoding after a
+// single strip, as this used to, turns &lt;p&gt; back into a live tag.
 function stripTags(html) {
-  return (html || '').replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,'$1').replace(/<[^>]+>/g,'')
-    .replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&apos;/g,"'").replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim();
+  var s = String(html || '').replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1');
+  for (var i = 0; i < 3; i++) {
+    var next = decodeEntities(s).replace(/<[^>]*>/g, ' ')
+      .replace(/<[^>]*$/, ' ');   // descriptions get truncated mid-tag
+    if (next === s) break;
+    s = next;
+  }
+  return s.replace(/\s+/g, ' ').trim();
 }
 
 function extractImg(block) {
