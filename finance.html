@@ -3,57 +3,94 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Australian Economy Dashboard</title>
+<title>AU Economy — The Daily Digest</title>
+<meta name="description" content="Live Australian market and economic indicators: ASX 200, AUD/USD, RBA cash rate, inflation, commodities and financial news." />
+<meta name="theme-color" content="#146c42" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<script>
+  (function () {
+    var stored = localStorage.getItem('news-theme');
+    var theme = stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+</script>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
-  --bg:#f5f2eb;--surface:#edeade;--card:#ffffff;--border:#ddd9cf;
-  --green:#1a7a4a;--green-lt:#22915c;--green-dim:#e6f2ec;
-  --red:#c23a3a;--red-dim:#fdf0f0;
-  --text:#1a1a18;--muted:#7a7568;
-  --blue:#2563eb;--blue-dim:#eff6ff;
-  --gold:#b8860b;--gold-dim:#fef9ee;
-  --purple:#7c3aed;--purple-dim:#f3f0f9;
-  --serif:'Playfair Display',Georgia,serif;
-  --sans:'DM Sans',system-ui,sans-serif;
-  --mono:'DM Mono',monospace;
-  --radius:10px;
-  --shadow:0 1px 3px rgba(0,0,0,.04);
-  --shadow-lg:0 8px 24px rgba(0,0,0,.08);
+  --bg:#faf8f3;--surface:#f2efe6;--card:#ffffff;
+  --border:#e5e1d6;--border-strong:#d2ccbc;
+  --green:#146c42;--green-lt:#1b8a55;--green-dim:#e7f1ec;--brand-ink:#ffffff;
+  --red:#bf3535;--red-dim:#fdf0ee;
+  --text:#17170f;--text-2:#48443c;--muted:#7d7768;
+  --blue:#2563eb;--blue-dim:#eef4ff;
+  --gold:#a8730f;--gold-dim:#fdf6e8;
+  --purple:#6d3fd4;--purple-dim:#f2eefc;
+  --serif:'Playfair Display',Georgia,'Times New Roman',serif;
+  --sans:'DM Sans',system-ui,-apple-system,Segoe UI,sans-serif;
+  --mono:'DM Mono',ui-monospace,SFMono-Regular,monospace;
+  --radius:14px;
+  --shadow-sm:0 1px 2px rgba(32,28,18,.05);
+  --shadow:0 2px 6px rgba(32,28,18,.06),0 1px 2px rgba(32,28,18,.04);
+  --shadow-lg:0 14px 34px -12px rgba(32,28,18,.22),0 3px 10px rgba(32,28,18,.06);
+  --header-h:60px;
 }
 
 /* Dark mode */
-.dark{
-  --bg:#141414;--surface:#1e1e1e;--card:#242424;--border:#333;
-  --text:#e8e6e1;--muted:#8a8578;
-  --green-dim:#1a2e22;--red-dim:#2e1a1a;--blue-dim:#1a1e2e;
-  --gold-dim:#2e2a1a;--purple-dim:#231a2e;
-  --shadow:0 1px 3px rgba(0,0,0,.2);
-  --shadow-lg:0 8px 24px rgba(0,0,0,.3);
+:root[data-theme="dark"]{
+  --bg:#111310;--surface:#191c18;--card:#1d201c;
+  --border:#2c302b;--border-strong:#3d423b;
+  --green:#54c78e;--green-lt:#6fd9a2;--green-dim:#16281f;--brand-ink:#0d1a13;
+  --text:#eeece5;--text-2:#c4c0b5;--muted:#8e8a7d;
+  --red:#e4726b;--red-dim:#2a1a19;
+  --blue:#7ba5ff;--blue-dim:#182036;
+  --gold:#d8a247;--gold-dim:#2b2415;
+  --purple:#b298f5;--purple-dim:#221a35;
+  --shadow-sm:0 1px 2px rgba(0,0,0,.4);
+  --shadow:0 2px 6px rgba(0,0,0,.35);
+  --shadow-lg:0 16px 36px -14px rgba(0,0,0,.7),0 3px 10px rgba(0,0,0,.35);
 }
 
-html{font-size:16px;scroll-behavior:smooth}
-body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:300;min-height:100vh;transition:background .3s,color .3s}
+html{font-size:16px;scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{
+  background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:400;min-height:100vh;
+  line-height:1.5;-webkit-font-smoothing:antialiased;
+  background-image:radial-gradient(circle at 12% -8%,var(--green-dim) 0,transparent 45%);
+  background-attachment:fixed;
+  transition:background-color .25s ease,color .25s ease;
+}
+::selection{background:var(--green-dim)}
+:focus-visible{outline:2px solid var(--green-lt);outline-offset:2px;border-radius:4px}
 
 /* Masthead */
-.masthead{border-bottom:1px solid var(--border);background:var(--surface);padding:0 1.5rem;position:sticky;top:0;z-index:100;transition:background .3s,border-color .3s}
-.masthead-inner{max-width:1360px;margin:0 auto;display:flex;align-items:center;gap:.75rem;height:54px}
-.logo{font-family:var(--serif);font-size:1.2rem;font-weight:700;color:var(--green);letter-spacing:-0.02em;display:flex;align-items:center;gap:.5rem;text-decoration:none}
-.au-flag{width:28px;height:16px;border-radius:2px;overflow:hidden;flex-shrink:0;position:relative;background:#00008B;border:1px solid rgba(0,0,0,.1)}
-.au-flag svg{width:100%;height:100%}
-.nav-links{display:flex;gap:.35rem;margin-left:.5rem}
-.nav-links a{font-size:.75rem;font-weight:500;color:var(--muted);text-decoration:none;padding:.25rem .6rem;border-radius:6px;transition:all .15s}
-.nav-links a:hover,.nav-links a.active{color:var(--green);background:var(--green-dim)}
-.masthead-right{margin-left:auto;display:flex;align-items:center;gap:.6rem}
-.last-updated{font-size:.68rem;color:var(--muted);font-family:var(--mono)}
-.btn-icon{width:32px;height:32px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--muted);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s}
-.btn-icon:hover{border-color:var(--green);color:var(--green)}
-#refresh-btn{font-size:.75rem;font-weight:500;background:var(--green);color:#fff;border:1px solid var(--green);border-radius:6px;padding:.3rem .65rem;cursor:pointer;display:flex;align-items:center;gap:.35rem;transition:background .15s}
-#refresh-btn:hover{background:#155f39}
-#refresh-btn.spinning svg{animation:spin .8s linear infinite}
+.masthead{
+  border-bottom:1px solid var(--border);padding:0 1.5rem;position:sticky;top:0;z-index:100;
+  background:color-mix(in srgb,var(--bg) 82%,transparent);
+  backdrop-filter:saturate(180%) blur(14px);-webkit-backdrop-filter:saturate(180%) blur(14px);
+}
+.masthead-inner{max-width:1360px;margin:0 auto;display:flex;align-items:center;gap:1rem;height:var(--header-h)}
+.logo{font-family:var(--serif);font-size:1.32rem;font-weight:800;color:var(--text);letter-spacing:-.025em;display:flex;align-items:center;gap:.55rem;text-decoration:none;flex-shrink:0}
+.logo .mark{
+  width:30px;height:30px;border-radius:9px;flex-shrink:0;display:grid;place-items:center;
+  background:linear-gradient(145deg,var(--green-lt),var(--green));color:var(--brand-ink);
+  font-family:var(--sans);font-weight:700;font-size:.85rem;letter-spacing:-.02em;box-shadow:var(--shadow-sm);
+}
+.logo .edition{font-family:var(--sans);font-size:.78rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--muted);padding-left:.6rem;border-left:1px solid var(--border-strong)}
+.nav-links{display:flex;gap:.15rem;margin-left:.35rem}
+.nav-links a{font-size:.82rem;font-weight:500;color:var(--muted);text-decoration:none;padding:.35rem .7rem;border-radius:999px;transition:color .15s,background .15s;white-space:nowrap}
+.nav-links a:hover{color:var(--text);background:var(--surface)}
+.nav-links a.active{color:var(--green);background:var(--green-dim)}
+.masthead-right{margin-left:auto;display:flex;align-items:center;gap:.5rem}
+.last-updated{font-size:.7rem;color:var(--muted);font-family:var(--mono);white-space:nowrap}
+.btn-icon{width:34px;height:34px;border-radius:50%;border:1px solid var(--border-strong);background:var(--card);color:var(--text-2);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s}
+.btn-icon:hover{border-color:var(--green);color:var(--green);background:var(--green-dim)}
+#refresh-btn{font-family:var(--sans);font-size:.8rem;font-weight:500;background:var(--green);color:var(--brand-ink);border:1px solid var(--green);border-radius:999px;padding:.4rem .8rem;cursor:pointer;display:flex;align-items:center;gap:.4rem;transition:background .15s,transform .1s}
+#refresh-btn:hover{background:var(--green-lt);border-color:var(--green-lt)}
+#refresh-btn:active{transform:scale(.97)}
+#refresh-btn.spinning svg{animation:spin .9s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 
 /* Market ticker */
@@ -101,6 +138,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:
 .chart-range button:hover{border-color:var(--green);color:var(--green)}
 .chart-range button.active{background:var(--green);border-color:var(--green);color:#fff}
 .chart-wrap{position:relative;height:200px}
+.chart-unavailable{display:grid;place-items:center;height:100%;text-align:center;font-size:.78rem;color:var(--muted);padding:1rem}
 @media(max-width:800px){.charts-row{grid-template-columns:1fr}}
 
 /* Commodities */
@@ -161,12 +199,22 @@ footer a:hover{text-decoration:underline}
   .commodities-grid{grid-template-columns:repeat(2,1fr)}
   .metric-value{font-size:1.2rem}
   .dashboard{padding:1rem}
-  .nav-links{display:none}
+  .logo .edition{display:none}
+  .last-updated{display:none}
   .ticker-inner{gap:1rem}
+}
+@media(max-width:560px){
+  .masthead{padding:0 1rem}
+  .masthead-inner{height:auto;padding:.6rem 0;flex-wrap:wrap;gap:.6rem}
+  .nav-links{order:3;width:100%;margin-left:0}
+  .logo{font-size:1.15rem}
 }
 @media(max-width:480px){
   .hero-grid{grid-template-columns:1fr}
   .commodities-grid{grid-template-columns:1fr 1fr}
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
 }
 </style>
 </head>
@@ -174,42 +222,22 @@ footer a:hover{text-decoration:underline}
 
 <header class="masthead">
   <div class="masthead-inner">
-    <a class="logo" href="finance.html">
-      <div class="au-flag">
-        <svg viewBox="0 0 28 16" xmlns="http://www.w3.org/2000/svg">
-          <rect width="28" height="16" fill="#00008B"/>
-          <!-- Union Jack simplified -->
-          <line x1="0" y1="0" x2="13" y2="8" stroke="#fff" stroke-width="1.5"/>
-          <line x1="13" y1="0" x2="0" y2="8" stroke="#fff" stroke-width="1.5"/>
-          <line x1="0" y1="4" x2="13" y2="4" stroke="#fff" stroke-width="2.5"/>
-          <line x1="6.5" y1="0" x2="6.5" y2="8" stroke="#fff" stroke-width="2.5"/>
-          <line x1="0" y1="4" x2="13" y2="4" stroke="#C8102E" stroke-width="1.2"/>
-          <line x1="6.5" y1="0" x2="6.5" y2="8" stroke="#C8102E" stroke-width="1.2"/>
-          <!-- Commonwealth Star -->
-          <text x="6.5" y="13.5" text-anchor="middle" fill="#fff" font-size="6" font-weight="bold">&#9733;</text>
-          <!-- Southern Cross -->
-          <text x="20" y="4" text-anchor="middle" fill="#fff" font-size="3.5">&#9733;</text>
-          <text x="23" y="7" text-anchor="middle" fill="#fff" font-size="3">&#9733;</text>
-          <text x="20" y="11" text-anchor="middle" fill="#fff" font-size="3.5">&#9733;</text>
-          <text x="17" y="8" text-anchor="middle" fill="#fff" font-size="3">&#9733;</text>
-          <text x="21.5" y="9" text-anchor="middle" fill="#fff" font-size="2">&#9733;</text>
-        </svg>
-      </div>
-      AU Economy
+    <a class="logo" href="index.html">
+      <span class="mark">AU</span>
+      <span>The Daily Digest</span>
+      <span class="edition">Economy</span>
     </a>
-    <nav class="nav-links">
-      <a href="finance.html" class="active">Dashboard</a>
-      <a href="index.html">BD News</a>
+    <nav class="nav-links" aria-label="Sections">
+      <a href="index.html">Headlines</a>
+      <a href="finance.html" class="active">AU Economy</a>
     </nav>
     <div class="masthead-right">
       <span class="last-updated" id="last-updated">—</span>
-      <button class="btn-icon" id="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" id="theme-icon">
-          <circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
-        </svg>
+      <button class="btn-icon" id="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" id="theme-icon" aria-hidden="true"></svg>
       </button>
-      <button id="refresh-btn" onclick="loadData()">
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+      <button id="refresh-btn" onclick="loadData()" aria-label="Refresh data">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
           <polyline points="23 4 23 10 17 10"/>
           <polyline points="1 20 1 14 7 14"/>
           <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
@@ -231,7 +259,7 @@ footer a:hover{text-decoration:underline}
 </div>
 
 <footer>
-  Australian Economy Dashboard · Data via RBA, ABS & Yahoo Finance · Refreshed every 3 hours · <a href="index.html">Bangladesh News</a>
+  The Daily Digest · Australian Economy · Data via RBA, ABS &amp; Yahoo Finance · Refreshed every 3 hours · <a href="index.html">Back to Headlines</a>
 </footer>
 
 <script>
@@ -241,19 +269,27 @@ let loading = false;
 let activeTab = 'all';
 
 // ── Theme ──
-function toggleTheme() {
-  document.body.classList.toggle('dark');
-  const isDark = document.body.classList.contains('dark');
-  localStorage.setItem('au-theme', isDark ? 'dark' : 'light');
-  document.getElementById('theme-icon').innerHTML = isDark
-    ? '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>'
-    : '<circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>';
-  // Re-render charts with updated colors
-  if (financeData) renderCharts(financeData);
+const SUN_ICON  = '<circle cx="12" cy="12" r="4.5"/><path d="M12 1.5v2M12 20.5v2M3.6 3.6l1.4 1.4M19 19l1.4 1.4M1.5 12h2M20.5 12h2M3.6 20.4L5 19M19 5l1.4-1.4"/>';
+const MOON_ICON = '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>';
+
+function isDarkTheme() {
+  return document.documentElement.getAttribute('data-theme') === 'dark';
 }
-if (localStorage.getItem('au-theme') === 'dark') {
-  document.body.classList.add('dark');
-  document.getElementById('theme-icon').innerHTML = '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>';
+function applyThemeIcon() {
+  document.getElementById('theme-icon').innerHTML = isDarkTheme() ? SUN_ICON : MOON_ICON;
+}
+function toggleTheme() {
+  document.documentElement.setAttribute('data-theme', isDarkTheme() ? 'light' : 'dark');
+  localStorage.setItem('news-theme', isDarkTheme() ? 'dark' : 'light');
+  applyThemeIcon();
+  if (financeData) renderDashboard(financeData);
+}
+applyThemeIcon();
+
+function themeColor(dir) {
+  const dark = isDarkTheme();
+  if (dir === 'up')   return dark ? '#54c78e' : '#146c42';
+  return dark ? '#e4726b' : '#bf3535';
 }
 
 // ── Formatting ──
@@ -349,11 +385,11 @@ function renderDashboard(d) {
     { label:'ASX 200', icon:'&#9652;', iconBg:'var(--green-dim)', color:'var(--green)',
       value: d.asx200?.value != null ? fmtNum(Math.round(d.asx200.value)) : '—',
       change: changeHTML(d.asx200?.changePercent, '%'), sub: 'S&P/ASX 200 Index',
-      sparkData: d.asx200?.history?.map(p=>p.close), sparkColor: (d.asx200?.changePercent||0)>=0?'#1a7a4a':'#c23a3a' },
+      sparkData: d.asx200?.history?.map(p=>p.close), sparkColor: (d.asx200?.changePercent||0)>=0?themeColor('up'):themeColor('down') },
     { label:'AUD / USD', icon:'$', iconBg:'var(--blue-dim)', color:'var(--blue)',
       value: d.audusd?.value != null ? d.audusd.value.toFixed(4) : '—',
       change: changeHTML(d.audusd?.changePercent, '%'), sub: 'Exchange Rate',
-      sparkData: d.audusd?.history?.map(p=>p.close), sparkColor: (d.audusd?.changePercent||0)>=0?'#1a7a4a':'#c23a3a' },
+      sparkData: d.audusd?.history?.map(p=>p.close), sparkColor: (d.audusd?.changePercent||0)>=0?themeColor('up'):themeColor('down') },
     { label:'RBA Cash Rate', icon:'%', iconBg:'var(--gold-dim)', color:'var(--gold)',
       value: d.rbaRate?.value != null ? d.rbaRate.value.toFixed(2)+'%' : '—',
       change: changeHTML(d.rbaRate?.change, ' bps'), sub: escapeHTML(d.rbaRate?.asOf || '') },
@@ -485,9 +521,16 @@ function renderCharts(d) {
   Object.values(charts).forEach(c => c.destroy && c.destroy());
   charts = {};
 
-  const isDark = document.body.classList.contains('dark');
-  const gridColor = isDark ? '#333' : '#edeade';
-  const tickColor = isDark ? '#8a8578' : '#7a7568';
+  if (typeof Chart === 'undefined') {
+    document.querySelectorAll('.chart-wrap').forEach(el => {
+      el.innerHTML = '<div class="chart-unavailable">Charts unavailable — the charting library could not be loaded.</div>';
+    });
+    return;
+  }
+
+  const isDark = isDarkTheme();
+  const gridColor = isDark ? '#2c302b' : '#eae6da';
+  const tickColor = isDark ? '#8e8a7d' : '#7d7768';
 
   const baseOpts = {
     responsive: true,
@@ -496,10 +539,10 @@ function renderCharts(d) {
     plugins: {
       legend: { display: false },
       tooltip: {
-        backgroundColor: isDark ? '#333' : '#fff',
-        titleColor: isDark ? '#e8e6e1' : '#1a1a18',
-        bodyColor: isDark ? '#e8e6e1' : '#1a1a18',
-        borderColor: isDark ? '#444' : '#ddd9cf',
+        backgroundColor: isDark ? '#1d201c' : '#ffffff',
+        titleColor: isDark ? '#eeece5' : '#17170f',
+        bodyColor: isDark ? '#eeece5' : '#17170f',
+        borderColor: isDark ? '#3d423b' : '#d2ccbc',
         borderWidth: 1,
         padding: 10,
         titleFont: { family: 'DM Mono', size: 11 },
@@ -521,8 +564,9 @@ function renderCharts(d) {
     const labels = historyData.map(p => { const d = p.date.split('-'); return d[2]+'/'+d[1]; });
     const values = historyData.map(p => p.close);
     const isUp = values[values.length-1] >= values[0];
-    const color = isUp ? '#1a7a4a' : '#c23a3a';
-    const bg = isUp ? 'rgba(26,122,74,.06)' : 'rgba(194,58,58,.06)';
+    const color = isUp ? themeColor('up') : themeColor('down');
+    const bg = isUp ? (isDark ? 'rgba(84,199,142,.10)' : 'rgba(20,108,66,.07)')
+                    : (isDark ? 'rgba(228,114,107,.10)' : 'rgba(191,53,53,.07)');
     return new Chart(ctx, {
       type: 'line',
       data: { labels, datasets: [{ data: values, borderColor: color, backgroundColor: bg, fill: true, tension: .35, pointRadius: 0, pointHoverRadius: 4, pointHoverBackgroundColor: color, borderWidth: 2 }] },
