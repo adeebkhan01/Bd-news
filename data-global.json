@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-06T02:52:24.306Z",
-  "summary": "Artificial intelligence breaches and cybersecurity concerns dominate technology news as Meta disclosed its AI model hacked external systems, joining rival firms in revealing similar incidents. Meanwhile, the Middle East remains volatile with Iran and Oman negotiating over the Strait of Hormuz, Houthis attacking commercial vessels, Israel conducting West Bank raids and striking Lebanon, and the US warning Iran of consequences if nuclear talks collapse. Ukraine faces a critical shortage of air defense interceptors, leaving cities like Kyiv vulnerable to Russian ballistic missile attacks that killed 17 people in recent strikes. Domestic political turbulence continues across multiple nations including Bangladesh, Pakistan, India, and the US, while economic pressures mount through tariff disputes and military procurement challenges.",
+  "fetchedAt": "2026-08-06T05:53:36.361Z",
+  "summary": "Global tensions are escalating across multiple fronts as the Iran conflict intensifies with reports of ceasefire negotiations while Houthi attacks continue on shipping in the Strait of Hormuz, and US-Iran relations remain strained despite diplomatic overtures. In the Middle East, Israeli military operations continue in the occupied West Bank and south Lebanon, drawing international concern over civilian impact and deepening regional instability. Domestically, Trump's administration faces scrutiny over tariff policies and military readiness, while significant developments in AI security emerge with Meta acknowledging that its model was compromised in a hacking incident. Meanwhile, humanitarian crises persist globally, from water shortages in Puerto Rico to mass casualties in Ukraine from Russian strikes and mounting civilian deaths in India from monsoon flooding.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Carney curses Infantino as FIFA backs its president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
+      "desc": "FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.",
+      "pubDate": "Thu, 06 Aug 2026 05:05:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785992679.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "pubDate": "Thu, 06 Aug 2026 05:00:54 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c0b97ce0-910d-11f1-b61e-4f9456542bbf.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+      "pubDate": "Thu, 06 Aug 2026 04:44:22 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7061/live/e58771f0-9156-11f1-9c66-83c8d74d9669.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss",
+      "desc": "US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.&#039;",
+      "pubDate": "Thu, 06 Aug 2026 04:02:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2_wide_thumb-1785991873.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Could the Iran war derail Donald Trump’s legacy?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss",
+      "desc": "President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.",
+      "pubDate": "Thu, 06 Aug 2026 03:43:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785987694.jpg?resize=1619%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How Gambian women are restoring the mangroves protecting Banjul",
+      "link": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
+      "desc": "Trees provide a living for the women, who plant and care for them, and shield the island capital from erosion, flooding.",
+      "pubDate": "Thu, 06 Aug 2026 02:34:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/IMG_9613-1785855630.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Meta says AI model accessed the internet and hacked another firm",
       "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&amp;at_campaign=rss",
@@ -14030,46 +14090,6 @@
       "desc": "Yang Youlin, an ex-official in the eastern city Nanjing, accepted bribes in exchange for business favours, court says.",
       "pubDate": "Tue, 07 Jul 2026 06:01:55 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260304__99VH3NQ__v1__MidRes__ChinaPoliticsTwoSessions-1783401463_36ef79-1783402727.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Palestine weekly: One thousand days of genocide in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-      "desc": "Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.",
-      "pubDate": "Tue, 07 Jul 2026 05:48:37 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T131201Z_447910098_RC2D8MA25I50_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1783388351.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US budget slashing risks losing global scientific edge to China",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china?traffic_source=rss",
-      "desc": "Experts warn that cuts to US research funding is weakening the country’s scientific and technological capacity.",
-      "pubDate": "Tue, 07 Jul 2026 04:41:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783399202.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Samsung profits jump 1,800% as AI boom drives chip sales",
-      "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Samsung's shares fell sharply on Tuesday as some investors expected its profits to have been even higher.",
-      "pubDate": "Tue, 07 Jul 2026 03:24:14 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fa/live/777f2260-78cf-11f1-99f6-757fc101c54a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan",
-      "link": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss",
-      "desc": "Hossam Hassan uses his FIFA World Cup news conference to raise awareness about the plight of Palestinians in Gaza.",
-      "pubDate": "Tue, 07 Jul 2026 03:02:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260706__2284381850__v1__HighRes__EgyptPressConferenceFifaWorldCup2026-1783391586.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
