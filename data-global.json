@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-06T05:53:36.361Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Iran conflict intensifies with reports of ceasefire negotiations while Houthi attacks continue on shipping in the Strait of Hormuz, and US-Iran relations remain strained despite diplomatic overtures. In the Middle East, Israeli military operations continue in the occupied West Bank and south Lebanon, drawing international concern over civilian impact and deepening regional instability. Domestically, Trump's administration faces scrutiny over tariff policies and military readiness, while significant developments in AI security emerge with Meta acknowledging that its model was compromised in a hacking incident. Meanwhile, humanitarian crises persist globally, from water shortages in Puerto Rico to mass casualties in Ukraine from Russian strikes and mounting civilian deaths in India from monsoon flooding.",
+  "fetchedAt": "2026-08-06T08:43:10.454Z",
+  "summary": "Global tensions are escalating on multiple fronts, with conflicts in the Middle East intensifying as Iran and the United States edge closer to a potential deal while Israel conducts operations in the West Bank and strikes Lebanon, and Russia continues devastating attacks on Ukrainian cities amid warnings of critical weapons shortages. Political upheaval is reshaping several nations, including Bangladesh where former Prime Minister Hasina plans a December return following unrest that spilled into attacks on political figures, while India faces youth-led protests weakening Prime Minister Modi's standing. Technological and economic developments are reshaping industries, with Meta's AI systems revealing serious security vulnerabilities through unauthorized internet access and hacking, SpaceX facing stock turbulence after its first quarterly report, and Trump's tariff policies generating billions in refunds. Environmental crises are compounding pressures globally, from severe droughts affecting agriculture and water supplies in Puerto Rico and elsewhere, to efforts in West Africa to restore critical mangrove ecosystems protecting vulnerable coastal communities.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Why is France developing a new nuclear strategy?",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+      "desc": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
+      "pubDate": "Thu, 06 Aug 2026 08:17:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/MaliProject-Force-Wide-1786004215.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+      "pubDate": "Thu, 06 Aug 2026 08:15:16 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bc/live/e97bc9b0-916e-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
+      "desc": "Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.",
+      "pubDate": "Thu, 06 Aug 2026 07:34:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-05T143105Z_868960534_RC2ESMAZR4J7_RTRMADP_3_BANGLADESH-POLITICS-HASINA-1786000306.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "A US proposal for missile defense that’s been tried before",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss",
+      "desc": "What is a Golden Dome, and why does Donald Trump want one?",
+      "pubDate": "Thu, 06 Aug 2026 06:51:27 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Project-Force-Wide-1786004284.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US military families face deportation after immigration protection ends",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
+      "desc": "The spouses and parents of US service members have been reportedly detained or deported.",
+      "pubDate": "Thu, 06 Aug 2026 06:09:50 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785996542.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Winemakers prosper but veg farms wilt in the drought",
+      "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Growers in the West of England search for new crops to grow in a changing climate.",
+      "pubDate": "Thu, 06 Aug 2026 05:19:40 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81de/live/87127c20-90d7-11f1-a5b9-331adf7bef90.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Carney curses Infantino as FIFA backs its president",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
@@ -113,6 +173,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "'I've had to Botox my CV': Are AI recruitment tools affecting women's careers?",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Are AI recruitment tools disadvantaging women who are seeking to return to the workplace?",
+      "pubDate": "Wed, 05 Aug 2026 23:50:55 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f4/live/02ae7840-916c-11f1-8d49-afb9c19de776.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "AI or real? BBC analyses viral China disaster videos",
@@ -693,6 +763,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Italy: Garbage workers help woman find €1 million jackpot",
+      "link": "https://www.dw.com/en/italy-garbage-workers-help-woman-find-€1-million-jackpot/a-78237944?maca=en-rss-en-eu-2092-rdf",
+      "desc": "A woman who won €1 million mistakenly threw her lottery ticket in a trash bin in Bitonto, southern Italy — prompting her local sanitation company to launch an hourslong search.",
+      "pubDate": "2026-08-04T19:33:00Z",
+      "img": "https://static.dw.com/image/78238065_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Kazakhstan releases first tiger to restore extinct species",
@@ -13993,106 +14073,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "After Iran war upheaval, global shipping eyes return to status quo",
-      "link": "https://www.aljazeera.com/economy/2026/7/7/after-iran-war-upheaval-global-shipping-eyes-return-to-status-quo?traffic_source=rss",
-      "desc": "Industry known for its resilience is likely to emerge from war relatively unchanged, analysts say.",
-      "pubDate": "Tue, 07 Jul 2026 08:31:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26124419258830-1783382378_4d7b33-1783392578.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Explosions in Damascus as French president visits",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
-      "desc": "Explosions in Damascus as French president visits",
-      "pubDate": "Tue, 07 Jul 2026 08:28:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783412882.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine?traffic_source=rss",
-      "desc": "As Russia faces challenges on the frontlines and at home, President Putin&#039;s backers decry Kyiv&#039;s Western allies.",
-      "pubDate": "Tue, 07 Jul 2026 08:22:39 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-04T051849Z_8299436_RC2T6MAFW0BO_RTRMADP_3_UKRAINE-CRISIS-KOSTIANTYNIVKA-CAPTURE-1783374126-1-1783414738.jpg?resize=1920%2C1112",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why Volkswagen's huge workforce became a costly burden",
-      "link": "https://www.dw.com/en/why-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-bus-2091-rdf",
-      "desc": "The struggling German carmaker plans to cut up to 100,000 jobs from its 630,000-strong workforce. How did VW's headcount get so bloated, and will the cuts be enough to survive the Chinese EV onslaught",
-      "pubDate": "2026-07-07T08:21:00Z",
-      "img": "https://static.dw.com/image/77785907_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "How Volkswagen's huge workforce became a liability",
-      "link": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-bus-2091-rdf",
-      "desc": "The struggling German carmaker plans to cut up to 100,000 jobs from its 630,000-strong workforce. How did VW's headcount get so bloated, and will the cuts be enough to survive the Chinese EV onslaught",
-      "pubDate": "2026-07-07T08:21:00Z",
-      "img": "https://static.dw.com/image/77785907_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Volunteers racing to save surplus Silverstone food",
-      "link": "https://www.bbc.co.uk/news/articles/czrxx44e2ndo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A Towcester community larder is collecting produce from the circuit following the Grand Prix.",
-      "pubDate": "Tue, 07 Jul 2026 07:55:32 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e0/live/f80c6390-791d-11f1-b02f-7384b6bb008f.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-      "desc": "Defence spending and support for Ukraine&#039;s military needs are expected to top the agenda of summit in Turkish capital.",
-      "pubDate": "Tue, 07 Jul 2026 07:09:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26188295673987-1783412657.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-      "link": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
-      "desc": "The far-right leader could be prevented from running for president in 2027 if embezzlement charges are upheld.",
-      "pubDate": "Tue, 07 Jul 2026 06:15:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a465ac2c782-1782995650_14bc3c-1783077704.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-      "link": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-      "desc": "Trump warns NATO members ahead of summit, as European nations prepare to announce record defence spending.",
-      "pubDate": "Tue, 07 Jul 2026 06:12:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T125133Z_203062959_RC2C8MAB6QPG_RTRMADP_3_NATO-SUMMIT-1783344237.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "China sentences former local official to death in $324m corruption case",
-      "link": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
-      "desc": "Yang Youlin, an ex-official in the eastern city Nanjing, accepted bribes in exchange for business favours, court says.",
-      "pubDate": "Tue, 07 Jul 2026 06:01:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260304__99VH3NQ__v1__MidRes__ChinaPoliticsTwoSessions-1783401463_36ef79-1783402727.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
