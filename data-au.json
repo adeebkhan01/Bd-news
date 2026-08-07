@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-07T10:03:53.125Z",
-  "summary": "Australia's news cycle today centres on serious crime, with charges laid in multiple violent incidents including a murder case involving teenagers and allegations against prominent figures including media personality Alan Jones. Major regulatory action is underway as the ACCC investigates food labelling practices and Consumer Affairs Victoria pursues closure of discount retailer Panda Mart, while infrastructure disruptions continue to affect Melbourne and Perth. Weather warnings are in place for a powerful cold front bringing heavy rain and dangerous winds across the country. International developments include Trump's new tariffs potentially affecting Australian solar panel and microchip supply chains.",
+  "fetchedAt": "2026-08-07T13:12:50.587Z",
+  "summary": "Australia's news today is dominated by crime and law enforcement issues, with multiple reports of violent attacks including alleged hit-and-runs, assaults, and a suspected murder-suicide. Several high-profile cases are making headlines, including allegations against broadcaster Alan Jones and an ongoing scandal involving Border Force's secret spy unit. On the economic front, the ACCC has launched inquiries into food labelling and Panda Mart's operations, while weather warnings have been issued for a powerful cold front bringing heavy rain and dangerous winds. International stories featuring Australia include commentary on the Trump administration's tariff policies affecting solar panels and microchips, and ongoing developments in the Virginia Giuffre legal case.",
   "sources": [
     {
       "id": "abcnews",
@@ -30,6 +30,56 @@
   ],
   "articles": [
     {
+      "title": "Two charged, stolen car recovered after Heidelberg West alleged hit-run",
+      "link": "https://www.smh.com.au/national/victoria/two-charged-stolen-car-recovered-after-heidelberg-west-alleged-hit-run-20260807-p60miz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 68-year-old man remains in a critical condition nearly a week after a woman allegedly hit him with his own car. Police were allegedly nearly run over while attempting to speak to the accused.",
+      "pubDate": "Fri, 07 Aug 2026 22:38:24 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.2577%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/b968dd6feea21fc2072bd3f23b7b3c723cc13302a2dd6e7176cb087bc6e70c44",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Head wins top gong at low-key event",
+      "link": "https://www.smh.com.au/national/head-wins-top-gong-at-low-key-event-20260807-p60mit.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Travis Head takes out the Allan Border Medal at a closed-door function held by Cricket Australia.",
+      "pubDate": "Fri, 07 Aug 2026 21:26:32 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c8bb1abffa06a9544add10624c5623aaeab606a5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Bari Weiss’ overhaul of CBS News has been rocky. But her 60 Minutes revamp will be the ultimate test",
+      "link": "https://www.theguardian.com/us-news/2026/aug/07/bari-weiss-cbs-news-60-minutes",
+      "desc": "<p>Ten months into her tenure as editor in chief, Weiss’ biggest – and riskiest – bet is getting closer to taking flight</p><p>Bari Weiss is 10 months into her tenure as editor-in-chief of CBS News, b",
+      "pubDate": "Fri, 07 Aug 2026 11:00:17 GMT",
+      "img": "https://i.guim.co.uk/img/media/1a88926aedf4060eb52b45ebc1d0c06037c5187d/304_0_2880_2304/master/2880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Player at the centre of AFL club’s concussion deal revealed",
+      "link": "https://www.smh.com.au/national/player-at-the-centre-of-afl-club-s-concussion-deal-revealed-20260807-p60mie.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The player at the centre of an AFL club’s secret concussion deal has been revealed as Geelong’s Jake Kolodjashnij.",
+      "pubDate": "Fri, 07 Aug 2026 20:32:14 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2a6c567f5f6efebbfd31091cf92df160558fd571",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Woman jailed for setting fire to cemetery chapel",
+      "link": "https://www.smh.com.au/national/woman-jailed-for-setting-fire-to-cemetery-chapel-20260807-p60mif.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A woman who set fire to a chapel at a cemetery has been jailed, a judge sentencing her to five years behind bars.",
+      "pubDate": "Fri, 07 Aug 2026 20:31:54 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e2121ea674797c4f6945ef05b73c9e55977d6b44",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
       "title": "Prestige Brisbane fine-diner, accused of overcharging, shuts its doors",
       "link": "https://www.smh.com.au/national/queensland/prestige-brisbane-fine-diner-accused-of-overcharging-shuts-its-doors-20260807-p60mg0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
       "desc": "Restaurant Dan Arnold did not open its doors for service on Friday, and multiple calls to its owner and the Fortitude Valley establishment went unanswered.",
@@ -38,6 +88,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities",
+      "desc": "<p>The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress</p><p>The Trump administration is waging an unprecedented war on institu",
+      "pubDate": "Fri, 07 Aug 2026 10:00:14 GMT",
+      "img": "https://i.guim.co.uk/img/media/cd84f8fbf0752e6f0a0d0b23fc044d00695dc8e4/333_0_3335_2668/master/3335.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Sydney salon owner charged after men allegedly drugged, assaulted",
@@ -35365,106 +35425,6 @@
       "desc": "<p>Brent crude spikes to a daily high of $79.26, gas prices rise, stock markets slide and government bond yields surge on inflation and rate hike fears</p><ul><li><p><a href=\"https://www.theguardian.c",
       "pubDate": "Wed, 08 Jul 2026 13:15:05 GMT",
       "img": "https://i.guim.co.uk/img/media/74e1a8c43d8793f32601975f1df2dea8c5049d6d/280_0_3345_2676/master/3345.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "The Hill is capitalizing on reader interest in the second Trump administration",
-      "link": "https://www.theguardian.com/media/2026/jul/08/the-hill-insider-trump-bill-sammon",
-      "desc": "<p>The Washington-based publication is announcing plans for a new digital subscription product called the Hill Insider</p><p>The most-visited digital-first news publication dedicated to politics wasn’",
-      "pubDate": "Wed, 08 Jul 2026 13:00:32 GMT",
-      "img": "https://i.guim.co.uk/img/media/2e53862856b3bc9e7bdc70eb26c0d497325432a3/0_113_3340_2671/master/3340.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Telstra hit by fresh Triple Zero fault hours after outage fixed",
-      "link": "https://www.smh.com.au/technology/telstra-hit-by-fresh-triple-zero-fault-hours-after-outage-fixed-20260708-p60dsp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
-      "desc": "The telco says a “secondary issue” is stopping some Triple Zero calls from connecting, hours after it declared the day’s outage resolved.",
-      "pubDate": "Wed, 08 Jul 2026 22:09:49 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2735%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1063e830cba1ddb92e889ae21775f99d871c94f0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Progress against cancer not shared by poorer countries, WHO report finds",
-      "link": "https://www.theguardian.com/global-development/2026/jul/08/health-who-global-persistent-inequities-progress-cancer-prevention-diagnosis-treatment-care",
-      "desc": "<p>‘Persistent’ inequities found to exist in access to prevention, diagnosis, treatment and care, annual global review says </p><p>Remarkable scientific progress against cancer has changed very little",
-      "pubDate": "Wed, 08 Jul 2026 12:00:32 GMT",
-      "img": "https://i.guim.co.uk/img/media/b36a2f83e6e13d2ccc1f3187fd10398472c4fbd6/499_0_3333_2667/master/3333.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Items found behind a Georgia Cracker Barrel lead to charges in 1985 Ohio murder",
-      "link": "https://www.theguardian.com/us-news/2026/jul/08/modern-forensic-evidence-1985-georgia-murder",
-      "desc": "<p>Modern forensic analysis leads to arrest in murder of traveling salesman John Warren, authorities say</p><p>Items that were found discarded behind a Cracker Barrel restaurant in <a href=\"https://ww",
-      "pubDate": "Wed, 08 Jul 2026 12:00:31 GMT",
-      "img": "https://i.guim.co.uk/img/media/ab6e76e887f980b57ac611276eb4f76504f5dcdf/0_0_4690_3752/master/4690.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Trump says Iran ceasefire 'over'",
-      "link": "https://www.smh.com.au/national/trump-says-iran-ceasefire-over-20260708-p60dry.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Donald Trump has said the ceasefire with Iran is 'over' and that it's &#34;just a waste of time&#34; negotiating with Tehran.",
-      "pubDate": "Wed, 08 Jul 2026 21:05:50 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d3a088b8a44ff7bc521dd4688a3668581331aea3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Baby in a critical condition after alleged assault",
-      "link": "https://www.smh.com.au/national/baby-in-a-critical-condition-after-alleged-assault-20260708-p60dsi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An 11-month-old baby is in a critical condition after he was allegedly shaken by a relative.",
-      "pubDate": "Wed, 08 Jul 2026 21:02:44 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/43f0cb7aa38d1ddadc2b8c86f837e5191df8c69b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Unions in Europe press for new worker protections to counter heat stress",
-      "link": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-      "desc": "<p>Climate crisis prompts calls for workplace temperature limits and rights to heat breaks and adjusted working hours</p><p>As Europe’s sweltering summer continues, trades unions are mounting a push f",
-      "pubDate": "Wed, 08 Jul 2026 11:00:52 GMT",
-      "img": "https://i.guim.co.uk/img/media/a4e13cab039decd986f6b82d2ccc5b9ce6faa431/190_362_1759_1408/master/1759.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "AI to the Max",
-      "link": "https://www.smh.com.au/national/nsw/ai-to-the-max-20260708-p60di9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "And a lecturer who’s a slave to the piles.",
-      "pubDate": "Wed, 08 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_45/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Severn Trent spared Ofwat fine after ‘serious’ waterwaste and sewage failures",
-      "link": "https://www.theguardian.com/business/2026/jul/08/severn-trent-spared-ofwat-fine-serious-waterwaste-sewage-failures",
-      "desc": "<p>Regulator found ‘unacceptable’ breaches in water company’s handling of drainage and sewage network</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/08/oil-prices-rise-fresh",
-      "pubDate": "Wed, 08 Jul 2026 10:44:08 GMT",
-      "img": "https://i.guim.co.uk/img/media/5d59e6123c72df4aa4e72748c0e5c98a272e16c0/268_0_2665_2133/master/2665.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-      "link": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-      "desc": "<p>Experts warn that some marine species are at risk of ‘mass mortality events’ in ever-warming oceans</p><p>UK waters are being hit with an “extreme” marine heatwave, the Met Office has said, as scie",
-      "pubDate": "Wed, 08 Jul 2026 10:30:07 GMT",
-      "img": "https://i.guim.co.uk/img/media/03e45e8d59d2e7b985f7d2c51adc764f628b1ef7/86_0_4681_3744/master/4681.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
