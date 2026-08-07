@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-07T15:59:47.243Z",
-  "summary": "The global landscape is marked by escalating tensions in the Middle East, with concerns mounting over potential conflict between the US and Iran as Trump signals military posture while diplomacy remains uncertain, while Houthi attacks in Yemen and Saudi-led coalition responses hint at broader regional instability. Domestically, the Trump administration is pursuing aggressive policy shifts including tariffs on Chinese semiconductors, restrictions on birthright citizenship, and a deal to halt German offshore wind projects. Latin America sees Mexico addressing security crises in key agricultural regions and restoring ties with Peru, while humanitarian emergencies loom in Sudan and the Democratic Republic of Congo where conflict and disease threaten vulnerable populations. These developments underscore a period of rapid geopolitical realignment, protectionist economic measures, and deepening humanitarian crises competing for international attention.",
+  "fetchedAt": "2026-08-07T19:02:31.240Z",
+  "summary": "Global tensions are escalating across multiple fronts, with a new Saudi-Turkish-Pakistani defence pact signalling regional realignment amid Iran threats, while the US pursues diplomatic channels and confronts China through chip export restrictions and tariffs. The conflict landscape is shifting as Houthi attacks intensify in Yemen and the UN calls for de-escalation in Ukraine, while Trump administration officials pursue aggressive international diplomacy with sanctions against Cuban officials and immigration restrictions. Economic headwinds are mounting with unexpected US job losses in July and a major German wind energy deal collapse, alongside ongoing humanitarian crises including an unprecedented Ebola outbreak in the Democratic Republic of Congo and Sudan's displacement of children born without legal identity. Regional diplomatic developments include Mexico and Peru restoring relations after tensions and Armenia's church leader facing trial as government friction deepens.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,11 +25,41 @@
   ],
   "articles": [
     {
+      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+      "desc": "Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.",
+      "pubDate": "Fri, 07 Aug 2026 16:42:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786120943.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US labour market sheds jobs in July as labour force participation slumps",
+      "link": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+      "desc": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
+      "pubDate": "Fri, 07 Aug 2026 16:25:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-04-07T222947Z_1537522823_RC2U90ACAN62_RTRMADP_3_USA-ECONOMY-JOBS-1786114500.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
       "pubDate": "Fri, 07 Aug 2026 15:38:28 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe5/live/40d88be0-926d-11f1-9f0c-8d4ddef91df6.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Goodwin considers selling part of defence business",
+      "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+      "pubDate": "Fri, 07 Aug 2026 15:22:51 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1769/live/f8457c70-926d-11f1-9f0c-8d4ddef91df6.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -403,6 +433,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Drought threatens power supplies in Danube countries",
+      "link": "https://www.dw.com/en/drought-threatens-power-supplies-in-danube-countries/a-78269916?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Droughts, heat and falling water levels in the Danube are hitting central and southeastern Europe hard. Hungary and Romania are experiencing an energy crisis — whereas countries like Bulgaria are bett",
+      "pubDate": "2026-08-06T19:55:00Z",
+      "img": "https://static.dw.com/image/78174948_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
@@ -14233,76 +14273,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
-      "link": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Nato's secretary general insists there is \"unity\" among Nato members, but the BBC's security correspondent asks if that is really the case.",
-      "pubDate": "Wed, 08 Jul 2026 18:56:36 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ed7/live/81fb3520-7afb-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
-      "desc": "More than a million mourners packed streets in Najaf, Iraq for Iranian Supreme Leader Ali Khamenei’s funeral procession.",
-      "pubDate": "Wed, 08 Jul 2026 18:51:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783535551.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss",
-      "desc": "US President Donald Trump declared himself Iran’s ‘No. 1 target’ after claiming their leaders have been eliminated",
-      "pubDate": "Wed, 08 Jul 2026 18:33:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783535552.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "France returns Syrian artefacts it’s held since civil war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/france-returns-syrian-artefacts-its-held-since-civil-war?traffic_source=rss",
-      "desc": "France has returned 23 Syrian antique artefacts it’s held since the outbreak of the 2011 civil war.",
-      "pubDate": "Wed, 08 Jul 2026 17:55:38 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-18.49.02-1783533184.png?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-      "link": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
-      "desc": "Trump says US will &#039;show&#039; Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.",
-      "pubDate": "Wed, 08 Jul 2026 17:24:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4e729a28-1783526042.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-      "link": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-      "desc": "Military spokesman warns fighters &#039;we will chase you, we will hurt you&#039; amid the spate of deadly ambushes.",
-      "pubDate": "Wed, 08 Jul 2026 16:07:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26188385300813-1783520007.jpg?resize=1920%2C1405",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
-      "link": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "US President Donald Trump has used the Nato summit to criticise the lack of support for his war on Iran, and revive his interest in taking over Greenland.",
-      "pubDate": "Wed, 08 Jul 2026 16:05:37 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5241/live/c1aca560-7ae6-11f1-aedf-4d9ee0413739.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
