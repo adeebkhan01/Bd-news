@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-07T13:13:06.187Z",
-  "summary": "Global tensions are escalating across multiple fronts, with the UN condemning both sides in the Ukraine conflict while Trump signals imminent negotiations and warns Iran that conflict cannot continue much longer, creating a complex diplomatic landscape. Regional conflicts are intensifying from the Middle East to Africa, as Houthi forces mount major strikes against Yemeni government forces, Sudan faces an unprecedented Ebola outbreak amid ongoing war that threatens cultural heritage, and Israeli operations in the West Bank continue to draw international scrutiny. Separately, the US is pursuing aggressive economic and diplomatic strategies including tariffs on Chinese chip materials, military pacts between Saudi Arabia, Turkey and Pakistan, and halting offshore wind projects, while domestically Trump is advancing controversial executive orders on immigration and citizenship. Climate catastrophe is striking hard with South Korea experiencing historic heatwaves that have forced airport shelters, while technological breakthroughs and emerging health risks—from AI-created viruses to concerns about lithium-ion batteries in aviation—signal the complex challenges defining modern geopolitics.",
+  "fetchedAt": "2026-08-07T15:59:47.243Z",
+  "summary": "The global landscape is marked by escalating tensions in the Middle East, with concerns mounting over potential conflict between the US and Iran as Trump signals military posture while diplomacy remains uncertain, while Houthi attacks in Yemen and Saudi-led coalition responses hint at broader regional instability. Domestically, the Trump administration is pursuing aggressive policy shifts including tariffs on Chinese semiconductors, restrictions on birthright citizenship, and a deal to halt German offshore wind projects. Latin America sees Mexico addressing security crises in key agricultural regions and restoring ties with Peru, while humanitarian emergencies loom in Sudan and the Democratic Republic of Congo where conflict and disease threaten vulnerable populations. These developments underscore a period of rapid geopolitical realignment, protectionist economic measures, and deepening humanitarian crises competing for international attention.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "pubDate": "Fri, 07 Aug 2026 15:38:28 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe5/live/40d88be0-926d-11f1-9f0c-8d4ddef91df6.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+      "pubDate": "Fri, 07 Aug 2026 14:03:55 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb4/live/44eb8470-925f-11f1-b9ff-37ae3aba3894.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Armenian Apostolic Church leader faces trial as feud with PM deepens",
+      "link": "https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss",
+      "desc": "Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked.",
+      "pubDate": "Fri, 07 Aug 2026 13:03:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a75c842-1786103874.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
+      "desc": "The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.",
+      "pubDate": "Fri, 07 Aug 2026 12:44:41 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-mecca-1786106622.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
@@ -90,6 +130,16 @@
       "desc": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
       "pubDate": "Fri, 07 Aug 2026 10:52:34 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T164250Z_37060657_RC2GKMAKXRYH_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1785362471.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+      "link": "https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+      "desc": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
+      "pubDate": "Fri, 07 Aug 2026 10:00:56 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T113314Z_1788987410_RC2IKLAVXPE4_RTRMADP_3_IRAN-CRISIS-GULF-CHINA-1786093923.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
@@ -14253,66 +14303,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Hungary public media reform begins with black screen apology",
-      "link": "https://www.dw.com/en/hungary-public-media-reform-begins-with-black-screen-apology/a-77880569?maca=en-rss-en-eu-2092-rdf",
-      "desc": "People tuning in to public service media in Hungary on Tuesday were greeted by a black screen and an apology. Peter Magyar has begun dismantling one of Viktor Orban's most potent tools of power.",
-      "pubDate": "2026-07-08T15:56:00Z",
-      "img": "https://static.dw.com/image/77868102_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
-      "link": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
-      "desc": "Travel stocks plunged as fuel costs rise, United Airlines fell 3 percent, while energy stocks saw gains.",
-      "pubDate": "Wed, 08 Jul 2026 15:53:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4e5784b9a6-1783519108.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Zelenskyy seeks NATO support as Russia continues attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/zelenskyy-seeks-nato-support-as-russia-continues-attacks?traffic_source=rss",
-      "desc": "At the NATO summit, Ukrainian President Volodymyr Zelenskyy had urged European allies to build missiles.",
-      "pubDate": "Wed, 08 Jul 2026 15:18:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783523894.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
-      "desc": "US President Donald Trump says the US will ‘probably’ carry out another round of strikes on Iran on Wednesday night.",
-      "pubDate": "Wed, 08 Jul 2026 14:20:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/WIDE-THUMB-Trump-says-he-will-hit-Iran-tonight-1783520293.png?resize=1728%2C1080",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why has UK Reform’s Nigel Farage resigned as MP? What happens next?",
-      "link": "https://www.aljazeera.com/news/2026/7/8/why-has-uk-reforms-nigel-farage-resigned-as-mp-what-happens-next?traffic_source=rss",
-      "desc": "Farage faces intense scrutiny over undeclared donations before 2024 elections as he says he&#039;ll run in by-election.",
-      "pubDate": "Wed, 08 Jul 2026 13:53:41 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26188607544079-1783507515_b9c8bb-1783510492.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN inquiry urges release of Palestinian doctor jailed by Israel",
-      "link": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss",
-      "desc": "The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered &#039;severe abuse&#039;.",
-      "pubDate": "Wed, 08 Jul 2026 13:17:47 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260706__B9ER62H__v5__HighRes__IsraelPalestinianConflictProtest-1783513960.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
