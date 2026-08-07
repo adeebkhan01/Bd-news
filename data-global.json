@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-07T19:02:31.240Z",
-  "summary": "Global tensions are escalating across multiple fronts, with a new Saudi-Turkish-Pakistani defence pact signalling regional realignment amid Iran threats, while the US pursues diplomatic channels and confronts China through chip export restrictions and tariffs. The conflict landscape is shifting as Houthi attacks intensify in Yemen and the UN calls for de-escalation in Ukraine, while Trump administration officials pursue aggressive international diplomacy with sanctions against Cuban officials and immigration restrictions. Economic headwinds are mounting with unexpected US job losses in July and a major German wind energy deal collapse, alongside ongoing humanitarian crises including an unprecedented Ebola outbreak in the Democratic Republic of Congo and Sudan's displacement of children born without legal identity. Regional diplomatic developments include Mexico and Peru restoring relations after tensions and Armenia's church leader facing trial as government friction deepens.",
+  "fetchedAt": "2026-08-07T21:42:49.737Z",
+  "summary": "The Middle East faces escalating tensions as Saudi Arabia, Turkey and Pakistan formalize a joint defense pact amid threats from Iran and Houthi attacks on shipping routes, while the US and Europe diverge on naval responses in the Strait of Hormuz. Ukraine continues absorbing Russian attacks and retaliating against civilian infrastructure as Zelenskyy's visit to Serbia signals diplomatic outreach, and the UN calls for de-escalation from both sides. A public rift deepens between Hunter Biden and his father over the presidential pardon, while the US labor market shows unexpected weakness with job losses in July. Secondary concerns include an Ebola outbreak in the DRC exceeding four thousand cases and geopolitical friction spanning from Taiwan's security to Mexico's struggle with organized crime over avocado production.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.",
+      "pubDate": "Fri, 07 Aug 2026 21:32:30 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US appeals court halts White House ballroom construction",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+      "desc": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+      "pubDate": "Fri, 07 Aug 2026 21:18:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786137458.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+      "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
+      "desc": "The Bundibugyo epidemic, ​the world&#039;s second-largest, has been described as the ⁠fastest-spreading on record.",
+      "pubDate": "Fri, 07 Aug 2026 20:41:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a763a20-1786133024.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "pubDate": "Fri, 07 Aug 2026 20:40:56 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Can diplomacy end the conflict in Libya?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+      "desc": "The country has been divided since 2014, with rival governments in the east and west.",
+      "pubDate": "Fri, 07 Aug 2026 20:39:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP23228327590864-1778854060.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+      "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
+      "desc": "The two-judge majority underscored that the president needed congressional authority to move forward with his plans.",
+      "pubDate": "Fri, 07 Aug 2026 20:27:56 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a76399e-1786132894.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukraine's Zelenskyy makes first visit to Russia-friendly Serbia",
+      "link": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Ukrainian President Zelenskyy is making his first visit to Serbia. His host, President Aleksandar Vucic, hopes to score points with the EU, while Zelenskyy seeks more arms from a country that remains ",
+      "pubDate": "2026-08-07T19:34:00Z",
+      "img": "https://static.dw.com/image/78273848_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
+      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+      "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "desc": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.",
+      "pubDate": "Fri, 07 Aug 2026 18:54:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T064100Z_1712290077_RC2USMAD41AB_RTRMADP_3_UKRAINE-CRISIS-ATTACK-BALAKLIIA-1786121512.jpg?resize=1920%2C1367",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
@@ -14190,86 +14270,6 @@
       "desc": "US forces have expanded their military strikes on Iran, after blaming Tehran for breaking the MoU to end the war.",
       "pubDate": "Wed, 08 Jul 2026 22:52:48 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783550993.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
-      "link": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
-      "desc": "President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
-      "pubDate": "Wed, 08 Jul 2026 21:36:02 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4eb0a820-1783541928.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
-      "link": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
-      "pubDate": "Wed, 08 Jul 2026 20:58:10 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd18/live/6993ef10-7b0d-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Former rebel turned government ally proposes a path to peace for Sudan",
-      "link": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss",
-      "desc": "Malik Agar Ayyir has proposed a national dialogue to end the civil war and steer Sudan towards democratic civilian rule.",
-      "pubDate": "Wed, 08 Jul 2026 20:49:15 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2020-08-31T145128Z_290538242_RC22PI9A67BY_RTRMADP_3_SUDAN-DARFUR-1783527205.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump departs NATO summit on older Air Force One",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss",
-      "desc": "Trump departed the NATO summit on an older Air Force One after arriving aboard the new Qatar-gifted aircraft.",
-      "pubDate": "Wed, 08 Jul 2026 20:46:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783543586.jpg?resize=1441%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
-      "link": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
-      "desc": "Former Obama official is expected to run for president in 2028, with speech reflecting shifting Democratic sentiments.",
-      "pubDate": "Wed, 08 Jul 2026 20:40:53 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4e98b9-1783535801.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US says conducting new wave of strikes on Iran as ceasefire falters",
-      "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
-      "desc": "Second night of strikes comes after Trump says ceasefire &#039;over&#039;, suggests talks for lasting peace will continue.",
-      "pubDate": "Wed, 08 Jul 2026 20:40:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4ec882-1783548034.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
-      "pubDate": "Wed, 08 Jul 2026 20:40:11 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a3/live/c995b2c0-7b05-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Five key takeaways from the NATO summit in Ankara",
-      "link": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
-      "desc": "Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support",
-      "pubDate": "Wed, 08 Jul 2026 19:06:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4e95f5a874-1783535093.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
