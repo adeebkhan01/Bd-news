@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-08T01:52:54.661Z",
-  "summary": "Australia faces mounting operational and political challenges today as Sydney Airport grapples with major disruptions affecting over 150 flights, while the government confronts pressure from an anti-corruption watchdog seeking expanded powers to police contractors. Former US diplomat David Brat has been confirmed as the next American ambassador, signaling renewed diplomatic focus, even as domestic issues dominate headlines including the high-profile trial of broadcaster Alan Jones on indecent assault allegations and renewed Labor divisions over gambling policy and migration settings. Economic headwinds are adding to household pressures, with a Queensland mushroom farm closing after 45 years due to soaring costs, reflecting broader struggles faced by Australian families already stretched by inflation and disaster recovery expenses.",
+  "fetchedAt": "2026-08-08T04:12:52.990Z",
+  "summary": "Australia faces mounting domestic pressures on multiple fronts this week, with family violence reaching crisis levels as thousands face isolation without adequate support, while infrastructure and cost-of-living challenges strain communities from airports to family farms. High-profile legal cases dominate the spotlight, including broadcaster Alan Jones facing indecent assault allegations and an AFL player taking responsibility for future brain trauma, reflecting broader accountability concerns. Politically, the government grapples with ongoing gambling reform debates and migration policy divisions within Labor ranks, while internationally, David Brat's appointment as US ambassador and global economic volatility from US intervention signal shifting geopolitical dynamics affecting Australia's strategic interests.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Putting Territory beef 'that tastes like beef' onto menus",
+      "link": "https://www.abc.net.au/news/rural/2026-08-08/family-abattoir-eva-valley-meats-celebrating-10-years/106910274",
+      "desc": "A family-run abattoir in the Northern Territory is celebrating 10 years of business, while another boutique abattoir near Katherine gets ready to supply a new steakhouse.",
+      "pubDate": "Sat, 08 Aug 2026 04:01:21 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/00d2a042ec838121e19bc97c0b5ce752?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=1080&amp;xPos=835&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "‘I just kind of toughed through it’: Annie and thousands of others face family violence alone",
+      "link": "https://www.smh.com.au/national/victoria/i-just-kind-of-toughed-through-it-annie-and-thousands-of-others-face-family-violence-alone-20260805-p60lru.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "As violence against women is again in the spotlight after a spate of killings, new research shows more than 3500 Victorian women a year can’t find services because demand is so high.",
+      "pubDate": "Sat, 08 Aug 2026 13:45:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2024%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_13%2C$y_0/t_crop_custom/q_86%2Cf_auto/361c1716362b6cfbd8e867a5e876b8fde37b1d62",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Walled in’: Bondi seniors sink developer’s six-storey beachfront tower",
+      "link": "https://www.smh.com.au/national/nsw/walled-in-bondi-seniors-sink-developer-s-six-storey-beachfront-tower-20260803-p60kzo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Could one affordable apartment justify a multimillion-dollar Bondi development? A bitter planning fight has reignited debate about the NSW government’s housing agenda.",
+      "pubDate": "Sat, 08 Aug 2026 13:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.1767%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/q_86%2Cf_auto/e14728cf52d7c794beb9b4a85261c3064f2164f23bb8eea3f15c086fa84d88ff",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Melbourne says bye, bye sunshine, hello ‘blustery, rainy’ weather",
+      "link": "https://www.smh.com.au/national/victoria/melbourne-says-bye-bye-sunshine-hello-blustery-rainy-weather-20260808-p60mk3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A succession of cold fronts will be moving across Victoria from late Saturday, bringing wet and windy conditions and snow on the Alps.",
+      "pubDate": "Sat, 08 Aug 2026 13:25:21 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1282703488372093%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/2d5d50e9249b0af11dca1015ef9432dadec24fca",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Property at centre of suspected dog attack was site of earlier tragic death",
+      "link": "https://www.smh.com.au/national/nsw/property-at-centre-of-suspected-dog-attack-was-site-of-earlier-tragic-death-20260808-p60mjz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "It was supposed to be a mecca for a movement of peace and love, but the “Universal Power House” has been the location of two tragic deaths.",
+      "pubDate": "Sat, 08 Aug 2026 13:03:02 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7117%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/ea6246137eeb80df6bb2e27cd84175698bcf0f54b87843888dba779d3dfb84d1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Travellers warned of Sydney Airport delays, more than 150 flights impacted",
       "link": "https://www.abc.net.au/news/2026-08-08/sydney-airport-flight-delays-long-queues-airservices-warns/107012486",
@@ -35175,146 +35225,6 @@
       "desc": "Under threat from the MAGA right, artificial intelligence and repressive governments, Wikipedia has never had to fight this hard.",
       "pubDate": "Thu, 09 Jul 2026 14:23:36 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.3833972222222222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_160%2C$y_90/t_crop_custom/q_86%2Cf_auto/632d2397e805a0c638646d0bb436b5c368ea5e05",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Elderly woman left 'frightened', senator 'irresponsible' over Telstra outage",
-      "link": "https://www.abc.net.au/news/2026-07-09/telstra-outage-leaves-elderly-dementia-patient-frightened/106894814",
-      "desc": "An SA woman says her elderly mother was left \"frightened\" during the Telstra outage after a fall. Meanwhile, SA police have said they have no record of any deaths during the network failure, despite a",
-      "pubDate": "Thu, 09 Jul 2026 04:04:34 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/2bd1317ec0497b217bc2287013f5eddf?impolicy=wcms_crop_resize&amp;cropH=4000&amp;cropW=3000&amp;xPos=1500&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Is male testosterone in freefall? – podcast",
-      "link": "https://www.theguardian.com/science/audio/2026/jul/09/is-male-testosterone-in-freefall-podcast",
-      "desc": "<p>Men’s average testosterone levels have halved over the past 50 years, according to scientists who say society is facing a male fertility crisis. Rising levels of obesity and diabetes are expected t",
-      "pubDate": "Thu, 09 Jul 2026 04:00:52 GMT",
-      "img": "https://i.guim.co.uk/img/media/1834502ae7da4ebe85c1849311b75e0f1c51e216/137_0_3633_2907/master/3633.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Western Europe records hottest-ever June as heatwaves intensify",
-      "link": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
-      "desc": "<p>Temperatures across ravaged region 3C above average as scientists warn of risks for people, ecosystems and infrastructure</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/07/record",
-      "pubDate": "Thu, 09 Jul 2026 04:00:52 GMT",
-      "img": "https://i.guim.co.uk/img/media/d612a401ed33fbb51e3bc6392053eecbf63271b5/596_0_6457_5169/master/6457.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "More workers are back in the office. Could our WFH days be numbered?",
-      "link": "https://www.smh.com.au/business/workplace/more-workers-are-back-in-the-office-could-our-wfh-days-be-numbered-20260709-p60e0t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "While WFH has embedded itself into the fabric of our workforces, subtle but surprising trends continue to emerge in the tug-of-war.",
-      "pubDate": "Thu, 09 Jul 2026 13:53:58 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.31313574735449734%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_607%2C$y_240/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/783525089efa7c387230485fbd04e1142af8bcff",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/09/abc-sbs-jillian-segel-israel-antisemitism-royal-commission-ntwnfb",
-      "desc": "<p>Antisemitism envoy says public broadcasters, which currently have ombudsman to handle complaints, need independent oversight committee</p><ul><li><p><a href=\"https://www.theguardian.com/australia-n",
-      "pubDate": "Thu, 09 Jul 2026 03:35:21 GMT",
-      "img": "https://i.guim.co.uk/img/media/88788e964ebfce8713fad12cbc5d06993b0b75f6/657_275_4515_3614/master/4515.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Melbourne suburbs where the number of homes at flood risk just jumped eightfold",
-      "link": "https://www.smh.com.au/national/victoria/melbourne-suburbs-where-the-number-of-homes-at-flood-risk-just-jumped-eightfold-20260709-p60dy1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The number of homes at risk of flood across Melbourne’s west and south-western suburbs has spiked drastically, following similar patterns in other areas.",
-      "pubDate": "Thu, 09 Jul 2026 13:32:36 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/8586a1cde23b5dbac5e132b19f48d005ac5fc97e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Urgent welfare checks for callers caught in Telstra 000 failure",
-      "link": "https://www.smh.com.au/national/queensland/urgent-welfare-checks-for-callers-caught-in-triple-zero-failure-20260709-p60dul.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "More than 20 of the 300 Triple Zero calls that failed during the nationwide outage were from Queensland, with Telstra confirming a second issue had threatened emergency calls hours after it said servi",
-      "pubDate": "Thu, 09 Jul 2026 13:29:43 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.17777375424137115%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/q_86%2Cf_auto/a0a857c39b8aecf8ed4c15892ed5156ecef878dc",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Nigerian regulators move Chariot lithium prize a step closer",
-      "link": "https://www.smh.com.au/business/companies/nigerian-regulators-move-chariot-lithium-prize-a-step-closer-20260709-p60e0s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Chariot Resources has edged closer to finalising its Nigerian lithium deal, with three more licence transfers approved and key mining lease conversion applications now accepted.",
-      "pubDate": "Thu, 09 Jul 2026 13:27:47 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/96aa783e69bf42653936b39ef1020f42a4b3b3988e5038f35c468d3ecdbf9046",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Thick fog lingers in parts of Melbourne after coldest day of the year",
-      "link": "https://www.smh.com.au/national/victoria/thick-fog-in-melbourne-to-linger-until-midday-20260709-p60dub.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Melburnians woke to a murky, chilly morning on Thursday, the thickest fog yet in a week of misty mornings.",
-      "pubDate": "Thu, 09 Jul 2026 13:23:06 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.22191953059513828%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/56d55701f21f15a8b28c92e19d896868768c060c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Redeemer Baptist School investigation",
-      "link": "https://www.smh.com.au/national/nsw/redeemer-baptist-school-investigation-20260709-p60dzt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Behind the stellar academic results and grand grounds exists a darker reality.",
-      "pubDate": "Thu, 09 Jul 2026 13:18:25 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/619a879f94e9849468b04b4cf723f1c4fa294336",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Woodside renews pursuit of activists whose hoax gas stunt evacuated Perth headquarters",
-      "link": "https://www.smh.com.au/national/western-australia/woodside-renews-pursuit-of-activists-whose-hoax-gas-stunt-evacuated-perth-headquarters-20260709-p60dzx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Kristen Morrissey, Emil Davey and Joana Partyka avoided jail last year after pleading guilty to charges stemming from the 2023 protest, but the gas giant has revived litigation against the trio.",
-      "pubDate": "Thu, 09 Jul 2026 12:41:33 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.26264880952380953%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_99/t_crop_custom/q_86%2Cf_auto/7748d7c3ca44917f575e22a734d85c111a6935da",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Locksley cracks cleaner path to US antimony processing",
-      "link": "https://www.smh.com.au/business/companies/locksley-cracks-cleaner-path-to-us-antimony-processing-20260709-p60dyh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Locksley Resources and Rice University have cracked the antimony code, upgrading low-grade ore to 93% purity to produce a near-pure metal, a major processing breakthrough.",
-      "pubDate": "Thu, 09 Jul 2026 12:37:28 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/93c93e3bfaf83c34941f7416f671fdec7ec81980ce7422fc32a659beaace91fc",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The Fed is divided. But its ‘hawks’ are likely to prevail and face Trump’s wrath",
-      "link": "https://www.smh.com.au/business/the-economy/the-fed-is-divided-but-its-hawks-are-likely-to-prevail-and-face-trump-s-wrath-20260709-p60duj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "If the AI boom, the war in the Middle East and Donald Trump’s tariffs continue to fuel inflation, “almost all” members of the Federal Reserve Board’s rate-setting committee believe US interest rates w",
-      "pubDate": "Thu, 09 Jul 2026 12:08:55 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7404%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_319%2C$y_80/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/3167e8242ed772d008927e781b47f26e71fe5c0e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "One Telstra outage is unlucky, but two in 24 hours? That looks like a pattern",
-      "link": "https://www.smh.com.au/business/companies/once-telstra-outage-is-unlucky-but-two-in-24-hours-that-looks-like-a-pattern-20260709-p60dw9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "No longer will Telstra be able to comfortably estimate that those affected numbered into the thousands. This second issue will have a long tail.",
-      "pubDate": "Thu, 09 Jul 2026 11:58:07 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2763%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_111%2C$y_93/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/1920313c98455c089bf0e5e04f10e7c0f0632c38",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
