@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-08T04:12:52.990Z",
-  "summary": "Australia faces mounting domestic pressures on multiple fronts this week, with family violence reaching crisis levels as thousands face isolation without adequate support, while infrastructure and cost-of-living challenges strain communities from airports to family farms. High-profile legal cases dominate the spotlight, including broadcaster Alan Jones facing indecent assault allegations and an AFL player taking responsibility for future brain trauma, reflecting broader accountability concerns. Politically, the government grapples with ongoing gambling reform debates and migration policy divisions within Labor ranks, while internationally, David Brat's appointment as US ambassador and global economic volatility from US intervention signal shifting geopolitical dynamics affecting Australia's strategic interests.",
+  "fetchedAt": "2026-08-08T06:59:17.462Z",
+  "summary": "Australia is grappling with multiple serious challenges today, with bird flu spreading in New South Wales amid growing concerns for endangered wildlife, while the government faces pressure on child safety following fresh accusations against a minister. The political landscape shifts as David Brat has been confirmed as the next US ambassador, and Trump's administration moves forward with a $560 million critical minerals investment in regional NSW. Community safety dominates local news, from violent crime sparking calls for action to ongoing searches for long-missing persons, while economic pressures mount on rural industries with families forced to close multi-generational farms. Weather disruptions and airport delays are affecting residents and travellers as the country navigates these intersecting crises.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Two more cases of deadly bird flu confirmed in NSW",
+      "link": "https://www.smh.com.au/national/nsw/two-more-cases-of-deadly-bird-flu-confirmed-in-nsw-20260808-p60mlf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "It’s the first time an Australian native bird has tested positive for H5 bird flu in the state.",
+      "pubDate": "Sat, 08 Aug 2026 16:42:58 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5052%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_124/t_crop_custom/q_86%2Cf_auto/3130a5d3d2a21d478cb314021110bde5a98b0aa14201871a7ceeb5ed72a23a18",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "A violent crime shocked this community. Now locals are calling for change",
+      "link": "https://www.smh.com.au/national/victoria/a-violent-crime-shocked-this-community-now-locals-are-calling-for-change-20260807-p60men.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The death of a long-time trader in Sunshine has sparked renewed calls for increased resourcing and funding across Melbourne’s inner west.",
+      "pubDate": "Sat, 08 Aug 2026 16:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.13850379283285377%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_88/t_crop_custom/q_86%2Cf_auto/bc8141ebbeea3a181cde6671cecb84989c4a77b2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Meet the Babblers: The City2Surf’s most talkative squad",
+      "link": "https://www.smh.com.au/national/nsw/meet-the-babblers-the-city2surf-s-most-talkative-squad-20260808-p60mki.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Not even Heartbreak Hill can keep these golden girls quiet as they celebrate 25 years of sisterhood.",
+      "pubDate": "Sat, 08 Aug 2026 15:49:09 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3106%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_183%2C$y_0/t_crop_custom/q_86%2Cf_auto/46f072d1a512971bbbe4dce86ddf42d14559886f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Fresh search planned for Nannup Four 20 years after their disappearance",
+      "link": "https://www.smh.com.au/national/western-australia/fresh-search-planned-for-nannup-four-20-years-after-their-disappearance-20260807-p60mhr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Chantelle McDougall, Leela McDougall, Tony Popic and Gary Felton vanished from their Roberts Road property in July 2007.",
+      "pubDate": "Sat, 08 Aug 2026 15:41:01 +1000",
+      "img": "https://static.ffx.io/images/$zoom_2.324279835390946%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_286%2C$y_0/t_crop_custom/q_86%2Cf_auto/5a40f1db205f20985d5742413c7345bc01d611d0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Gina Rinehart says ABC Ombudsman finding 'fails all Australian women'",
+      "link": "https://www.abc.net.au/news/2026-08-08/gina-rinehart-statement-race-around-the-world-abc-hugh-marks/107012884",
+      "desc": "The mining magnate says the ABC's Editorial Standards need \"significant improvement\" after a video describing a fictional scenario that involved a violent attack on her was aired on Race Around the Wo",
+      "pubDate": "Sat, 08 Aug 2026 05:19:37 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/7c7c27c3d460a1370e8303003eee386d?impolicy=wcms_crop_resize&amp;cropH=1707&amp;cropW=1280&amp;xPos=692&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Pressure mounts for Child Safety minister following fresh accusations",
+      "link": "https://www.smh.com.au/national/queensland/pressure-mounts-for-child-safety-minister-following-fresh-accusations-20260808-p60mk0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Amanda Camm’s estimates testimony has come under fire as internal messages and documents have come to light amid ongoing probes into departmental failings.",
+      "pubDate": "Sat, 08 Aug 2026 15:14:50 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3373%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_12%2C$y_0/t_crop_custom/q_86%2Cf_auto/362b04f8bad2bdfb3424d44effecf2889d5ff559f780b515a692b256eaab5491",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Greenland issues ‘strong warning’ as Trump-linked oil firm prepares to drill",
+      "link": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
+      "desc": "<p>Island’s government says no approval given after Greenland Energy brings kit ashore for exploratory drilling</p><p></p><p>An American oil company connected to Donald Trump is preparing to sink well",
+      "pubDate": "Sat, 08 Aug 2026 05:00:39 GMT",
+      "img": "https://i.guim.co.uk/img/media/eaadacfae5303ae61b5000b40b4f8664c79cde7f/812_0_4169_3334/master/4169.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Trump announces $560m critical minerals investment in tiny NSW town",
+      "link": "https://www.abc.net.au/news/2026-08-08/pentagon-loan-to-syerston-scandium-mine-in-nsw/107012648",
+      "desc": "The Pentagon is investing more than half a billion dollars to expand an Australian critical mineral project poised to become the world's first scandium mine.",
+      "pubDate": "Sat, 08 Aug 2026 04:48:43 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/f4d406d432d1e694b997734b2fb11ab6?impolicy=wcms_crop_resize&amp;cropH=443&amp;cropW=332&amp;xPos=132&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "Putting Territory beef 'that tastes like beef' onto menus",
       "link": "https://www.abc.net.au/news/rural/2026-08-08/family-abattoir-eva-valley-meats-celebrating-10-years/106910274",
@@ -35055,176 +35135,6 @@
       "desc": "A controversial NSW upper house inquiry found the DPP gave false evidence in parliament, which she denies, and called for a parliamentary oversight committee for her office.",
       "pubDate": "Thu, 09 Jul 2026 17:00:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/2123dfe7c6911649acaa1380072ddd0fce71252cff3100393dc1ac38291e5cd7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Death on day of Telstra outage investigated by police",
-      "link": "https://www.abc.net.au/news/2026-07-09/death-on-day-of-telstra-outage-investigated-by-sa-police/106897944",
-      "desc": "Police in SA are investigating a death at a regional South Australian hospital yesterday, after Liberal Senator Kerrynne Liddle said an elderly person had died during the Telstra outage.",
-      "pubDate": "Thu, 09 Jul 2026 06:55:43 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/02106585136de76b22473dc6461f1574?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=572&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Centenary Pool to be closed and handed over to Games authority within weeks",
-      "link": "https://www.smh.com.au/national/queensland/centenary-pool-to-be-closed-and-handed-over-to-games-authority-within-weeks-20260630-p60bf2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The heritage-listed pool in Brisbane’s inner-north is set to change hands in less than two months, in preparation for a redevelopment that will host Olympic swimming.",
-      "pubDate": "Thu, 09 Jul 2026 16:49:24 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2627%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_86/t_crop_custom/q_86%2Cf_auto/e92072c1cc6c8a973e5fb6c3508c1a2aa56f9ae5",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Gas giants demand Santos not be given ‘leave pass’ from reservation",
-      "link": "https://www.smh.com.au/national/queensland/gas-giants-demand-santos-not-be-given-leave-pass-from-reservation-20260709-p60dv6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "In a yet-to-be-released submission to federal reservation rules obtained by this masthead, the east coast’s biggest gas producer broke ranks with industry voices.",
-      "pubDate": "Thu, 09 Jul 2026 16:47:18 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7944486121530382%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_241/t_crop_custom/q_86%2Cf_auto/0b5f2e7ada4c58667d45a467f172ddad2def0279",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Indian PM lands in Melbourne",
-      "link": "https://www.smh.com.au/national/indian-pm-lands-in-melbourne-20260709-p60e3r.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Melbourne has rolled out the red carpet for India's prime minister following his Australian arrival.",
-      "pubDate": "Thu, 09 Jul 2026 16:41:39 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/73712366455aea5df2ee30100ffdc91a9ba137dd",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "As the Telstra crisis unfolded, the Coalition fell victim to another communications failure",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/09/as-the-telstra-crisis-unfolded-the-coalition-fell-victim-to-another-communications-failure",
-      "desc": "<p>Angus Taylor should be heaping pressure on the government over the second major telco breakdown in 12 months, but he can’t stop scoring own goals</p><ul><li><p><a href=\"https://www.theguardian.com/",
-      "pubDate": "Thu, 09 Jul 2026 06:31:39 GMT",
-      "img": "https://i.guim.co.uk/img/media/2522c4a4fd1c43ab92c95e5d085b612bddfcfc37/688_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Jillian Segal wants ‘independent group’ to examine ABC’s Israel coverage – video",
-      "link": "https://www.theguardian.com/australia-news/video/2026/jul/09/jillian-segal-wants-independent-group-to-examine-abc-israel-coverage-video-ntwnfb",
-      "desc": "<p>The antisemitism envoy, Jillian Segal, has told the royal commission on antisemitism and social cohesion that she wants a new 'oversight' committee to vet the public broadcaster's coverage of Israe",
-      "pubDate": "Thu, 09 Jul 2026 06:26:52 GMT",
-      "img": "https://i.guim.co.uk/img/media/b7ba1c5bdea6453f0483910b666e9093dc383d94/239_0_1350_1080/master/1350.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Developer plans to demolish and rebuild Brisbane's Wintergarden mall",
-      "link": "https://www.abc.net.au/news/2026-07-09/plans-to-rebuild-brisbane-wintergarden-shopping-centre/106869410",
-      "desc": "Developer IFM has submitted plans to demolish the \"fragmented\" interior of a Queen Street Mall shopping centre and replace it with two levels of shops.",
-      "pubDate": "Thu, 09 Jul 2026 06:26:19 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/c62f305caee1c1b2a76649cce29a0c7c?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Telstra outage could cost 'hundreds of millions of dollars'",
-      "link": "https://www.abc.net.au/news/2026-07-09/telstra-outage-economic-cost-no-compensation-guarantee/106891684",
-      "desc": "The economic cost of the Telstra network outage could run into hundreds of millions of dollars, an expert estimates.",
-      "pubDate": "Thu, 09 Jul 2026 06:16:32 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/056985d7a02cf6c4f17d45565c731a64?impolicy=wcms_crop_resize&amp;cropH=1067&amp;cropW=800&amp;xPos=670&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Queensland ‘not taking foot off pedal’ in building code push condemned by unions",
-      "link": "https://www.smh.com.au/national/queensland/queensland-not-taking-foot-off-pedal-in-building-code-push-condemned-by-unions-20260709-p60dy2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Responding to claims he was “itching to have a fight” with unions, Bleijie said revelations of the CFMEU’s threats and bullying proved the construction industry needed fixing.",
-      "pubDate": "Thu, 09 Jul 2026 15:50:09 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4206%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_280%2C$y_147/t_crop_custom/q_86%2Cf_auto/977d4b30983ebc91022c8c6dc5ae618fdcb1b410274f8dd0a6de46bfab7928f0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "How a nationwide Telstra outage rocked the Australian economy – and what we can learn",
-      "link": "https://theconversation.com/how-a-nationwide-telstra-outage-rocked-the-australian-economy-and-what-we-can-learn-287077",
-      "desc": "The most important lesson for Australia is not to slow digitalisation, but to make it more resilient and remove single points of failure.",
-      "pubDate": "2026-07-09T05:49:12Z",
-      "img": "https://images.theconversation.com/files/746807/original/file-20260709-57-v6b2kz.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Count Binface tells reporter why he ran in UK's Makerfield byelection",
-      "link": "https://www.smh.com.au/national/count-binface-tells-reporter-why-he-ran-in-uks-makerfield-byelection-20260709-p60e2w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The novelty candidate has become a regular fixture of UK elections in recent years.",
-      "pubDate": "Thu, 09 Jul 2026 15:31:43 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c0f5d493f27ef3d027568e7a2b7a5178d27e8b24",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Mark McGowan's right-hand man parachuted into plum cabinet role",
-      "link": "https://www.abc.net.au/news/2026-07-09/landsdale-mp-daniel-pastorelli-gets-wa-cabinet-spot-roger-cook/106894848",
-      "desc": "New Landsdale MP Daniel Pastorelli, the former chief of staff to both Mark McGowan and Roger Cook, will be parachuted into cabinet to replace Paul Papalia, the ABC understands.",
-      "pubDate": "Thu, 09 Jul 2026 05:07:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/52507bf581d4a7749e51d82c7401944e?impolicy=wcms_crop_resize&amp;cropH=2667&amp;cropW=2000&amp;xPos=614&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Despite Trump’s wishes, Iran is dragging the US into a long war",
-      "link": "https://theconversation.com/despite-trumps-wishes-iran-is-dragging-the-us-into-a-long-war-287163",
-      "desc": "New tit-for-tat airstrikes between the US and Iran over control of the Strait of Hormuz suggest the ceasefire will not turn into a permanent peace.",
-      "pubDate": "2026-07-09T04:48:35Z",
-      "img": "https://images.theconversation.com/files/746794/original/file-20260709-57-rserxk.jpg?ixlib=rb-4.1.0&amp;rect=0%2C823%2C8640%2C4320&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "AI can predict how you’ll respond to a survey. But that’s not the same as understanding you",
-      "link": "https://theconversation.com/ai-can-predict-how-youll-respond-to-a-survey-but-thats-not-the-same-as-understanding-you-287069",
-      "desc": "‘Silicon sampling’ promises easy answers to tough questions about human behaviour – but the reality is more complicated.",
-      "pubDate": "2026-07-09T04:34:01Z",
-      "img": "https://images.theconversation.com/files/746792/original/file-20260709-57-vlux8x.jpg?ixlib=rb-4.1.0&amp;rect=0%2C841%2C5040%2C2520&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "A timing glitch was behind Telstra’s nationwide outage. It points to a bigger vulnerability",
-      "link": "https://theconversation.com/a-timing-glitch-was-behind-telstras-nationwide-outage-it-points-to-a-bigger-vulnerability-287160",
-      "desc": "Telecommunications is only one domain in which timing faults can have serious consequences.",
-      "pubDate": "2026-07-09T04:26:23Z",
-      "img": "https://images.theconversation.com/files/746785/original/file-20260709-57-eg6xtg.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Larvotto locks in Mt Isa copper prize after drill win",
-      "link": "https://www.smh.com.au/business/companies/larvotto-locks-in-mt-isa-copper-prize-after-drill-win-20260709-p60e1h.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Larvotto Resources has exercised its option with Kilo Copper over the historic Blockade copper mine near Mount Isa after its drilling confirmed broad copper hits beneath the old pit.",
-      "pubDate": "Thu, 09 Jul 2026 14:25:29 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/bc69feeaad98187e00457a2a62008a98ad5f387a0b466bbc6d4c019641e2aacb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Wikipedia is battling for the soul of the internet",
-      "link": "https://www.smh.com.au/business/companies/wikipedia-is-battling-for-the-soul-of-the-internet-20260706-p60cte.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Under threat from the MAGA right, artificial intelligence and repressive governments, Wikipedia has never had to fight this hard.",
-      "pubDate": "Thu, 09 Jul 2026 14:23:36 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3833972222222222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_160%2C$y_90/t_crop_custom/q_86%2Cf_auto/632d2397e805a0c638646d0bb436b5c368ea5e05",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"

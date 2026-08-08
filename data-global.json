@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-08T04:13:08.105Z",
-  "summary": "Global tensions are escalating across multiple fronts as Saudi Arabia, Turkey and Pakistan formalize a joint defense pact while the Middle East braces for potential Iranian retaliation, and the US Senate advances sanctions on Russian energy amid Ukraine's intensifying conflict with Kyiv launching strikes on Russian targets. Colombia's new government is taking aggressive action against narco-trafficking under its fresh administration, while the Sudan humanitarian crisis deepens with the UN warning of generational damage affecting millions. Domestically in the US, the job market shows unexpected weakness with July layoffs and declining labor participation, while political momentum builds ahead of key Senate races and court challenges continue over White House construction projects. Across Africa and Asia, significant developments include an Ebola outbreak exceeding four thousand cases in the DRC and Ukraine's president making a symbolic visit to Serbia to strengthen regional diplomatic ties.",
+  "fetchedAt": "2026-08-08T06:59:30.301Z",
+  "summary": "Russia continued its assault on Ukraine with fresh missile strikes near Kyiv that killed three people including a child, while Ukraine's president made a historic visit to Serbia to shore up diplomatic support. Major geopolitical realignments are underway across the Middle East, with Saudi Arabia, Turkey and Pakistan formalizing a joint defence pact amid escalating tensions with Iran and threats to maritime shipping in the Hormuz Strait. Colombia's new president took office pledging to combat narco-terrorism and armed groups, while the US economy showed unexpected weakness with job losses in July, potentially shifting the political landscape ahead of elections. Separately, FIFA president Gianni Infantino faced mounting calls for his resignation from Norway's football federation despite backing from Colombia's government, and the Democratic party gained momentum in pivotal US Senate races in Texas.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "pubDate": "Sat, 08 Aug 2026 06:12:56 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Violence is driving Palestinian Christians out of their Holy Land",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
+      "desc": "Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.",
+      "pubDate": "Sat, 08 Aug 2026 05:28:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786166903.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "FIFA’s Infantino backed in Colombia where he attends president inauguration",
+      "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss",
+      "desc": "FIFA president Gianni Infantino gets South American football&#039;s backing while at Abelardo de la Espriella&#039;s inauguration.",
+      "pubDate": "Sat, 08 Aug 2026 05:10:27 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260807__C48J6LN__v2__MidRes__ColombiaPoliticsInaugurationFifa-1786164158.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Norway Football Federation calls for FIFA president to resign",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
+      "desc": "Norway’s football federation has called on Gianni Infantino to resign.",
+      "pubDate": "Sat, 08 Aug 2026 04:37:56 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786163790.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
       "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
@@ -93,6 +133,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+      "pubDate": "Fri, 07 Aug 2026 23:23:12 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
@@ -203,6 +253,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+      "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+      "pubDate": "Fri, 07 Aug 2026 18:06:58 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf59/live/8d5f8d10-9204-11f1-af4d-5164294a85c7.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
@@ -14210,66 +14270,6 @@
       "desc": "Israeli air attacks and gunfire kill nine Palestinians in Gaza despite ceasefire, medics say.",
       "pubDate": "Thu, 09 Jul 2026 07:08:32 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AA-20260708-41922367-41922345-FUNERAL_OF_PALESTINIANS_KILLED_IN_ISRAELI_BOMBING_ON_A_CIVILIAN_VEHICLE-1783575967.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Son of Mexican national who was fatally shot by ICE speaks out",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/son-of-mexican-national-who-was-fatally-shot-by-ice-speaks-out?traffic_source=rss",
-      "desc": "The son of Mexican man, Lorenzo Salgado Araujo, who was fatally shot by an officer from ICE.",
-      "pubDate": "Thu, 09 Jul 2026 05:21:18 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783574422.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "'It felt a bit James Bond': The mission to reintroduce a lost insect",
-      "link": "https://www.bbc.co.uk/news/articles/cq5168jz88no?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Species Recovery Trust hopes to reintroduce the New Forest cicadas not seen in UK since the 1990s.",
-      "pubDate": "Thu, 09 Jul 2026 05:13:15 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c6/live/2435abd0-7ac1-11f1-b541-536d253827b8.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Rare moth find in town park sparks hopes of others",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyjvpep5eo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The six-belted clearwing is found by conservationists at Rough Park who hope to spot it elsewhere.",
-      "pubDate": "Thu, 09 Jul 2026 05:12:46 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab0c/live/dfa3ae10-7ac8-11f1-b541-536d253827b8.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "How beachgoers are turning snaps into science",
-      "link": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Scientists hope to learn more about the impact of climate change on coasts through people's photos.",
-      "pubDate": "Thu, 09 Jul 2026 05:06:11 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f45/live/bd57e680-7ac0-11f1-b541-536d253827b8.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
-      "link": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss",
-      "desc": "The prime minister was presented with an award during a visit to the Seychelles, adding to his large trophy collection.",
-      "pubDate": "Thu, 09 Jul 2026 04:30:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-25T164145Z_1740813662_RC24TJAD9YS3_RTRMADP_3_ISRAEL-INDIA-MODI-KNESSET-1783077520_e9bbac-1783090721.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump says he will remove Syria from the state sponsor of terrorism list",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-says-he-will-remove-syria-from-the-state-sponsor-of-terrorism-list?traffic_source=rss",
-      "desc": "US President Trump said he will remove Syria from the US state sponsor of terrorism list at the NATO summit.",
-      "pubDate": "Thu, 09 Jul 2026 04:28:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783571213.jpg?resize=1620%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
