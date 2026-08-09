@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-09T09:43:26.810Z",
-  "summary": "Australia's headlines today reflect concerns about technology and privacy alongside ongoing industrial and criminal matters. A near-miss incident between aircraft at Sydney Airport dominated coverage, while a major industrial dispute at BHP's Port Hedland operations entered its second day of strikes. The news cycle also featured serious crime stories including the discovery of a woman's body in a suitcase in rural NSW and an alleged assault case, alongside policy discussions around visa restrictions and gambling law reforms. Consumer and environmental issues featured prominently, from concerns about tree removal for property development to debates over plastic contamination in food waste schemes.",
+  "fetchedAt": "2026-08-09T12:58:35.771Z",
+  "summary": "Australia's industrial relations landscape is heating up with BHP workers entering a second day of strikes at Port Hedland, while the government faces mounting pressure on multiple fronts including plans to slash student and family visas and a radical HSC overhaul banning take-home assessments. Critical infrastructure and safety concerns dominate the news, from near misses at Sydney Airport and on train tracks to violent crime including an alleged torture case and a woman's body discovered in a suitcase in rural NSW. Broader societal issues are also under scrutiny, with investigations into child safeguarding at Redeemer Baptist Church, concerning trends in online radicalization among young people, and growing questions about the resource demands of artificial intelligence infrastructure competing with essential needs like water for homes.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "BHP workers in Port Hedland walk off the job for second day",
+      "link": "https://www.smh.com.au/national/bhp-workers-in-port-hedland-walk-off-the-job-for-second-day-20260809-p60msf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "BHP workers in Port Hedland have walked off the job for a second day,",
+      "pubDate": "Sun, 09 Aug 2026 21:43:12 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1d9713df112bb9a32a8771e6a89695f97e9f9705",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
+      "desc": "<p>Whitehall wants to triple their number in the UK. Yet in Slough, I saw the impact they’re having on communities</p><p>Amid headlines about <a href=\"https://www.theguardian.com/environment/2026/aug/",
+      "pubDate": "Sun, 09 Aug 2026 11:03:18 GMT",
+      "img": "https://i.guim.co.uk/img/media/ee18035020cfe5bef019a8fa37828c70edc79248/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The kids are alt-right",
+      "link": "https://www.smh.com.au/national/nsw/the-kids-are-alt-right-20260807-p60m90.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Public life begins at home.",
+      "pubDate": "Sun, 09 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Daicos-inspired Pies down Eagles to lock in finals spot",
+      "link": "https://www.smh.com.au/national/western-australia/daicos-inspired-pies-down-eagles-to-lock-in-finals-spot-20260809-p60ms8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Eagles, led by a hobbled Harley Reid, twice closed to within 10 points in a frantic final quarter that featured plenty of heroic acts from both sides.",
+      "pubDate": "Sun, 09 Aug 2026 20:01:24 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7117777688569049%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_53/t_crop_custom/q_86%2Cf_auto/d8ebbc68602a647efc7213b0f1b7d8ba6d880da2f29b6dc5ac38a016ed3132ed",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Take-home assessments to be banned in radical HSC overhaul",
+      "link": "https://www.smh.com.au/national/nsw/take-home-assessments-to-be-banned-in-radical-hsc-overhaul-20260806-p60m44.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Education Minister Prue Car has written to the state’s exam authority requesting an urgent moratorium on take-home assignments due to the threat of AI.",
+      "pubDate": "Sun, 09 Aug 2026 19:45:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.23834037037037034%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_283%2C$y_148/t_crop_custom/q_86%2Cf_auto/086d4563e14c8571d0086319268aa92f3fb29a71",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Your TV is watching you every second. Here’s how",
       "link": "https://www.smh.com.au/business/consumer-affairs/your-tv-is-watching-you-every-second-here-s-how-20260807-p60mdu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -34525,76 +34575,6 @@
       "desc": "<p>Trump administration urged to relist a species in ‘very, very serious trouble’ under Endangered Species Act</p><p>Climate change is <a href=\"https://www.fisheries.noaa.gov/feature-story/eastern-nor",
       "pubDate": "Fri, 10 Jul 2026 13:00:20 GMT",
       "img": "https://i.guim.co.uk/img/media/ccaf54a81aa387fe61531c9f75fa08544f8bf11b/127_0_3707_2966/master/3707.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "How Pauline Hanson courts UK’s far-right – and builds a global brand – with ‘pseudo events’ and publicity stunts",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/10/how-pauline-hanson-courts-uks-far-right-builds-brand-with-pseudo-events-publicity-stunts-ntwnfb",
-      "desc": "<p>The One Nation leader is set to be interviewed by Tommy Robinson as part of a media strategy that seems designed to seek scandal – and reach millions</p><p>Pauline Hanson’s highly publicised meetin",
-      "pubDate": "Fri, 10 Jul 2026 12:38:33 GMT",
-      "img": "https://i.guim.co.uk/img/media/9728110900adb4e99b58e62ed88c4a17b576eadf/252_0_2518_2015/master/2518.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "This program gives Black single moms $1,000 a month for a year. The results are undeniable",
-      "link": "https://www.theguardian.com/us-news/2026/jul/10/guaranteed-income-black-single-moms-mississippi",
-      "desc": "<p>The Magnolia Mother’s Trust is the first to target low-income families led by Black mothers in Jackson, Mississippi</p><p>Three months after giving birth to her son, Amaya Jones moved into a new ap",
-      "pubDate": "Fri, 10 Jul 2026 12:00:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/6bdcd74686ae3acf4173398cf8416cd9e79472fc/101_0_1335_1068/master/1335.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "MPs call on UK government to host televised emergency briefing on climate emergency",
-      "link": "https://www.theguardian.com/environment/2026/jul/10/mps-government-televised-emergency-briefing-climate-emergency",
-      "desc": "<p>As UK swelters in another heatwave, 50-minute Chris Packham film outlines threats to security, economy and health</p><p>MPs are calling on the UK government to host a televised national climate eme",
-      "pubDate": "Fri, 10 Jul 2026 12:00:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/c9c784389c69252c620c7caa9865a40e9855e2ff/499_0_5002_4000/master/5002.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘He’s forcing higher bills’: Trump spends billions to kill clean energy and keep coal alive",
-      "link": "https://www.theguardian.com/us-news/2026/jul/10/bills-trump-clean-energy-coal",
-      "desc": "<p>Critics accuse president of ‘fattening the wallets of his cronies’ as working Americans face higher energy rates</p><p>The Trump administration has directly spent $2.7bn of taxpayer money on its cr",
-      "pubDate": "Fri, 10 Jul 2026 11:30:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/fd5837188bec6d468d5306b293ba31e2fb4c2e97/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Man arrested after naked home invasion",
-      "link": "https://www.smh.com.au/national/man-arrested-after-naked-home-invasion-20260710-p60efv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A 34-year old man is in police custody accused of a home invasion dressed in only a cap at a house where three young nursing students live in Perth's west.",
-      "pubDate": "Fri, 10 Jul 2026 21:08:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/36cc0c366ec6148da1d569359fe0979b933f8747",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Calls ramp up for WA to overturn uranium mining ban",
-      "link": "https://www.smh.com.au/national/calls-ramp-up-for-wa-to-overturn-uranium-mining-ban-20260710-p60efu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The opposition and the mining industry are ramping up calls for the Western Australian government to overturn the state's uranium mining ban.",
-      "pubDate": "Fri, 10 Jul 2026 21:07:49 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2c78d8765e7bf5fb63e5a8f473474a86bb68195f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "New York City to become first in US to ban deceptive subscription practices",
-      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "desc": "<p>Rule from Mamdani administration bans companies from trapping customers into paying recurring charges and also targets ‘junk fees’</p><p>New York City has adopted a new rule that bans companies fro",
-      "pubDate": "Fri, 10 Jul 2026 11:00:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/b522a4563292b5972c9443aa2001a8637f1266b5/72_226_2591_2073/master/2591.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"

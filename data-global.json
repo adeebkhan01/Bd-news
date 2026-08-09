@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-09T09:43:42.113Z",
-  "summary": "The United States confirms hardening tensions with Iran while backing Colombia's new hardline president, who has pledged aggressive action against narco-terrorism. In the Middle East, Israel continues expanding settlements in the West Bank amid escalating violence, while Saudi Arabia reported extinguishing a fire at a key Aramco facility. International concerns mount over Russian military activity near NATO borders and the deepening humanitarian crises in Sudan and Yemen, as the US Senate moves forward with sanctions on Russian energy and confirms Trump's attorney general picks.",
+  "fetchedAt": "2026-08-09T12:58:49.187Z",
+  "summary": "The Middle East remains in acute tension as Israel rejects a Trump-backed Gaza peace plan while announcing new West Bank settler units, even as Iran and the US signal possible openings to defuse their standoff. Russia continues a brutal assault on Ukraine, killing civilians in fresh strikes near Kyiv and Odesa, while regional instability spreads from Yemen to Colombia, where a car bombing has already tested the newly inaugurated hardline president. The Trump administration is consolidating control with key personnel appointments, including a former lawyer now confirmed as attorney general, while nuclear disarmament advocates at Nagasaki warn that humanity and atomic weapons cannot coexist. Global health concerns are also rising, with new research linking obesity to significantly higher cancer risks than previously understood.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "pubDate": "Sun, 09 Aug 2026 12:12:10 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israel rejects Trump’s 15-point plan for Gaza",
+      "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+      "desc": "Prime Minister Benjamin Netanyahu says Israel will not ⁠withdraw ​forces from Gaza until Hamas ⁠fully disarms.",
+      "pubDate": "Sun, 09 Aug 2026 11:31:18 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a41568ac800-1782666890.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Longest serving volunteer helps boost bird numbers",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8y8e55vo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Bird charity's longest serving volunteer helps achieve big success in boosting species recovery.",
+      "pubDate": "Sun, 09 Aug 2026 11:04:10 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcd7/live/18d69780-927d-11f1-a1bb-f5c740fac71c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+      "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+      "desc": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.",
+      "pubDate": "Sun, 09 Aug 2026 10:55:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a784594-1786267028.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
+      "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
+      "desc": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.",
+      "pubDate": "Sun, 09 Aug 2026 10:35:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7494dd37-1786025181.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+      "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+      "desc": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
+      "pubDate": "Sun, 09 Aug 2026 10:02:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a783b0da257-1786264333.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "It won’t be Trump who kills the ICC",
       "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
@@ -115,6 +175,16 @@
       "sourceColor": "#D2A02E"
     },
     {
+      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+      "pubDate": "Sun, 09 Aug 2026 01:10:50 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6210/live/08a29290-927f-11f1-9985-cdf6a137096d.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
       "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
       "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
       "desc": "Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.",
@@ -173,6 +243,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "pubDate": "Sat, 08 Aug 2026 22:06:44 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de50/live/00229450-937c-11f1-9df5-0122184ff6d7.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Trump’s Former Lawyer Is Now Attorney General",
@@ -14040,66 +14120,6 @@
       "desc": "Reform UK&#039;s finances draw police scrutiny as Farage fights to reclaim his seat in a by-election.",
       "pubDate": "Fri, 10 Jul 2026 13:25:43 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a50e6969972-1783686806.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Paramount-Warner merger: could it reshape the media?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paramount-warner-merger-could-it-reshape-the-media?traffic_source=rss",
-      "desc": "The UK is considering intervening in the Paramount-Warner merger over concerns about media plurality.",
-      "pubDate": "Fri, 10 Jul 2026 12:45:10 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/no-title-1783687336.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
-      "pubDate": "Fri, 10 Jul 2026 12:02:40 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d0/live/f2f84510-7c54-11f1-ad56-219c1e341d26.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
-      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss",
-      "desc": "Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.",
-      "pubDate": "Fri, 10 Jul 2026 11:51:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3b37853fd2-1782265733.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Conor McGregor vs Max Holloway 2 at UFC 329: All you need to know",
-      "link": "https://www.aljazeera.com/sports/2026/7/10/conor-mcgregor-vs-max-holloway-2-at-ufc-329-all-you-need-to-know?traffic_source=rss",
-      "desc": "McGregor, who won the first bout against Holloway in 2013, has not fought in the Octagon since July 2021.",
-      "pubDate": "Fri, 10 Jul 2026 10:33:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a50b1952bba1-1783673237.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
-      "link": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss",
-      "desc": "Contested calls and rival flags showed how Palestine now shapes debates over power and fairness in sport.",
-      "pubDate": "Fri, 10 Jul 2026 10:27:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5079c3-1783658947.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Fall in funding cuts aid to 1 million women: UN",
-      "link": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss",
-      "desc": "The US was the first to slash billions in foreign assistance in 2025, but other major donors have followed suit.",
-      "pubDate": "Fri, 10 Jul 2026 10:14:21 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25082511308469-1753473484.jpg?resize=1200%2C675",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
