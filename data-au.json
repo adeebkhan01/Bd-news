@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-09T04:20:09.760Z",
-  "summary": "Australia faces mounting concerns about workplace automation and corporate accountability today. A near-miss between two aircraft at Sydney Airport highlights aviation safety risks, while a significant gambling inquiry has prompted Labor to consider tighter regulations following evidence of alcohol and cocaine being offered to punters. Industrial unrest continues at BHP's Port Hedland operations, and regional communities are struggling as larger competitors displace small businesses, pointing to broader economic pressures affecting workers and consumers. Several domestic political figures have attracted media attention through gaffes and public appearances, though serious issues dominate the day's headlines.",
+  "fetchedAt": "2026-08-09T07:02:03.401Z",
+  "summary": "Australia faces industrial tension as unions and BHP enter a second day of strike action at Port Hedland, with calls for swift negotiations to resolve the dispute. A near-miss incident between two aircraft taxiing at Sydney Airport has reignited safety concerns, while authorities are investigating serious allegations against a Sydney gun-runner accused of sexual torture. On the regulatory front, Labor is open to tightening gambling laws following an inquiry that heard of disturbing exploitation tactics, and environmental issues dominate with a gardener facing a nearly $200,000 fine for removing 287 trees and concerns mounting over plastic contamination in food waste schemes.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Unions, BHP urged to ‘nut out the detail’ as strike action enters second day",
+      "link": "https://www.smh.com.au/national/western-australia/unions-bhp-urged-to-nut-out-the-detail-as-strike-action-enters-second-day-20260809-p60mqw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The two-day industrial action began on Saturday with a 24-hour ship-loading ban and continued with a 24-hour work stoppage from 5.30am on Sunday.",
+      "pubDate": "Sun, 09 Aug 2026 16:48:13 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/4133ae16dec39218e38e148c31244b0f29c97cc5c3e2ccff94cdea89fc8373cc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Bigger than The Wolf of Wall Street’ boss breaks down after prison sentence",
+      "link": "https://www.smh.com.au/national/bigger-than-the-wolf-of-wall-street-boss-breaks-down-after-prison-sentence-20260809-p60mot.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Stavro D’Amore once boasted of his gangland connections and role as the tough guy of Australian finance. But he was left a quivering mess when he learned he was going to jail.",
+      "pubDate": "Sun, 09 Aug 2026 16:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7a71e95760d61bcb876a77f073aaffd9884b374c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Sydney gardener fined almost $200,000 for removing 287 trees to improve harbourside mansion’s water views",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/09/trees-vandalism-lane-cove-council-sydney-gardener-fined-court-longueville-ntwnfb",
+      "desc": "<p>Local council described incident as ‘worst act of environmental vandalism in Lane Cove history’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking n",
+      "pubDate": "Sun, 09 Aug 2026 05:35:39 GMT",
+      "img": "https://i.guim.co.uk/img/media/6f04c097bcfbdc9f945a8b4ee546e26b7460da0f/125_0_1875_1500/master/1875.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Plastics contamination an ‘overlooked’ concern in food waste schemes, experts say",
+      "link": "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research",
+      "desc": "<p>Researchers find microplastics can persist in compost, leaching into agricultural soils</p><p>Plastic contamination should be a central concern in efforts to deal with food waste, which campaigners",
+      "pubDate": "Sun, 09 Aug 2026 05:00:06 GMT",
+      "img": "https://i.guim.co.uk/img/media/12f3d66621ae10a2bf4257f916f3a7998184d2ea/309_0_3848_3078/master/3848.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Near miss at Sydney Airport",
+      "link": "https://www.smh.com.au/national/nsw/near-miss-at-sydney-airport-20260809-p60mqf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two aircraft were within metres of each other on Sunday morning when one was forced to brake suddenly.",
+      "pubDate": "Sun, 09 Aug 2026 14:59:59 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/26236949ffe327251f3a97323d52fed596e81b7f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "We applied to a job at Kmart. An AI bot did the interview",
       "link": "https://www.smh.com.au/business/workplace/we-applied-to-a-job-at-kmart-an-ai-bot-did-the-interview-20260805-p60lof.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -34595,76 +34645,6 @@
       "desc": "Telstra has endured its worst week in a decade, after a software glitch sent the country’s biggest telco into crisis.",
       "pubDate": "Fri, 10 Jul 2026 17:19:45 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/dd5799d352fc2d089fc0dba298dc0521920bca2e13b8f3173882e1cde180a4b1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Desperate search for missing young mum west of Brisbane",
-      "link": "https://www.smh.com.au/national/queensland/desperate-search-for-missing-young-mum-in-country-queensland-20260710-p60ee5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Jana Armstrong, 30, was last seen at her home on Tuesday afternoon.",
-      "pubDate": "Fri, 10 Jul 2026 16:48:57 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d1010aef2b7cc4058bf36930ec5bcbd2c7f003c3d01cca8460aba9aae6e1722c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "We say thanks to all our selfless spineless pals | First Dog on the Moon",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/10/we-say-thanks-to-all-our-selfless-spineless-pals",
-      "desc": "<p>While I have no influence on the Guardian committee, I know who this year’s winner of the Invertebrate of the Year competition should be</p><ul><li><p><a href=\"https://www.theguardian.com/environme",
-      "pubDate": "Fri, 10 Jul 2026 06:28:28 GMT",
-      "img": "https://i.guim.co.uk/img/media/8e810209225dc43aff9ef1467945c525dcd1e94a/0_0_831_665/master/831.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Big Hits: Andean Silver, Midas Minerals and Iltani Resources",
-      "link": "https://www.smh.com.au/business/companies/big-hits-andean-silver-midas-minerals-and-iltani-resources-20260710-p60ee1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Bulls N’ Bears Big Hits looks at notable drill hits reported this week to the ASX, led by Andean Silver in Chile, Midas Minerals in Namibia and Iltani Resources in Queensland.",
-      "pubDate": "Fri, 10 Jul 2026 16:14:29 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354166666666667%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_28/t_crop_custom/q_86%2Cf_auto/3c00f94877cb2ad86ad91237913cc7abd8013d515252a8c5783840647ae21ab9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Economist Justin Wolfers on the 'absurdity' of Trump's America",
-      "link": "https://www.abc.net.au/news/2026-07-10/economist-justin-wolfers-on-trump-america/106901422",
-      "desc": "Former Reserve Bank economist Justin Wolfers says Australia urgently needs to consider the role of money in its politics while examining how US President Donald Trump profits from his position.",
-      "pubDate": "Fri, 10 Jul 2026 05:59:42 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/6a198f972c47e7b7e253b3943dafa734?impolicy=wcms_crop_resize&amp;cropH=4444&amp;cropW=3333&amp;xPos=0&amp;yPos=547&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "ASX Runners of the Week: Argent, Peregrine, NewPeak Metals & Caspin",
-      "link": "https://www.smh.com.au/business/companies/asx-runners-of-the-week-argent-peregrine-newpeak-metals-and-caspin-20260710-p60edh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The Bulls N’ Bears ASX Runner of the Week is… Argent BioPharma, striking a smart licensing deal for its CannEpil epilepsy drug that wipes out a major debt overhang while retaining blue-sky through roy",
-      "pubDate": "Fri, 10 Jul 2026 15:29:12 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/459274c6ebaf89bf0f19f79123ff51e165f00af01824aed3fffab63b8c11604e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australian-first CO2-powered battery planned for coal town",
-      "link": "https://www.abc.net.au/news/2026-07-10/victorian-government-co2-battery-gippsland/106756218",
-      "desc": "The Victorian government unveils a plan to build a compressed CO2 battery storage system in the heart of the state's coal country.",
-      "pubDate": "Fri, 10 Jul 2026 04:46:25 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/df13aebe157c40c5b5a48f1fc2cfafac?impolicy=wcms_crop_resize&amp;cropH=2542&amp;cropW=1906&amp;xPos=1175&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Runs your computer while you’re at lunch: ChatGPT for work just dropped",
-      "link": "https://www.smh.com.au/technology/creates-documents-while-you-re-at-lunch-chatgpt-for-work-just-dropped-20260709-p60dvc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
-      "desc": "They’re calling it ChatGPT Work. If you were already scared about AI taking your job, look away.",
-      "pubDate": "Fri, 10 Jul 2026 14:36:10 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/a241e980182cc5a87e94e50a58e30f686e9fa0d0",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
