@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-09T12:58:49.187Z",
-  "summary": "The Middle East remains in acute tension as Israel rejects a Trump-backed Gaza peace plan while announcing new West Bank settler units, even as Iran and the US signal possible openings to defuse their standoff. Russia continues a brutal assault on Ukraine, killing civilians in fresh strikes near Kyiv and Odesa, while regional instability spreads from Yemen to Colombia, where a car bombing has already tested the newly inaugurated hardline president. The Trump administration is consolidating control with key personnel appointments, including a former lawyer now confirmed as attorney general, while nuclear disarmament advocates at Nagasaki warn that humanity and atomic weapons cannot coexist. Global health concerns are also rising, with new research linking obesity to significantly higher cancer risks than previously understood.",
+  "fetchedAt": "2026-08-09T15:35:37.273Z",
+  "summary": "The Middle East remains a flashpoint with Israel rejecting Trump's Gaza peace proposal while expanding settler units in the West Bank, and tensions escalating between Iran and the US over nuclear concerns and maritime security. Major political shifts are underway, including Trump's return with an aggressive domestic agenda on citizenship and a new attorney general, while Colombia faces security challenges and European nations are alarmed by suspected Russian drone activity. Humanitarian crises persist across multiple regions, from Iranian families struggling with food inflation to Yemen's collapsing healthcare system and ongoing conflict in Ukraine. Climate and health issues also dominate the agenda, with obesity posing greater cancer risks and Australia facing an extinction crisis despite some conservation successes.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump targets birthright citizenship again",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
+      "desc": "US President Donald Trump has signed two new executive orders targeting birthright citizenship.",
+      "pubDate": "Sun, 09 Aug 2026 14:20:31 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786285140.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+      "link": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+      "desc": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
+      "pubDate": "Sun, 09 Aug 2026 13:23:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/s1234-1786266426.jpg?resize=1920%2C1281&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
@@ -14083,46 +14103,6 @@
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
-    },
-    {
-      "title": "Trump refuses to sign US housing bill over voting act standoff",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss",
-      "desc": "The housing legislation will become US law at midnight with or without President Donald Trump&#039;s signature.",
-      "pubDate": "Fri, 10 Jul 2026 15:17:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T183546Z_1807862606_RC2IAMA15GZ3_RTRMADP_3_USA-TRUMP-NATO-1783694629.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
-      "link": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss",
-      "desc": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
-      "pubDate": "Fri, 10 Jul 2026 14:38:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T215151Z_318518981_RC2I8MACV5HI_RTRMADP_3_UKRAINE-CRISIS-OMSK-FUEL-1783690504.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
-      "link": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss",
-      "desc": "Likely incoming UK PM hints at policy shifts towards Israel&#039;s genocidal war on Gaza. But analysts are wary.",
-      "pubDate": "Fri, 10 Jul 2026 13:38:16 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260702__B93W29A__v1__MidRes__BritainPoliticsLabourBurnham-1783678901_ff3485-1783682480.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Police probe donations to Britain’s far-right Reform party",
-      "link": "https://www.aljazeera.com/news/2026/7/10/police-probe-donations-to-britains-far-right-reform-party?traffic_source=rss",
-      "desc": "Reform UK&#039;s finances draw police scrutiny as Farage fights to reclaim his seat in a by-election.",
-      "pubDate": "Fri, 10 Jul 2026 13:25:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a50e6969972-1783686806.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }

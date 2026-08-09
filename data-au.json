@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-09T12:58:35.771Z",
-  "summary": "Australia's industrial relations landscape is heating up with BHP workers entering a second day of strikes at Port Hedland, while the government faces mounting pressure on multiple fronts including plans to slash student and family visas and a radical HSC overhaul banning take-home assessments. Critical infrastructure and safety concerns dominate the news, from near misses at Sydney Airport and on train tracks to violent crime including an alleged torture case and a woman's body discovered in a suitcase in rural NSW. Broader societal issues are also under scrutiny, with investigations into child safeguarding at Redeemer Baptist Church, concerning trends in online radicalization among young people, and growing questions about the resource demands of artificial intelligence infrastructure competing with essential needs like water for homes.",
+  "fetchedAt": "2026-08-09T15:35:23.665Z",
+  "summary": "Australia's domestic agenda is dominated by labor disputes, regulatory challenges and crime concerns. BHP workers in Port Hedland remain on strike into their second day amid negotiations, while the government faces pressure to overhaul gambling laws after an inquiry revealed punters were offered alcohol and cocaine. On the regulatory front, authorities are pursuing major policy shifts including plans to slash student and family visas, ban take-home HSC assessments, and investigate the environmental and social costs of AI-driven data centres and offshored jobs. Crime incidents dominate local news, with multiple assaults reported, a woman's body discovered in a suitcase in regional NSW, and a Sydney gardener facing a nearly $200,000 fine for removing trees to improve his property's water views.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Inside a meme factory: meet one of thousands of Indonesians trading political outrage clicks for Facebook cash",
+      "link": "https://www.theguardian.com/media/2026/aug/10/indonesia-clicks-for-cash-facebook-one-nation-us-politics-meta-creator-program-payments-ntwnfb",
+      "desc": "<p><strong>Exclusive:</strong> Adira says she doesn’t know much about her target countries or even know who their leaders are. Instead she’s chasing money from Meta, which pays for engagement</p><p></",
+      "pubDate": "Sun, 09 Aug 2026 15:00:20 GMT",
+      "img": "https://i.guim.co.uk/img/media/1973a5287021ccfbafbc1b23db194cc7406da582/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "As gambling reforms face pressure from all sides, will Labor hold ’em, fold ’em or walk away? | Josh Butler",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/10/as-gambling-reforms-face-pressure-from-all-sides-will-labor-hold-em-fold-em-or-walk-away",
+      "desc": "<p>Stronger action on inducements would be popular with voters – but crossbenchers fear ad reforms are worse than the status quo</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsle",
+      "pubDate": "Sun, 09 Aug 2026 15:00:20 GMT",
+      "img": "https://i.guim.co.uk/img/media/8de93ba3efa4493625944d894299c4eda4ff9072/173_0_2180_1745/master/2180.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "How clean air clubs are protecting Americans from wildfire smoke",
+      "link": "https://www.theguardian.com/us-news/2026/aug/09/us-wildfire-smoke-clean-air-clubs",
+      "desc": "<p>Mutual aid groups that gave out PPEs in Covid are now loaning air purifiers and distributing masks to fume-addled communities</p><p>Miquette Thompson’s home in rural Mendocino county has been cover",
+      "pubDate": "Sun, 09 Aug 2026 15:00:20 GMT",
+      "img": "https://i.guim.co.uk/img/media/50b369129629a60c661844bc8d7e6185b0fbe659/1304_526_4118_3296/master/4118.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "VietJet to offer international flights from Western Sydney",
+      "link": "https://www.smh.com.au/business/companies/vietjet-to-offer-international-flights-from-western-sydney-20260808-p60mla.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The budget airline will fly to Ho Chi Minh City and has also applied to run thousands of domestic flights a year from Sydney Kingsford Smith Airport.",
+      "pubDate": "Mon, 10 Aug 2026 00:01:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/2a8156d92168164cee4e75fe357f270f7a602940",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘You’re hit with a slam of shadow’: Nasa’s air mission to capture rare eclipse data",
+      "link": "https://www.theguardian.com/science/2026/aug/09/nasa-mission-total-solar-eclipse-iceland-sun-nanoflares",
+      "desc": "<p>Two aviators will take off from Iceland to take pictures of the sun while flying at high altitude along solar eclipse’s path</p><p>After lunch on Wednesday, two Nasa aviators will climb into a rese",
+      "pubDate": "Sun, 09 Aug 2026 14:00:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/77ddbe4fbb6b30034c0ff645a9022af5d5233aa4/343_0_2028_1622/master/2028.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Katrina Taylor’s breast implants made her sick. This new device could make women feel whole again",
+      "link": "https://www.smh.com.au/national/katrina-taylor-s-breast-implants-made-her-sick-this-new-device-could-make-women-feel-whole-again-20260731-p60kex.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Dozens of Australian women have had a breast augmentation using the experimental device made of the same material as dissolvable stitches.",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3fc635a774ab6ed2d4fd415ea9621ba9f9a1070b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Superquiz, Monday, August 10",
+      "link": "https://www.smh.com.au/national/superquiz-monday-august-10-20260807-p60mec.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "pubDate": "Sun, 09 Aug 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_234/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Avoid rare species and only take what you need: how to forage and save money on your food shopping",
+      "link": "https://www.theguardian.com/environment/2026/aug/09/foraging-food-conservation-biodiversity-aoe",
+      "desc": "<p>While there are fears that people harvesting their food could put pressure on habitats, some ecologists suggest responsible foraging can boost conservation and biodiversity</p><p>Angus Morton crouc",
+      "pubDate": "Sun, 09 Aug 2026 13:00:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/513f4eedfd54a884f79d8ae2b58598561001cd7a/125_0_4640_3712/master/4640.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "BHP workers in Port Hedland walk off the job for second day",
       "link": "https://www.smh.com.au/national/bhp-workers-in-port-hedland-walk-off-the-job-for-second-day-20260809-p60msf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -34485,96 +34565,6 @@
       "desc": "<p>Company reports $1.4bn profit despite its highest quarterly fuel expense in history</p><p>Delta Airlines saidelevated airfares are likely to last despite a recent drop in oil prices, reporting stro",
       "pubDate": "Fri, 10 Jul 2026 16:15:22 GMT",
       "img": "https://i.guim.co.uk/img/media/a21f84ac70e17274b1aa7cefc55271e9958da1a2/530_0_3813_3051/master/3813.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Back to Back Barries: The worst political gaffe of the week - podcast",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/jul/11/back-to-back-barries-the-worst-political-gaffe-of-the-week",
-      "desc": "<p><strong>Barrie Cassidy</strong> and <strong>Tony Barry</strong> examine a long list of stumbles and missteps made by politicians this week.</p><p>They also discuss the prime minister’s Pacific push",
-      "pubDate": "Fri, 10 Jul 2026 15:00:26 GMT",
-      "img": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3750_3000/master/3750.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "How ‘space balls’ launched a sleepy Queensland beach town into the global spotlight at warp speed",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/11/how-space-balls-launched-a-sleepy-queensland-beach-town-into-the-global-spotlight-at-warp-speed",
-      "desc": "<p>Shop owner Lisa Scobie says Forrest Beach is usually a place where ‘kids go fishing before school’. Then six mysterious objects washed up</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/",
-      "pubDate": "Fri, 10 Jul 2026 15:00:25 GMT",
-      "img": "https://i.guim.co.uk/img/media/a3f9accd53fb680756db3b6b7f6efd02b7696aab/50_0_1500_1200/master/1500.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Albanese juggles national security and trade in foreign policy bonanza. The stakes could not be higher | Tom McIlroy",
-      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/11/albanese-juggles-national-security-and-trade-in-foreign-policy-bonanza-the-stakes-could-not-be-higher",
-      "desc": "<p>China may be the biggest loser in landmark week where the PM met leaders of India, Fiji, Tonga, Samoa, Solomon Islands and Papua New Guinea</p><ul><li><p>Get our <a href=\"https://www.theguardian.co",
-      "pubDate": "Fri, 10 Jul 2026 15:00:24 GMT",
-      "img": "https://i.guim.co.uk/img/media/aba6e51ae3924858ac4d3e8e0ea6a8993f15f6fe/499_0_4316_3455/master/4316.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "The worst political gaffe of the week – Back to Back Barries podcast",
-      "link": "https://www.theguardian.com/australia-news/video/2026/jul/11/the-worst-political-gaffe-of-the-week-back-to-back-barries-podcast",
-      "desc": "<p>In this episode of the Barries podcast, co-hosts Barrie Cassidy and Tony Barry examine a long list of stumbles and missteps in what was a busy week in Australian politics. They also examine the pri",
-      "pubDate": "Fri, 10 Jul 2026 15:00:24 GMT",
-      "img": "https://i.guim.co.uk/img/media/f32ec8bfaf6abefb2dd01a3f2a8f6a8436cec2a5/243_0_1350_1080/master/1350.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Democrat running for Texas AG claims $110m in grants for Starlink ‘sure looks’ like corruption",
-      "link": "https://www.theguardian.com/us-news/2026/jul/10/democrat-texas-ag-candidate-spacex-starlink-investigation",
-      "desc": "<p>Nathan Johnson says if elected he’ll investigate state’s deal with Elon Musk’s SpaceX to provide rural internet</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/jul/10/donald-tr",
-      "pubDate": "Fri, 10 Jul 2026 14:57:08 GMT",
-      "img": "https://i.guim.co.uk/img/media/167d7e05fbe83b6508aead3d2d8e176f1759aec1/336_0_4968_3977/master/4968.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Apollo gatecrashes easyJet sale with surprise £5.7bn takeover offer – as it happened",
-      "link": "https://www.theguardian.com/business/live/2026/jul/10/apollo-easyjet-takeover-offer-business-ftse-markets-latest-news-updates",
-      "desc": "<p>Rolling coverage of the latest economic and financial news</p><p>Oil prices have slipped today, but are still set to end the week 6% higher as investors grow uneasy about the situation in the Middl",
-      "pubDate": "Fri, 10 Jul 2026 14:07:51 GMT",
-      "img": "https://i.guim.co.uk/img/media/2e4aa671163c116380d92011d555a3e2004f3833/408_0_3419_2736/master/3419.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Test your general knowledge with the Good Weekend quiz",
-      "link": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20260707-p60d9n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
-      "pubDate": "Fri, 10 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.103125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/297b54b43fec49dc75ceb1969fd1a88bc723fd9a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Wildfire in southern Spain kills at least 12 amid heatwave",
-      "link": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
-      "desc": "<p>Twenty-three people missing and at least four Britons thought to be among those who died fleeing Almería blaze</p><p>At least 12 people have been killed and 23 are unaccounted for after one of Spai",
-      "pubDate": "Fri, 10 Jul 2026 13:06:30 GMT",
-      "img": "https://i.guim.co.uk/img/media/788e8308e832f313fd2a9c9fcf8e929c2414ead2/444_0_3333_2667/master/3333.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Pacific gray whales facing ‘catastrophic’ die-off as climate crisis hits food supply",
-      "link": "https://www.theguardian.com/environment/2026/jul/10/pacific-gray-whales-population-climate-change",
-      "desc": "<p>Trump administration urged to relist a species in ‘very, very serious trouble’ under Endangered Species Act</p><p>Climate change is <a href=\"https://www.fisheries.noaa.gov/feature-story/eastern-nor",
-      "pubDate": "Fri, 10 Jul 2026 13:00:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/ccaf54a81aa387fe61531c9f75fa08544f8bf11b/127_0_3707_2966/master/3707.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
