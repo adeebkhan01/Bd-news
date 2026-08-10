@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-10T16:02:08.710Z",
-  "summary": "Middle East tensions dominate global headlines as Netanyahu rejects Trump's proposed 15-point Gaza peace plan, with analysts warning the move could entrench endless conflict, while Iran faces escalating pressure through American economic measures rather than military strikes on day 30 of the broader regional confrontation. Ukraine continues reporting significant Russian casualties and deploying innovative robotic warfare tactics, while North Korea's growing cyber capabilities pose emerging security threats using artificial intelligence. Regional conflicts persist across multiple fronts, including fresh Houthi attacks on Yemen's ports, alleged rebel leader deaths in Colombia, and Taiwan conducting invasion drills amid China tensions. On the home front, Western Europe experiences record summer heat, while various governments tackle cost-of-living issues and policy reforms ranging from subscription trap bans to immigration debates.",
+  "fetchedAt": "2026-08-10T19:02:21.122Z",
+  "summary": "Global tensions remain elevated across multiple fronts, with the Middle East dominating headlines as Netanyahu rejects Trump's Gaza ceasefire plan, Iran faces intensifying economic pressure and potential military escalation, and the Houthis continue attacks on shipping lanes. Democratic backsliding is evident from Russia's exclusion of opposition parties from parliamentary elections, while health emergencies command attention with the WHO warning that the DRC's Ebola outbreak began months before official declaration and now spreads faster than containment efforts. Regional conflicts persist in Ukraine, Sudan, and Colombia with reports of casualties and military operations, while other significant stories range from climate records being broken in Western Europe to North Korea's advancement in AI-enabled cyber attacks. Scattered stories address consumer issues, sports governance disputes, and technological disruption across the briefing landscape.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Who will be able to see the solar eclipse?",
+      "link": "https://www.bbc.co.uk/news/videos/c78gleevweno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "What you need to know about the UK and Europe's best eclipse in 27 years.",
+      "pubDate": "Mon, 10 Aug 2026 18:20:02 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7da/live/90bdd0a0-94e0-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+      "pubDate": "Mon, 10 Aug 2026 18:19:41 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3520/live/5abf3640-94dd-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+      "pubDate": "Mon, 10 Aug 2026 17:50:29 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4fc/live/e95d8e40-94da-11f1-8a7b-e7300179227e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Palestinian club football to restart in September after Gaza war suspension",
+      "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
+      "desc": "Palestinian sports leagues, including professional football, were halted due to Israel&#039;s genocidal war on Palestinians.",
+      "pubDate": "Mon, 10 Aug 2026 17:30:36 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7a04a8ce09-1786381480_6595ed-1786381920.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran’s president says Khamenei is in ‘perfect health’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
+      "desc": "Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”",
+      "pubDate": "Mon, 10 Aug 2026 17:05:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786381494.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
+      "link": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
+      "desc": "Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.",
+      "pubDate": "Mon, 10 Aug 2026 16:28:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a79e9b169-1786374577.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
@@ -14090,26 +14150,6 @@
       "desc": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
       "pubDate": "Sat, 11 Jul 2026 19:30:36 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump administration subpoenas New York Times reporters over coverage",
-      "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
-      "desc": "Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to &#039;threaten and intimidate&#039;.",
-      "pubDate": "Sat, 11 Jul 2026 18:46:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a528ada5089-1783794394.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "pubDate": "Sat, 11 Jul 2026 18:00:09 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ccf1fdf0-7d46-11f1-8417-c9f35e2ce384.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
