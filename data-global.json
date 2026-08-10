@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-10T13:16:57.625Z",
-  "summary": "Geopolitical tensions dominate today's news, with escalating conflicts in the Middle East as Iran faces mounting pressure from the United States and threats from Israel, while Houthi attacks on shipping continue and Trump signals a shift toward economic rather than military measures. In Eastern Europe, Ukraine persists in striking Russian targets and developing new battlefield technologies, while Taiwan conducts military drills amid Chinese pressure and instability grips Sudan and the Democratic Republic of Congo. The Israel-Gaza conflict remains unresolved with Netanyahu rejecting Trump's ceasefire proposal, and international bodies including UEFA and The Elders are speaking out on major policy issues from World Cup privatization to Palestinian displacement. Climate change marks another grim milestone as Western Europe records its hottest June and July on record, while a range of economic and domestic policy issues from energy bills to employment discrimination continue affecting citizens globally.",
+  "fetchedAt": "2026-08-10T16:02:08.710Z",
+  "summary": "Middle East tensions dominate global headlines as Netanyahu rejects Trump's proposed 15-point Gaza peace plan, with analysts warning the move could entrench endless conflict, while Iran faces escalating pressure through American economic measures rather than military strikes on day 30 of the broader regional confrontation. Ukraine continues reporting significant Russian casualties and deploying innovative robotic warfare tactics, while North Korea's growing cyber capabilities pose emerging security threats using artificial intelligence. Regional conflicts persist across multiple fronts, including fresh Houthi attacks on Yemen's ports, alleged rebel leader deaths in Colombia, and Taiwan conducting invasion drills amid China tensions. On the home front, Western Europe experiences record summer heat, while various governments tackle cost-of-living issues and policy reforms ranging from subscription trap bans to immigration debates.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+      "pubDate": "Mon, 10 Aug 2026 14:43:08 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1688/live/5a6f2b30-94c1-11f1-adb5-bd19050a74a5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
+      "desc": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "pubDate": "Mon, 10 Aug 2026 14:18:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/GVIR-AI-PRISONER-Horizontal-thumb-1786371366.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 30",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
+      "desc": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
+      "pubDate": "Mon, 10 Aug 2026 14:07:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/clean-2-1786370790.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "We should smile at our dogs - a new scientific study reveals why",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling.",
+      "pubDate": "Mon, 10 Aug 2026 14:02:57 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ff9/live/8c624e70-94cf-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+      "link": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
+      "desc": "The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.",
+      "pubDate": "Mon, 10 Aug 2026 13:59:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-04-21T114147Z_1363276551_RC2NTKAU10KA_RTRMADP_3_ISRAEL-PALESTINIANS-MEMORIAL-DAY-1786372140.jpg?resize=1920%2C1436",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why choosing low-fat dairy is not necessarily better for your health",
+      "link": "https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss",
+      "desc": "For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.",
+      "pubDate": "Mon, 10 Aug 2026 13:31:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2022-01-11T000000Z_1799180953_RC24XR999VFR_RTRMADP_3_USA-CLIMATE-DAIRY-1786356391.jpg?resize=1920%2C1205",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Has the army turned the page on control of western Sudan?",
       "link": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss",
@@ -263,6 +323,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "'Not afraid to stay': The Canadians who want to change how wildfires are fought",
+      "link": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
+      "pubDate": "Sun, 09 Aug 2026 23:02:39 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c81/live/663ae210-94c1-11f1-adb5-bd19050a74a5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
@@ -14043,56 +14113,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
-      "link": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
-      "desc": "The announcement comes after the previous prime minister, Alexandru Munteanu, stepped down earlier this month.",
-      "pubDate": "Sat, 11 Jul 2026 15:50:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a525a710bf9-1783782001_505f02-1783782781.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-      "pubDate": "Sat, 11 Jul 2026 15:40:23 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Wildlife conservation work to get £1m boost",
-      "link": "https://www.bbc.co.uk/news/articles/cp3xg2zkkv8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Endangered rodents, birds and butterflies will be among the species benefitting from the investment.",
-      "pubDate": "Sat, 11 Jul 2026 14:53:12 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7695/live/7cb1df10-7d30-11f1-8f06-e145dd803033.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
-      "pubDate": "Sat, 11 Jul 2026 13:35:09 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-      "link": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-      "desc": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
-      "pubDate": "Sat, 11 Jul 2026 13:18:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/img_6438_720-1783771001.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }

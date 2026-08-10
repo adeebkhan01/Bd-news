@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-10T13:16:30.266Z",
-  "summary": "Bangladesh announced major education reforms today, with SSC exam results showing a pass rate of 64.05 percent while over 690,000 students failed, prompting the Education Minister to pledge action against institutions with zero pass rates. In financial sector developments, Bangladesh Bank declared four non-bank financial institutions non-viable and suspended trading of their shares, while the government launched initiatives to improve the business climate through deregulation and steering reforms in the creative economy. Students now have greater flexibility for overseas education expenses through card payments, and the government is also focusing on labour migration reforms. International tensions remain with Dhaka pressing India for the extradition of former Prime Minister Sheikh Hasina and seeking the return of alleged Hadi killing suspects.",
+  "fetchedAt": "2026-08-10T16:01:44.135Z",
+  "summary": "Bangladesh's education system dominates today's news as SSC results reveal mixed performance, with girls outperforming boys and nearly 700,000 students failing, while the government pledges action against institutions with zero pass rates. On the economic front, the Bangladesh Bank is aggressively pushing digital payments through Bangla QR incentives and fee waivers, while also tightening banking sector oversight by removing caps on administrators and barring former owners from reclaiming weak banks. India-Bangladesh relations remain a focus with Dinesh Trivedi's departure after key Dhaka meetings and the foreign minister emphasizing efforts to advance bilateral ties, though Dhaka is demanding New Delhi expedite the extradition of former Prime Minister Sheikh Hasina and resolve other outstanding issues.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,138 @@
     }
   ],
   "articles": [
+    {
+      "title": "Dinesh Trivedi leaves for India after 3 important meetings in Dhaka",
+      "link": "https://en.prothomalo.com/bangladesh/fbsv6boxns",
+      "desc": "",
+      "pubDate": "Mon, 10 Aug 2026 15:34:24 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-19/3hs9v2a7/Dinesh-Trivedi-02.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ঢাকায় ৩টি গুরুত্বপূর্ণ বৈঠকের পর দিনেশ ত্রিবেদী ভারতের দিকে রওনা দিলেন",
+      "descBn": ""
+    },
+    {
+      "title": "Jobike partners with DMTCL for Metro bicycle sharing",
+      "link": "https://www.thedailystar.net/business/news/jobike-partners-dmtcl-metro-bicycle-sharing-4244646",
+      "desc": "Jobike, an app-based micro-mobility service provider in Bangladesh, has signed an agreement with Dhaka Mass Transit Company Limited (DMTCL) to introduce app-based bicycle sharing at Metro Rail station",
+      "pubDate": "Mon, 10 Aug 26 21:05:37 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Jobike%20.jpeg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "জোবাইক ডিএমটিসিএলের সাথে মেট্রো বাইসাইকেল শেয়ারিংয়ের জন্য অংশীদারিত্ব করছে",
+      "descBn": "বাংলাদেশের একটি অ্যাপ-ভিত্তিক মাইক্রো-মোবিলিটি সেবা প্রদানকারী জোবাইক, ঢাকা মাস ট্রানজিট কোম্পানি লিমিটেড (ডিএমটিসিএল)-এর সাথে একটি চুক্তি স্বাক্ষর করেছে যাতে মেট্রো রেল স্টেশনে অ্যাপ-ভিত্তিক বাইসাইকেল শেয়ারিং চালু করা যায়"
+    },
+    {
+      "title": "Bangladesh Bank removes two-year cap on bank administrators",
+      "link": "https://www.thedailystar.net/business/news/bangladesh-bank-removes-two-year-cap-bank-administrators-4244636",
+      "desc": "The move effectively allows Bangladesh Bank to continue running a bank through an appointed administrator beyond two years if circumstances warrant",
+      "pubDate": "Mon, 10 Aug 26 21:03:06 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Bank%20administrator.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "বাংলাদেশ ব্যাংক ব্যাংক প্রশাসকদের উপর দুই বছরের সীমা সরিয়ে দিয়েছে",
+      "descBn": "এই পদক্ষেপ কার্যকরভাবে বাংলাদেশ ব্যাংককে যদি প্রয়োজনীয় পরিস্থিতি থাকে তাহলে নিয়োগপ্রাপ্ত প্রশাসকের মাধ্যমে দুই বছরের বেশি সময় ধরে একটি ব্যাংক পরিচালনা করার সুযোগ দেয়"
+    },
+    {
+      "title": "BB offers incentives to boost Bangla QR transactions",
+      "link": "https://www.thedailystar.net/business/news/bb-offers-incentives-boost-bangla-qr-transactions-4244626",
+      "desc": "Under the incentive scheme, acquiring institutions will receive 0.10 percent of the transaction value, while issuing institutions will receive 0.20 percent, subject to certain conditions",
+      "pubDate": "Mon, 10 Aug 26 20:52:51 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Bangla%20QR%202.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "বাংলা QR লেনদেন বৃদ্ধির জন্য বিবি প্রণোদনা প্রদান করছে",
+      "descBn": "প্রণোদনা পরিকল্পনার অধীনে, অধিগ্রহণকারী প্রতিষ্ঠানগুলি লেনদেন মূল্যের ০.১০ শতাংশ পাবে, যখন ইস্যুকারী প্রতিষ্ঠানগুলি ০.২০ শতাংশ পাবে, নির্দিষ্ট শর্তাধীন"
+    },
+    {
+      "title": "Singer brings Beko Primax TVs to Bangladesh",
+      "link": "https://www.thedailystar.net/business/news/singer-brings-beko-primax-tvs-bangladesh-4244606",
+      "desc": "Singer Bangladesh Limited, a subsidiary of Beko – the flagship brand of Türkiye’s Koç Holding, has launched the Beko Primax Series television lineup in the local market.",
+      "pubDate": "Mon, 10 Aug 26 20:34:54 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Singer%20.jpeg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "সিঙ্গার বাংলাদেশে বেকো প্রিম্যাক্স টিভি নিয়ে আসছে",
+      "descBn": "সিঙ্গার বাংলাদেশ লিমিটেড, যা তুরস্কির কোচ হোল্ডিংয়ের ফ্ল্যাগশিপ ব্র্যান্ড বেকোর একটি সহায়ক প্রতিষ্ঠান, স্থানীয় বাজারে বেকো প্রিম্যাক্স সিরিজ টেলিভিশন লাইনআপ চালু করেছে।"
+    },
+    {
+      "title": "Cabinet approves amendment to bar former owners from regaining weak banks",
+      "link": "https://www.thedailystar.net/business/banking/news/cabinet-approves-amendment-bar-former-owners-regaining-weak-banks-4244596",
+      "desc": "Draft change repeals Section 18a of the Bank Resolution Act, subject to legislative vetting",
+      "pubDate": "Mon, 10 Aug 26 20:27:38 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Cabinet%20meeting%20decision%20on%20merged%20banks.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "দুর্বল ব্যাংকের প্রাক্তন মালিকদের পুনরুদ্ধার রোধে সংশোধনী অনুমোদন করেছে ক্যাবিনেট",
+      "descBn": "ব্যাংক রেজোলিউশন আইনের সেকশন ১৮এ বাতিল করে এমন খসড়া পরিবর্তন, আইনসভার পরীক্ষাধীন"
+    },
+    {
+      "title": "No merchant fees for Bangla QR transactions: BB",
+      "link": "https://www.thedailystar.net/business/news/no-merchant-fees-bangla-qr-transactions-bb-4244576",
+      "desc": "Through the latest circular, the central bank has also cancelled its July 1 decision to set the minimum merchant discount rate (MDR) at 1 percent",
+      "pubDate": "Mon, 10 Aug 26 20:12:17 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Bangla%20QR.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "বাংলা কিউআর লেনদেনে কোনো বণিক ফি নেই: বিবি",
+      "descBn": "সর্বশেষ সার্কুলারের মাধ্যমে কেন্দ্রীয় ব্যাংক জুলাই ১ তারিখের সিদ্ধান্ত বাতিল করেছে যাতে ন্যূনতম বণিক ছাড় হার (এমডিআর) ১ শতাংশে নির্ধারণ করা হয়েছিল"
+    },
+    {
+      "title": "Foreign minister at briefing: Dhaka seeks enabling environment to advance Bangladesh–India ties",
+      "link": "https://en.prothomalo.com/bangladesh/ns12pcu9su",
+      "desc": "",
+      "pubDate": "Mon, 10 Aug 2026 13:33:46 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-10/cc7wggdn/PM-1.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ব্রিফিংয়ে বিদেশমন্ত্রী: ঢাকা বাংলাদেশ-ভারত সম্পর্ক এগিয়ে নিতে অনুকূল পরিবেশ খুঁজছে",
+      "descBn": ""
+    },
+    {
+      "title": "SSC results: All 382 examinees of Nasima Kadir Molla High School get GPA 5",
+      "link": "https://en.prothomalo.com/youth/education/892bb9c162",
+      "desc": "",
+      "pubDate": "Mon, 10 Aug 2026 13:14:12 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-10/alhoaxta/2-prothomalo-bangla2026-08-10k9b6xgh5SylhetDH072020260810narsingdi-ssc-result-nkm-4.webp",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "এসএসসি ফলাফল: নাসিমা কাদির মোল্লা উচ্চ বিদ্যালয়ের সকল ৩৮২ পরীক্ষার্থী জিপিএ ৫ পেয়েছে",
+      "descBn": ""
+    },
+    {
+      "title": "itel launches air conditioner suitable for Bangladeshi households",
+      "link": "https://en.prothomalo.com/corporate/wo255e7eah",
+      "desc": "",
+      "pubDate": "Mon, 10 Aug 2026 13:09:38 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-10/e8spxfuo/Itel-AC2.jpeg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "আইটেল বাংলাদেশী পরিবারের জন্য উপযুক্ত এয়ার কন্ডিশনার চালু করেছে",
+      "descBn": ""
+    },
+    {
+      "title": "We are on the ‘Yes’ side, now they have become the ‘No’: Jamaat ameer",
+      "link": "https://en.prothomalo.com/bangladesh/politics/5xb33v5ggp",
+      "desc": "",
+      "pubDate": "Mon, 10 Aug 2026 13:05:38 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-10/auetk24p/prothomalo-bangla2026-08-104cnpj66pWhatsApp-Image-2026-08-10-at-16.01.45.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "আমরা 'হ্যাঁ' পক্ষে আছি, এখন তারা 'না' পক্ষে পরিণত হয়েছে: জামাত আমীর",
+      "descBn": ""
+    },
     {
       "title": "Students can now pay overseas tuition by card",
       "link": "https://www.thedailystar.net/business/news/students-can-now-pay-overseas-tuition-card-4244526",
@@ -18572,90 +18704,6 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "তানজিদের ৯৪ রান জিম্বাবোয়ের বিরুদ্ধে বাংলাদেশকে শেয়ার হওয়া থেকে রক্ষা করে",
-      "descBn": ""
-    },
-    {
-      "title": "South Africa World Cup midfielder Adams passes away at 25",
-      "link": "https://en.prothomalo.com/sports/football/m349knr4r4",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 15:19:34 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-11/vkhfgxfa/Adams.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "দক্ষিণ আফ্রিকার বিশ্বকাপ মিডফিল্ডার অ্যাডামস ২৫ বছর বয়সে প্রয়াত হয়েছেন",
-      "descBn": ""
-    },
-    {
-      "title": "Flood-hit farmers to get aid after assessment",
-      "link": "https://www.thedailystar.net/business/news/flood-hit-farmers-get-aid-after-assessment-4221371",
-      "desc": "The government is preparing a list of farmers affected by the recent floods to provide them with targeted rehabilitation support, Fisheries, Livestock and Agriculture Minister Mohammed Amin Ur Rashid ",
-      "pubDate": "Sat, 11 Jul 26 20:44:44 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Flood_0.jpg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "মূল্যায়নের পর বন্যা ক্ষতিগ্রস্ত কৃষকরা সহায়তা পাবেন",
-      "descBn": "সরকার সম্প্রতি বন্যায় ক্ষতিগ্রস্ত কৃষকদের একটি তালিকা প্রস্তুত করছে তাদের লক্ষ্যবস্তু পুনর্বাসন সহায়তা প্রদানের জন্য, মৎস্য, পশুসম্পদ ও কৃষি মন্ত্রী মোহাম্মদ আমিন উর রশিদ বলেছেন।"
-    },
-    {
-      "title": "Bangladesh chase 200 in 3rd ODI to avoid series sweep",
-      "link": "https://en.prothomalo.com/sports/cricket/domdleu2gy",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 14:17:50 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2020-10/f87b2fac-c931-4bfb-995e-f90767f96161/BCB_Logo.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "বাংলাদেশ তৃতীয় ওডিতে ২০০ রান তাড়া করছে সিরিজ ক্লিন সুইপ এড়াতে",
-      "descBn": ""
-    },
-    {
-      "title": "England battle Norway as Argentina face Swiss in World Cup last eight",
-      "link": "https://en.prothomalo.com/sports/football/rzgxy1zotn",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 14:10:52 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-08/4o5lddws/Fifa-World-Cup-2026-trophy.webp",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "বিশ্বকাপের কোয়ার্টার ফাইনালে ইংল্যান্ড নরওয়ের বিপক্ষে লড়াই করবে, আর্জেন্টিনা সুইজারল্যান্ডের মুখোমুখি হবে",
-      "descBn": ""
-    },
-    {
-      "title": "Talks with IMF on new loan begin tomorrow, new pay structure on agenda",
-      "link": "https://en.prothomalo.com/business/o8bxs7yml3",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 13:27:53 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-11/w1f5ucy2/imf.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "আইএমএফের সাথে নতুন ঋণ নিয়ে আলোচনা আগামীকাল শুরু, নতুন বেতন কাঠামো এজেন্ডায়",
-      "descBn": ""
-    },
-    {
-      "title": "Merit must be prioritised in teacher recruitment: Fakhrul",
-      "link": "https://en.prothomalo.com/bangladesh/hahdze9plw",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 13:26:42 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-04/xohhsmtn/image-402337-1783146598.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "শিক্ষক নিয়োগে যোগ্যতাকে অগ্রাধিকার দিতে হবে: ফাখরুল",
-      "descBn": ""
-    },
-    {
-      "title": "HSC exams under Chattogram Board postponed until 16 July",
-      "link": "https://en.prothomalo.com/youth/education/raza8lhmc3",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 13:23:36 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-11/xdpvd6pm/Flood-affects-people.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "চট্টগ্রাম বোর্ডের অধীন এইচএসসি পরীক্ষা ১৬ জুলাই পর্যন্ত স্থগিত",
       "descBn": ""
     }
   ]
