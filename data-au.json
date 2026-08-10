@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-10T02:05:18.487Z",
-  "summary": "Australia's political landscape shows signs of strain, with poor polling numbers prompting Labor to downplay results while questions mount over governance, including a near-miss at Sydney Airport that forced an urgent ministerial review and delayed accountability from Coalition figures over banking scandals. The economy is under pressure as major banks drag down the ASX despite some bright spots, with home loan applications down significantly since the budget and broader concerns about taxation of the wealthy emerging. Social issues including census undercounting of First Nations peoples, inadequate mental health reporting, and a growing debate over political polling frequency reflect deeper systemic problems, while tragic incidents including a death at a house party and a woman found dead in a suitcase continue to dominate crime coverage.",
+  "fetchedAt": "2026-08-10T04:41:30.715Z",
+  "summary": "Australia faces mounting pressure on multiple fronts as the government navigates criticism over podcast remarks and poor polling, with Labor MPs downplaying a significant Newspoll slump while the opposition calls for an apology. Economic concerns are deepening, with mortgage applications down 20 percent since the budget and banks weighing down the ASX, though bulk-billing rates are rising. Safety and infrastructure issues are creating chaos nationwide, including a near-miss at Sydney Airport that prompted urgent transport minister intervention, pothole-caused traffic disruptions in Victoria, and a critical injury from a dirt bike crash in Western Australia. Meanwhile, climate and environmental warnings intensify as global ocean temperatures hit record July highs, while domestically, several ongoing investigations continue, including a murder inquiry following a house party death and a suitcase discovery that initially sparked concern but proved not to involve human remains.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "Voter beware: how electoral commissions are powerless to stop deliberately misleading party names",
+      "link": "https://theconversation.com/voter-beware-how-electoral-commissions-are-powerless-to-stop-deliberately-misleading-party-names-289380",
+      "desc": "The deliberately misleading “Free Palestine” party was established by a pro-Israeli YouTuber to swing votes from left to right. And it’s perfectly legal.",
+      "pubDate": "2026-08-10T04:25:38Z",
+      "img": "https://images.theconversation.com/files/752957/original/file-20260810-50-if0qbu.png?ixlib=rb-4.1.1&amp;rect=0%2C184%2C1999%2C999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "‘Fire and brimstone on acid’: Inside a Sydney private school’s control tactics",
+      "link": "https://www.smh.com.au/national/nsw/fire-and-brimstone-on-acid-inside-a-sydney-private-school-s-control-tactics-20260809-p60mr5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Survivors of Redeemer Baptist School have appeared at a parliamentary inquiry alleging extreme control was exercised over their lives.",
+      "pubDate": "Mon, 10 Aug 2026 14:14:03 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4483%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_39/t_crop_custom/q_86%2Cf_auto/c78703002374f962f0b4db7b9b97268d555a6c73",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+      "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+      "desc": "<p>Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland</p><p>More than a million people were moved to safety across east",
+      "pubDate": "Mon, 10 Aug 2026 03:46:36 GMT",
+      "img": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Opposition leader calls on PM to apologise for podcast remarks",
+      "link": "https://www.smh.com.au/national/opposition-leader-calls-on-pm-to-apologise-for-podcast-remarks-20260810-p60mzk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Opposition Leader Angus Taylor has called on Prime Minister Anthony Albanese to apologise to his Japanese counterpart for comments made on an infamous podcast episode.",
+      "pubDate": "Mon, 10 Aug 2026 13:07:11 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/40095c8ccf97eae7dd2497bd9f831efd4fb9d93f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Monster pothole causes traffic chaos in Victoria",
+      "link": "https://www.smh.com.au/national/monster-pothole-causes-traffic-chaos-in-victoria-20260810-p60mz0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A monster pothole damaged dozens of cars and triggered traffic chaos on a Victorian highway in the heavy rain.",
+      "pubDate": "Mon, 10 Aug 2026 12:38:49 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3aa9e5069f488fe2d5fff80719e737847b018bc7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Astrology blew up Kyle’s last show. It’s no accident his new show started with a psychic",
+      "link": "https://www.smh.com.au/business/companies/kyle-sandilands-new-show-is-a-mess-he-won-t-care-20260810-p60mum.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "It’s hard to read the broadcaster’s decision to begin his new show with a woo-woo figure as anything other than a coded rebuke to his former co-host.",
+      "pubDate": "Mon, 10 Aug 2026 12:38:26 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.8673%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/9fb97d416ff64b71d0026a535ee1a20380b03108",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Phones across western Cape York down again",
+      "link": "https://www.abc.net.au/news/2026-08-10/western-cape-telstra-secondary-outage/107016010",
+      "desc": "Telecommunications across western Cape York have suffered another outage this morning just hours after services were restored following a bushfire which crippled the network over the weekend.",
+      "pubDate": "Mon, 10 Aug 2026 02:36:51 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/b2a38c105164ad1a18b8157c962fd754?impolicy=wcms_crop_resize&amp;cropH=1022&amp;cropW=766&amp;xPos=2&amp;yPos=1&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Police not expecting retaliation after man's murder south of Brisbane",
+      "link": "https://www.smh.com.au/national/police-not-expecting-retaliation-after-mans-murder-south-of-brisbane-20260810-p60myh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Queensland Police Detective Inspector Ian Galpin has told media police are not anticipating retaliation over the violent death of a 21-year-old man at a party south of Brisbane last month.",
+      "pubDate": "Mon, 10 Aug 2026 12:19:53 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3294f2374cc3c08fb7cc6ffa8a7d6d05753c90cf",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Mortgage applications fall by 20 per cent since budget, Westpac claims",
+      "link": "https://www.smh.com.au/national/mortgage-applications-fall-by-20-per-cent-since-budget-westpac-claims-20260810-p60myi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Westpac claims mortgage applications have fallen by 20 per cent since Labor's controversial property tax reforms in May.",
+      "pubDate": "Mon, 10 Aug 2026 12:17:03 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8305f5881926469e6d0b7c4da71310058045758d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "World’s seas have hit hottest temperature on record for July, say scientists",
       "link": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
@@ -34535,76 +34625,6 @@
       "desc": "The telco will face a grilling from politicians about this week's nationwide outage that brought businesses and transport systems into chaos.",
       "pubDate": "Sat, 11 Jul 2026 05:00:07 +0000",
       "img": "https://live-production.wcms.abc-cdn.net.au/02106585136de76b22473dc6461f1574?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=572&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Man found injured in Sydney's west",
-      "link": "https://www.smh.com.au/national/man-found-injured-in-sydneys-west-20260711-p60eit.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man is fighting for life after being found on the side of a road suffering head injuries in Sydney's west.",
-      "pubDate": "Sat, 11 Jul 2026 14:38:24 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/49cda4f1dabebedc4d71da2b5e1b019bb9b8195f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "How police unravelled a sex-trafficking ring that sparked a landmark ruling",
-      "link": "https://www.smh.com.au/national/nsw/how-police-unravelled-a-sex-trafficking-ring-that-sparked-a-landmark-ruling-20260709-p60e34.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Whispers of a syndicate helmed in Sydney by “Batman” – a Coles and Krispy Kreme manager – helped police to identify 20 brothels.",
-      "pubDate": "Sat, 11 Jul 2026 13:45:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/q_86%2Cf_auto/61b9537474c8c56ecb95e31bdc31850cd126d0d70ca1c92be6ca44d3ad57c7bf",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "When a bushfire threatened my home, I had to choose what to save. The feeling never left me",
-      "link": "https://www.smh.com.au/national/when-a-bushfire-threatened-my-home-i-had-to-choose-what-to-save-the-feeling-never-left-me-20260710-p60e8q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "We should also ask ourselves which belongings are truly priceless before disaster makes that decision for us.",
-      "pubDate": "Sat, 11 Jul 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5321%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_192%2C$y_268/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/f274d7d734e167458e0f6e15b94885a11bb2c7f0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Crocs, sharks and an Aussie cricket legend: All the action from the Barra Classic",
-      "link": "https://www.abc.net.au/news/2026-07-11/nt-barra-classic-remote-daly-river/106904902",
-      "desc": "Crocs, sharks and an Australian cricket legend have all turned up for one of Australia's biggest barra fishing tournaments on the Daly River.",
-      "pubDate": "Sat, 11 Jul 2026 03:22:40 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/b1add0808dde903c598a3c7889307452?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Two men arrested after man in his 60s found dead on Fremantle Street",
-      "link": "https://www.smh.com.au/national/western-australia/two-men-arrested-after-man-in-his-60s-found-dead-on-fremantle-street-20260711-p60eim.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Paramedics were called to South Terrace just after 2am.",
-      "pubDate": "Sat, 11 Jul 2026 13:05:21 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2626%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_189/t_crop_custom/q_86%2Cf_auto/0452eb0d9a5676f361b9c5376c139a3f8d4b6da0cc6e5892a60a7ed1db894c24",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The heartbreaking detail that 13-year-old Layla left behind",
-      "link": "https://www.smh.com.au/national/victoria/the-heartbreaking-detail-that-13-year-old-layla-left-behind-20260711-p60ehy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The young teenager loved fashion, her friends and shopping. Now her family are struggling to comprehend why she was found dead in a bushland near their home.",
-      "pubDate": "Sat, 11 Jul 2026 12:57:09 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6895%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_219/t_crop_custom/q_86%2Cf_auto/55052c74ecc8a73f2810df8a3d4fb1d953cb9299",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Indonesia 'needs innovation', but one case makes young people reluctant",
-      "link": "https://www.abc.net.au/news/2026-07-11/indonesian-fears-after-gojek-startup-founder-makarim-jailed/106888002",
-      "desc": "The sentencing of tech entrepreneur Nadiem Makarim leaves many young Indonesians questioning whether investing in their country could expose them to legal risks.",
-      "pubDate": "Sat, 11 Jul 2026 02:52:10 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/64c7ff9518b2883ee60aec2af603e218?impolicy=wcms_crop_resize&amp;cropH=1600&amp;cropW=1200&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"

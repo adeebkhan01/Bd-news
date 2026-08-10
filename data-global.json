@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-10T02:05:32.747Z",
-  "summary": "The Middle East remains the dominant global concern, with escalating tensions between Iran and the United States alongside ongoing Israeli-Palestinian conflict. Houthis continue attacking Yemeni ports while Israel rejects Trump's Gaza ceasefire proposal and announces new West Bank settlements, drawing international condemnation. Separately, political turbulence marks several regions: Colombia faces security threats following its new president's inauguration, Hungary nominates a new presidential candidate, and Morocco's football chief may enter politics. Energy security and humanitarian crises persist from Ukraine to Iran, where economic hardship and geopolitical standoffs create mounting pressure for diplomatic resolution.",
+  "fetchedAt": "2026-08-10T04:41:45.939Z",
+  "summary": "Global tensions escalated today around Iran and the Middle East, with Trump signaling economic pressure rather than military strikes on Tehran while oil prices climbed amid uncertainty over the Strait of Hormuz and fresh Houthi attacks on Yemeni ports continued. Israel rejected Trump's fifteen-point Gaza ceasefire plan, with Netanyahu rebuffing the proposal while settlers advanced territorial claims in the occupied West Bank and Palestinian rights groups accused Israel of weaponizing archaeology. Separately, security incidents and political tensions rippled across multiple regions, including drones over a German military base, a car bomb in Colombia following the new president's inauguration, and Kosovo's prime minister facing a political crisis. On the domestic front in the United States, Trump's former lawyer was confirmed as attorney general while the administration targeted birthright citizenship again.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump signals shift to economic pressure on Iran over new military strikes",
+      "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
+      "desc": "US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.",
+      "pubDate": "Mon, 10 Aug 2026 03:48:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7941dd-1786331613.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+      "desc": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
+      "pubDate": "Mon, 10 Aug 2026 03:24:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T132145Z_335753292_RC2YSMATHMCD_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1786325933.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
@@ -393,6 +413,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Kosovo PM Kurti egged in parliament amid political crisis",
+      "link": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Kosovo has held three elections in over two years. Albin Kurti's ruling Vetevendosje is struggling to garner the two-thirds majority required to elect a president.",
+      "pubDate": "2026-08-08T20:31:00Z",
+      "img": "https://static.dw.com/image/78291147_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
