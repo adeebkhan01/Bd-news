@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-09T21:36:33.834Z",
-  "summary": "Middle East tensions dominate global headlines as Israeli-Palestinian conflict escalates with Israel rejecting Trump's Gaza plan and announcing hundreds of new settler units while Palestinians hold ground on their rights, while separate Iranian concerns mount over economic hardship and regional military posturing with the US. Conflict zones from Ukraine to Colombia and the Democratic Republic of Congo remain active, with Russian forces conducting brutal operations near Odesa and a car bomb striking Colombia's new hardline president days into his tenure. Governance and accountability issues surface across multiple nations including corruption crackdowns in Iraq, Hungary's presidential nomination drawing scrutiny, and international bodies like the ICC and FIFA facing pressure. Environmental and health concerns round out the agenda, with Australia identified as an extinction hotspot and obesity recognized as a larger cancer risk than previously understood.",
+  "fetchedAt": "2026-08-10T02:05:32.747Z",
+  "summary": "The Middle East remains the dominant global concern, with escalating tensions between Iran and the United States alongside ongoing Israeli-Palestinian conflict. Houthis continue attacking Yemeni ports while Israel rejects Trump's Gaza ceasefire proposal and announces new West Bank settlements, drawing international condemnation. Separately, political turbulence marks several regions: Colombia faces security threats following its new president's inauguration, Hungary nominates a new presidential candidate, and Morocco's football chief may enter politics. Energy security and humanitarian crises persist from Ukraine to Iran, where economic hardship and geopolitical standoffs create mounting pressure for diplomatic resolution.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
+      "desc": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.",
+      "pubDate": "Mon, 10 Aug 2026 01:34:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786325565.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
+      "link": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
+      "desc": "Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.",
+      "pubDate": "Mon, 10 Aug 2026 00:51:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2283953445-1786268144.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+      "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+      "desc": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.",
+      "pubDate": "Mon, 10 Aug 2026 00:19:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-09T152331Z_230840296_RC2ZUMAM167K_RTRMADP_3_YEMEN-SECURITY-1786317999.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+      "desc": "Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26220552236900-1786319193.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "You could be missing out on £150 off your energy bill - here's how to check",
+      "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+      "pubDate": "Sun, 09 Aug 2026 23:47:30 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8926/live/34a4ae50-8cd0-11f1-97f5-93fc85ee9dc4.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+      "desc": "F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.",
+      "pubDate": "Sun, 09 Aug 2026 23:28:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786317536.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
@@ -13930,106 +13990,6 @@
       "desc": "Years of conflict have left thousands of Sudanese students struggling to continue their education in exile.",
       "pubDate": "Sat, 11 Jul 2026 04:41:40 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/8110bc77-494b-43e1-b43f-d9b9812c28c5_BBAB3AD5-EB93-4F92-9E05-14DDC5867335-1-1783602000.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-      "pubDate": "Sat, 11 Jul 2026 01:45:59 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89bb/live/90ab13b0-7cbd-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-      "pubDate": "Sat, 11 Jul 2026 01:24:49 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
-      "pubDate": "Sat, 11 Jul 2026 00:46:15 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27a0/live/80ca2f10-7c83-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why the new US housing bill won’t fix the crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
-      "desc": "Why the new US housing bill won&#039;t fix the crisis.",
-      "pubDate": "Sat, 11 Jul 2026 00:41:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/tia-wide-thumb-1783730445.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "desc": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
-      "pubDate": "Sat, 11 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2018-12-21T000000Z_508055346_RC1F33C0B450_RTRMADP_3_IRAN-USA-HORMUZ-1782381703.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
-      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "desc": "US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.",
-      "pubDate": "Fri, 10 Jul 2026 23:18:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5173102d9f-1783722768.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The photo that shows who's really on top in Le Pen's party",
-      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
-      "pubDate": "Fri, 10 Jul 2026 23:02:59 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aab/live/b694cdc0-7bad-11f1-9671-6995d20a3bb8.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-      "desc": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
-      "pubDate": "Fri, 10 Jul 2026 23:00:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-25T112848Z_1530515525_RC2P3EAUB13E_RTRMADP_3_RUSSIA-TECHNOLOGY-APPLE-1782447397.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "pubDate": "Fri, 10 Jul 2026 22:54:16 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss",
-      "desc": "Canada’s new privacy bill promises stronger protections for children, but experts say it still misses risks in the AI world.",
-      "pubDate": "Fri, 10 Jul 2026 22:12:38 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2fb7079625-1781511943.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
