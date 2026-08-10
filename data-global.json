@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-10T10:20:30.334Z",
-  "summary": "Global tensions remain elevated across multiple flashpoints with no immediate resolution in sight. The Middle East dominates today's coverage as Iran and the US engage in a delicate diplomatic dance while Israel rejects Trump's Gaza ceasefire proposal and continues expansion in the occupied West Bank, the Houthis persist with attacks on shipping, and oil prices climb amid uncertainty over the Strait of Hormuz. Ukraine continues absorbing Russian strikes while deploying innovative drone technology in its defence. Domestically, leaders address cost-of-living pressures through energy bill relief and anti-monopoly measures, while technology companies face scrutiny over worker conditions despite proclamations of automation benefits.",
+  "fetchedAt": "2026-08-10T13:16:57.625Z",
+  "summary": "Geopolitical tensions dominate today's news, with escalating conflicts in the Middle East as Iran faces mounting pressure from the United States and threats from Israel, while Houthi attacks on shipping continue and Trump signals a shift toward economic rather than military measures. In Eastern Europe, Ukraine persists in striking Russian targets and developing new battlefield technologies, while Taiwan conducts military drills amid Chinese pressure and instability grips Sudan and the Democratic Republic of Congo. The Israel-Gaza conflict remains unresolved with Netanyahu rejecting Trump's ceasefire proposal, and international bodies including UEFA and The Elders are speaking out on major policy issues from World Cup privatization to Palestinian displacement. Climate change marks another grim milestone as Western Europe records its hottest June and July on record, while a range of economic and domestic policy issues from energy bills to employment discrimination continue affecting citizens globally.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Has the army turned the page on control of western Sudan?",
+      "link": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss",
+      "desc": "Sudan&#039;s military repels a series of offensives by the RSF paramilitary in a strategically significant region.",
+      "pubDate": "Mon, 10 Aug 2026 12:51:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260806__C467464__v1__HighRes__SudanMilitaryKaikal-1786354643.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+      "pubDate": "Mon, 10 Aug 2026 12:23:21 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29af/live/fe349030-949d-11f1-9ade-bb7c8a2b6bc0.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Taiwan holds military drills to prepare for invasion by China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss",
+      "desc": "Taiwan holds military drills to prepare for invasion by China",
+      "pubDate": "Mon, 10 Aug 2026 12:09:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/taiwan-1786363734.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
+      "link": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
+      "desc": "Months into the war, Trump is returning to squeezing Iran&#039;s economy rather than military offensive for now.",
+      "pubDate": "Mon, 10 Aug 2026 11:11:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260808__C48X6WC__v1__HighRes__IranUsIsraelWar-1786299449_f954f1-1786359851.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "June and July hottest on record in Western Europe, monitor says",
+      "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
+      "desc": "The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.",
+      "pubDate": "Mon, 10 Aug 2026 10:21:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7982d5e593d-1786348245.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan",
       "link": "https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss",
@@ -100,6 +150,16 @@
       "desc": "A tree planting scheme to boost climate resilience receives £8.7m of funding.",
       "pubDate": "Mon, 10 Aug 2026 05:14:31 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e2/live/0b1bc610-93d6-11f1-870d-5d08c49babb2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "'You could smell someone' who worked at Raleigh",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
+      "pubDate": "Mon, 10 Aug 2026 05:10:15 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/bec205e0-947f-11f1-9918-857a225fb14e.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -14030,16 +14090,6 @@
       "desc": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
       "pubDate": "Sat, 11 Jul 2026 13:18:29 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/img_6438_720-1783771001.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What is going on in Yemen?",
-      "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
-      "desc": "Tensions are rising in the battlefield and political sphere. Will the conflict reignite?",
-      "pubDate": "Sat, 11 Jul 2026 12:53:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4a3f03d3f3-1783250691.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
