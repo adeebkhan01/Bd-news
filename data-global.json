@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-10T21:45:32.074Z",
-  "summary": "Global tensions escalated across multiple fronts today, with the Middle East dominating headlines as Trump's administration pursued economic pressure on Iran while Netanyahu rejected a fifteen-point Gaza peace plan, signaling potential for prolonged conflict. Russia barred its only anti-war party from upcoming parliamentary elections as Ukrainian forces struck Russian territory, while Turkey moved to pardon PKK fighters in an apparent reconciliation effort. The Trump administration revoked over 175,000 visas and signaled broader policy shifts, while concerning developments emerged including a major Ebola outbreak in the DRC beginning months before official declaration and ongoing Houthi attacks on Yemen's ports. In the background, Europe experienced record heat in June and July, underscoring mounting climate pressures amid geopolitical upheaval.",
+  "fetchedAt": "2026-08-11T02:00:39.572Z",
+  "summary": "Global geopolitical tensions escalated sharply today as the Trump administration intensified pressure on Iran, demanding compensation while claiming the Strait of Hormuz remains open, while a major earthquake struck Colombia leaving military infrastructure damaged and prompting emergency response coordination. Turkey's parliament passed an amnesty bill offering thousands of PKK fighters a path to pardon, Turkey's president stated Iran's supreme leader is in perfect health amid regional instability, and Russia barred its only anti-war party from parliamentary elections, continuing the suppression of domestic opposition. Technology and markets moved in different directions, with Nvidia securing five hundred billion dollars in investor funding for AI infrastructure development while Trump Media reported massive losses, and the Trump administration revoked over 175,000 visas. The Middle East remained volatile with Netanyahu rejecting Trump's Gaza peace plan and an Israeli minister posting inflammatory AI content ahead of elections, while health authorities warned the DRC's Ebola outbreak began months before official declaration.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump Media reports $238m loss as crypto falls",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The firm says it will refocus on its social media mission, which includes a controversial service that sells faster access to Trump's market-moving posts.",
+      "pubDate": "Tue, 11 Aug 2026 01:12:11 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Soldiers take cover as Colombia quake flattens military barracks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+      "desc": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
+      "pubDate": "Tue, 11 Aug 2026 01:06:36 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786410358.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
+      "desc": "Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.",
+      "pubDate": "Tue, 11 Aug 2026 00:55:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786409561.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+      "desc": "US President Donald Trump said he will seek compensation from Iran for casualties in the war.",
+      "pubDate": "Tue, 11 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260810__C4CG3KE__v1__HighRes__IranUsIsraelWarDailylife-1786401179.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "pubDate": "Mon, 10 Aug 2026 22:31:42 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+      "desc": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
+      "pubDate": "Mon, 10 Aug 2026 21:48:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786398376.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+      "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+      "pubDate": "Mon, 10 Aug 2026 21:33:51 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43eb/live/ed0a0df0-94fa-11f1-9181-85140b8ce01b.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
       "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
@@ -333,6 +403,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "When extreme heat threatens Europe's nuclear power",
+      "link": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Warm rivers and low water levels are forcing nuclear power plants to reduce output across Europe. Over a year, the losses are minimal, but on critical days the loss of power has consequences for grids",
+      "pubDate": "2026-08-10T07:04:00Z",
+      "img": "https://static.dw.com/image/78253558_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Forest funding boost as two million trees planted",
@@ -14183,26 +14263,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
-      "desc": "Explosions heard in the port cities of Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr and Asaluyeh as US attacks continue.",
-      "pubDate": "Sun, 12 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260710__B9UE4C4__v2__HighRes__TopshotUaeIranUsIsraelWar-1783813844.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "pubDate": "Sat, 11 Jul 2026 23:58:40 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
