@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-11T02:00:24.707Z",
-  "summary": "Australia's domestic news landscape today is dominated by legal proceedings and political developments, with the Alan Jones indecent assault trial continuing and the government pushing gambling reform with expected Coalition support. The Reserve Bank is holding interest rates steady as consumer economic concerns mount, while separate incidents including an alleged assault of an Australian inmate in Fiji and multiple violent incidents across Australian cities highlight ongoing safety issues. Weather disruptions have caused flight delays at major airports in Sydney and Western Australia, and environmental stories ranging from Great Barrier Reef recovery to illegal tree poisoning underscore Australia's climate and conservation challenges.",
+  "fetchedAt": "2026-08-11T04:22:17.613Z",
+  "summary": "Australia's domestic focus today centres on criminal justice proceedings, with the Alan Jones trial continuing in court and a jury discharged in a separate home birth manslaughter case. On policy fronts, the government pushes ahead with gambling reform and braces for potential bird flu outbreaks with a vaccination program for captive native species. The broader news cycle reflects international developments affecting Australia, including a devastating 7.4 magnitude earthquake in Colombia and geopolitical shifts in the Pacific, alongside economic indicators showing the RBA is expected to hold interest rates steady. Weather disruptions have caused flight delays and cancellations across Sydney and Perth, while local incidents range from a tragic child death to airport reopenings following storm damage.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,166 @@
     }
   ],
   "articles": [
+    {
+      "title": "Colombia earthquake has killed at least 132. My research helps explain why it was so destructive",
+      "link": "https://theconversation.com/colombia-earthquake-has-killed-at-least-132-my-research-helps-explain-why-it-was-so-destructive-289478",
+      "desc": "Many buildings in Colombia have thin concrete walls, which makes them extremely vulnerable to collapse.",
+      "pubDate": "2026-08-11T04:16:00Z",
+      "img": "https://images.theconversation.com/files/753212/original/file-20260811-60-hrwid5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C604%2C5033%2C2516&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "TMK gas flows rise as Mongolia power play takes shape",
+      "link": "https://www.smh.com.au/business/companies/tmk-gas-flows-rise-as-mongolia-power-play-takes-shape-20260811-p60nc7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "TMK Energy lifted July gas production 5 per cent at its Mongolian project as it prepares for a new drilling campaign and a gas-to-power project targeting year-end operations.",
+      "pubDate": "Tue, 11 Aug 2026 14:07:28 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354166666666667%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_103/t_crop_custom/q_86%2Cf_auto/75fb197b6e990345d50790778b6f5b4357ddbd7ba956a76055da84fe75d81995",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The great silence: why haven’t we found any aliens yet?",
+      "link": "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet",
+      "desc": "<p>Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they?</p><p>• The summer issue of the Long Read magazine is out now",
+      "pubDate": "Tue, 11 Aug 2026 04:00:04 GMT",
+      "img": "https://i.guim.co.uk/img/media/c42bd6a72d410220a91e2a2a39ac3bc69e06af9a/802_0_3797_3038/master/3797.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Luxon’s leadership on the line – again. Neither National nor Labour stand to benefit",
+      "link": "https://theconversation.com/luxons-leadership-on-the-line-again-neither-national-nor-labour-stand-to-benefit-289475",
+      "desc": "Whatever the outcome at tomorrow’s caucus meeting, Christopher Luxon has been found wanting as a political leader. But so has Labour’s Chris Hipkins.",
+      "pubDate": "2026-08-11T03:35:58Z",
+      "img": "https://images.theconversation.com/files/753223/original/file-20260811-50-wn2tb1.jpg?ixlib=rb-4.1.1&amp;rect=302%2C246%2C3325%2C1662&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Bird flu vaccine to be rolled out to vulnerable species in captivity",
+      "link": "https://www.abc.net.au/news/2026-08-11/federal-politics-agriculture-minister-bird-flu-vaccine-rollout/107023868",
+      "desc": "A vaccine will be rolled out to protect Australia's native species from the deadly H5N1 bird flu, with a focus on birds in captivity.",
+      "pubDate": "Tue, 11 Aug 2026 03:34:55 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/f7db5baa644ce1216c1f13b448572b93?impolicy=wcms_crop_resize&amp;cropH=2814&amp;cropW=2111&amp;xPos=1554&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "AI cameras to watch for signs of distress at Brisbane pools",
+      "link": "https://www.smh.com.au/national/queensland/ai-cameras-to-watch-for-signs-of-distress-at-brisbane-pools-20260811-p60nb0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The council says the technology is not replacing lifeguards, but the system could operate as an “extra set of eyes”.",
+      "pubDate": "Tue, 11 Aug 2026 13:29:02 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7340c47328dd1f5c3deb5a1f7914bab0bbec7d79f15bcd0f64a1ee586e6a88c4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Jury discharged in home birth manslaughter trial",
+      "link": "https://www.smh.com.au/national/queensland/jury-discharged-in-home-birth-manslaughter-trial-20260811-p60nbo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The mother was rushed to an Ipswich hospital, where doctors spent all day trying to revive her, transfusing 23 units of blood before she was pronounced dead.",
+      "pubDate": "Tue, 11 Aug 2026 13:24:17 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5490792231255646%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_370%2C$y_263/t_crop_custom/q_86%2Cf_auto/a79de7a5aca9ada6f569319b6bb92d508781fbed",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Alan Jones trial hears from brother of alleged victim",
+      "link": "https://www.abc.net.au/news/2026-08-11/alan-jones-trial-complainant-j-brother-gives-evidence/107021772",
+      "desc": "The brother of a man accusing Alan Jones of indecent assault has told the court he never saw the radio host act inappropriately towards his brother, and was only told of the allegations after Mr Jones",
+      "pubDate": "Tue, 11 Aug 2026 03:00:40 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/025beb5c4acaff71a2399d03f42b46c2?impolicy=wcms_crop_resize&amp;cropH=868&amp;cropW=651&amp;xPos=243&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Brain scans provide world-first evidence dogs can distinguish between human fear and sadness",
+      "link": "https://theconversation.com/brain-scans-provide-world-first-evidence-dogs-can-distinguish-between-human-fear-and-sadness-288916",
+      "desc": "Think your dog can tell when you’re angry rather than sad? New research inside dogs’ brains suggests the answer might be more complicated than you think.",
+      "pubDate": "2026-08-11T02:48:32Z",
+      "img": "https://images.theconversation.com/files/752986/original/file-20260810-50-ibqoi3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C521%2C6240%2C3120&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Weatherald returns home for Darwin Test",
+      "link": "https://www.smh.com.au/national/weatherald-returns-home-for-darwin-test-20260811-p60nb2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australian Test opener Jake Weatherald is back home in Darwin to take on Bangladesh in a match for his country.",
+      "pubDate": "Tue, 11 Aug 2026 12:31:59 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b5306145c9c8c9339af583eecc0cb29dc65931a3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Executive exodus continues at KPMG as partners decide chairman’s fate",
+      "link": "https://www.smh.com.au/business/companies/executive-exodus-continues-at-kpmg-as-partners-decide-chairman-s-fate-20260811-p60n9q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Another two senior executives associated with the whistleblower scandal at the accounting firm have resigned today.",
+      "pubDate": "Tue, 11 Aug 2026 12:21:32 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_888%2C$y_127/t_crop_custom/q_86%2Cf_auto/90fb75a9cbb3c4cf8f4f7dbe7580bcd3734aff6b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Native birds in captivity to be vaccinated against H5 bird flu as Australia prepares for more mass mortalities",
+      "link": "https://www.theguardian.com/world/2026/aug/11/bird-flu-h5-vaccine-native-birds-australia",
+      "desc": "<p>Federal government also hopes to vaccinate some wild birds but admits catching them once, let alone twice for both doses, is ‘difficult’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/e",
+      "pubDate": "Tue, 11 Aug 2026 02:13:01 GMT",
+      "img": "https://i.guim.co.uk/img/media/698ccbe9c1df91b03bd038b53793447fe2b7bf74/480_0_2815_2253/master/2815.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Multimillion-dollar plan to reshape suburban creek revealed",
+      "link": "https://www.smh.com.au/national/queensland/multimillion-dollar-plan-to-reshape-suburban-creek-revealed-20260811-p60n8f.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The lord mayor says the council is putting “serious money” into the waterway. The opposition says it’s long overdue.",
+      "pubDate": "Tue, 11 Aug 2026 12:10:53 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.20428240740740738%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_57/t_crop_custom/q_86%2Cf_auto/0bfbc1f94e87d16c0e5f023f2044e13a0ff5c38c0f78f86dba29162e6f21dcd2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Alexandria Ocasio-Cortez open to presidential run, announces she will freeze eggs",
+      "link": "https://www.abc.net.au/news/2026-08-11/alexandria-ocasio-cortez-egg-freezing/107022606",
+      "desc": "The 36-year-old said she felt \"empowered\" by her decision, while adding that it came with political risk.",
+      "pubDate": "Tue, 11 Aug 2026 02:08:14 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/ed314c4ae9bbe07b631c78d217dd99cc?impolicy=wcms_crop_resize&amp;cropH=1029&amp;cropW=772&amp;xPos=28&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Shock footage shows Australian bashed in Fijian jail",
+      "link": "https://www.smh.com.au/national/nsw/shock-footage-shows-australian-bashed-in-fijian-jail-20260811-p60n6m.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The inmate was allegedly punched and dragged through the sleeping quarters by a corrections officer at the Lautoka Remand Centre in the country’s west.",
+      "pubDate": "Tue, 11 Aug 2026 12:05:37 +1000",
+      "img": "https://static.ffx.io/images/$zoom_2.2063%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6e9a0c7d69a5414c9e631a09fae59bfe20d2c526de61ad435d988bbf97e26949",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "'Seismic shift': Māori set to invest in First Nations projects under new deal",
+      "link": "https://www.abc.net.au/news/2026-08-11/new-zealand-maori-indigenous-business-australia-agreement/107018450",
+      "desc": "One of the biggest and wealthiest Māori tribal authorities has signed a deal to invest in large-scale First Nations projects in renewable energy, mining, agriculture and more. Indigenous business grou",
+      "pubDate": "Tue, 11 Aug 2026 02:05:16 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/561b9b96a3b590fa65b3f3d4306c6c65?impolicy=wcms_crop_resize&amp;cropH=1366&amp;cropW=1025&amp;xPos=506&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "Australian inmate allegedly assaulted in Fiji",
       "link": "https://www.smh.com.au/national/nsw/australian-inmate-allegedly-assaulted-in-fiji-20260811-p60nad.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -35258,86 +35418,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Why Boost Juice founder Janine Allis takes a back seat in family business Yo-Chi",
-      "link": "https://www.smh.com.au/business/entrepreneurship/why-boost-juice-founder-janine-allis-takes-a-back-seat-in-family-business-yo-chi-20260710-p60ea3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The Allis family has built a formidable business empire, but businesswoman and mother-of-four Allis sees herself as more of a cheerleader when it comes to the frozen yoghurt success story.",
-      "pubDate": "Sun, 12 Jul 2026 14:20:19 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2542%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_72%2C$y_0/t_crop_custom/q_86%2Cf_auto/bdbc07fd13d97ead50a597780c2d5acfd500b3b4",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Premier Roger Cook takes over defence industries in cabinet reshuffle",
-      "link": "https://www.abc.net.au/news/2026-07-12/wa-premier-roger-cook-takes-defence-industries-portfolio-cabinet/106906850",
-      "desc": "WA Premier Roger Cook will take on the defence industries and tourism portfolios in a cabinet reshuffle, following the departure of longstanding minister Paul Papalia.",
-      "pubDate": "Sun, 12 Jul 2026 04:12:30 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/cbade612250b75f906d5d04b9308db12?impolicy=wcms_crop_resize&amp;cropH=1716&amp;cropW=1287&amp;xPos=643&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Pauline Hanson wants to 'round up' and move opponents to island",
-      "link": "https://www.smh.com.au/national/pauline-hanson-wants-to-round-up-and-move-opponents-to-island-20260712-p60enl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Pauline Hanson said she wants to round up and move her political opponents to an island in an interview with the UK's shortest-serving prime minister Liz Truss.",
-      "pubDate": "Sun, 12 Jul 2026 13:59:41 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/5caa64bce9987741f2cd21a853d0016082a9c73c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Man charged with young mum Jana Armstrong's murder",
-      "link": "https://www.smh.com.au/national/queensland/man-charged-with-young-mum-jana-armstrongs-murder-20260712-p60eng.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police arrested and charged a 48-year-old man in Harristown on Saturday night.",
-      "pubDate": "Sun, 12 Jul 2026 13:39:46 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f64aa155cf8520884a63dd5419f5663f4efe01f9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Central Park of Box Hill’: How a brickworks site is dividing a community and developers",
-      "link": "https://www.smh.com.au/national/victoria/central-park-of-box-hill-how-a-brickworks-site-is-dividing-a-community-and-developers-20260709-p60dy6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "As the Suburban Rail Loop is poised to bring a population boom to Melbourne’s outer suburbs, green space is becoming a hot commodity dividing locals and planners.",
-      "pubDate": "Sun, 12 Jul 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_139/t_crop_custom/q_86%2Cf_auto/da7596d5dbd46dbf987a36c370a897b8677fe00a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia news live: Victorian crossbench MP Georgie Purcell warns overhaul of state voting system must be backed by broader reform",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb",
-      "desc": "<p>Follow the day’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> ",
-      "pubDate": "Sun, 12 Jul 2026 03:20:12 GMT",
-      "img": "https://i.guim.co.uk/img/media/adc47e6df95c63f23df0a51431f1ec679211b47d/0_0_5988_4793/master/5988.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Ex-partner of missing mum charged with murder after body found by pig hunters",
-      "link": "https://www.smh.com.au/national/queensland/man-charged-with-murder-of-missing-young-mum-west-of-brisbane-20260712-p60elc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Toowoomba woman Jana Armstrong, 30, was declared missing on Tuesday, with her four-month-old son discovered at her home in the suburb of Newtown.",
-      "pubDate": "Sun, 12 Jul 2026 12:49:20 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9818603533673393%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_12%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/608afe4ec04e58c058b7d9b93a214c5ad08cb4dda56142899de245c1b5943e9f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Hunt for attacker after man fatally stabbed in busy area",
-      "link": "https://www.smh.com.au/national/hunt-for-attacker-after-man-fatally-stabbed-in-busy-area-20260712-p60emx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police are hunting for an attacker who fatally stabbed a man in Newcastle, NSW, in a busy area.",
-      "pubDate": "Sun, 12 Jul 2026 12:31:07 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/765abd8131f692a3a5672bdd59e3e218eeaf8041",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
