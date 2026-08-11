@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-11T04:22:32.421Z",
-  "summary": "The Trump administration is escalating pressure on Iran through economic demands while simultaneously revamping domestic policy on vaccinations and immigration, having revoked over 175,000 visas. Major geopolitical tensions persist as Netanyahu rejects a Gaza peace plan, Ukraine faces ongoing Russian strikes, and a military earthquake devastates Colombia. Tech investment remains robust with Nvidia securing $500 billion for AI infrastructure despite Trump Media's significant losses. Global health crises continue to mount, with the WHO warning that the DRC's Ebola outbreak began months before official detection, while Europe records its hottest months on record.",
+  "fetchedAt": "2026-08-11T07:13:52.218Z",
+  "summary": "Global tensions escalated today as the Trump administration intensified pressure on Iran through economic demands and visa revocations while discussing the Strait of Hormuz, while Yemen's Houthis launched fresh ballistic attacks and Russia barred its only anti-war party from parliamentary elections, signaling tightening authoritarian control. The Middle East remained fractured as Netanyahu rejected Trump's fifteen-point Gaza peace plan despite claims of a good relationship, and Lebanon pursued legal action against a former central banker. Meanwhile, an Ebola outbreak in the Democratic Republic of Congo proved more extensive than initially reported, and Turkey approved an amnesty-style law for PKK members as part of broader regional security shifts.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+      "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+      "desc": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
+      "pubDate": "Tue, 11 Aug 2026 06:05:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-09T152331Z_230840296_RC2ZUMAM167K_RTRMADP_3_YEMEN-SECURITY-1786419467.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Royal Golden Guernsey Goats join conservation herd",
+      "link": "https://www.bbc.co.uk/news/articles/ceqewxjjn5zo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The six-month-old goats are welcomed by the Governor of Guernsey.",
+      "pubDate": "Tue, 11 Aug 2026 05:12:47 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da30/live/4670a400-94b3-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "'Day turned into dusk' in 1999 total solar eclipse",
+      "link": "https://www.bbc.co.uk/news/articles/c0rdx87rgdgo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Those who saw the eclipse describe the \"eerie\" moment birds stopped singing.",
+      "pubDate": "Tue, 11 Aug 2026 05:07:34 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/759b/live/1bd36a20-94a9-11f1-afe9-fb1a837ec5d9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Where did all the money go if the US is running out of weapons?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
@@ -14273,26 +14303,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "link": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
-      "desc": "Sheikh Hamad, who ruled Qatar from 1995 to 2013, was a key architect of the energy-rich Gulf country&#039;s development.",
-      "pubDate": "Sun, 12 Jul 2026 05:15:01 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T051317Z_1461111289_RC25CMAT5IGV_RTRMADP_3_QATAR-EMIR-HAMAD-DEATH-1783833448.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran launches attacks across the Gulf after more US strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
-      "desc": "Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.",
-      "pubDate": "Sun, 12 Jul 2026 04:59:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783832345.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
