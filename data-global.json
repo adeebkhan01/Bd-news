@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-11T07:13:52.218Z",
-  "summary": "Global tensions escalated today as the Trump administration intensified pressure on Iran through economic demands and visa revocations while discussing the Strait of Hormuz, while Yemen's Houthis launched fresh ballistic attacks and Russia barred its only anti-war party from parliamentary elections, signaling tightening authoritarian control. The Middle East remained fractured as Netanyahu rejected Trump's fifteen-point Gaza peace plan despite claims of a good relationship, and Lebanon pursued legal action against a former central banker. Meanwhile, an Ebola outbreak in the Democratic Republic of Congo proved more extensive than initially reported, and Turkey approved an amnesty-style law for PKK members as part of broader regional security shifts.",
+  "fetchedAt": "2026-08-11T10:02:58.718Z",
+  "summary": "Global tensions are escalating across multiple fronts as the Trump administration pursues aggressive foreign policy aimed at Iran, demanding compensation over the Strait of Hormuz while security officials report covert operations amid military threats. The Middle East conflict is expanding, with North Korean missiles being used in Ukraine, Iraq's Kurdish region suffering spillover effects, and Syria's former leader sentenced to death in absentia, while Israel continues resisting Gaza peace initiatives. Domestically, the US is implementing controversial policy reversals on vaccinations and visa processing, and Russia is suppressing domestic opposition to its Ukraine invasion through legal barriers. Key international concerns also include an expanding Ebola outbreak in the DRC that officials warn preceded official detection, and rising security concerns around digital infrastructure control in the Global South.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "pubDate": "Tue, 11 Aug 2026 09:58:45 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39ad/live/cba75c80-9563-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "The Global South’s digital future must not belong to Bezos and Musk",
+      "link": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
+      "desc": "Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.",
+      "pubDate": "Tue, 11 Aug 2026 09:52:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7af08e-1786441870.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+      "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
+      "desc": "Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.",
+      "pubDate": "Tue, 11 Aug 2026 09:47:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260331__A6BA4HH__v1__HighRes__IraqKurdsIranIsraelUsWar-1786439445.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "pubDate": "Tue, 11 Aug 2026 09:42:48 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ee/live/c9a1fa20-9564-11f1-bfc0-f9e1bae5b9d9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "pubDate": "Tue, 11 Aug 2026 09:39:58 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Mars Bar from 1991 found - and it's 56% bigger than today's",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
+      "pubDate": "Tue, 11 Aug 2026 09:08:46 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f0/live/51bb04a0-94ad-11f1-afe9-fb1a837ec5d9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+      "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
+      "desc": "Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.",
+      "pubDate": "Tue, 11 Aug 2026 08:13:31 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-18T100031Z_1196535788_RC26WLAENOCS_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1786433709.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What is the US spending all their war money on?",
+      "link": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss",
+      "desc": "Why is the US Pentagon asking for more money for the war on Iran?",
+      "pubDate": "Tue, 11 Aug 2026 08:04:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/16x9-1-1786435140.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
+      "pubDate": "Tue, 11 Aug 2026 07:55:22 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/063ea5c0-954f-11f1-b96f-3d43158251d5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
+      "link": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
+      "desc": "Trump&#039;s comments are the first time he has spoken in FIFA president&#039;s defence since FFE plans were leaked on July 28.",
+      "pubDate": "Tue, 11 Aug 2026 07:13:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-19T230320Z_207857920_UP1EM7J1S1JJJ_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1786429748_b7fb5e-1786432328.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
       "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
@@ -14293,16 +14393,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The influential politician has just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
-      "pubDate": "Sun, 12 Jul 2026 08:14:08 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
