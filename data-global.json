@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-12T02:13:23.856Z",
-  "summary": "Global tensions are escalating sharply as the Middle East teeters on the brink of open US-Iran conflict, with Trump claiming control of the Strait of Hormuz while making dramatic security moves including a reported plane swap, and North Korea launching missiles as regional allies prepare joint military responses. Syrian courts have sentenced Bashar al-Assad to death in absentia following his fall from power, marking a significant shift in the region's political landscape. Europe faces mounting security concerns from drone incidents and Russian actions, while Hungary's parliament has elected a critic of Prime Minister Orbán as president, challenging the nationalist leader's grip on domestic institutions. Economic and humanitarian pressures are mounting worldwide, from Zambia's reform challenges to Gaza's worsening blockade and fishermen facing deadly risks in Yemen's war-torn Red Sea.",
+  "fetchedAt": "2026-08-12T04:50:21.888Z",
+  "summary": "Global tensions are escalating across multiple regions with military confrontations dominating headlines. The United States faces renewed Iran conflict marked by contested control of the Strait of Hormuz, a mysterious presidential plane swap, and ongoing Red Sea attacks by Houthis that are disrupting shipping and raising oil prices. In the Middle East, Syria's Assad has been sentenced to death in absentia, while Israel-Palestine violence persists with home demolitions and Gaza blockades. Elsewhere, North Korea launched ballistic missiles prompting joint US-South Korean drills, Hungary's parliament elected a supreme court judge ousted by Orbán, Russia released a detained American, and Lebanon became the first Middle Eastern nation to abolish the death penalty.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump says secret plane switch ‘up to the Secret Service’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
+      "desc": "US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.",
+      "pubDate": "Wed, 12 Aug 2026 04:15:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786508047.jpg?resize=1715%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "British driver who broke sound barrier sets new speed record",
+      "link": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h).",
+      "pubDate": "Wed, 12 Aug 2026 04:11:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/08dff490-95ff-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Russia frees ex-US marine Gilman jailed since 2022",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
+      "desc": "Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.",
+      "pubDate": "Wed, 12 Aug 2026 03:57:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786506936.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+      "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+      "desc": "Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.",
+      "pubDate": "Wed, 12 Aug 2026 03:41:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260810__C4CG2WF__v1__MidRes__IranUsIsraelWar-1786497435.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+      "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+      "desc": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
+      "pubDate": "Wed, 12 Aug 2026 03:09:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T194853Z_246622791_RC2HWMA6GKY6_RTRMADP_3_IRAN-CRISIS-SHIPPING-1786497071.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Stronghold of Syrian revolution celebrates Assad’s death sentence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss",
+      "desc": "Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad",
+      "pubDate": "Wed, 12 Aug 2026 02:21:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786501230.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump says he switched planes after Nato summit because of possible threat",
       "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
@@ -14423,26 +14483,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Bombs, blood, ambushes - football coaching with the army",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd7we8we4xgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "From kidnappings to invasions, military training takes football coaches out of their comfort zone as part of the Football Association of Wales' Uefa pro licence course.",
-      "pubDate": "Mon, 13 Jul 2026 03:56:53 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7d/live/da7f58f0-7e6d-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
-      "desc": "Brent crude climbs more than 4 percent as Washington and Tehran clash over control of critical waterway.",
-      "pubDate": "Mon, 13 Jul 2026 02:58:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-10T130543Z_1345548046_RC25AMATSFKG_RTRMADP_3_IRAN-CRISIS-SHIPPING-UN-1783908334.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
