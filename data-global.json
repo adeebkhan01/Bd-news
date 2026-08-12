@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-12T16:01:23.012Z",
-  "summary": "Global tensions dominated today's headlines, with the Trump administration's security concerns taking center stage after a reported secret plane switch during his NATO visit amid purported Iranian threats, while separately the administration's vaccine skepticism drew criticism from the WHO. Economic indicators showed a mixed picture across major economies, with US inflation moderating in July but concerns mounting about potential impacts from escalating Middle Eastern tensions, while China's trading architect Zhu Rongji died at 97 and Taiwan's Foxconn reported surging profits on AI demand. Regional conflicts intensified as North Korea launched missiles ahead of US-South Korea drills, Houthi attacks disrupted shipping in the Red Sea, and Israel's military operations in the West Bank drew UN warnings of crisis, while Lebanon made legal progress with death penalty repeal and an amnesty law. Trade and regulatory pressures appeared elsewhere, with Ukraine targeting Russian retail giant Wildberries and the EU's packaging rules sparking concerns among small businesses about compliance costs.",
+  "fetchedAt": "2026-08-12T19:05:57.257Z",
+  "summary": "Global markets and geopolitics are roiling as economic headwinds mount and regional conflicts intensify. The Democratic Republic of Congo faces a catastrophic public health crisis with its Ebola outbreak on track to become the deadliest on record, while escalating Israeli-Palestinian violence in the West Bank has drawn UN warnings about a humanitarian breaking point, compounded by Lebanon's rare legislative moves toward reform. Energy security concerns are spiking following Ukrainian attacks on Russian grain terminals and reports of reduced transit through the Strait of Hormuz, pushing oil prices higher and stoking inflation anxieties despite recent cooling in US consumer prices. Meanwhile, the Trump administration's policy directions on vaccines, the Middle East, and corporate antitrust matters are creating uncertainty across multiple sectors, from public health to defense and technology.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
+      "link": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
+      "desc": "Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.",
+      "pubDate": "Wed, 12 Aug 2026 18:23:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-12T162737Z_1740096022_RC2I0JA9NGWC_RTRMADP_3_WARNER-BROS-DIS-M-A-PARAMOUNT-SKYDAN-CNN-1786556738.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+      "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
+      "desc": "Outbreak to eclipse West Africa&#039;s Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.",
+      "pubDate": "Wed, 12 Aug 2026 18:23:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c9c9dc5a8-1786551453.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
+      "link": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-eu-2092-rdf",
+      "desc": "A quarter of a century after the Ohrid Framework Agreement ended North Macedonia's 2001 conflict, analysts warn that peace between ethnic communities remains fragile.",
+      "pubDate": "2026-08-12T17:56:00Z",
+      "img": "https://static.dw.com/image/58849398_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
+      "title": "Trump sued over Truth Social's $100,000 early access service",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+      "pubDate": "Wed, 12 Aug 2026 17:48:56 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00fb/live/14a782c0-966d-11f1-a6eb-474cf36e6c34.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "pubDate": "Wed, 12 Aug 2026 17:47:01 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+      "link": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
+      "desc": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.",
+      "pubDate": "Wed, 12 Aug 2026 16:23:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7c9e9bdee8-1786551963.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
@@ -14483,56 +14543,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-      "pubDate": "Mon, 13 Jul 2026 18:52:46 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468c/live/a01b76f0-7ede-11f1-84b4-d5196cc76857.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump administration vows to ‘disable’ International Criminal Court",
-      "link": "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court?traffic_source=rss",
-      "desc": "US State Department ups pressure campaign on international tribunal, threatening allies who support investigations.",
-      "pubDate": "Mon, 13 Jul 2026 18:32:24 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3964387c6b-1782146104.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Paramount and Warner Bros sued to block $110bn mega merger",
-      "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
-      "pubDate": "Mon, 13 Jul 2026 18:25:05 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78bd/live/e5f7dff0-7edf-11f1-931d-ab3863ef09cd.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "EU unveils $1bn fund for Gaza war recovery",
-      "link": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
-      "desc": "The scheme falls critically short of the $71bn reportedly needed for Gaza&#039;s recovery over the next 10 years.",
-      "pubDate": "Mon, 13 Jul 2026 16:28:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a54fb837e1a-1783954307.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-      "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-      "pubDate": "Mon, 13 Jul 2026 16:19:15 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e86/live/076e2020-7ec9-11f1-af40-3101fe5a127d.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
