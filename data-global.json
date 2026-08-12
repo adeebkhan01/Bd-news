@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-12T13:18:19.609Z",
-  "summary": "Global tensions are escalating across multiple fronts, with the Iran-US dispute taking center stage as Trump claims control of the Strait of Hormuz and cites security threats to justify a secret plane swap, while oil prices rise amid maritime attacks in the Red Sea. The Middle East conflict remains acute, with Israel intensifying operations in the West Bank where UN officials warn conditions are reaching a breaking point, and Lebanon marking a symbolic step by ending capital punishment. Economic pressures are mounting worldwide, from inflation easing in the US but growth concerns in the UK to energy crises in Gaza and hardship driving elections in Zambia and Hungary. Meanwhile, structural shifts are underway in major economies, highlighted by the death of China's former premier Zhu Rongji and Taiwan's tech sector surging on AI demand, while geopolitical rivalries deepen with North Korea's missile launches and continued fighting in Ukraine, where Zelenskyy signals new peace proposals to Washington.",
+  "fetchedAt": "2026-08-12T16:01:23.012Z",
+  "summary": "Global tensions dominated today's headlines, with the Trump administration's security concerns taking center stage after a reported secret plane switch during his NATO visit amid purported Iranian threats, while separately the administration's vaccine skepticism drew criticism from the WHO. Economic indicators showed a mixed picture across major economies, with US inflation moderating in July but concerns mounting about potential impacts from escalating Middle Eastern tensions, while China's trading architect Zhu Rongji died at 97 and Taiwan's Foxconn reported surging profits on AI demand. Regional conflicts intensified as North Korea launched missiles ahead of US-South Korea drills, Houthi attacks disrupted shipping in the Red Sea, and Israel's military operations in the West Bank drew UN warnings of crisis, while Lebanon made legal progress with death penalty repeal and an amnesty law. Trade and regulatory pressures appeared elsewhere, with Ukraine targeting Russian retail giant Wildberries and the EU's packaging rules sparking concerns among small businesses about compliance costs.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,86 @@
   ],
   "articles": [
     {
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "pubDate": "Wed, 12 Aug 2026 15:57:18 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+      "desc": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
+      "pubDate": "Wed, 12 Aug 2026 15:36:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/web-1786548955.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
+      "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
+      "desc": "The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.",
+      "pubDate": "Wed, 12 Aug 2026 15:30:18 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c5ffc8add-1786535932.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US consumer inflation slows in July as energy prices briefly retreat",
+      "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
+      "desc": "Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.",
+      "pubDate": "Wed, 12 Aug 2026 15:08:31 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7b4cf06ad23-1786465520.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
+      "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
+      "desc": "Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.",
+      "pubDate": "Wed, 12 Aug 2026 15:07:41 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7c8b1b6ba5-1786546971-e1786548111212.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+      "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
+      "desc": "The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.",
+      "pubDate": "Wed, 12 Aug 2026 14:26:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7c6545a530-1786537285.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Lionel Messi not certain to play ‘much longer’ after father’s death",
+      "link": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss",
+      "desc": "Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement from football.",
+      "pubDate": "Wed, 12 Aug 2026 13:59:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26201136678330-1786542449.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+      "link": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
+      "desc": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
+      "pubDate": "Wed, 12 Aug 2026 13:58:02 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2-1786428649-copy-1786528577.jpg?resize=1920%2C1280&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Burnham warned of Iran war impact on UK growth next year",
       "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
@@ -40,6 +120,26 @@
       "desc": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
       "pubDate": "Wed, 12 Aug 2026 13:13:21 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+      "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+      "desc": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
+      "pubDate": "Wed, 12 Aug 2026 13:10:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7c5f49-1786535753_4b149a-1786537474.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Astronomy superfan, 11, shares tips for watching solar eclipse",
+      "link": "https://www.bbc.co.uk/news/articles/cn9npgez25lo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Efan Dafydd's love of the cosmos continued to grow after meeting his hero, astronaut Tim Peake.",
+      "pubDate": "Wed, 12 Aug 2026 12:47:57 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07c6/live/5e469180-964c-11f1-a4de-8772188b26f6.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -113,6 +213,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "EU waste packaging rules: Why small businesses are worried",
+      "link": "https://www.dw.com/en/eu-waste-packaging-rules-why-small-businesses-are-worried/a-78326555?maca=en-rss-en-eu-2092-rdf",
+      "desc": "The EU has introduced new rules targeting packaging waste and \"forever chemicals.\" Although the changes will be phased in slowly, some small sellers have already paused shipments due to the additional",
+      "pubDate": "2026-08-12T09:21:00Z",
+      "img": "https://static.dw.com/image/78330980_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "EU packaging rules: Why small firms are sounding the alarm",
@@ -14423,66 +14533,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump: US will ‘take over’ Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss",
-      "desc": "President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.",
-      "pubDate": "Mon, 13 Jul 2026 15:41:07 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783957222.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iraqi PM heads to US seeking balance between security and economy",
-      "link": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
-      "desc": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
-      "pubDate": "Mon, 13 Jul 2026 15:25:56 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26134532695392-1783949742.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
-      "link": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls?traffic_source=rss",
-      "desc": "Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.",
-      "pubDate": "Mon, 13 Jul 2026 14:43:01 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a541be74e05-1783897063.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What is the EU’s plan to cut trade with illegal Israeli settlements?",
-      "link": "https://www.aljazeera.com/news/2026/7/13/what-is-the-eus-plan-to-cut-trade-with-illegal-israeli-settlements?traffic_source=rss",
-      "desc": "Foreign ministers&#039; meeting comes months after the EU imposed sanctions on Israel over West Bank settlement construction.",
-      "pubDate": "Mon, 13 Jul 2026 14:33:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a54d74a62a5c-1783945034.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "EU sanctions nine people over alleged Russian cyber-spying campaign",
-      "link": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss",
-      "desc": "EU announces sanctions on nine individuals and four entities over alleged years-long cyber-espionage campaign.",
-      "pubDate": "Mon, 13 Jul 2026 13:59:54 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-24T130529Z_1743242263_RC2ASJAT0M5V_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-COALITION-1771955233.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Hamas denies UN accusations over Gaza aid distribution interference",
-      "link": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference?traffic_source=rss",
-      "desc": "UN accuses Hamas of obstructing aid and risking workers&#039; safety, but the group denies it and defends its actions.",
-      "pubDate": "Mon, 13 Jul 2026 13:59:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/ap_6918b430de63d-1763226672.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
