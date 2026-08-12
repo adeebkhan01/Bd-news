@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-12T10:10:22.817Z",
-  "summary": "Global tensions are escalating across multiple fronts, with Iran-related security concerns dominating headlines as Trump claims a secret plane switch prevented an assassination attempt, while the Red Sea remains destabilized by Houthi attacks disrupting regional shipping. In the Middle East, Syria's former president Bashar al-Assad has been sentenced to death in absentia, Lebanon abolished capital punishment in a historic regional first, and Israeli military operations in the West Bank continue amid UN warnings of a humanitarian crisis. Political transitions are underway in Eastern Europe with Hungary's parliament electing a critic of Viktor Orbán as president, while upcoming elections in Zambia and elsewhere test incumbent leaders facing economic pressures. Corporate and technological developments show resilience in some sectors, with Foxconn reporting strong AI-driven profits even as geopolitical disruptions affect supply chains and trade routes.",
+  "fetchedAt": "2026-08-12T13:18:19.609Z",
+  "summary": "Global tensions are escalating across multiple fronts, with the Iran-US dispute taking center stage as Trump claims control of the Strait of Hormuz and cites security threats to justify a secret plane swap, while oil prices rise amid maritime attacks in the Red Sea. The Middle East conflict remains acute, with Israel intensifying operations in the West Bank where UN officials warn conditions are reaching a breaking point, and Lebanon marking a symbolic step by ending capital punishment. Economic pressures are mounting worldwide, from inflation easing in the US but growth concerns in the UK to energy crises in Gaza and hardship driving elections in Zambia and Hungary. Meanwhile, structural shifts are underway in major economies, highlighted by the death of China's former premier Zhu Rongji and Taiwan's tech sector surging on AI demand, while geopolitical rivalries deepen with North Korea's missile launches and continued fighting in Ukraine, where Zelenskyy signals new peace proposals to Washington.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "Burnham warned of Iran war impact on UK growth next year",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+      "pubDate": "Wed, 12 Aug 2026 13:14:45 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US inflation eases as food costs cool",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "pubDate": "Wed, 12 Aug 2026 13:13:21 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Bakery buys comedian's former sites after closure",
+      "link": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Bakery business Janes Pantry confirms its plans to reopen at least 20 of the Coughlans shops.",
+      "pubDate": "Wed, 12 Aug 2026 12:46:31 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e3/live/987b6fc0-7517-11f1-adcf-e1eef1a1ef9c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "pubDate": "Wed, 12 Aug 2026 12:16:22 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+      "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
+      "pubDate": "Wed, 12 Aug 2026 12:10:45 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea3e/live/dbc88590-9639-11f1-b809-7db91972344e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Generations of fish 'wiped out' after pollution incident",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted.",
+      "pubDate": "Wed, 12 Aug 2026 11:50:02 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8511/live/99b84950-9644-11f1-8414-97750c5a4202.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
+      "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss",
+      "desc": "Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.",
+      "pubDate": "Wed, 12 Aug 2026 10:40:57 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-DEATH-PENALTY-2026-1786524308.png?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+      "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
+      "desc": "Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.",
+      "pubDate": "Wed, 12 Aug 2026 10:27:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7c2478df-1786520696.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
+      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
+      "desc": "A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.",
+      "pubDate": "Wed, 12 Aug 2026 10:02:16 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Without_04-16-9_00-1786528394.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "EU packaging rules: Why small firms are sounding the alarm",
+      "link": "https://www.dw.com/en/eu-packaging-rules-why-small-firms-are-sounding-the-alarm/a-78326555?maca=en-rss-en-eu-2092-rdf",
+      "desc": "The EU has introduced new rules targeting packaging waste and \"forever chemicals.\" Although the changes will be phased in slowly, some small sellers have already paused shipments due to the additional",
+      "pubDate": "2026-08-12T09:21:00Z",
+      "img": "https://static.dw.com/image/78330980_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
     {
       "title": "Zambia’s president rallies for second term ahead of election",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
@@ -14383,126 +14483,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
-      "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.",
-      "pubDate": "Mon, 13 Jul 2026 13:01:33 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bd/live/31d39210-7edc-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
-      "link": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss",
-      "desc": "Graham, an ex-Trump critic, had turned into staunch supporter of the US president’s domestic and international policies.",
-      "pubDate": "Mon, 13 Jul 2026 12:41:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260105__2254685896__v4__HighRes__PresidentTrumpReturnsToTheWhiteHouseAfterSpe-1-1783948241.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
-      "desc": "Qatar&#039;s late Emir Sheikh Hamad bin Khalifa Al Thani’s 18-year rule brought pivotal changes towards women empowerment.",
-      "pubDate": "Mon, 13 Jul 2026 12:36:41 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783946179.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Street in Illinois named after murdered Palestinian boy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
-      "desc": "A street in the US state of Illinois has been named after a six year old Palestinian American boy who was killed.",
-      "pubDate": "Mon, 13 Jul 2026 12:31:36 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/thumb-wide-clear-1783945849.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "March to July: What’s different as US-Iran fighting escalates again?",
-      "link": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
-      "desc": "With ceasefire in shambles and both sides exchanging tit-for-tat attacks, is the region again plunging into all-out war?",
-      "pubDate": "Mon, 13 Jul 2026 12:12:46 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-13T092641Z_784468963_RC2UCMAUIKV1_RTRMADP_3_IRAN-CRISIS-1783936394.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-      "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The actor, who has died aged 78, built up a long string of screen credits over a five-decade career.",
-      "pubDate": "Mon, 13 Jul 2026 12:10:38 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea5/live/c04458f0-7eae-11f1-a302-011524d23ac9.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-      "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
-      "pubDate": "Mon, 13 Jul 2026 12:02:19 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f7/live/eb705460-7eaf-11f1-b5ec-67e9897fe2ad.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-      "pubDate": "Mon, 13 Jul 2026 11:52:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b5/live/99882570-7e86-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says",
-      "link": "https://www.aljazeera.com/news/2026/7/13/gianni-infantino-64-teams-expansion-comments-fifa-2030-world-cup?traffic_source=rss",
-      "desc": "FIFA president says during the first World Cup to feature 48 teams that it&#039;s under consideration.",
-      "pubDate": "Mon, 13 Jul 2026 11:29:20 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-11T212346Z_586418397_UP1EM7B1MPIS0_RTRMADP_3_SOCCER-WORLDCUP-NOR-ENG-1783936342_8f0aa3-1783938603.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "EU experts urge social media restrictions for kids under 13",
-      "link": "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-eu-2092-rdf",
-      "desc": "An expert panel has recommended limiting access to social media for young children across the EU. The European Commission is expected to present a proposal for legislation on the issue in the coming m",
-      "pubDate": "2026-07-13T10:38:00Z",
-      "img": "https://static.dw.com/image/77612899_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
-      "link": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
-      "desc": "Pressure from EU member states to impose sanctions has increased in recent months amid escalating settler violence.",
-      "pubDate": "Mon, 13 Jul 2026 10:32:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260216__97PJ6ZU__v1__HighRes__PalestinianIsraelConflictJerusalemSettlements-1771256119.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Men disguised as police kill Ecuadorean drug lord's brother",
-      "link": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
-      "pubDate": "Mon, 13 Jul 2026 10:30:51 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ca/live/0e6492f0-7ea2-11f1-b62f-ff1d7cedfbfe.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
