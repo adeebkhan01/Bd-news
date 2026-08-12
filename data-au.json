@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-12T19:05:39.926Z",
-  "summary": "Sydney faces a major housing and infrastructure challenge as planners aim to accommodate 1.3 million additional residents by 2046, though a $2.5 billion government bailout of the Tomago aluminium smelter highlights the tension between supporting regional jobs and fiscal responsibility. Several significant Australian businesses are under scrutiny, including hospitality platform Supp facing Fair Work investigation and the country's top solar retailer facing multiple probes. The news also touches on aviation disruptions at Sydney's new airport due to camera issues and environmental concerns ranging from Brisbane River pollution to concerns about Chinese research vessels operating in the Pacific.",
+  "fetchedAt": "2026-08-12T21:50:53.920Z",
+  "summary": "Australia's government is making major economic interventions, approving a $2.5 billion bailout for the Tomago aluminium smelter while preparing legislation to force tech giants to pay for news content. Domestically, several challenges are intensifying including strikes by Queensland youth detention workers, deepening mental health sector crises in Victoria, and a national student protest against One Nation as political tensions rise ahead of key votes. Security concerns are mounting with unidentified drones spotted over Australian air bases and police expanding facial recognition trials, while environmental issues continue to dominate the agenda with marine heatwaves and climate impacts drawing increasing attention. On the international front, US political developments including Trump administration policy shifts are rippling across various sectors from renewable energy to trade relationships.",
   "sources": [
     {
       "id": "abcnews",
@@ -30,6 +30,216 @@
   ],
   "articles": [
     {
+      "title": "Australia politics live: Rio Tinto given $2.5bn bailout for Australia’s largest aluminium smelter; tech giants face law to pay for news content",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "desc": "<p>Tim Ayres says bailout means the facility will remain operational until 2039. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">bre",
+      "pubDate": "Wed, 12 Aug 2026 21:46:23 GMT",
+      "img": "https://i.guim.co.uk/img/media/f21ae49eb4d292bc15328270a5893567ff5cd4c7/48_0_3373_2699/master/3373.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Live: $2.5b Tomago aluminium smelter bailout 'vital', minister says",
+      "link": "https://www.abc.net.au/news/2026-08-13/federal-politics-live-blog-tomago-bailout/107031244",
+      "desc": "The federal and NSW governments are set to unveil a $2.5 billion bailout of the Tomago aluminium smelter in the state's Hunter region. Follow live.",
+      "pubDate": "Wed, 12 Aug 2026 21:09:42 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/38eee737b4ce0182a13392ca3ec517f2?impolicy=wcms_crop_resize&amp;cropH=3512&amp;cropW=2634&amp;xPos=1803&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Woman pulled from earthquake rubble",
+      "link": "https://www.smh.com.au/national/woman-pulled-from-earthquake-rubble-20260813-p60nw3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A woman has survived being trapped for 36 hours beneath earthquake rubble in Colombia.",
+      "pubDate": "Thu, 13 Aug 2026 07:04:32 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ba38b1188455916af0cc026ee11c377ffb631393",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Queensland youth detention workers on strike",
+      "link": "https://www.smh.com.au/national/queensland-youth-detention-workers-on-strike-20260813-p60nvz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Youth detention workers across Queensland will walk off the job today for a six-day strike.",
+      "pubDate": "Thu, 13 Aug 2026 06:54:17 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a4f6761d8474ca86698d2e0f85a351b5d81cb20f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Major bank sounds interest rate warning",
+      "link": "https://www.smh.com.au/national/major-bank-sounds-interest-rate-warning-20260813-p60nw0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Westpac chief executive is warning interest rates may not start falling before 2028.",
+      "pubDate": "Thu, 13 Aug 2026 06:54:15 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4f1cd307f9fd3b1bdc4d94420341091e3afe8150",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Unidentified drones fly over Australian air bases",
+      "link": "https://www.smh.com.au/national/unidentified-drones-fly-over-australian-air-bases-20260813-p60nvx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "ASIO is being urged to investigate how 147 unidentified drones flew over Australian air bases.",
+      "pubDate": "Thu, 13 Aug 2026 06:51:09 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ffb1f976d7e85485fa2e71f9c793ac60982afe6b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Gold Coast family escapes burning home",
+      "link": "https://www.smh.com.au/national/gold-coast-family-escapes-burning-home-20260813-p60nvw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A family made a lucky escape after their Gold Coast home erupted in flames overnight.",
+      "pubDate": "Thu, 13 Aug 2026 06:50:07 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6f4f164afb0ce7f1b58e6e1d4e1a236282b624c3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Australia news LIVE: Thousands of students expected to walk out of class in protest of One Nation; White House press secretary Karoline Leavitt to step down",
+      "link": "https://www.smh.com.au/national/australia-news-live-thousands-of-students-expected-to-walk-out-of-class-in-protest-of-one-nation-white-house-press-secretary-karoline-leavitt-to-step-down-20260813-p60nvn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "pubDate": "Thu, 13 Aug 2026 06:49:28 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2771%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/8c17ed0e4e6e3c9929230ecb9591fde2da1d0988",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "'Back to the 60s' as ombudsman finds systemic issues in telco services",
+      "link": "https://www.abc.net.au/news/2026-08-13/telecommunications-ombudsman-report-systemic-regional-issues/107016980",
+      "desc": "A report from the Telecommunications Industry Ombudsman is recommending a root and branch review into telco services in regional Australia.",
+      "pubDate": "Wed, 12 Aug 2026 20:42:25 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/83dd10550b725ea340b609a935bb401e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=2110&amp;xPos=2883&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Revived NT mine to join Australia's modern gold rush",
+      "link": "https://www.abc.net.au/news/2026-08-13/nt-mount-bundy-mine-revival-amid-high-gold-prices/107029606",
+      "desc": "Chinese-financed company Hanking Gold is reviving the mothballed Mount Bundy mine south of Darwin, with the soaring gold price prompting predictions of profit from its first year of production.",
+      "pubDate": "Wed, 12 Aug 2026 20:19:18 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/ff96d9a6286df0c4d22baa6aee245696?impolicy=wcms_crop_resize&amp;cropH=3750&amp;cropW=2813&amp;xPos=1329&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Did you know there’s a vast reef network off the north coast of Australia? Few do – and that’s a problem",
+      "link": "https://theconversation.com/did-you-know-theres-a-vast-reef-network-off-the-north-coast-of-australia-few-do-and-thats-a-problem-288930",
+      "desc": "Due to the remote location and croc-inhabited waters, these northern reefs are largely overlooked and understudied.",
+      "pubDate": "2026-08-12T20:11:11Z",
+      "img": "https://images.theconversation.com/files/753228/original/file-20260811-51-pjp401.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C171%2C2048%2C1024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "LA Lakers sold in record $17.7b deal as Trump associate and former Disney chief swoop",
+      "link": "https://www.smh.com.au/business/companies/la-lakers-sold-in-record-17-7b-deal-as-trump-associate-and-former-disney-chief-swoop-20260813-p60nvi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Josh Kushner and Bob Iger sealed a deal to buy the iconic NBA franchise from billionaire financier Mark Walter, who only bought it last year.",
+      "pubDate": "Thu, 13 Aug 2026 06:11:06 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/399c91247307fc70b15dacf768f3247eb91377b5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "WA police is using live facial recognition to make arrests. This trial is testing privacy law",
+      "link": "https://theconversation.com/wa-police-is-using-live-facial-recognition-to-make-arrests-this-trial-is-testing-privacy-law-289491",
+      "desc": "Who gets to authorise such deployments? And who checks the safeguards?",
+      "pubDate": "2026-08-12T20:10:56Z",
+      "img": "https://images.theconversation.com/files/753474/original/file-20260812-50-82ztxm.png?ixlib=rb-4.1.1&amp;rect=0%2C67%2C2529%2C1264&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "NZ’s new flood maps are missing a hidden threat – the water quietly rising from below",
+      "link": "https://theconversation.com/nzs-new-flood-maps-are-missing-a-hidden-threat-the-water-quietly-rising-from-below-288791",
+      "desc": "Adaptation plans don’t account for groundwater in shallow coastal aquifers, which can rise with sea levels, increasing the risk of flooding and damage.",
+      "pubDate": "2026-08-12T20:10:32Z",
+      "img": "https://images.theconversation.com/files/753193/original/file-20260810-50-1fif2o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C351%2C4256%2C2128&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Marine heatwaves are cooking our ocean ecosystems – and will only become more common",
+      "link": "https://theconversation.com/marine-heatwaves-are-cooking-our-ocean-ecosystems-and-will-only-become-more-common-288400",
+      "desc": "These underwater disasters can trigger coral bleaching and massive fish kills.",
+      "pubDate": "2026-08-12T20:10:00Z",
+      "img": "https://images.theconversation.com/files/751647/original/file-20260803-50-1xyrrt.png?ixlib=rb-4.1.1&amp;rect=0%2C33%2C1586%2C793&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "One Nation has long claimed to represent the ‘working class’ – and that makes it a serious threat to Labor",
+      "link": "https://theconversation.com/one-nation-has-long-claimed-to-represent-the-working-class-and-that-makes-it-a-serious-threat-to-labor-289207",
+      "desc": "One Nation has staked its claim to being the working class party of choice, arguing Labor has long left the ‘battlers’ behind.",
+      "pubDate": "2026-08-12T20:08:40Z",
+      "img": "https://images.theconversation.com/files/753243/original/file-20260811-60-xrmy5o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C485%2C5568%2C2784&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "ASX set to slide, Wall Street boosted by AI stocks, inflation report",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-boosted-by-ai-stocks-inflation-report-20260813-p60nvc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Wall Street edged near its record after several AI stocks reported better growth than analysts expected, while a report showed inflation across the United States was slightly less bad last month.",
+      "pubDate": "Thu, 13 Aug 2026 06:07:25 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7760116666666667%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_213%2C$y_266/t_crop_custom/q_86%2Cf_auto/f46008f7a7face2c2606f1ddf19a7d363c949450",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "EJ Swift wins the 2026 Arthur C Clarke award for science fiction",
+      "link": "https://www.theguardian.com/books/2026/aug/12/ej-swift-wins-the-2026-arthur-c-clarke-award-for-science-fiction",
+      "desc": "<p>The writer – who was also shortlisted in 2023 – has won the prize for her book When There Are Wolves Again, a speculative work of eco-fiction set in near-future Britain </p><p>A novel about rewildi",
+      "pubDate": "Wed, 12 Aug 2026 20:00:38 GMT",
+      "img": "https://i.guim.co.uk/img/media/beb8f1db27993375b917795619422898db4a2314/0_438_4480_3582/master/4480.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Millions ‘missing’ and no relief: Workers detail deepening crisis in Victoria’s mental health sector",
+      "link": "https://www.smh.com.au/national/victoria/punched-strangled-spat-on-with-blood-the-reality-for-mental-health-workers-who-say-system-is-more-broken-than-ever-20260728-p60jbd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The verdict from workers is in on Victoria’s mental health system five years after the royal commission – and it doesn’t make for happy reading.",
+      "pubDate": "Thu, 13 Aug 2026 05:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.49929278642149927%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/be5c92ef2a49f5508e4479f2fb6935464a6a02ba",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "A billionaire secretly anointed his youngest son as successor. His other children were blindsided",
+      "link": "https://www.smh.com.au/national/victoria/family-first-integrity-no-drugs-the-billionaire-will-dispute-that-exposed-a-secret-family-succession-plan-20260728-p60jcj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Petrol and property baron Nick Andrianakos wanted his will changed before he died, to entrust the family business to his son and to give $8 million to his new lover.",
+      "pubDate": "Thu, 13 Aug 2026 05:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/b6f2ace0ae999331ae0d59d6f33cb0058d54bf2b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Iceland in complete darkness during total solar eclipse - video",
+      "link": "https://www.theguardian.com/science/video/2026/aug/12/iceland-in-complete-darkness-during-total-solar-eclipse-video",
+      "desc": "<p>Reykjavík, Iceland, falls into complete darkness as the solar eclipse reaches totality on 12 August</p> <a href=\"https://www.theguardian.com/science/video/2026/aug/12/iceland-in-complete-darkness-d",
+      "pubDate": "Wed, 12 Aug 2026 19:18:25 GMT",
+      "img": "https://i.guim.co.uk/img/media/afdf02261ec0094809ae18d0fad432945f337281/500_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
       "title": "Homes in the east, jobs in the west: How Sydney plans to fit an extra 1.3 million people by 2046",
       "link": "https://www.smh.com.au/national/nsw/homes-in-the-east-jobs-in-the-west-how-sydney-plans-to-fit-an-extra-1-3-million-people-by-2046-20260811-p60n6p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
       "desc": "About half of the 800,000 new homes the city needs to construct in the next 20 years will be built east of Parramatta, compared to less than a quarter in the west.",
@@ -45,6 +255,16 @@
       "desc": "A hospitality jobs marketplace that boasts thousands of users might be incorrectly labelling workers, a legal expert says, as the Fair Work Ombudsman tells workers to report any concerns.",
       "pubDate": "Wed, 12 Aug 2026 19:02:12 +0000",
       "img": "https://live-production.wcms.abc-cdn.net.au/3f724a05de946107e295b9068cab322d?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=1701&amp;xPos=716&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Six months into the job, Taylor is taking a detour",
+      "link": "https://www.abc.net.au/news/2026-08-13/angus-taylor-sussan-ley-anthony-albanese-japan-bipartisanship/107027210",
+      "desc": "Behind the scenes, Angus Taylor and Anthony Albanese have been engaged in a rare level of cooperation this week, but in public the opposition leader is using the melon saga to mount an all-out assault",
+      "pubDate": "Wed, 12 Aug 2026 19:00:00 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/63576e7fbc2aa8cdb9cc57a15847ff08?impolicy=wcms_crop_resize&amp;cropH=3512&amp;cropW=2634&amp;xPos=1073&amp;yPos=0&amp;width=862&amp;height=1149",
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
@@ -160,6 +380,16 @@
       "sourceColor": "#052962"
     },
     {
+      "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
+      "desc": "<p>A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful</p><p>Japan’s yen has slid back towards 160 to the dollar, despite last mo",
+      "pubDate": "Wed, 12 Aug 2026 17:39:46 GMT",
+      "img": "https://i.guim.co.uk/img/media/07eedea56b5bb2a0fbcd71b2de1350bbb5ca6d7f/452_0_3333_2666/master/3333.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
       "title": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
       "link": "https://www.theguardian.com/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
       "desc": "<p>Suit alleges subscription offer aims to sell privileged access to information generated in president’s official capacity</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump",
@@ -178,6 +408,16 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
+    },
+    {
+      "title": "WhatsApp ‘drops’, price hikes and queues: scramble for solar eclipse specs",
+      "link": "https://www.theguardian.com/science/2026/aug/12/secret-drops-whatsapp-threads-queues-hunt-solar-eclipse-specs",
+      "desc": "<p>Amid doubling prices and fraying tempers, shoppers hunt for elusive eyewear to prepare for rare eclipse of sun </p><p><a href=\"https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclips",
+      "pubDate": "Wed, 12 Aug 2026 16:05:37 GMT",
+      "img": "https://i.guim.co.uk/img/media/10e8be124d92c9c9a0f279fc078b2fa9d4f1c2eb/0_341_1200_960/master/1200.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Astronomers discover a new kind of cosmic object – a ‘black hole star’",
@@ -518,6 +758,16 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
+    },
+    {
+      "title": "Eli Lilly CEO still wants deal to bring Mounjaro to Australia under PBS",
+      "link": "https://www.abc.net.au/news/2026-08-12/eli-lillyceo-still-looking-to-bring-mounjaro-to-australia/107030066",
+      "desc": "Mounjaro is still not available on the PBS as Eli Lilly negotiates price points but the company's CEO says the door remains open.",
+      "pubDate": "Wed, 12 Aug 2026 09:15:07 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/28ae7b339cdab337eaf2b8350f295a11?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
     },
     {
       "title": "There is one piece of life advice worth taking from Gwyneth Paltrow",
@@ -36015,136 +36265,6 @@
       "desc": "Follow along as we bring you the latest live news updates from Australia and beyond.",
       "pubDate": "Tue, 14 Jul 2026 07:52:19 +1000",
       "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0d4baaef99c182c7f7ec519681c4f8e2d1d0647a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Oil soars over 10pc on heightened Middle East tensions while ASX down — as it happened",
-      "link": "https://www.abc.net.au/news/2026-07-14/asx-markets-business-live-news-july-14-2026/106911966",
-      "desc": "Oil prices soar more than 10 per cent, with analysts saying they could rise further as global supplies reach critically low levels. The ASX is following Wall Street down as the world digests the news.",
-      "pubDate": "Mon, 13 Jul 2026 21:39:13 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/362c3ef6b27abc034c8907598d66a71f?impolicy=wcms_crop_resize&amp;cropH=1834&amp;cropW=1380&amp;xPos=488&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Live: Shadow minister says he backs drop in house prices if it helps young people",
-      "link": "https://www.abc.net.au/news/2026-07-14/federal-politics-live-blog-bragg-on-housing-policy/106911880",
-      "desc": "Shadow Housing Minister Andrew Bragg says he supports a drop in house prices if it helps young people get into the housing market. Follow live.",
-      "pubDate": "Mon, 13 Jul 2026 21:13:48 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/9fad8b68ec301e607dd87e4d578fe692?impolicy=wcms_crop_resize&amp;cropH=1927&amp;cropW=1445&amp;xPos=658&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Probe finds sport club's ex-president awarded $450K of work to own company",
-      "link": "https://www.abc.net.au/news/2026-07-14/erina-rugby-league-football-club-james-savage-ilga-ban/106877672",
-      "desc": "An investigation by the NSW Independent Liquor and Gaming Authority has resulted in former Erina Rugby League Football Club president James Savage being banned and fined over conflicts of interest.",
-      "pubDate": "Mon, 13 Jul 2026 21:02:14 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/a5f07fb125268344350aec0cffaed2af?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Man dies in hit-and-run south of Brisbane",
-      "link": "https://www.smh.com.au/national/queensland/man-dies-in-hit-and-run-south-of-brisbane-20260714-p60f0v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police were searching for the driver on Tuesday morning.",
-      "pubDate": "Tue, 14 Jul 2026 06:57:05 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2585%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_111/t_crop_custom/q_86%2Cf_auto/317dc1caa5923a4e964a611d3105a12f9ad916ea81e7c4f1686a9531087daa1f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Concern bird flu may have reached Queensland",
-      "link": "https://www.smh.com.au/national/concern-bird-flu-may-have-reached-queensland-20260714-p60f15.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Australia’s deadly bird flu outbreak may have reached Queensland, with a sick bird found on Noosa Main Beach.",
-      "pubDate": "Tue, 14 Jul 2026 06:50:50 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/df093317f61548da6c7e446707d31edff42c4d2d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Warning for Aussies flying through Middle East",
-      "link": "https://www.smh.com.au/national/warning-for-aussies-flying-through-middle-east-20260714-p60f13.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Travel advice has ramped up for Australians who are stopping over at airports in the Middle East.",
-      "pubDate": "Tue, 14 Jul 2026 06:47:27 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a1fcaff39761636cfdb6d9de61488f447495da8e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Man charged with coordinating kidnap, murder of Sydney grandfather",
-      "link": "https://www.smh.com.au/national/man-charged-with-coordinating-kidnap-murder-of-sydney-grandfather-20260714-p60f11.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man has been charged with coordinating the alleged kidnapping and murder of Sydney grandfather Chris Baghsarian.",
-      "pubDate": "Tue, 14 Jul 2026 06:46:06 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c8f6d41f13035e7f61c5e1461d4347feef0df9e4",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "International buyers hit outback markets to hunt for Australia's best opals",
-      "link": "https://www.abc.net.au/news/2026-07-14/buyers-flock-to-winton-opal-festival-2026/106908654",
-      "desc": "The outback town of Winton is known for dinosaur fossils and as the location of the first performance of Waltzing Matilda, but has also become an important part of a growing international luxury trade",
-      "pubDate": "Mon, 13 Jul 2026 20:07:37 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/932d8b71fe03d34db94b2ee280570fdc?impolicy=wcms_crop_resize&amp;cropH=3750&amp;cropW=2813&amp;xPos=1094&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Gift register reveals incredible largesse heaped on Brisbane Olympic committee",
-      "link": "https://www.abc.net.au/news/2026-07-14/brisbane-olympic-gifts-register-revealed/106896242",
-      "desc": "The \"schmoozing\", revealed exclusively by the ABC today, is part of a wider series of examples of attempted influence-peddling from businesses and sporting bodies before the Games kick off in 2032.",
-      "pubDate": "Mon, 13 Jul 2026 19:54:17 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/07b1062545d0d18a745d54208a7f9b2b?impolicy=wcms_crop_resize&amp;cropH=498&amp;cropW=374&amp;xPos=276&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "An AI lab says chatbots have what may be a key feature of consciousness. Are they right? And what now?",
-      "link": "https://theconversation.com/an-ai-lab-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right-and-what-now-287190",
-      "desc": "Anthropic says there is something lurking inside Claude that looks a lot like the ‘global workspace’ one influential theory of consciousness depends on.",
-      "pubDate": "2026-07-13T19:48:35Z",
-      "img": "https://images.theconversation.com/files/747344/original/file-20260713-57-rlkquu.png?ixlib=rb-4.1.0&amp;rect=0%2C120%2C1919%2C959&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Why many young Australians face a more winding pathway to home ownership",
-      "link": "https://theconversation.com/why-many-young-australians-face-a-more-winding-pathway-to-home-ownership-287359",
-      "desc": "Research over a generation found almost half of young people moved repeatedly between renting, home ownership and even back to the family home.",
-      "pubDate": "2026-07-13T19:47:17Z",
-      "img": "https://images.theconversation.com/files/747326/original/file-20260713-57-d8rrd.jpg?ixlib=rb-4.1.0&amp;rect=0%2C518%2C5931%2C2965&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "'I have everything to ruin your life': Sextortion threats on the rise",
-      "link": "https://www.abc.net.au/news/2026-07-14/sextortion-threats-on-the-rise/106911280",
-      "desc": "Major online platforms are accused of failing to deploy readily available technology to detect well-known blackmail tactics.",
-      "pubDate": "Mon, 13 Jul 2026 19:38:23 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/833323fd83080ea05d32f96cfdf73bea?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=765&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "ASX set to slip, oil surges as US reinstates Hormuz blockade",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-slip-oil-surges-as-us-reinstates-hormuz-blockade-20260714-p60f0o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Oil prices are climbing following a weekend of attacks in the Middle East, while more losses for computer chipmakers and other winners of the artificial-intelligence boom weigh on stock markets.",
-      "pubDate": "Tue, 14 Jul 2026 05:21:49 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2933%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_68%2C$y_36/t_crop_custom/q_86%2Cf_auto/b3af78a458913da6ef05e16c4e2e869a40bed19e",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
