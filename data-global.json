@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-11T21:52:58.367Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Middle East faces intensifying conflict, with the Red Sea becoming increasingly dangerous for commercial shipping due to Houthi attacks, the US military engaging vessels it suspects of breaking Iran blockades, and Syria's interim government sentencing the ousted Assad regime to death. In Eastern Europe, Hungary has elected a supreme court judge previously removed by Prime Minister Orbán as its new president, marking a significant rebuke to Orbán's political control. Ukraine continues its costly military operations against Russia, which is now deploying North Korean missiles in the conflict, while the humanitarian crisis deepens in Gaza and Yemen due to blockades. Separately, the incoming US administration is issuing vaccination executive orders and addressing operational changes in the military and federal agencies, reflecting significant policy shifts in domestic governance.",
+  "fetchedAt": "2026-08-12T02:13:23.856Z",
+  "summary": "Global tensions are escalating sharply as the Middle East teeters on the brink of open US-Iran conflict, with Trump claiming control of the Strait of Hormuz while making dramatic security moves including a reported plane swap, and North Korea launching missiles as regional allies prepare joint military responses. Syrian courts have sentenced Bashar al-Assad to death in absentia following his fall from power, marking a significant shift in the region's political landscape. Europe faces mounting security concerns from drone incidents and Russian actions, while Hungary's parliament has elected a critic of Prime Minister Orbán as president, challenging the nationalist leader's grip on domestic institutions. Economic and humanitarian pressures are mounting worldwide, from Zambia's reform challenges to Gaza's worsening blockade and fishermen facing deadly risks in Yemen's war-torn Red Sea.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
+      "pubDate": "Wed, 12 Aug 2026 02:05:30 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/563a/live/482fdfb0-95f1-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Zambia to vote as economic hardship tests government reforms",
+      "link": "https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss",
+      "desc": "Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.",
+      "pubDate": "Wed, 12 Aug 2026 01:18:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260809__C4AA7CB__v1__HighRes__ZambiaPoliticsElections-1786449482.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+      "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+      "desc": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
+      "pubDate": "Wed, 12 Aug 2026 00:39:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26218312587430-1786492026.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+      "pubDate": "Wed, 12 Aug 2026 00:14:42 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
+      "desc": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
+      "pubDate": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T194853Z_246622791_RC2HWMA6GKY6_RTRMADP_3_IRAN-CRISIS-SHIPPING-1786487617.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "First 'pounds for pylons' energy bill discount sites revealed",
+      "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
+      "pubDate": "Tue, 11 Aug 2026 23:03:04 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
       "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&amp;at_campaign=rss",
@@ -14380,96 +14440,6 @@
       "desc": "Brent crude climbs more than 4 percent as Washington and Tehran clash over control of critical waterway.",
       "pubDate": "Mon, 13 Jul 2026 02:58:05 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-10T130543Z_1345548046_RC25AMATSFKG_RTRMADP_3_IRAN-CRISIS-SHIPPING-UN-1783908334.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
-      "desc": "At least 27 people were killed and 63 injured, many critically, after a fire ripped through a popular pub in Bangkok.",
-      "pubDate": "Mon, 13 Jul 2026 01:27:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-bangkok-bar-1783905971.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
-      "link": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
-      "desc": "Japanese baby product manufacturers turn their attention to the pet market amid collapsing birthrate.",
-      "pubDate": "Mon, 13 Jul 2026 01:20:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG_1927-1783563506_726989-1783582892_cdefd9-1783905750.jpeg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
-      "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
-      "desc": "Military manufacturing may be growing, but defence sovereignty depends on far more than production.",
-      "pubDate": "Mon, 13 Jul 2026 00:54:53 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG_4127-1783618126.jpeg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
-      "pubDate": "Mon, 13 Jul 2026 00:07:00 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
-      "desc": "Iranian state media report explosions in port cities of Bandar Abbas, Sirik and Jask, as well as Qeshm Island.",
-      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T083107Z_212065747_RC25CMA1A4YX_RTRMADP_3_IRAN-CRISIS-1783900012_b5c21a-1783900133.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
-      "link": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss",
-      "desc": "The US Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.",
-      "pubDate": "Sun, 12 Jul 2026 23:29:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5421f2-1783898610.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why switching to save money is easier than you might think",
-      "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
-      "pubDate": "Sun, 12 Jul 2026 23:28:01 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/a606cc70-7c74-11f1-917a-91e958a7e786.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
-      "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
-      "desc": "Sunday&#039;s attacks follow three previous days of tit-for-tat strikes between Iran and US as a June ceasefire deal frays.",
-      "pubDate": "Sun, 12 Jul 2026 23:03:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a541be74e05-1783897063.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
-      "desc": "Progressive congressman accuses Israeli military of &#039;lying&#039; after settlers held up his van in the occupied West Bank.",
-      "pubDate": "Sun, 12 Jul 2026 21:59:36 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-11T111536Z_1746176356_RC26AMAEG0Q6_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-KHANNA-1783889253.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
