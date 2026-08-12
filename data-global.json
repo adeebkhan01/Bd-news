@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-12T04:50:21.888Z",
-  "summary": "Global tensions are escalating across multiple regions with military confrontations dominating headlines. The United States faces renewed Iran conflict marked by contested control of the Strait of Hormuz, a mysterious presidential plane swap, and ongoing Red Sea attacks by Houthis that are disrupting shipping and raising oil prices. In the Middle East, Syria's Assad has been sentenced to death in absentia, while Israel-Palestine violence persists with home demolitions and Gaza blockades. Elsewhere, North Korea launched ballistic missiles prompting joint US-South Korean drills, Hungary's parliament elected a supreme court judge ousted by Orbán, Russia released a detained American, and Lebanon became the first Middle Eastern nation to abolish the death penalty.",
+  "fetchedAt": "2026-08-12T07:38:22.358Z",
+  "summary": "Ukraine is seeking to end its war with Russia through diplomatic proposals to the United States, while Middle East tensions escalate with Houthi attacks on shipping, Israeli operations in the West Bank drawing UN warnings, and a reported Iranian assassination plot leading President Trump to switch planes after a NATO summit. Syria's former president Bashar al-Assad has been sentenced to death by a Syrian court, marking a symbolic victory for revolution supporters, while North Korea launches missiles amid heightened US-South Korean military preparations. Regional developments include Lebanon abolishing the death penalty, Hungary electing an Orban critic as president, and Russia releasing a detained former US marine, underscoring ongoing geopolitical shifts across multiple flashpoints.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+      "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+      "desc": "Ukraine&#039;s president also says Russia will use its election next month as a pretext to declare a new mobilisation.",
+      "pubDate": "Wed, 12 Aug 2026 05:26:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26106330944934-1777788781.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Rare piglet the size of 'a grapefruit with legs' born at zoo",
+      "link": "https://www.bbc.co.uk/news/articles/cr591lz48dro?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Rana's arrival is described as a \"lifeline for the species\", which is in rapid decline in the wild.",
+      "pubDate": "Wed, 12 Aug 2026 05:12:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea16/live/1ae60ec0-956b-11f1-8b14-5d44448d174a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
+      "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+      "desc": "Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.",
+      "pubDate": "Wed, 12 Aug 2026 04:59:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26223358462796-1786494475.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
+      "desc": "New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.",
+      "pubDate": "Wed, 12 Aug 2026 04:52:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786510312.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump says secret plane switch ‘up to the Secret Service’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
@@ -140,6 +180,16 @@
       "desc": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
       "pubDate": "Tue, 11 Aug 2026 23:03:04 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Watch: What is it like to travel on Air Force One with Trump?",
+      "link": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him.",
+      "pubDate": "Tue, 11 Aug 2026 21:49:01 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac0/live/210d7380-95cd-11f1-b2ab-0dd01740f9f6.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -490,6 +540,16 @@
       "desc": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
       "pubDate": "Tue, 11 Aug 2026 09:08:46 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f0/live/51bb04a0-94ad-11f1-afe9-fb1a837ec5d9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "'I paid £400 for a Prada bag on Vinted - only to find it was fake'",
+      "link": "https://www.bbc.co.uk/news/articles/cp308wy8zk9o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A woman who paid £400 for a Prada handbag on Vinted later discovered it was a fake.",
+      "pubDate": "Tue, 11 Aug 2026 08:48:58 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b1/live/c6550860-94bc-11f1-adb5-bd19050a74a5.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -14403,86 +14463,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-      "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss",
-      "desc": "Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.",
-      "pubDate": "Mon, 13 Jul 2026 07:24:57 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-18T152309Z_750991961_RC2FWLA9PEAN_RTRMADP_3_IRAN-CRISIS-1783927267.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-      "pubDate": "Mon, 13 Jul 2026 07:19:57 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab1/live/ee081470-7c79-11f1-b976-0b9c15b0ccfc.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "EU approves new passenger rights for air travel",
-      "link": "https://www.dw.com/en/eu-approves-new-passenger-rights-for-air-travel/a-77927050?maca=en-rss-en-eu-2092-rdf",
-      "desc": "EU ministers have approved a set of reforms giving more rights to air travelers. Among other things, compensation claims are to be made easier.",
-      "pubDate": "2026-07-13T06:29:00Z",
-      "img": "https://static.dw.com/image/73315822_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza",
-      "link": "https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss",
-      "desc": "A look at Sheikh Hamad bin Khalifa Al Thani&#039;s enduring legacy of solidarity and support for the Palestinian people.",
-      "pubDate": "Mon, 13 Jul 2026 05:39:53 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/GettyImages-154604964-1783833258.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar’s economy",
-      "link": "https://www.aljazeera.com/news/2026/7/13/how-former-emir-sheikh-hamad-bin-khalifa-al-thani-built-qatar-economy?traffic_source=rss",
-      "desc": "Sheikh Hamad, who passed away aged 74 on Sunday, reshaped Qatar&#039;s economy by building lasting wealth and growth.",
-      "pubDate": "Mon, 13 Jul 2026 05:18:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T052207Z_1247777002_RC25CMAT0AQX_RTRMADP_3_QATAR-EMIR-HAMAD-DEATH-1783834396.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
-      "desc": "Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan.",
-      "pubDate": "Mon, 13 Jul 2026 05:15:54 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783919725.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Elderly Palestinian describes being beaten up by Israeli settlers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_elderly-palestinian-beaten-up-by-israeli-settlers-130726?traffic_source=rss",
-      "desc": "Israeli settlers assaulted 79-year-old Ibrahim al-Jabour and his family in Masafer Yatta in the Occupied West Bank.",
-      "pubDate": "Mon, 13 Jul 2026 05:06:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783919145.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
-      "pubDate": "Mon, 13 Jul 2026 05:00:46 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03f/live/5cc84d20-7e6a-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
