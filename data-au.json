@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T16:01:30.479Z",
-  "summary": "Australian news today is dominated by the Pauline Hanson controversy, with thousands of students walking out of class to protest the One Nation leader, while Labor escalates its political rhetoric against her and questions emerge over a failed candidate's podcast comments. A significant aviation safety incident unfolded at Sydney Airport where multiple aircraft had conflicting runway movements, prompting investigation by authorities. Domestically, a former bishop has been convicted of sex abuse crimes, and several violent crime cases are developing including a fatal carjacking and allegations of rape. In broader concerns, a Telstra executive received a substantial pay rise despite recent service outages, while governments continue directing taxpayer funds toward business bailouts in what critics view as problematic economic management.",
+  "fetchedAt": "2026-08-13T19:06:59.912Z",
+  "summary": "Australia's economy is absorbing major developments across energy, infrastructure and regulation today, with gas companies pursuing new Pacific reserves while the aluminium sector faces a multibillion-dollar bailout debate at Tomago. Political turbulence dominates domestically as thousands of students protest against Pauline Hanson over comments widely condemned by Labor as divisive, while Kayo Sports prepares price rises following Foxtel's $520 million football rights outlay. Sydney Airport's expansion clears a regulatory hurdle as the city grapples with capacity demands, contrasting with broader economic anxieties over housing downturns and wage inequality reflected in Telstra's CEO pay rise despite recent outages. International stories include a UK heatwave, advances in vaccine mosquito research, and heightened security calls for advanced US missile defence systems.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,216 @@
     }
   ],
   "articles": [
+    {
+      "title": "Companies eye untapped gas in the 'Saudi Arabia of the Pacific'",
+      "link": "https://www.abc.net.au/news/2026-08-14/the-papua-lng-project-near-australia-pacific-saudi-arabia/107028200",
+      "desc": "Global oil and gas giants are rushing to green-light a massive LNG project on Australia's doorstep as war in the Middle East forces countries to look for alternative energy supplies.",
+      "pubDate": "Thu, 13 Aug 2026 19:03:17 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/683855adc86fafcd2fe3d3d677629884?impolicy=wcms_crop_resize&amp;cropH=574&amp;cropW=431&amp;xPos=220&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Kayo price rises on the cards after Foxtel’s $520 million rights deal",
+      "link": "https://www.smh.com.au/business/companies/kayo-price-rises-on-the-cards-after-foxtel-s-520-million-rights-deal-20260813-p60nyw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Foxtel is looking for an extra $250 million a year to pay the NRL, after agreeing to a record sports broadcast deal. Hiking prices is one option on the table.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3968%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_369%2C$y_256/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/20f9393f8b0d6594966909ce4e8387a30f241bc7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The price is high. Football legend Dusty Martin cuts another property tie with disgraced manager",
+      "link": "https://www.smh.com.au/business/companies/the-price-is-high-football-legend-dusty-martin-cuts-another-property-tie-with-disgraced-manager-20260813-p60o26.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "A building jointly owned by Martin and Carr sold but didn’t meet the original $2.3 to $2.5 million range.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/734a9e5eff5810f5a579ead0dfac3b7971cf521f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Tomago’s $2.5 billion rescue reignites debate over taxpayer bailouts",
+      "link": "https://www.smh.com.au/business/the-economy/tomago-s-2-5-billion-rescue-reignites-debate-over-taxpayer-bailouts-20260813-p60o2i.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The $2.5 billion taxpayer rescue of Australia’s largest aluminium smelter has raised questions over whether public funds are backing uncompetitive manufacturers.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1345%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/547d91fe755216b35598eb1780f7c0a7d4167df7",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "This pub last changed hands during a gold-rush card game. Now it’s for sale for the first time in 165 years",
+      "link": "https://www.smh.com.au/business/small-business/this-pub-last-changed-hands-during-a-gold-rush-card-game-now-it-s-for-sale-for-the-first-time-in-165-years-20260813-p60o2r.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Gold fossickers and a publican were playing cards. At the end of the game, the pub owner lost the hand, and his pub.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.706%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/16e63706b3ad84420b06da3e1121254e7b955787",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Australia urged to spend billions on top-shelf US missile interceptors",
+      "link": "https://www.smh.com.au/national/australia-urged-to-spend-billions-on-top-shelf-us-missile-interceptors-20260811-p60n9u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An influential Trump-aligned think tank called on Australia to spend up to $US10 billion on weapons to defend bases including HMAS Stirling, where US submarines will soon be stationed.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1627478100507146%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/790a7e69b00f42505f5b62d32430008f79b5791a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The WA region where one in three people are a victim of crime",
+      "link": "https://www.smh.com.au/national/western-australia/the-wa-region-where-one-in-three-people-are-a-victim-of-crime-20260811-p60ncm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The data shows that the rate of crimes against a person in regional WA is more than double the metropolitan rate.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/a48ba711289356e8f442d08e7238b93ee9623815e66e9ca728b790557c1925c2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Armed with fake luggage and fake tickets, test passengers give their verdict on Sydney’s new airport",
+      "link": "https://www.smh.com.au/national/nsw/armed-with-fake-luggage-and-fake-tickets-test-passengers-give-their-verdict-on-sydney-s-new-airport-20260811-p60ne9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Kylie Hayden is one of the first people in the world to experience Western Sydney International Airport.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.689453125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_432/t_crop_custom/q_86%2Cf_auto/e79010b3327d6e5fd13d4d223a57711acfe6795292af853c65c9bbe6e7e1d153",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The Perth suburbs with the highest HECS repayments revealed",
+      "link": "https://www.smh.com.au/national/western-australia/the-perth-suburbs-with-the-highest-hecs-repayments-revealed-20260812-p60nn4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Across Perth there were almost 200,000 people still paying off an average debt of $26,900. Here’s where most of them live.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d49d18da7993912b5441298c22a34f2735fb99b02ecd1f28f6fee1228f7c9a7e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "$8m in a year: The property portfolio of a cigarette shop",
+      "link": "https://www.smh.com.au/national/queensland/8m-in-a-year-the-property-portfolio-of-a-cigarette-shop-20260812-p60nsz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Behind the guise of a clothing outlet, this bayside store brazenly sells illegal cigarettes and vapes. Meanwhile, the company that owns it has been on a spending spree.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ea9b1c7e24aec5a9a56823c6737b61f01ccb9ef134f4fe54425bbf521212df29",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "How did these frogs get into Brighton? A council is considering spending $40,000 to find out",
+      "link": "https://www.smh.com.au/national/victoria/how-did-these-frogs-get-into-brighton-a-council-is-considering-spending-40-000-to-find-out-20260813-p60o2j.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Did someone steal these frogs and relocate them to a city park?",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.8273%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/q_86%2Cf_auto/3401cb2b10dccf65baf1f71316671a39e02ed313",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Sydney Airport’s multibillion-dollar terminal expansion plans clear crucial hurdle",
+      "link": "https://www.smh.com.au/national/nsw/sydney-airport-s-multibillion-dollar-terminal-expansion-plans-clear-crucial-hurdle-20260813-p60o2n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Construction is set to start on merging the T2 and T3 domestic terminals and installing gates for international aircraft within the next two years.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6885042140261347%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_260%2C$y_235/t_crop_custom/q_86%2Cf_auto/9bc8eb1ee48517d7af0cee60b164ae95a8ded254",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "You gotta be Kidman! Hanson sports custom Gina Rinehart hat",
+      "link": "https://www.smh.com.au/cbd/you-gotta-be-kidman-hanson-sports-custom-gina-rinehart-hat-20260813-p60o4h.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "From flights to Italy to what appears to be a custom-made hat, Gina Rinehart has spared no expense in her generosity towards One Nation.",
+      "pubDate": "Fri, 14 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4227%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_142%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/t_metro_opinion_no_age_social_wm/e10797d8ec8fce9a8ef0029e2a144743b9fc4756",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Passenger train derails and flips over in southern England",
+      "link": "https://www.abc.net.au/news/2026-08-14/train-derail-sussex-uk/107035866",
+      "desc": "A major emergency response is underway after carriages came off the track at Lewes, near the seaside town of Brighton.",
+      "pubDate": "Thu, 13 Aug 2026 18:10:47 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/83d28907fe00928f4fe7d1ad61a48d02?impolicy=wcms_crop_resize&amp;cropH=3736&amp;cropW=2802&amp;xPos=1099&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "New UN plastic treaty is going backwards, experts say",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/new-un-plastic-treaty-going-backwards-experts",
+      "desc": "<p>NGOs say agreement held back by tenuous human health commitments and lobbying from plastic industry</p><p>The latest version of the long overdue plastic treaty is even less ambitious than the previ",
+      "pubDate": "Thu, 13 Aug 2026 18:10:07 GMT",
+      "img": "https://i.guim.co.uk/img/media/28a24a76993c3e85d4aa49ff27ddf982f505b071/197_0_2501_2000/master/2501.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Fossils show huge carbon emissions harm forests, not ‘green the planet’",
+      "link": "https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions",
+      "desc": "<p>Study of 56m-year-old leaves counters claims from Trump administration members of ‘benefits’ of fossil fuel pollution</p><p>Adding huge quantities of carbon dioxide into the atmosphere is set to ca",
+      "pubDate": "Thu, 13 Aug 2026 18:00:04 GMT",
+      "img": "https://i.guim.co.uk/img/media/eeed062bf3d52447cce84fe4352866e1aafbc8e2/417_0_4167_3335/master/4167.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The discovery that could turn mosquito bites into vaccine booster shots",
+      "link": "https://www.smh.com.au/national/the-discovery-that-could-turn-mosquito-bites-into-vaccine-booster-shots-20260811-p60nd0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Australian research is aimed at a disease that kills more than half a million people every year.",
+      "pubDate": "Fri, 14 Aug 2026 04:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3a5ff9bd6a5e9709465fa14d9041f7ab6f3305a3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The Guardian view on solar eclipses: moments of wonder that bring us together | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/13/the-guardian-view-on-solar-eclipses-moments-of-wonder-that-bring-us-together",
+      "desc": "<p>Wednesday’s eerie spectacle united crowds beneath the sky, continuing a human fascination that stretches from ancient myth to modern physics</p><p>“I’d describe it as a magical eeriness.” Lisa Redf",
+      "pubDate": "Thu, 13 Aug 2026 17:46:44 GMT",
+      "img": "https://i.guim.co.uk/img/media/4d3fd24bcddc7670375314a263f0a782ed5ec63b/383_0_3828_3064/master/3828.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘Colander sales jumped nearly 40%’: how Britons viewed the solar eclipse",
+      "link": "https://www.theguardian.com/science/2026/aug/13/how-britons-viewed-the-solar-eclipse",
+      "desc": "<p>Safety advice was followed by most people but huge piles of litter and countless abandoned Lime bikes were left behind </p><p>It started with the solar glasses, as people desperate to see the most ",
+      "pubDate": "Thu, 13 Aug 2026 17:06:37 GMT",
+      "img": "https://i.guim.co.uk/img/media/362a1b85d495eec0daf20a845e712f73d7de00ec/538_0_5381_4305/master/5381.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "How a minor or major housing downturn could impact your city",
+      "link": "https://www.abc.net.au/news/2026-08-14/cotality-aus-house-price-downturn-scenarios-5pc-10pc-15pc-20pc/107033254",
+      "desc": "New Cotality modelling data shows what property prices could look like across the capitals if the market fell by 5, 10, 15 or 20 per cent.",
+      "pubDate": "Thu, 13 Aug 2026 16:48:56 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/84b59cef9a7f38d6f918aaff4e54ed04?impolicy=wcms_crop_resize&amp;cropH=1536&amp;cropW=1152&amp;xPos=448&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
+      "link": "https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers",
+      "desc": "<p>Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies</p><p><a href=\"https://www.theguardian.com/technology/elon-musk\">Elon Musk</a> recei",
+      "pubDate": "Thu, 13 Aug 2026 16:31:14 GMT",
+      "img": "https://i.guim.co.uk/img/media/667343356ec711ebe9805b26bd35bb6be6022994/287_0_2501_2001/master/2501.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "UK records hottest day of the year as fifth summer heatwave reaches peak",
       "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
@@ -1368,6 +1578,16 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
+    },
+    {
+      "title": "Solar eclipse 2026 across Europe: in pictures",
+      "link": "https://www.theguardian.com/science/gallery/2026/aug/12/solar-eclipse-2026-across-europe-in-pictures",
+      "desc": "<p><strong>A total solar eclipse swept across parts of Europe and the North Atlantic on 12 August, with the path of totality moving through Greenland, Iceland, Spain and a small section of north-easte",
+      "pubDate": "Wed, 12 Aug 2026 20:21:33 GMT",
+      "img": "https://i.guim.co.uk/img/media/a006bee23ffd59d4b504715f1484f2bc1f360cd2/761_339_3078_2461/master/3078.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Revived NT mine to join Australia's modern gold rush",
@@ -36328,166 +36548,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Ancient DNA analysis reveals Wiltshire’s Upton Lovell Shaman was a woman",
-      "link": "https://www.theguardian.com/science/2026/jul/14/ancient-dna-analysis-reveals-upton-lovell-shaman-was-woman-wiltshire",
-      "desc": "<p>Exclusive: Analysis offers ‘smoking gun evidence’ that overturns previous assumption that bronze age individual was male</p><p>The Upton Lovell Shaman, a bronze age individual who has been depicted",
-      "pubDate": "Tue, 14 Jul 2026 19:01:47 GMT",
-      "img": "https://i.guim.co.uk/img/media/6eebbd409e3fc481a8dfc6b9f85fb640d8381bd6/0_0_3750_3000/master/3750.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Uber stands by sacking of driver who refused guide dog",
-      "link": "https://www.smh.com.au/business/companies/uber-stands-by-sacking-of-driver-who-refused-guide-dog-20260713-p60erz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Uber is fighting what it says is a “test case” challenging the limits of anti-discrimination laws and gig economy worker protections.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1985%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/a563f86a639900b354fadaa9a0d8756d03bd73db",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Half of the ASX’s highest-paid CEOs lead US-based companies",
-      "link": "https://www.smh.com.au/business/companies/half-of-the-asx-s-highest-paid-ceos-lead-us-based-companies-20260714-p60f6v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "A new report shows that companies based in the United States are paying the biggest salaries on the ASX.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3858%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_537%2C$y_306/t_crop_custom/q_86%2Cf_auto/085b8dbeef85390f58eddafab30e047e4eb499dd",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Tivoli creative director on protecting Brisbane’s iconic (and haunted) venues",
-      "link": "https://www.smh.com.au/national/queensland/tivoli-creative-director-on-protecting-brisbane-s-iconic-and-haunted-venues-20260701-p60bpp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Dave Sleswick tells CityChats about his favourite Brisbane act to see live, and what it takes to keep a festival running.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/q_86%2Cf_auto/a0c736d371fb52340040aa49fa29b791297a7ab93fb7ee444248af71ef4c922e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Dangers and death threats: Homeowners urged to avoid island’s solar salesman",
-      "link": "https://www.smh.com.au/national/queensland/dangers-and-death-threats-homeowners-urged-to-avoid-island-s-solar-salesman-20260707-p60dbw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Smiley Sansoni is the go-to guy for solar on these islands near Brisbane. But having spent tens of thousands of dollars, some former customers now wish they’d never met him.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6262f080e4b8f663e247110b5af6f1240d48bbb8b6267c1ff116d5b86a15a577",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "I found my dream community. Then I discovered the hidden divide between the haves and have-nots",
-      "link": "https://www.smh.com.au/national/i-found-my-dream-community-then-i-discovered-the-hidden-divide-between-the-haves-and-have-nots-20260707-p60ddz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "After my life took a bad turn and I faced losing the use of my hands, I was grateful to be offered a rental in a new development. I didn’t anticipate being made to feel inferior in my own home.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.19651141213583226%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/fd4d394db254f23d30f30d62a7740b520523b86b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Why do Sydney’s trams keep catching fire?",
-      "link": "https://www.smh.com.au/national/nsw/why-do-sydney-s-trams-keep-catching-fire-20260713-p60eyt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two light rail fires on Saturday shut down almost the entire network for the day. There have been six fires in just four months.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/2bd8db92ffedb93c1b38930c69a248c805fd2f64139fe759d4e3808ad92e4c5c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "I miss my old neighbourhood chemist. Don’t think she’ll ever be back",
-      "link": "https://www.smh.com.au/healthcare/i-miss-my-old-neighbourhood-chemist-don-t-think-she-ll-ever-be-back-20260713-p60f02.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "I don’t want my community pharmacy to turn into a supermarket – or even to be located in one. But it looks like I’m fighting a losing battle.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2292%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/a29e7a44a871ed765a186d8b765c8dddb3b7eb11",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Peter V’landys kicks off his NRL executive chairmanship experiment",
-      "link": "https://www.smh.com.au/cbd/peter-v-landys-kicks-off-his-nrl-executive-chairmanship-experiment-20260714-p60f8p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The rugby league supremo has been working through a handover with NRL chief Andrew Abdo and will fill the role of executive chairman on an interim basis.",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3854%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_352%2C$y_19/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/38c03f25731f33e7eb4dc6dab97b3c12509c79cf",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The Tivoli Group’s Dave Sleswick on why he’s convinced The Tivoli and The Princess Theatre are haunted",
-      "link": "https://www.smh.com.au/national/queensland/the-tivoli-group-s-dave-sleswick-on-why-he-s-convinced-the-tivoli-and-the-princess-theatre-are-haunted-20260714-p60fav.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Dave Sleswick tells CityChats why he believes two of Brisbane's favourite venues are being looked after, and not just by him.",
-      "pubDate": "Wed, 15 Jul 2026 04:45:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a023ad032bbbd992093abdb937c022ad8a3648ae",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia's highest-paid chief executives revealed",
-      "link": "https://www.abc.net.au/news/2026-07-15/australia-highest-paid-chief-executives-salaries-asx-acsi/106915088",
-      "desc": "Australia's highest-paid executive collected a salary nearly 500 times that of the country's full-time average worker.",
-      "pubDate": "Tue, 14 Jul 2026 18:42:56 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/4edbaefd03c00ec096546dd0f3aa3ef4?impolicy=wcms_crop_resize&amp;cropH=531&amp;cropW=398&amp;xPos=143&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Telstra under growing pressure over outage compensation",
-      "link": "https://www.abc.net.au/news/2026-07-15/telstra-outage-compensation-losses-business/106913556",
-      "desc": "Telstra is assessing outage compensation claims, but consumer advocates say the process is cumbersome and puts the onus back on customers rather than the telco at fault.",
-      "pubDate": "Tue, 14 Jul 2026 18:42:03 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/0c0dfc78dc2719d903493f941896bf8f?impolicy=wcms_crop_resize&amp;cropH=1760&amp;cropW=1320&amp;xPos=0&amp;yPos=1099&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Batteries charge ahead as data centres fuel gas turbine costs: CSIRO",
-      "link": "https://www.abc.net.au/news/2026-07-15/csiro-says-batteries-cheaper-than-gas-as-ai-drives-turbine-costs/106914550",
-      "desc": "Falling battery costs and a data centre-fuelled dash for gas have overturned decades of accepted wisdom: gas is no longer the cheapest way to meet peak power demand.",
-      "pubDate": "Tue, 14 Jul 2026 18:40:20 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/beb8ad9db6345c4a08b8fd34dd5049db?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Andy Burnham must act fast on the climate – or risk getting stuck in a ‘derailment’ doom loop | Laurie Laybourn",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/14/andy-burnham-climate-floods-fires-political-capital",
-      "desc": "<p>Around the world, climate-sceptic parties are exploiting floods and fires to make political capital. Without urgent changes, this deadly spiral will continue</p><p>Recent unprecedented heatwaves in",
-      "pubDate": "Tue, 14 Jul 2026 16:51:49 GMT",
-      "img": "https://i.guim.co.uk/img/media/7cbf3d1fe1039ab13abe754d2acdc0e51f180d70/274_0_4923_3941/master/4923.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "IBM loses quarter of its value as tech giant’s shares plunge and profits falter",
-      "link": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
-      "desc": "<p>IBM issued profit warning after weak second quarter, triggering selloff in software sector including Microsoft</p><p>Shares in <a href=\"https://www.theguardian.com/technology/ibm\">IBM</a> plunged m",
-      "pubDate": "Tue, 14 Jul 2026 16:38:00 GMT",
-      "img": "https://i.guim.co.uk/img/media/8f50d1b5d196b5b8f43e9d29d39c2838c7b6d02f/688_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Buffett omits gift to Bill Gates’ foundation after his Epstein ties disclosed",
-      "link": "https://www.theguardian.com/business/2026/jul/14/bill-gates-warren-buffet-donation",
-      "desc": "<p>Gates has denied any ties to Epstein’s crimes and has not been accused of any wrongdoing</p><p>Billionaire <a href=\"https://www.theguardian.com/business/warrenbuffett\">Warren Buffett</a> omitted <a",
-      "pubDate": "Tue, 14 Jul 2026 16:10:41 GMT",
-      "img": "https://i.guim.co.uk/img/media/002b10323eb83712b379409c7c1326494796f80e/566_0_4439_3551/master/4439.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }

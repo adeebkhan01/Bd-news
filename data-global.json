@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T16:01:46.712Z",
-  "summary": "Global tensions are escalating across multiple conflict zones as the Houthis intensify attacks on shipping in the Red Sea threatening regional stability, while civilian casualties in Ukraine hit their highest levels in over two years amid continued Russian strikes. The Middle East remains deeply volatile with escalating Israeli military operations in Lebanon and the West Bank drawing international condemnation, including allegations of genocide from Palestinian groups and concerns over settler violence against civilians. Political transitions are underway in several countries including Zambia's presidential election and Colombia's earthquake response under its new far-right government, while economic pressures mount in developed nations with the UK facing persistent cost-of-living challenges and Romania forced to shut its sole nuclear plant due to drought. Separately, a deadly Ebola outbreak is tracking toward becoming the worst on record, and tech companies face increasing scrutiny over AI training practices and worker issues.",
+  "fetchedAt": "2026-08-13T19:07:13.775Z",
+  "summary": "Global attention is concentrated on several escalating conflicts and humanitarian crises. The Middle East dominates headlines as the Gaza war continues with reports of record civilian casualties in Ukraine, Israeli military operations expanding into Lebanon facing international condemnation, and Houthi attacks threatening regional shipping lanes. Environmental and economic pressures are compounding challenges across Europe, from Romania's nuclear shutdown due to the collapsing Danube water level to warnings of persistent UK inflation, while an Ebola outbreak in Africa is tracking toward becoming the deadliest on record. Political transitions in Zambia and Colombia, alongside discussions of potential White House staff changes, round out coverage of governance shifts amid broader instability.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+      "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
+      "desc": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7e0098d9d7f-1786642584.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+      "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+      "desc": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
+      "pubDate": "Thu, 13 Aug 2026 18:04:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7ddcb84c-1786633400.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+      "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
+      "desc": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.",
+      "pubDate": "Thu, 13 Aug 2026 16:44:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7dd99e37-1786632606.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+      "desc": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
+      "pubDate": "Thu, 13 Aug 2026 16:40:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786639203.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Builder with own observatory captures solar eclipse",
+      "link": "https://www.bbc.co.uk/news/articles/c980r6327y1o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Simon Wallace, who got hooked on astrophotography in lockdown, shares his images of the spectacle.",
+      "pubDate": "Thu, 13 Aug 2026 16:37:11 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c58e/live/dd423f50-9720-11f1-b2ab-0dd01740f9f6.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "pubDate": "Thu, 13 Aug 2026 16:05:35 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Zambian president Hichilema votes as he seeks second term",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
@@ -14370,136 +14430,6 @@
       "desc": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
       "pubDate": "Tue, 14 Jul 2026 19:13:49 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today",
-      "link": "https://www.dw.com/en/ten-years-ago-parts-of-the-turkish-military-tried-to-overthrow-the-erdogan-government-the-consequences-are-still-shaping-turkey-today/a-77955154?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Recep Tayyip Erdogan. The consequences of the failed coup continue to shape Turkey to this day. DW looks",
-      "pubDate": "2026-07-14T19:00:00Z",
-      "img": "https://static.dw.com/image/58267131_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "How the 2016 coup attempt changed Turkey for good",
-      "link": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Recep Tayyip Erdogan. The consequences of the failed coup continue to shape Turkey to this day. DW looks",
-      "pubDate": "2026-07-14T19:00:00Z",
-      "img": "https://static.dw.com/image/58267131_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-      "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
-      "desc": "Donald Trump backs away from fee, says regional countries will instead invest in US in return for transit protection.",
-      "pubDate": "Tue, 14 Jul 2026 18:26:10 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5674a98857-1784050857.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
-      "link": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
-      "pubDate": "Tue, 14 Jul 2026 18:05:11 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee0b/live/574e7da0-7fa1-11f1-a5f4-433bb9aa2e5a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US President Trump drops 20% Strait of Hormuz fee plan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss",
-      "desc": "US President Donald Trump says he has abandoned his proposed 20% fee on cargo transiting the Strait of Hormuz.",
-      "pubDate": "Tue, 14 Jul 2026 18:05:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/WIDE-THUMB-Trump-says-no-one-should-be-able-to-charge-a-fee-for-the-Strait-of-Hormuz-1784052227.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US, Russian astronauts launch into orbit for joint space mission",
-      "link": "https://www.aljazeera.com/news/2026/7/14/us-russian-astronauts-launch-into-orbit-for-joint-space-mission?traffic_source=rss",
-      "desc": "NASA chief Jared Isaacman made a rare visit to the Russia-operated Baikonur Cosmodrome to witness the launch.",
-      "pubDate": "Tue, 14 Jul 2026 17:49:28 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5668121e006-1784047634.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
-      "link": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
-      "desc": "Iraqi prime minister says relations with US shifting from militaristic to economic, vows disarmament of factions.",
-      "pubDate": "Tue, 14 Jul 2026 17:31:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a566f542735-1784049492.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "T. rex &#039;Gus&#039; sells for record-breaking $50.1 million",
-      "link": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss_en_science-22531-xml-mrss",
-      "desc": "The Tyrannosaurus rex skeleton surpassed its pre-sale estimate and set a new auction record for a dinosaur fossil.",
-      "pubDate": "Tue, 14 Jul 2026 17:24:00 GMT",
-      "img": "https://static.dw.com/image/77959311_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
-      "link": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
-      "desc": "Renewed conflict and tensions in the Strait of Hormuz have slowed fertiliser shipments, worsening hunger in Sudan.",
-      "pubDate": "Tue, 14 Jul 2026 17:22:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4f5eab6ba6-1783586475.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Meet 'Gus', the world's most expensive Tyrannosaurus rex",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8gymjv7ro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024.",
-      "pubDate": "Tue, 14 Jul 2026 17:11:03 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e186/live/d5e85d70-7fa6-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
-      "pubDate": "Tue, 14 Jul 2026 17:07:42 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14c/live/efc3d020-7f98-11f1-a5f4-433bb9aa2e5a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US consumer prices drop in June as energy costs tumble",
-      "link": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss",
-      "desc": "Inflation eased due to cheaper energy, but experts warn price increases may return after renewed US-Iran tensions.",
-      "pubDate": "Tue, 14 Jul 2026 16:57:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a565380ed8b-1784042368.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Port of Dover works to avoid summer travel chaos",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l8zdn7k6o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "It is hoped the long queues and delays seen over the May bank holiday will not be repeated.",
-      "pubDate": "Tue, 14 Jul 2026 16:42:13 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcd1/live/0d3e7d10-7fa0-11f1-926f-c90d1bcfbc84.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
