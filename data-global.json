@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T13:20:11.802Z",
-  "summary": "Global crises are intensifying across multiple regions as humanitarian emergencies and military tensions dominate the headlines. The Middle East remains a flashpoint with escalating Israeli-Palestinian violence, including settler attacks on West Bank villages and broader regional instability, while Russia's ongoing assault on Ukraine continues to claim civilian lives at rates unseen in over two years. Environmental and health emergencies are mounting, from record-breaking Ebola cases in the DR Congo to the Danube's drought forcing Romania to shut its nuclear plant, threatening critical infrastructure. Political upheaval is also shaping the landscape, from Colombia's new far-right government handling earthquake response to elections in Zambia and ongoing questions about FIFA leadership succession, while the Trump administration's return has already sparked controversy over immigration enforcement methods and international legal accountability.",
+  "fetchedAt": "2026-08-13T16:01:46.712Z",
+  "summary": "Global tensions are escalating across multiple conflict zones as the Houthis intensify attacks on shipping in the Red Sea threatening regional stability, while civilian casualties in Ukraine hit their highest levels in over two years amid continued Russian strikes. The Middle East remains deeply volatile with escalating Israeli military operations in Lebanon and the West Bank drawing international condemnation, including allegations of genocide from Palestinian groups and concerns over settler violence against civilians. Political transitions are underway in several countries including Zambia's presidential election and Colombia's earthquake response under its new far-right government, while economic pressures mount in developed nations with the UK facing persistent cost-of-living challenges and Romania forced to shut its sole nuclear plant due to drought. Separately, a deadly Ebola outbreak is tracking toward becoming the worst on record, and tech companies face increasing scrutiny over AI training practices and worker issues.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zambian president Hichilema votes as he seeks second term",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
+      "desc": "Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.",
+      "pubDate": "Thu, 13 Aug 2026 15:51:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786636299.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+      "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+      "desc": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
+      "pubDate": "Thu, 13 Aug 2026 15:27:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-12T113811Z_1730422435_RC2YWMAAPNYL_RTRMADP_3_YEMEN-SECURITY-1786608934.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
+      "pubDate": "Thu, 13 Aug 2026 14:56:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d661/live/e8ffb610-96b7-11f1-9940-357a1043e63e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
+      "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
+      "desc": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.",
+      "pubDate": "Thu, 13 Aug 2026 14:29:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7daf40-1786621760.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
+      "desc": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
+      "pubDate": "Thu, 13 Aug 2026 14:29:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786631311.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+      "link": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
+      "desc": "Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.",
+      "pubDate": "Thu, 13 Aug 2026 14:02:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7cea0f33e5-1786571279.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
       "link": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
@@ -393,6 +453,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why is Russia's Yabloko party barred from upcoming election?",
+      "link": "https://www.dw.com/en/why-is-russia-s-yabloko-party-barred-from-upcoming-election/a-78341971?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Russia's highest court has banned anti-war opposition party Yabloko from September's parliamentary election. What does this mean for the election campaign, opponents of the war and for the political m",
+      "pubDate": "2026-08-12T18:37:00Z",
+      "img": "https://static.dw.com/image/78312667_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Russia: Why is the Yabloko party barred from the elections?",
@@ -14433,116 +14503,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Watch: New ISS crew blasts off from Kazakhstan",
-      "link": "https://www.bbc.co.uk/news/videos/ckg4gjwz20qo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission.",
-      "pubDate": "Tue, 14 Jul 2026 15:50:33 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/a574a6e0-7f9b-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
-      "link": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack?traffic_source=rss",
-      "desc": "Speaking to Al Jazeera, leading Houthi Mohammed al-Bukhaiti warns of attacks on Saudi Arabia.",
-      "pubDate": "Tue, 14 Jul 2026 15:20:28 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a564e842066-1784041092.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
-      "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss",
-      "desc": "To prepare, the world needs to focus on building energy independence through renewables and decentralisation.",
-      "pubDate": "Tue, 14 Jul 2026 14:56:21 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-03-29T091116Z_415985711_RC2BAKAEB79W_RTRMADP_3_IRAN-CRISIS-INDIA-1784040840.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "India summons Iranian diplomat over missile killing of seafarer",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
-      "desc": "India summoned Iran&#039;s deputy ambassador after an Indian crew member was killed in the Strait of Hormuz.",
-      "pubDate": "Tue, 14 Jul 2026 14:32:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-15.24.53-1784039353.png?resize=1920%2C1299",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Olympic funding questioned by nine EU nations over Russia readmission",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/olympic-funding-questioned-by-nine-eu-nations-over-russia-readmission?traffic_source=rss",
-      "desc": "Nine EU nations urge funding cuts for sports bodies including International Olympic Committee over readmitting Russians.",
-      "pubDate": "Tue, 14 Jul 2026 14:29:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-07T151542Z_206835849_RC2G0MAUVDRD_RTRMADP_3_OLYMPICS-IOC-1784037950.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine parliament accepts PM Svyrydenko's resignation",
-      "link": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenko-s-resignation/a-77954364?maca=en-rss-en-eu-2092-rdf",
-      "desc": "It comes as President Volodymyr Zelenskyy moves to reshuffle the cabinet as Ukraine was \"changing its political strategy.\"",
-      "pubDate": "2026-07-14T14:07:00Z",
-      "img": "https://static.dw.com/image/77954981_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan?traffic_source=rss",
-      "desc": "Nine European countries and Ukraine have launched a coalition to build Europe&#039;s own defence against ballistic missiles.",
-      "pubDate": "Tue, 14 Jul 2026 14:03:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a562f5ecb10d-1784033118.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US inflation rate eases to 3.5% as gasoline prices fall",
-      "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
-      "pubDate": "Tue, 14 Jul 2026 13:51:22 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c00/live/75181c70-7f7d-11f1-b1fb-a927e22d7e8b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-      "pubDate": "Tue, 14 Jul 2026 13:46:14 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/d7d46710-7f87-11f1-a47a-d94293d2b0e4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Which world leaders are visiting Qatar to pay their condolences?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/which-world-leaders-are-visiting-qatar-to-pay-their-condolences?traffic_source=rss",
-      "desc": "Sheikh Hamad, who ruled the country from 1995 to 2013 and revolutionised modern-day Qatar, died on Thursday aged 74.",
-      "pubDate": "Tue, 14 Jul 2026 13:32:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a56105c0bb7-1784025180.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran lawmakers present Hormuz management bill as US war heats up",
-      "link": "https://www.aljazeera.com/news/2026/7/14/iran-lawmakers-present-hormuz-management-bill-as-us-war-heats-up?traffic_source=rss",
-      "desc": "Hardline MPs table plan that aims to formalise control over the strait and undermine any negotiations.",
-      "pubDate": "Tue, 14 Jul 2026 13:30:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260710__B9UE4C4__v2__HighRes__TopshotUaeIranUsIsraelWar-1783813844.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
