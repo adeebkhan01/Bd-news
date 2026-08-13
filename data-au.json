@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T02:18:40.753Z",
-  "summary": "Australia faces significant industrial and infrastructure challenges today, with the government committing $2.5 billion to prop up the Tomago aluminium smelter while thousands of students stage protests against One Nation policies and concerns mount over telco service gaps in regional areas. High-profile legal cases dominate the news cycle, including the ongoing Alan Jones trial and a Sydney banker charged with attempted murder in France, while an NRL star faces extremely serious allegations. The country is grappling with workforce pressures as nurses report fainting in extreme heat and detention workers strike, while broader policy debates emerge around facial recognition payments, artificial intelligence bonds, and media regulation for tech giants. In security matters, unidentified drones have been spotted over Australian air bases, prompting official concern.",
+  "fetchedAt": "2026-08-13T04:54:28.471Z",
+  "summary": "Australian politics and social issues dominate today's news, with widespread student protests against Senator Pauline Hanson drawing significant public engagement, while government housing policy faces criticism as one minister suggests lower-income earners should accept substandard housing. Major economic stories include a $2.5 billion government bailout of Tomago Aluminium to preserve jobs, the wine industry's ongoing contraction, and struggles facing established brands like Penfolds amid international competition. Serious criminal cases continue to unfold, including an alleged murder by a rapper, allegations against an NRL star, and the ongoing trial of broadcaster Alan Jones. Environmental and infrastructure challenges range from bird flu vaccination programs for endangered cockatoos to debates over data centre development near Sydney's metro network.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,266 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australian students shun calls to stay in school as anti-Hanson protests gather across country",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/13/australia-student-rally-anti-hanson-protests-sydney-brisbane-melbourne-ntwnfb",
+      "desc": "<p>High schoolers join university walkouts in major cities and several smaller locations amid urge to ‘stand up against the far right’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news",
+      "pubDate": "Thu, 13 Aug 2026 04:52:25 GMT",
+      "img": "https://i.guim.co.uk/img/media/99e3db605b667ca90c276986277717e999696b27/720_0_7200_5760/master/7200.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Embattled WA online gaming billionaire faces $60 million legal row",
+      "link": "https://www.smh.com.au/national/western-australia/embattled-wa-online-gaming-billionaire-faces-60-million-legal-row-20260813-p60o3r.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Embattled online gaming mogul Laurence Escalante faces more legal troubles, with a writ lodged in the WA Supreme Court revealed he is being sued for up to $60 million over an alleged breach of contrac",
+      "pubDate": "Thu, 13 Aug 2026 14:49:11 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/7ee4e532c34434f9fc8d6a295326eb733e35c2ac",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Bragg says lower-income earners should accept substandard housing as colleagues rebuke his migration target",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/13/andrew-bragg-lower-income-earners-should-accept-substandard-housing-migration-liberal",
+      "desc": "<p>Angus Taylor publicly cautions NSW senator for diverging from opposition policy in National Press Club speech as Nationals warn against any changes to working holiday visas</p><ul><li><p><a href=\"h",
+      "pubDate": "Thu, 13 Aug 2026 04:43:13 GMT",
+      "img": "https://i.guim.co.uk/img/media/66f79362b804e2ae838b16ba89412523a643080b/590_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Vic inquiry supports building-integrated solar power for apartments",
+      "link": "https://www.smh.com.au/business/companies/vic-inquiry-supports-building-integrated-solar-power-for-apartments-20260813-p60o3k.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "A recent Victorian parliamentary inquiry has given the nod to the use of solar photovoltaics in apartment buildings, citing evidence provided by ClearVue Technologies",
+      "pubDate": "Thu, 13 Aug 2026 14:40:05 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/becff58067722928483c2f74b899c8409463fb160e8f67702e46e538463a8f87",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Three Scots College boys charged with rape of teenage girl",
+      "link": "https://www.smh.com.au/national/nsw/three-scots-college-boys-charged-with-rape-of-teenage-girl-20260813-p60o3a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The boys allegedly assaulted a 14-year-old girl in an alley way in Sydney’s eastern suburbs.",
+      "pubDate": "Thu, 13 Aug 2026 14:37:24 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.22097721104725415%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_112%2C$y_83/t_crop_custom/q_86%2Cf_auto/c428c391afd3472cde96d997bdb1e3f93dad1063",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Endangered WA cockatoos first in line for bird flu vaccine",
+      "link": "https://www.smh.com.au/national/endangered-wa-cockatoos-first-in-line-for-bird-flu-vaccine-20260813-p60o44.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Perth Zoo has vaccinated endangered red-tailed and black cockatoos as part of a pilot program to protect native wildlife against bird flu.",
+      "pubDate": "Thu, 13 Aug 2026 14:27:18 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3e7dd6bf8d96ff092e4856d59ce17999e52388c0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "$2.5b Tomago Aluminium bailout saves jobs but hits taxpayers",
+      "link": "https://www.abc.net.au/news/2026-08-13/tomago-aluminium-bailout-win-for-workers-hit-on-taxpayers/107031218",
+      "desc": "The federal opposition has described the deal as a net zero \"failure\", while the Greens want the government to own a stake in the smelter.",
+      "pubDate": "Thu, 13 Aug 2026 04:19:08 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/35b4eb8ad53b52f4542d16c9a454c99e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Defeat from the jaws of victory: Civil war inside the environment movement",
+      "link": "https://www.smh.com.au/national/defeat-from-the-jaws-of-victory-civil-war-inside-the-environment-movement-20260806-p60lz4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The fate of the Great Koala National Park hangs in the balance as a new carbon accounting method divides conservationists.",
+      "pubDate": "Thu, 13 Aug 2026 14:01:33 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4704575744113727%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_21/t_crop_custom/q_86%2Cf_auto/79bffb3501b94a9213729366e9ef833f954117be79984a4902cd94198e588a0e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Too smart to eat? Why octopus farms are such a slippery problem",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
+      "desc": "<p>As a controversial Spanish plan for sustainable meat on an industrial scale is dropped, it has revived the ethical debate over farming these intelligent wild animals</p><p>In 2022 Nueva Pescanova, ",
+      "pubDate": "Thu, 13 Aug 2026 04:00:50 GMT",
+      "img": "https://i.guim.co.uk/img/media/d8f196ecab719910fb8693d747d8b6d9d6bc76e6/532_0_4680_3744/master/4680.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The immortal jellyfish and other mindblowing invertebrates – podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/aug/13/the-immortal-jellyfish-and-other-mindblowing-invertebrates-podcast",
+      "desc": "<p>Each year the Guardian runs a competition to find the invertebrate of the year. To find out more about the 2026 nominees science editor Ian Sample hears from climate reporter Petra Stock, environme",
+      "pubDate": "Thu, 13 Aug 2026 04:00:49 GMT",
+      "img": "https://i.guim.co.uk/img/media/f32966f460dd3b2b3fc9d2cc31c9c4fa31d23f86/205_0_3985_3189/master/3985.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "India fuels worldwide jump in planned coal production",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/india-planned-coal-production-new-mine",
+      "desc": "<p>Rise in new mine proposals, mainly in states of Odisha and Jharkhand, comes despite plateau in global demand</p><p>Enough new coalmining projects were proposed last year to increase global supplies",
+      "pubDate": "Thu, 13 Aug 2026 04:00:48 GMT",
+      "img": "https://i.guim.co.uk/img/media/cd0d8cca57314fb7c47fdbb2b3f4bd3f27edf3c6/9_0_4583_3667/master/4583.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Students gather for “Say no to Hanson” protest",
+      "link": "https://www.smh.com.au/national/students-gather-for-say-no-to-hanson-protest-20260813-p60o3g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Hundreds of students have gathered at Sydney Town Hall to protest Pauline Hanson’s One Nation.",
+      "pubDate": "Thu, 13 Aug 2026 13:57:05 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8435a270abad2241490f51347b366958728849e6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Australia's wine industry is shrinking",
+      "link": "https://www.smh.com.au/national/australias-wine-industry-is-shrinking-20260813-p60o3c.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australia's once-booming wine industry is shrinking before our eyes, with many growers abandoning the industry altogether.",
+      "pubDate": "Thu, 13 Aug 2026 13:49:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/acd3f8037cebb7526d729de9fd42a43572d91a57",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Rapper accused of murdering ex-partner ordered to stay in custody",
+      "link": "https://www.smh.com.au/national/queensland/rapper-accused-of-murdering-ex-partner-ordered-to-stay-in-custody-20260813-p60nwt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Ronald Cora did not appear at court for his first hearing, a day after the death of his former partner, who can now be identified as Djuarn Baker-Adams.",
+      "pubDate": "Thu, 13 Aug 2026 13:33:33 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.4688%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_71/t_crop_custom/q_86%2Cf_auto/ebc76087250bd1df9b5e3c0faac51609bdfa8a61cdbfa33dc9b7e8fdd44d6307",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Minister stands ground on slow DV reform a day after another alleged murder",
+      "link": "https://www.smh.com.au/national/queensland/minister-stands-ground-on-slow-dv-reform-a-day-after-another-alleged-murder-20260813-p60o0c.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Minister Amanda Camm says the Crisafulli government is working “calmly and methodically” through reforms, following another death of a woman in Queensland.",
+      "pubDate": "Thu, 13 Aug 2026 13:24:55 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7175789448915243%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_630%2C$y_446/t_crop_custom/q_86%2Cf_auto/28cd42d097a95d520714f2fec0a1da57d6758950ec3402d57ed6f8cad74f3650",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Mother dies following house fire in Sydney's west",
+      "link": "https://www.smh.com.au/national/mother-dies-following-house-fire-in-sydneys-west-20260813-p60o2w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A mother has died and her daughter is in hospital following a suspect cooking fire in Sydney’s west overnight.",
+      "pubDate": "Thu, 13 Aug 2026 13:16:56 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/76812e53ec9bbae4473e5bb40847fb296729f992",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "NeuroScientific locks in key US FDA meeting",
+      "link": "https://www.smh.com.au/business/companies/neuroscientific-locks-in-key-us-fda-meeting-20260813-p60o2o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "NeuroScientific has locked in a key meeting with the US FDA for its StemSmart technology aimed at treating refractory Crohn’s disease in a planned Phase 2 trial.",
+      "pubDate": "Thu, 13 Aug 2026 13:12:44 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/cca84b9929e617d15bf7eb4647bc4064adbb034f86e90e3cf06f3aacb126dcf1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Green's mindless shot ends nervy innings",
+      "link": "https://www.smh.com.au/national/greens-mindless-shot-ends-nervy-innings-20260813-p60o2p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Aussie batter Cameron Green holes out for 13 in the first Test against Bangladesh in Darwin.",
+      "pubDate": "Thu, 13 Aug 2026 12:59:11 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/801161ad43da927ea8d158a1b9d681a25ef8d4f2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Why Meta is paying for controversial content – and what that means for the posts you see",
+      "link": "https://theconversation.com/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-you-see-289603",
+      "desc": "Paying for engaging content is not the same as intending to fund extremism, but it creates a risk that harmful content will benefit.",
+      "pubDate": "2026-08-13T02:57:52Z",
+      "img": "https://images.theconversation.com/files/753498/original/file-20260812-50-g5631l.jpg?ixlib=rb-4.1.1&amp;rect=0%2C131%2C2121%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Shizuoka Crown Melons: taste testing the fruit that sparked a political controversy",
+      "link": "https://www.smh.com.au/national/shizuoka-crown-melons-taste-testing-the-fruit-that-sparked-a-political-controversy-20260813-p60o2l.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Anthony Albanese is under fire for his comments about the melons gifted to him by Japanese Prime Minister Sanae Takaichi, but just how good are these melons?",
+      "pubDate": "Thu, 13 Aug 2026 12:56:32 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ef90e8d3205b51571e9e0b9bd07100d67550d0c0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Endangered WA cockatoos first in line for bird flu vaccine",
+      "link": "https://www.smh.com.au/national/western-australia/wa-s-endangered-black-cockatoos-are-under-threat-here-s-what-perth-zoo-is-doing-about-it-20260813-p60o1c.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "“It’s critical that we’ve been on the front foot, implementing mitigation strategies to reduce the risk to our wonderful animals.”",
+      "pubDate": "Thu, 13 Aug 2026 12:49:50 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.7650000000000001%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_77/t_crop_custom/q_86%2Cf_auto/e65af6d0d950f62ecce829c7262760e4a17f46169c65dc5796b4eafbacecb143",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Cartoonists fear for industry with rise of AI-generated illustrations",
+      "link": "https://www.abc.net.au/news/2026-08-13/ai-newspaper-illustrations-cartoons-media-industry/107027784",
+      "desc": "AI-generated illustrations published in Australian newspapers have raised fears about the future of the cartooning industry, which one artist says is \"shrinking dramatically\".",
+      "pubDate": "Thu, 13 Aug 2026 02:45:08 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/82675011b1dd398845987201a415be9f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "It might terrify Gen Z, but the humble phone call is a wonderful thing",
+      "link": "https://www.smh.com.au/business/workplace/it-might-terrify-gen-z-but-the-humble-phone-call-is-a-wonderful-thing-20260813-p60o1p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Many people now use their phones for everything except speaking to each other, and baulk at the idea of it ever ringing.",
+      "pubDate": "Thu, 13 Aug 2026 12:42:58 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5747%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_90%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/34b5846605b0f942f39447189d8155c6762b8e4b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The media has made Donald Trump look more coherent than he is. It’s called ‘sanewashing’",
+      "link": "https://theconversation.com/the-media-has-made-donald-trump-look-more-coherent-than-he-is-its-called-sanewashing-289616",
+      "desc": "The US president often provides meandering non-answers and strange speeches, but news reports omit the weirdness. Does it matter?",
+      "pubDate": "2026-08-13T02:36:28Z",
+      "img": "https://images.theconversation.com/files/753766/original/file-20260813-50-q86sqh.jpg?ixlib=rb-4.1.1&amp;rect=0%2C12%2C4223%2C2111&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Opposition leader’s staffer caught firing up at reporter",
+      "link": "https://www.smh.com.au/national/opposition-leader-s-staffer-caught-firing-up-at-reporter-20260813-p60o1y.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Opposition Leader Angus Taylor’s staffer has been caught firing up at a Channel 10 reporter shortly after a press conference in Canberra on Thursday.",
+      "pubDate": "Thu, 13 Aug 2026 12:26:50 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/48825f0fad617d7603becc07bc716fd12271051c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Taking control’: Penfolds cracks down on Chinese grey market amid $1.1b loss",
+      "link": "https://www.smh.com.au/business/companies/taking-control-penfolds-cracks-down-on-chinese-grey-market-amid-1-1b-loss-20260813-p60nzn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The wine giant is getting out of cheap wine, doubling down on Penfolds’ status as a luxury brand, and trying to figure out what to do with its US business.",
+      "pubDate": "Thu, 13 Aug 2026 12:25:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/f1dc53388c289e1bdd15e11315986d2dd6af2b69",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Alan Jones trial live updates: Ex-girlfriend of complainant ‘J’ continues evidence after legal issue triggers adjournment",
       "link": "https://www.smh.com.au/national/nsw/alan-jones-trial-live-updates-mother-ex-girlfriend-of-complainant-j-to-give-evidence-after-legal-issue-triggers-adjournment-20260812-p60nrr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36208,146 +36468,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "CFMEU marches on Master Builders HQ",
-      "link": "https://www.smh.com.au/national/queensland/cfmeu-marches-on-master-builders-hq-20260714-p60f8s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Video tendered to Queensland's CFMEU inquiry shows unionists marching on the Master Builders headquarters in Brisbane in 2022.",
-      "pubDate": "Tue, 14 Jul 2026 14:51:36 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/9360e864ce58f60481eafef29fe5816d0b61e1e4",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Advance strikes stacked silver-copper and gold sweet spot in Mexico",
-      "link": "https://www.smh.com.au/business/companies/advance-strikes-stacked-silver-copper-and-gold-sweet-spot-in-mexico-20260714-p60f8e.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Advance Metals has hit a 37.5m polymetallic zone at its Mexican silver project, hinting at a large, stacked mineral system with shallow silver over deeper copper and gold.",
-      "pubDate": "Tue, 14 Jul 2026 14:16:36 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/d7a4ee58c9546a806256ae98b33ead777e7af5ffbdd8c9b8700970ddd25ba0b5",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Man dies after alleged hit-and-run south of Brisbane",
-      "link": "https://www.smh.com.au/national/man-dies-after-alleged-hit-and-run-south-of-brisbane-20260714-p60f8a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A 20-year-old man has died after being hit by a car south of Brisbane on Monday night.",
-      "pubDate": "Tue, 14 Jul 2026 14:00:58 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/493f6c5073887e179edc5f7b011af3387f0ef2d3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sale of multimillion-dollar T rex skeleton is big headache for scientists",
-      "link": "https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists",
-      "desc": "<p>Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming research</p><p>With its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome ",
-      "pubDate": "Tue, 14 Jul 2026 04:00:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/8cb56cfb2da0759bd058d08b8c3867ac7db30ef7/783_0_6832_5464/master/6832.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Fungi: the invisible force protecting our planet – podcast",
-      "link": "https://www.theguardian.com/science/audio/2026/jul/14/fungi-the-invisible-force-protecting-our-planet-podcast",
-      "desc": "<p>Scientists often talk about the importance of flora and fauna to the health of our planet, but Dr Toby Kiers, an evolutionary biologist and founder of the Society for the Protection of Underground ",
-      "pubDate": "Tue, 14 Jul 2026 04:00:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/2b20e60cd45f2f2962c154547f946f2ec0d3bd5d/126_0_3780_3024/master/3780.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Protests over ICE shootings in Maine, Texas",
-      "link": "https://www.smh.com.au/environment/weather/protests-over-ice-shootings-in-maine-texas-20260714-p60f7z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
-      "desc": "Recent fatal shootings in Maine and Houston have led to new calls for transparency from ICE.",
-      "pubDate": "Tue, 14 Jul 2026 13:45:45 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e66d0d61b0f4530eb60901bed775912e33047995",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Middle East 'chaos' could see millions of motorists slugged again as oil surges",
-      "link": "https://www.abc.net.au/news/2026-07-14/oil-spike-could-mean-higher-fuel-prices-for-motorists/106912172",
-      "desc": "The recent closure of the Strait of Hormuz saw the oil price lift, but buying in the market accelerated following Donald Trump's latest Truth Social post.",
-      "pubDate": "Tue, 14 Jul 2026 03:16:16 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/4788a0439375bff3ca92692ea079b8f4?impolicy=wcms_crop_resize&amp;cropH=999&amp;cropW=748&amp;xPos=376&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Olympio bags high-grade US silver and antimony plays",
-      "link": "https://www.smh.com.au/business/companies/olympio-bags-high-grade-us-silver-and-antimony-plays-20260714-p60f61.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Olympio Metals has completed the acquisition of two US critical minerals projects, picking up historic silver-copper and antimony projects that have seen no modern exploration.",
-      "pubDate": "Tue, 14 Jul 2026 13:07:02 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_78%2C$y_364/t_crop_custom/q_86%2Cf_auto/5c13d58f3a9cf7e18e7b4e269c75c364413a86bafd1b37472cc95ff3919aaa98",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Hastings scales rare earths ambitions with Thai plant expansion",
-      "link": "https://www.smh.com.au/business/companies/hastings-scales-rare-earths-ambitions-with-thai-plant-expansion-20260714-p60f78.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Strong customer demand has prompted Hastings to double its Thai rare earths processing plant, creating an early revenue bridge before Yangibana starts production.",
-      "pubDate": "Tue, 14 Jul 2026 13:06:40 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_168%2C$y_42/t_crop_custom/q_86%2Cf_auto/d3894ff33e929ef1cbeea1a0219aa9ed1874498e8bfcd5b1ce332bedecfd65c0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Builders boss says he attempted suicide after union’s coffin stunt",
-      "link": "https://www.smh.com.au/national/queensland/builders-boss-reveals-suicide-attempt-after-cfmeu-s-grim-reaper-stunt-20260714-p60f3c.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The former boss of Queensland’s peak building industry body recounts a march on his workplace, with one unionist dressed as a Grim Reaper and others carrying a coffin.",
-      "pubDate": "Tue, 14 Jul 2026 13:02:18 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_323%2C$y_6/t_crop_custom/q_86%2Cf_auto/81ef9dd12634324c3b1184a3aa4b284b79ef6eba8b25526535593ae2ac53201e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Ravenhall and Fulham prison guards walk off job in fight for better pay",
-      "link": "https://www.abc.net.au/news/2026-07-14/fulham-ravenhall-prison-guards-strike-lockdown-eba-geo-group/106901830",
-      "desc": "CPSU members at two Victorian prisons are striking today, asking for pay increases and parental leave.",
-      "pubDate": "Tue, 14 Jul 2026 02:55:02 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/148c2ee28c65d3c761eafd0a369c164b?impolicy=wcms_crop_resize&amp;cropH=1448&amp;cropW=1086&amp;xPos=744&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Man charged with co-ordinating kidnap, murder of Sydney grandfather",
-      "link": "https://www.smh.com.au/national/man-charged-with-co-ordinating-kidnap-murder-of-sydney-grandfather-20260714-p60f11.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A man has been charged with co-ordinating the alleged kidnapping and murder of Sydney grandfather Chris Baghsarian.",
-      "pubDate": "Tue, 14 Jul 2026 12:49:40 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c8f6d41f13035e7f61c5e1461d4347feef0df9e4",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Murder charge after Sydney father-of-six allegedly bashed on morning walk",
-      "link": "https://www.smh.com.au/national/nsw/murder-charge-after-sydney-father-of-six-allegedly-bashed-on-morning-walk-20260714-p60f0u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The 74-year-old has died in hospital after being found unconscious on a street in the city’s south-west, with a man in custody accused of his murder.",
-      "pubDate": "Tue, 14 Jul 2026 12:38:07 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5607%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_35%2C$y_0/t_crop_custom/q_86%2Cf_auto/e2857e0afbf24e59aca47c9a5dc47fa329a3da6edfb0cbe6d0434e7f7a148925",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Can you be a World Cup ‘winner’ without winning the World Cup?",
-      "link": "https://theconversation.com/can-you-be-a-world-cup-winner-without-winning-the-world-cup-286350",
-      "desc": "Only one team lifts the World Cup trophy. But the rewards, including prize money, mean many countries walk away satisfied.",
-      "pubDate": "2026-07-14T02:19:04Z",
-      "img": "https://images.theconversation.com/files/747643/original/file-20260714-57-vyo8dc.jpg?ixlib=rb-4.1.0&amp;rect=0%2C274%2C2933%2C1466&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
     }
   ]
 }
