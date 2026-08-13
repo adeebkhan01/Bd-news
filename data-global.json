@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T10:11:20.244Z",
-  "summary": "Global tensions escalated across multiple fronts today, with the Middle East dominating headlines as Israeli settler violence against Palestinians in the West Bank drew international condemnation, Houthi attacks threatened shipping routes, and Israeli strikes in Lebanon sparked disputes over international law. Ukraine and Russia continued their grinding conflict with renewed strikes and claims about the war's trajectory, while the humanitarian crisis in eastern Congo worsened with the WHO warning the Ebola outbreak is on track to become the deadliest on record. Economic and political developments showed mixed signals, from modest UK growth to concerns about inflation, alongside various Trump administration moves ranging from AI content protections to controversial personnel decisions and international posturing.",
+  "fetchedAt": "2026-08-13T13:20:11.802Z",
+  "summary": "Global crises are intensifying across multiple regions as humanitarian emergencies and military tensions dominate the headlines. The Middle East remains a flashpoint with escalating Israeli-Palestinian violence, including settler attacks on West Bank villages and broader regional instability, while Russia's ongoing assault on Ukraine continues to claim civilian lives at rates unseen in over two years. Environmental and health emergencies are mounting, from record-breaking Ebola cases in the DR Congo to the Danube's drought forcing Romania to shut its nuclear plant, threatening critical infrastructure. Political upheaval is also shaping the landscape, from Colombia's new far-right government handling earthquake response to elections in Zambia and ongoing questions about FIFA leadership succession, while the Trump administration's return has already sparked controversy over immigration enforcement methods and international legal accountability.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
+      "link": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
+      "desc": "Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.",
+      "pubDate": "Thu, 13 Aug 2026 12:30:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7dad6027cf-1786621280.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Infantino’s FIFA fate must go to an election, says Africa football chief",
+      "link": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss",
+      "desc": "CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March&#039;s election.",
+      "pubDate": "Thu, 13 Aug 2026 12:19:02 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-29T234630Z_2045544862_MT1USATODAY29296649_RTRMADP_3_SOCCER-FIFA-WORLD-CUP-2026-ROUND-OF-32-SOUTH-AFRICA-V-CANADA-1-1786621596.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Five charts that explain the high cost of living in the UK",
+      "link": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss",
+      "desc": "UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.",
+      "pubDate": "Thu, 13 Aug 2026 11:57:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6686d217-1785104082.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Colombia earthquake response tests new far-right government",
+      "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+      "desc": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
+      "pubDate": "Thu, 13 Aug 2026 11:39:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26224792070458-1786605801.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+      "link": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+      "desc": "Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
+      "pubDate": "Thu, 13 Aug 2026 11:29:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-05T164104Z_1523196104_RC2ESMA97ODQ_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1785997751.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+      "link": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+      "desc": "At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.",
+      "pubDate": "Thu, 13 Aug 2026 11:14:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7d94fb53b7-1786615035.jpg?resize=1920%2C1148",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
+      "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Labour's employment rights bill crackdown on zero hours contracts could cost businesses up to £2.9bn a year, new official analysis has found.",
+      "pubDate": "Thu, 13 Aug 2026 11:12:33 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e9/live/4b9eef10-96ff-11f1-b72c-211ea4e0afc4.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Zambians voting as president bids for second term",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
+      "pubDate": "Thu, 13 Aug 2026 10:51:35 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb25/live/2035d580-96fc-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Eurovision to bar countries at war from hosting: What that means",
+      "link": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
+      "desc": "Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.",
+      "pubDate": "Thu, 13 Aug 2026 10:41:47 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-13T091422Z_633630629_RC25BLAUL3P5_RTRMADP_3_MUSIC-EUROVISION-BULGARIA-1786615253.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "UK economy grows but experts warn of challenging months ahead",
       "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&amp;at_campaign=rss",
@@ -303,6 +393,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Russia: Why is the Yabloko party barred from the elections?",
+      "link": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Russia's supreme court has banned the anti-war opposition party Yabloko from September's parliamentary elections. What does this mean for the election campaign, opponents of the war and for the politi",
+      "pubDate": "2026-08-12T18:37:00Z",
+      "img": "https://static.dw.com/image/78312667_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
@@ -14440,76 +14540,6 @@
       "desc": "Hardline MPs table plan that aims to formalise control over the strait and undermine any negotiations.",
       "pubDate": "Tue, 14 Jul 2026 13:30:00 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260710__B9UE4C4__v2__HighRes__TopshotUaeIranUsIsraelWar-1783813844.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "WHO warns DR Congo Ebola outbreak may be double the official tally",
-      "link": "https://www.aljazeera.com/news/2026/7/14/who-warns-dr-congo-ebola-outbreak-may-be-double-the-official-tally?traffic_source=rss",
-      "desc": "UN health agency says cases are underreported while doctors at outbreak epicentre threaten to go on strike.",
-      "pubDate": "Tue, 14 Jul 2026 13:07:34 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/PHOTO-2026-07-01-17-13-49-1782965041.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Sudan sentences RSF chief Hemedti to death: Who’s he, what’s he accused of?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/sudan-sentences-rsf-chief-hemedti-to-death-whos-he-whats-he-accused-of?traffic_source=rss",
-      "desc": "Port Sudan trial of paramilitary leaders centres on atrocities in West Darfur.",
-      "pubDate": "Tue, 14 Jul 2026 12:02:37 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/ap_6924bf1fea8ce-1764015903.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How new Yemen tensions could complicate the global energy crisis",
-      "link": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
-      "desc": "If the fighting in Yemen expands, and the Houthis try to block Bab al-Mandeb, the world economy faces a new shock.",
-      "pubDate": "Tue, 14 Jul 2026 11:22:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2023/12/AP23364555857228-1704055593.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Tour de France crash and concussion cases expose limits of roadside checks",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/tour-de-france-crash-and-concussion-cases-expose-limits-of-roadside-checks?traffic_source=rss",
-      "desc": "Three of the eight riders who have abandoned the Tour de France in the opening week have suffered concussions.",
-      "pubDate": "Tue, 14 Jul 2026 11:12:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T165820Z_413022913_UP1EM7C14QA7O_RTRMADP_3_CYCLING-FRANCE-1784022927.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Schumer slams Trump over Iran war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
-      "desc": "Schumer slams Trump over Iran war",
-      "pubDate": "Tue, 14 Jul 2026 10:34:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784025276.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/utah-jazz-guard-trey-alexander-stretchered-off-court-in-nba-summer-league?traffic_source=rss",
-      "desc": "Alexander, who signed a two-way deal with the Jazz last week. was injured in game against Chicago Bulls.",
-      "pubDate": "Tue, 14 Jul 2026 10:13:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26194108605470-1784021868.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
-      "desc": "Tensions escalate as the US president threatens to destroy Iran&#039;s fortified nuclear site in the south of Tehran.",
-      "pubDate": "Tue, 14 Jul 2026 10:11:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T223900Z_435700050_RC2D4MA91IO9_RTRMADP_3_IRAN-CRISIS-1784000950.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
