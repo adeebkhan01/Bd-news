@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T04:54:41.398Z",
-  "summary": "Global tensions are escalating across multiple fronts, with the Trump administration pushing aggressive domestic and foreign policy agendas including arrests of political opponents, controversial military equipment proposals, and confrontational rhetoric toward Iran over Strait of Hormuz control. Major humanitarian crises are unfolding in Africa, where the DR Congo faces its deadliest Ebola outbreak on record and Colombia battles earthquake aftermath, while Middle Eastern instability deepens through Israeli-Palestinian violence and calls for US troop withdrawal from Iraq by September. Economic concerns are mounting internationally, from Russia's financial resilience amid sanctions to UK growth warnings tied to potential conflict, though US consumer inflation showed signs of cooling. Staffing changes in Trump's administration and various high-profile legal challenges, including a lawsuit over Truth Social's pay-access tier, round out a turbulent news cycle shaped by political realignment and geopolitical recalibration.",
+  "fetchedAt": "2026-08-13T07:39:57.813Z",
+  "summary": "Global tensions continue escalating across multiple fronts as Israeli military operations in Lebanon draw international condemnation while clashes between Israeli settlers and Palestinians intensify in the West Bank, further destabilizing the Middle East amid broader regional conflicts involving the Houthis, Iran, and the Strait of Hormuz. In Ukraine, Russian strikes on infrastructure persist as the war shows no signs of resolution, with analysts questioning Putin's ability to claim victory. The Trump administration has begun implementing controversial domestic policies ranging from immigration enforcement to artificial intelligence regulation, while also facing legal challenges and drawing criticism from health organizations over vaccine positions. Economic concerns are mounting globally, from potential US inflation impacts and supply chain disruptions to reports of Russia's economy showing strain and a catastrophic Ebola outbreak in the Democratic Republic of Congo threatening to become the deadliest on record.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+      "link": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+      "desc": "Prime Minister Nawaf Salam rejects Israel&#039;s claim that villages destroyed in southern Lebanon were military sites.",
+      "pubDate": "Thu, 13 Aug 2026 07:11:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7d339d-1786590109.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘They destroyed us’: Palestinian family sleeps in the open after demolition",
+      "link": "https://www.aljazeera.com/features/2026/8/13/they-destroyed-us-palestinian-family-sleeps-in-the-open-after-demolition?traffic_source=rss",
+      "desc": "Palestinian family&#039;s home demolished despite court order, leaving them homeless under sweltering heat in the West Bank.",
+      "pubDate": "Thu, 13 Aug 2026 07:00:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Hilal-Daraghmeh-in-front-of-his-destroyed-home-1786559648.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Will the Houthis shut down Saudi Arabian shipping?",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
+      "desc": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
+      "pubDate": "Thu, 13 Aug 2026 06:21:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Project-Force-Wide-1786602017.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+      "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+      "desc": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
+      "pubDate": "Thu, 13 Aug 2026 05:26:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T065121Z_2139426506_RC26WMA7GLVY_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-1786590555.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Three Palestinian families besieged in their homes by Israeli settlers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
+      "desc": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.",
+      "pubDate": "Thu, 13 Aug 2026 04:34:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786595622.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
       "link": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss",
@@ -14450,36 +14510,6 @@
       "desc": "Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men&#039;s World Cup champion.",
       "pubDate": "Tue, 14 Jul 2026 07:59:07 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Cover-3-1783956471.png?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
-      "desc": "Satluj, based on life and murder of rights activist Jaswant Singh Khalra, is still finding its audience despite the ban.",
-      "pubDate": "Tue, 14 Jul 2026 05:33:01 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26190380716358-1783858203.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
-      "desc": "US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran",
-      "pubDate": "Tue, 14 Jul 2026 05:15:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784006120.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss",
-      "desc": "A US trade expert says the US, Mexico, and Canada need to hold trilateral talks to get a cross-border trade deal signed.",
-      "pubDate": "Tue, 14 Jul 2026 05:08:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784005673.jpg?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
