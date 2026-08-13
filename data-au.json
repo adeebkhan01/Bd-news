@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T07:39:45.923Z",
-  "summary": "Australia's news cycle today is dominated by social and political upheaval, with high school students staging widespread protests against Pauline Hanson and One Nation across the country. A major economic story involves Rio Tinto securing a $2.5 billion government bailout to keep the Tomago aluminium smelter operating on renewable energy, a deal that protects thousands of jobs but raises questions about taxpayer support. Serious criminal cases feature prominently, including charges upgraded to murder for teenagers involved in an alleged assault, the conviction of an outback bishop for sexually abusing Aboriginal men, and multiple sexual assault cases in court. The news also covers challenges to Australia's competitiveness, with the wine industry shrinking and warnings about youth disengagement from organised sports as Brisbane 2032 approaches.",
+  "fetchedAt": "2026-08-13T10:11:07.501Z",
+  "summary": "Australia's news cycle today is dominated by transport safety incidents, with a third Sydney Airport take-off incident under investigation and a disturbing case involving a toddler's legs trapped in bus doors. Political tensions are running high as students walk out of schools nationwide to protest One Nation's rise in popularity, while the government faces scrutiny over pandemic-style bailouts including a proposed $2.5 billion package for the Hunter region. Several serious criminal cases are progressing through the courts, including charges against seven teens for a fatal carjacking and an outback bishop found guilty of sexually abusing young Aboriginal men. In business news, a major aluminium smelter has been rescued with a thousand jobs secured, while tech companies face new laws requiring them to pay for news content.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,236 @@
     }
   ],
   "articles": [
+    {
+      "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
+      "link": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "desc": "<p>In France, 80 departments have been placed on an orange heat warning</p><p><strong>Met Office has just <a href=\"https://x.com/metoffice/status/2087839648823251426\">offered an update</a> on temperat",
+      "pubDate": "Thu, 13 Aug 2026 09:59:36 GMT",
+      "img": "https://i.guim.co.uk/img/media/c8ac626264763f988ad635ecde75279c8b213b8d/889_0_2886_2309/master/2886.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Whose visit clashes with the 2028 NRL Grand Final? Take the Brisbane Times Quiz",
+      "link": "https://www.smh.com.au/national/queensland/whose-visit-clashes-with-the-2028-nrl-grand-final-take-the-brisbane-times-quiz-20260813-p60o30.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Test your knowledge of local, national and international news in the weekly current affairs catch-up.",
+      "pubDate": "Thu, 13 Aug 2026 19:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_296%2C$y_63/t_crop_custom/q_86%2Cf_auto/0e578db804ca0906e60e78e034179a446a64eca2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Breaking: Third Sydney Airport take-off incident investigated by safety body",
+      "link": "https://www.abc.net.au/news/2026-08-13/third-sydney-airport-runway-take-off-incident-investigated/107035400",
+      "desc": "Safety authorities are investigating a third runway incident at Sydney Airport, involving a Qantas flight crossing the path of a Virgin Australia aircraft.",
+      "pubDate": "Thu, 13 Aug 2026 09:52:51 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/6600be66bbf0c8712369d36ab29d853e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=670&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Shocking footage shows toddler’s legs trapped in bus doors",
+      "link": "https://www.smh.com.au/national/victoria/shocking-footage-shows-toddler-s-legs-trapped-in-bus-doors-20260813-p60o6d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The vision shows the moment a young child is dragged along after his legs became trapped in the bus doors.",
+      "pubDate": "Thu, 13 Aug 2026 19:44:29 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.1461%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7a4ab28916410c879c1dfd0c8145484d85d53c88",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘It’s terrible’: Top Sydney private school in negotiations to buy entire street",
+      "link": "https://www.smh.com.au/national/nsw/it-s-terrible-top-sydney-private-school-in-negotiations-to-buy-entire-street-20260812-p60nrz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "It is the second street North Sydney Council is considering selling to a school as it struggles to find cash.",
+      "pubDate": "Thu, 13 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.36202111111111107%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_664%2C$y_511/t_crop_custom/q_86%2Cf_auto/2da7fed8ec782215853cca172363a51efe1d5072",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Iranian researchers blocked at universities taking hardline approach",
+      "link": "https://www.smh.com.au/national/victoria/iranian-researchers-blocked-at-universities-taking-hardline-approach-20260813-p60o0t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Academics say Iranian students are being unfairly prevented from researching fields such as medicine, food science and architecture.",
+      "pubDate": "Thu, 13 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.30257142857142855%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/e903c5989b3b384de844b6ea98e5db5d0397c331",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘They’ll sleep better tonight’: Will a $2.5b bailout stave off One Nation in the Hunter?",
+      "link": "https://www.smh.com.au/national/nsw/they-ll-sleep-better-tonight-will-the-tomago-bailout-stave-off-one-nation-in-the-hunter-20260813-p60o3z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The smelter is right in the heart of territory One Nation believes it can capture, and there’s no doubt the Minns government is attuned to the dangers Labor faces.",
+      "pubDate": "Thu, 13 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/4613133ed6eef111f2cec2c092792611e5f35166",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘I made a mistake’: Charities still waiting for Reece’s promised $9 million for the homeless",
+      "link": "https://www.smh.com.au/national/victoria/i-made-a-mistake-charities-still-waiting-for-reece-s-promised-9-million-for-the-homeless-20260813-p60o13.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Nick Reece is scrambling to repair his relationship with the Salvation Army and Melbourne City Mission after failing to deliver funding he promised to both charities in his election campaign.",
+      "pubDate": "Thu, 13 Aug 2026 19:26:31 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5116%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1292%2C$y_550/t_crop_custom/q_86%2Cf_auto/78ffb67b3041aa43aed588eeff062d1674569249",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Child dragged along street after legs trapped inside bus",
+      "link": "https://www.smh.com.au/national/child-dragged-along-street-after-legs-trapped-inside-bus-20260813-p60o6z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Video of a St Kilda incident has been released as authorities try to track down the young boy and the man who was with him.",
+      "pubDate": "Thu, 13 Aug 2026 19:16:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d97e51862ad0660ce3f1ca1a750391aa646274e3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Virgin plane aborts take-off as Qantas plane crosses Sydney runway",
+      "link": "https://www.smh.com.au/business/companies/virgin-plane-aborts-take-off-as-qantas-plane-crosses-sydney-runway-20260813-p60o6u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The incident, also involving a Qantas 737, is the third such occurrence in Sydney airport in under three weeks, with links to air traffic control.",
+      "pubDate": "Thu, 13 Aug 2026 18:55:47 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/550756f23d0e4b5d978def4a00a629365edbe8d3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "New laws to make tech companies pay for news will help, but there are 4 key problems",
+      "link": "https://theconversation.com/new-laws-to-make-tech-companies-pay-for-news-will-help-but-there-are-4-key-problems-289703",
+      "desc": "While setting up new revenue streams for struggling newsrooms is a welcome move, the laws themselves are far from perfect.",
+      "pubDate": "2026-08-13T08:44:55Z",
+      "img": "https://images.theconversation.com/files/753819/original/file-20260813-50-ry7gz1.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6240%2C3120&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "‘No information, nothing’: Nick Scali scrambles after cyberattack",
+      "link": "https://www.smh.com.au/business/companies/no-information-nothing-nick-scali-scrambles-after-cyberattack-20260813-p60o6v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Frustrated customers have been left in the dark about deliveries that never arrived after the furniture seller took its systems down following a cyberattack last week.",
+      "pubDate": "Thu, 13 Aug 2026 18:41:39 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.17819283190307925%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/e5f6ac8532e7b7df5cdd5575bfd262c440b0265a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Toddler's legs trapped in bus door",
+      "link": "https://www.smh.com.au/national/toddlers-legs-trapped-in-bus-door-20260813-p60o78.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Dramatic footage has emerged of the moment a young child's legs were trapped in a bus door, before it drove off with him still stuck.",
+      "pubDate": "Thu, 13 Aug 2026 18:39:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/53366bfd4c01d7a4acca511f4cad631c7632f34b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Governments splashing taxpayers’ cash on business bailouts",
+      "link": "https://www.smh.com.au/national/nsw/governments-splashing-taxpayers-cash-on-business-bailouts-20260813-p60nxy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Government handouts to struggling companies is an exercise in privatising profits while socialising losses.",
+      "pubDate": "Thu, 13 Aug 2026 18:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1576%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/0a68f5b5d9014c4d3a11236a57bbf82b37a8988f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘We don’t want Hanson here’: Kids skip school for One Nation protest",
+      "link": "https://www.smh.com.au/national/victoria/we-don-t-want-hanson-here-kids-skip-school-for-one-nation-protest-20260813-p60o6g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Pauline Hanson’s political rivals had encouraged students not to skip their classes, but thousands took to the streets in Melbourne on Thursday.",
+      "pubDate": "Thu, 13 Aug 2026 18:23:34 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.30257142857142855%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/2b2a807ea7f7ff6213ceefcd068cf8208fe29d59",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Seven teens charged with murder over fatal carjacking",
+      "link": "https://www.smh.com.au/national/seven-teens-charged-with-murder-over-fatal-carjacking-20260813-p60o71.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Seven teenagers, including a 14-year-old, have been charged with murder following a violent alleged carjacking in Brisbane.",
+      "pubDate": "Thu, 13 Aug 2026 18:21:49 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a78e49f99390f5f3060d6f04b7034ecedb04b888",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Pentagon official and former Aukus sceptic says deal is ‘full steam ahead’, echoing Trump",
+      "link": "https://www.theguardian.com/world/2026/aug/13/pentagon-official-and-former-aukus-sceptic-says-deal-is-full-steam-ahead-echoing-trump",
+      "desc": "<p>Elbridge Colby, a US under secretary of war, says he is ‘very pleased’ with the nuclear submarine program’s progress</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP",
+      "pubDate": "Thu, 13 Aug 2026 08:20:43 GMT",
+      "img": "https://i.guim.co.uk/img/media/27d3d8c0038e3643768bb564787f4186cc978e49/171_0_4913_3931/master/4913.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Jury told teen confronted alleged rapist on Snapchat",
+      "link": "https://www.smh.com.au/national/jury-told-teen-confronted-alleged-rapist-on-snapchat-20260813-p60o70.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Ballarat man Lachlan Young is standing trial over the alleged rape of a teenager in Sebastopol in February 2024.",
+      "pubDate": "Thu, 13 Aug 2026 18:20:02 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8cd784542d7df0f707dcdc9ccb29322483d77804",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Destroyed’: Russia’s richest woman is watching her empire go up in flames",
+      "link": "https://www.smh.com.au/business/companies/destroyed-russia-s-richest-woman-is-watching-her-empire-go-up-in-flames-20260810-p60msq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Billionaire Tatyana Kim built Russia’s answer to Amazon, navigated wartime Kremlin politics and outmanoeuvred her ex-husband in a feud that involved a deadly shooting near Red Square. Now she is facin",
+      "pubDate": "Thu, 13 Aug 2026 18:18:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1992%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/9fdfeba57c538306554f0e48828a9dfc6302b13b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "How to keep babies and children safe in heatwaves",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/how-to-keep-babies-and-children-safe-in-heatwaves",
+      "desc": "<p>Biological factors mean a child’s core temperature rises faster than an adult’s – and that can result in a medical emergency</p><p>Children and babies are more vulnerable in heatwaves than healthy ",
+      "pubDate": "Thu, 13 Aug 2026 08:13:10 GMT",
+      "img": "https://i.guim.co.uk/img/media/79a9c56b77899db42e377d9776163393b7954279/301_14_6641_5315/master/6641.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Millions face higher water bills as suppliers allowed £3.4bn extra spending",
+      "link": "https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat",
+      "desc": "<p>Firms in England and Wales seek to fund measures including supporting new homes and datacentres</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-se",
+      "pubDate": "Thu, 13 Aug 2026 08:10:54 GMT",
+      "img": "https://i.guim.co.uk/img/media/9ed29074fda4a84feba454e909d61da0a645cb39/1051_0_4939_3954/master/4939.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Gallery: The Brisbane Ekka in its 150th year",
+      "link": "https://www.smh.com.au/national/queensland/gallery-the-brisbane-ekka-in-its-150th-year-20260812-p60nkp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Brisbane Times braves the crowds to photograph intimate and iconic moments of the Ekka in its 150th year.",
+      "pubDate": "Thu, 13 Aug 2026 17:55:25 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3532%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/q_86%2Cf_auto/3b8ca33b91507539ec6292ab915d901a6b7155318c4358fca19779443e0fa8e0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Detained kids effectively contained to cells as workers walk off job",
+      "link": "https://www.smh.com.au/national/queensland/child-inmates-effectively-contained-to-cells-as-workers-walk-off-job-20260813-p60o5v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Staff at Queensland’s youth detention centres walked off the job at midnight after negotiations with the state government broke down.",
+      "pubDate": "Thu, 13 Aug 2026 17:54:04 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1697%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/8d8a4d767a7f7e74be24d88f1f5a9a321ea4b2ba",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "‘We are not stupid kids’: Perth students rally against Pauline Hanson",
       "link": "https://www.smh.com.au/national/western-australia/we-are-not-stupid-kids-perth-students-rally-against-pauline-hanson-20260813-p60nzk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36208,236 +36438,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Station owner relives miracle in WA outback a year on from backpacker’s rescue",
-      "link": "https://www.smh.com.au/national/western-australia/station-owner-relives-miracle-in-wa-outback-a-year-on-from-backpacker-s-rescue-20260714-p60fbp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "New details have emerged of the harrowing ordeal German backpacker Carolina Wilga endured in WA’s outback, a year on from her remarkable rescue.",
-      "pubDate": "Tue, 14 Jul 2026 20:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7364%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/2dfc17205d7dd567802dcb6d1785dac29a994a4c711dcacd56f1f2a4c95882db",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Breaking: Victorian teachers set to strike again following deadlocked negotiations",
-      "link": "https://www.abc.net.au/news/2026-07-14/victorian-teachers-set-to-strike-in-late-july/106915610",
-      "desc": "A fresh statewide strike by Victorian public school teachers will he held next week, after negotiations with the Victorian government reached an impasse.",
-      "pubDate": "Tue, 14 Jul 2026 09:55:36 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/9ced444a338d77358fe03c58010de5fc?impolicy=wcms_crop_resize&amp;cropH=4032&amp;cropW=3024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Aussie investors fear millions in losses as alleged fake bond scheme unravels",
-      "link": "https://www.abc.net.au/news/2026-07-14/asic-takes-capital-guard-to-supreme-court-alleging-fake-bonds/106914906",
-      "desc": "The financial watchdog is seeking to shut down an investment company accused of taking $17 million from 80 victims, including by promoting fake bonds.",
-      "pubDate": "Tue, 14 Jul 2026 09:51:57 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/82b06e2b11408ecd45b8d7655867a2ba?impolicy=wcms_crop_resize&amp;cropH=752&amp;cropW=564&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Invasive species are a nightmare. Why did CSIRO just introduce three more?",
-      "link": "https://www.smh.com.au/national/invasive-species-are-a-nightmare-why-did-csiro-just-introduce-three-more-20260713-p60eus.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "There are plenty of disaster stories when it comes to invasive species. Here’s how the humble dung beetle flipped the script.",
-      "pubDate": "Tue, 14 Jul 2026 19:45:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/ffa11e605d0bd131f5bd765f094c2a5a5910f169300bd86838b9dd0af70f17eb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Not fair at all’: Hundreds of thousands more students to be slugged with high fees",
-      "link": "https://www.smh.com.au/national/not-fair-at-all-hundreds-of-thousands-more-students-to-be-slugged-with-high-fees-20260708-p60dj5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A government body will deliver its verdict on the cost of university education in mid-2027. Meanwhile, students continue to pay up to $50,000 for an arts degree.",
-      "pubDate": "Tue, 14 Jul 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/10e9ea873d80b580253dc45f663ca85b326d8b9e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sham sale and a dead director: The $1m fraud case against ex-tax official Nick Petroulias",
-      "link": "https://www.smh.com.au/national/sham-sale-and-a-dead-director-the-1m-fraud-case-against-ex-tax-official-nick-petroulias-20260714-p60fa2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Former assistant tax commissioner Nick Petroulias and his partner, lawyer Despina Bakis, have been hit with a series of fraud charges.",
-      "pubDate": "Tue, 14 Jul 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2955%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_135/t_crop_custom/q_86%2Cf_auto/d12c0a6fdae8104db526a1223be2da2c2598e5fe",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Results in for sick bird found on Noosa beach",
-      "link": "https://www.smh.com.au/national/queensland/results-in-for-sick-bird-found-on-noosa-beach-20260714-p60fb6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The sick northern giant petrel found over the weekend sparked fears the deadly bird flu virus had reached Queensland.",
-      "pubDate": "Tue, 14 Jul 2026 19:21:59 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.1066%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/40fb9b5b12790ec5f92c8ee6b16c502c8f6f9f51d6f56c94adcacd70ede97f7b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Office of Perpetrator Protection’: Isla Bell’s mum says prosecutors have failed victims of crime",
-      "link": "https://www.smh.com.au/national/victoria/office-of-perpetrator-protection-isla-bell-s-mum-says-prosecutors-have-failed-victims-of-crime-20260714-p60f8l.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The mother and grandfather of teenager Isla Bell, whose body was driven around Melbourne for days in a plastic-covered refrigerator, says the watering-down of charges is stripping Victorian crime vict",
-      "pubDate": "Tue, 14 Jul 2026 19:12:45 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.253%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/q_86%2Cf_auto/6c7cef1f1146e5795432d788fcc168f74ead6b8e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Loved ones of Isla Bell rally outside of Supreme Court",
-      "link": "https://www.smh.com.au/national/loved-ones-of-isla-bell-rally-outside-of-supreme-court-20260714-p60fbm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Loved ones and supporters of Isla Bell have rallied outside the Supreme Court, as the man charged over dumping her body tries to have his case dismissed.",
-      "pubDate": "Tue, 14 Jul 2026 19:06:05 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f7da01f546c095bf1606aea5d42a86e9fc93ef45",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Two men could face decades in jail charged with negligent manslaughter of builder",
-      "link": "https://www.smh.com.au/national/two-men-could-face-decades-in-jail-charged-with-negligent-manslaughter-of-builder-20260714-p60fbn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two police officers could face decades in jail after being charged with the negligent manslaughter of a builder during an arrest in Hoppers Crossing.",
-      "pubDate": "Tue, 14 Jul 2026 19:05:59 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/22b01a87e6bff49d0b0dccd77444e47047aeb9e0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "UK police investigating terrorism-ties to murder of former politician",
-      "link": "https://www.smh.com.au/national/uk-police-investigating-terrorism-ties-to-murder-of-former-politician-20260714-p60fbo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "UK police are investigating whether the murder of an outspoken former Conservative politician was an act of terrorism.",
-      "pubDate": "Tue, 14 Jul 2026 19:05:59 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d4d841064ec78d2951e1ac633d8efd47ddc6c342",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Joy flight company boss denies helicopters blocked pilot view",
-      "link": "https://www.smh.com.au/national/queensland/joy-flight-company-boss-denies-helicopters-blocked-pilot-view-20260714-p60fbg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Five people were killed when two aircraft from Sea World Helicopters collided midair in 2023.",
-      "pubDate": "Tue, 14 Jul 2026 19:02:22 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2102%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/4c15dd4a8bec77143d2af2dd085dd8c064d3e692",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Major breakthrough in Melbourne’s hospitality war",
-      "link": "https://www.smh.com.au/national/major-breakthrough-in-melbourne-s-hospitality-war-20260714-p60fbk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A young man has been charged with orchestrating firebombings from his parents' Essendon home in a major breakthrough in Melbourne's hospitality war.",
-      "pubDate": "Tue, 14 Jul 2026 19:02:20 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/67011e9794378a66eef83f16cd3662997f989ad4",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Truck driver who melted $70,000 of ice-cream fails to win back job",
-      "link": "https://www.smh.com.au/business/workplace/truck-driver-who-melted-70-000-of-ice-cream-fails-to-win-back-job-20260714-p60f21.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "A truck driver who accidentally melted a truck load of ice-cream has failed to have his dismissal overturned.",
-      "pubDate": "Tue, 14 Jul 2026 19:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0105%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/3453e6b638f2984a721939bb422141729bce5361c2462569728bc7cf95468b9c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Pilot writes ‘I’m bored’ in the sky during test flight",
-      "link": "https://www.smh.com.au/business/companies/pilot-writes-im-bored-in-the-sky-during-test-flight-20260714-p60f6q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The single-engined Piper Tomahawk was seen on the popular flight-tracking website FlightRadar24 tracing out the words.",
-      "pubDate": "Tue, 14 Jul 2026 19:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.828%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/a6c45dfe79eb9f0cec1faf2b3e2c6053c64d83672a4f831b3c8df4abd2fec6d8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Report into helicopter crash called into question",
-      "link": "https://www.smh.com.au/national/report-into-helicopter-crash-called-into-question-20260714-p60fbc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An official report into the fatal 2023 Sea World Helicopter crash has been called into question at an inquest.",
-      "pubDate": "Tue, 14 Jul 2026 18:41:28 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/022d69efdfcb89d1310ad2be8b9abdd69a396871",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "NSW scrapped this 'frustrating' road rule. Should other jurisdictions follow?",
-      "link": "https://www.abc.net.au/news/2026-07-14/should-act-scrap-roadwork-speed-limits-when-workers-off-site/106913912",
-      "desc": "The NRMA is encouraging all states and territories to follow the lead of NSW in removing reduced speed limits for roadworks outside construction hours.",
-      "pubDate": "Tue, 14 Jul 2026 08:41:11 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/e639cdc5dddc7133f1d40c68d8387ef9?impolicy=wcms_crop_resize&amp;cropH=1335&amp;cropW=1001&amp;xPos=661&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Teenager arrested, another critical after alleged high school stabbing",
-      "link": "https://www.smh.com.au/national/teenager-arrested-another-critical-after-alleged-high-school-stabbing-20260714-p60fa1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A teenager has been arrested and another is fighting for life after an alleged stabbing at a school in Brisbane’s south.",
-      "pubDate": "Tue, 14 Jul 2026 18:40:47 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/72c7054199965fa5c2605f29e6f912a67edf9100",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "State school teachers to strike for 24 hours over pay dispute",
-      "link": "https://www.smh.com.au/national/victoria/state-school-teachers-to-strike-for-24-hours-over-pay-dispute-20260713-p60exz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "School staff have voted to walk off the job as ongoing negotiations with government fail to reach an agreement.",
-      "pubDate": "Tue, 14 Jul 2026 18:39:56 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.4537%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/31d344866f9b364a106e729b2bc13307df931512",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Power of money threatens to undermine our democracy",
-      "link": "https://www.smh.com.au/national/nsw/power-of-money-threatens-to-undermine-our-democracy-20260714-p60f41.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "We should be deeply concerned by the creeping Americanisation of Australian politics.",
-      "pubDate": "Tue, 14 Jul 2026 18:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5518518518518518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/43df3d64db4505d178c15934f3c7e8ac0ed23be5",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia freezes Chinese investor rights over key rare earth project",
-      "link": "https://www.smh.com.au/business/companies/australia-freezes-chinese-investor-rights-over-key-rare-earth-project-20260714-p60fa3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Australia has frozen the rights of a group of Chinese-linked investors it fears are seeking to illegally gain control over a key Australian rare earth mine.",
-      "pubDate": "Tue, 14 Jul 2026 17:42:40 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/f8d8aac7c44d5235170bcbcc858caf04a0c37b3a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The US and Iran are back at war. And with one main sticking point, there’s no end in sight",
-      "link": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-with-one-main-sticking-point-theres-no-end-in-sight-287492",
-      "desc": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
-      "pubDate": "2026-07-14T07:40:13Z",
-      "img": "https://images.theconversation.com/files/747696/original/file-20260714-69-46tsam.jpg?ixlib=rb-4.1.0&amp;rect=0%2C168%2C5376%2C2688&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "The US and Iran are back at war. And due to one main sticking point, there’s no end in sight",
-      "link": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-due-to-one-main-sticking-point-theres-no-end-in-sight-287492",
-      "desc": "Both sides are at an impasse over control of the Strait of Hormuz, with no end in sight.",
-      "pubDate": "2026-07-14T07:40:13Z",
-      "img": "https://images.theconversation.com/files/747696/original/file-20260714-69-46tsam.jpg?ixlib=rb-4.1.0&amp;rect=0%2C168%2C5376%2C2688&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
     }
   ]
 }

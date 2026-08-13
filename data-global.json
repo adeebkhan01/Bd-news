@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T07:39:57.813Z",
-  "summary": "Global tensions continue escalating across multiple fronts as Israeli military operations in Lebanon draw international condemnation while clashes between Israeli settlers and Palestinians intensify in the West Bank, further destabilizing the Middle East amid broader regional conflicts involving the Houthis, Iran, and the Strait of Hormuz. In Ukraine, Russian strikes on infrastructure persist as the war shows no signs of resolution, with analysts questioning Putin's ability to claim victory. The Trump administration has begun implementing controversial domestic policies ranging from immigration enforcement to artificial intelligence regulation, while also facing legal challenges and drawing criticism from health organizations over vaccine positions. Economic concerns are mounting globally, from potential US inflation impacts and supply chain disruptions to reports of Russia's economy showing strain and a catastrophic Ebola outbreak in the Democratic Republic of Congo threatening to become the deadliest on record.",
+  "fetchedAt": "2026-08-13T10:11:20.244Z",
+  "summary": "Global tensions escalated across multiple fronts today, with the Middle East dominating headlines as Israeli settler violence against Palestinians in the West Bank drew international condemnation, Houthi attacks threatened shipping routes, and Israeli strikes in Lebanon sparked disputes over international law. Ukraine and Russia continued their grinding conflict with renewed strikes and claims about the war's trajectory, while the humanitarian crisis in eastern Congo worsened with the WHO warning the Ebola outbreak is on track to become the deadliest on record. Economic and political developments showed mixed signals, from modest UK growth to concerns about inflation, alongside various Trump administration moves ranging from AI content protections to controversial personnel decisions and international posturing.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth,",
+      "pubDate": "Thu, 13 Aug 2026 10:03:51 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b9/live/227c63c0-96f4-11f1-b9dc-4fc99fb88769.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "pubDate": "Thu, 13 Aug 2026 09:52:30 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Singapore-flagged container ship crashes into riverbank in India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
+      "desc": "A Singapore-flagged container ship crashed into a bank of the Hooghly River in eastern India.",
+      "pubDate": "Thu, 13 Aug 2026 09:42:18 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786614126.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+      "link": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
+      "desc": "Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.",
+      "pubDate": "Thu, 13 Aug 2026 09:30:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-10T062757Z_595038975_RC2EVMAD42KU_RTRMADP_3_IRAN-CRISIS-YEMEN-MOCHA-1786608931.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+      "link": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
+      "desc": "Israeli settlers have blocked the homes of three Palestinian families in Qusra, cutting them off from food and supplies.",
+      "pubDate": "Thu, 13 Aug 2026 08:38:13 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7d7642af80-1786607170.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "pubDate": "Thu, 13 Aug 2026 08:12:53 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
       "link": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
@@ -14450,66 +14510,6 @@
       "desc": "Tensions escalate as the US president threatens to destroy Iran&#039;s fortified nuclear site in the south of Tehran.",
       "pubDate": "Tue, 14 Jul 2026 10:11:22 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T223900Z_435700050_RC2D4MA91IO9_RTRMADP_3_IRAN-CRISIS-1784000950.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Argentina war vets urge focus on football for England World Cup semifinal",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
-      "desc": "One of sport&#039;s great rivalries sees Argentina face England in an ever feisty encounter in the 2026 edition&#039;s semifinal.",
-      "pubDate": "Tue, 14 Jul 2026 09:52:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-12T030017Z_1692128539_UP1EM7C08CFSW_RTRMADP_3_SOCCER-WORLDCUP-ARG-SWI-1784020312.jpg?resize=1743%2C1080",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
-      "desc": "More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power.",
-      "pubDate": "Tue, 14 Jul 2026 09:34:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a55e58038e2-1784014208.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Emir of Qatar receives condolences on the death of the Father Emir",
-      "link": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss",
-      "desc": "Condolences from several government leaders, who expressed their sincere sympathy to Qatar, its leadership and people.",
-      "pubDate": "Tue, 14 Jul 2026 09:20:56 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-13T103323Z_1721221164_RC2YCMAG0ZQZ_RTRMADP_3_QATAR-EMIR-HAMAD-FUNERAL-1784012764_f00006-1784020464.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "EU bans gold imports from Sudan to curb money financing the war",
-      "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
-      "pubDate": "Tue, 14 Jul 2026 08:32:49 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a5/live/d6cd2350-7f52-11f1-a97a-9b1029617ccb.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US military releases video of its latest strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
-      "desc": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran&#039;s mainland and islands.",
-      "pubDate": "Tue, 14 Jul 2026 08:23:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/thumb-wide-clean-1784017357.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts",
-      "link": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss",
-      "desc": "Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men&#039;s World Cup champion.",
-      "pubDate": "Tue, 14 Jul 2026 07:59:07 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Cover-3-1783956471.png?resize=1200%2C630",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
