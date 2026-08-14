@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-14T18:59:18.404Z",
-  "summary": "Global tensions are escalating across multiple regions, with the Middle East dominating headlines as the US calls on Netanyahu to condemn settler violence in the West Bank, while activists struggle to deliver aid to besieged Palestinian homes and Yemen faces renewed war risks. Political upheaval continues in Britain following Nigel Farage's parliamentary victory with Reform UK, though scrutiny over party finances threatens momentum, while France's courts reject social media bans for minors despite public concern. Broader geopolitical friction is mounting between major powers, including US accusations that dozens of countries are helping China evade Trump's tariffs, North Korea's anger over planned US-South Korea military drills, and Iran tensions in the Gulf as the UAE reports attacks on its vessels. Environmental and humanitarian crises are compounding instability, from Sudan's military clashes near the Ethiopian border to climate-driven disaster in Colombia affecting Venezuelan refugees and water stress in South Korea.",
+  "fetchedAt": "2026-08-14T21:28:24.027Z",
+  "summary": "Global tensions are escalating across multiple fronts, with the Middle East dominating headlines as Israeli settler violence in the West Bank draws international condemnation and US pressure on Netanyahu, while separate conflicts in Gaza, Yemen, and the Red Sea threaten wider regional instability. Donald Trump continues to dominate US political coverage with legal challenges to his business projects and questions about presidential term limits, as Reform UK surges in British politics following Nigel Farage's parliamentary victory. Economic pressures are building worldwide, from soaring CEO pay deepening US inequality to volatile Asian markets and global supply chain disruptions as the Trump administration targets countries circumventing tariffs on Chinese goods. Human rights crises persist from Taliban restrictions on Afghan women to Philippine justice efforts and Venezuelan refugees facing compounded disasters, while humanitarian concerns in Gaza and the West Bank illustrate the human toll of ongoing conflicts.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,11 +25,81 @@
   ],
   "articles": [
     {
+      "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+      "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+      "desc": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
+      "pubDate": "Fri, 14 Aug 2026 21:17:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f6fa6eb17-1786736550.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "desc": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
+      "pubDate": "Fri, 14 Aug 2026 19:44:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7f53bb906f7-1786729403.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+      "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+      "desc": "Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.",
+      "pubDate": "Fri, 14 Aug 2026 19:02:49 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26090708774284-1775002569.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Trump asks Supreme Court to allow ballroom work to continue",
       "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
       "pubDate": "Fri, 14 Aug 2026 18:57:52 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/f1f95720-97e9-11f1-a76b-f1c27c51f3da.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+      "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+      "desc": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
+      "pubDate": "Fri, 14 Aug 2026 18:55:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f510a81c9-1786728714.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+      "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+      "desc": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
+      "pubDate": "Fri, 14 Aug 2026 18:43:36 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/B308DFA0-54E3-403A-A19B-E08B3A4AF6C1-1-1786731061.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
+      "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
+      "desc": "Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.",
+      "pubDate": "Fri, 14 Aug 2026 18:28:17 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7f4839-1786726457.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "pubDate": "Fri, 14 Aug 2026 18:25:38 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -14230,76 +14300,6 @@
       "desc": "Lawsuit accuses Terry Harwood of misusing xAI to bypass safeguards and produce explicit deepfakes involving minors.",
       "pubDate": "Wed, 15 Jul 2026 21:31:44 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1784145757.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Authors, publishers sue Google over alleged AI copyright infringement",
-      "link": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss",
-      "desc": "Hachette and Elsevier lead US legal action against Google, alleging misuse of books for Gemini AI model training.",
-      "pubDate": "Wed, 15 Jul 2026 21:21:20 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a57da4115bbf-1784142401.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What are the obstacles to peace between Israel and Lebanon?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
-      "desc": "Another round of talks is under way between Israel and Lebanon to try to advance the ceasefire agreement.",
-      "pubDate": "Wed, 15 Jul 2026 20:46:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784147690.jpg?resize=1920%2C1061&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "10 years on from Turkiye’s failed coup attempt on Erdogan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/10-years-on-from-turkiyes-failed-coup-attempt-on-erdogan?traffic_source=rss",
-      "desc": "10 years on from Turkiye’s coup attempt to overthrow President Erdogan, the country remains divided over its legacy.",
-      "pubDate": "Wed, 15 Jul 2026 20:35:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Thumbnail-DNR-Videos-with-H-1784147644.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pezeshkian-vows-iran-will-defend-every-inch-of-its-territory?traffic_source=rss",
-      "desc": "President Masoud Pezeshkian vowed Iran will defend every inch of its territory, saying attempts to tear the country apar",
-      "pubDate": "Wed, 15 Jul 2026 20:34:39 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784147647.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russia pounds Ukraine with missile, drone strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
-      "desc": "Footage shows firefighters extinguishing a massive fire after Russia launched air strikes on Ukraine.",
-      "pubDate": "Wed, 15 Jul 2026 19:59:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784145616.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "French Parliament approves landmark assisted-dying bill",
-      "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
-      "desc": "Parliament adopted the text by 291 votes to 241, though it still needs approval from the Constitutional Council.",
-      "pubDate": "Wed, 15 Jul 2026 19:58:53 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a57d9416c2b-1784142145.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The history of the US and Iraq’s complicated relationship",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
-      "desc": "As Iraq’s prime minister visits Washington seeking deeper economic ties.",
-      "pubDate": "Wed, 15 Jul 2026 19:54:50 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784145250.jpg?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
