@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-14T13:14:35.396Z",
-  "summary": "Australia faces mounting political and economic turbulence as Prime Minister Anthony Albanese navigates tariff negotiations with Trump while managing domestic crises including a major corruption case involving former union boss John Setka and safety concerns at Sydney Airport where investigators are probing a third near-miss incident. Key policy debates centre on aged care funding as councils exit the sector, concerns about artificial intelligence regulation, and Western Australia's threatened GST revenue-sharing deal. High-profile legal proceedings continue with Alan Jones facing indecent assault allegations and the case of Samantha Murphy's alleged killer taking a new turn, while social issues ranging from same-sex surrogacy rights to controversial statements from public figures dominate headlines. Global economic headwinds loom with US borrowing costs at 25-year highs and warnings of American financial instability potentially rippling through Australian markets.",
+  "fetchedAt": "2026-08-14T15:55:19.904Z",
+  "summary": "Australia faces mounting infrastructure and governance challenges, with train disruptions hitting Sydney commuters and aged care councils withdrawing services that threaten vulnerable clients, while political attention turns to broader economic concerns including Western Australia's threatened GST deal and Prime Minister Albanese's discussions with Trump over potential tariff reconsiderations. High-profile legal matters dominate the domestic agenda, including the arrest of former CFMEU boss John Setka, a second complainant in the Alan Jones trial, and teenagers charged over a fatal carjacking, alongside ongoing questions about bail decisions in serious cases. Environmental and climate issues remain contested territory, with the Great Barrier Reef recovery challenging skepticism and a Senate investigation into dark side moon research contrasting sharply with media divisions over climate science credibility. The week also reflects international concerns, from US financial instability and bond market pressures to ongoing regional tensions captured in stories ranging from orca ramming incidents to security vulnerabilities at Sydney Airport.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "Thames Water plans to restart desalination plant – after drought has ended",
+      "link": "https://www.theguardian.com/business/2026/aug/14/thames-water-desalination-plant-reservoir-drought",
+      "desc": "<p>Utility company’s plant, which has only run five times, now has an estimated total cost of £500m</p><p>Thames Water is preparing the UK’s only desalination plant to restart operations later this ye",
+      "pubDate": "Fri, 14 Aug 2026 15:08:49 GMT",
+      "img": "https://i.guim.co.uk/img/media/6cb3edb2ffaf59fb3b0d77b144e8aca74ac86acb/352_23_2374_1901/master/2374.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
+      "link": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
+      "desc": "<p>Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against endangered population</p><p>Spanish officials have launched an investigation after the matriarch of an orca p",
+      "pubDate": "Fri, 14 Aug 2026 15:07:10 GMT",
+      "img": "https://i.guim.co.uk/img/media/b001a448cf993677aa864dffcd0d41224f661c57/561_0_3086_2469/master/3086.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Andy Burnham moves to cut new EV sales targets",
+      "link": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+      "desc": "<p>Possible cut from 80% down to as little as 50% could add millions of tonnes of CO2 to emissions and comes amid UK heatwaves</p><p>Andy Burnham’s government has said it will look at cutting electric",
+      "pubDate": "Fri, 14 Aug 2026 15:04:37 GMT",
+      "img": "https://i.guim.co.uk/img/media/97f3db62775ca29278e1a1932c9392aa4594e2c4/272_0_2917_2334/master/2917.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Across the world authoritarians want to tell us what a ‘good life’ looks like. Here’s how liberals must respond | Alexandre Lefebvre",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/15/authoritarian-liberal-democracy-good-life-state-liberalism-one-nation-fidesz-ntwnfb",
+      "desc": "<p>From Maga to Hungary’s Fidesz and Australia’s One Nation, politics is returning to its oldest question: what makes a life worth living? And liberalism needs a credible answer</p><ul><li><p>Get our ",
+      "pubDate": "Fri, 14 Aug 2026 15:00:33 GMT",
+      "img": "https://i.guim.co.uk/img/media/6e8c030587e53d5325194f997e1ba90d9df3471a/180_7_1976_1581/master/1976.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Will Labor or the Coalition have the guts to reverse ‘the worst public policy decision’ of the century? Don’t be daft",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/15/will-labor-or-the-coalition-have-the-guts-to-reverse-the-worst-public-policy-decision-of-the-century-dont-be-daft",
+      "desc": "<p>The Productivity Commission has picked apart Scott Morrison’s 2018 GST deal that gives Western Australia an outsized share of revenue. But there is no prospect of government action</p><p>Anyone who",
+      "pubDate": "Fri, 14 Aug 2026 15:00:32 GMT",
+      "img": "https://i.guim.co.uk/img/media/cf9f4eda768222374058139fea01374d28d82951/556_0_5561_4449/master/5561.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Scientists hope to shed light on young universe by using dark side of the moon",
+      "link": "https://www.theguardian.com/science/2026/aug/14/scientists-young-universe-moon-dark-side-cosmocube-satellite-radio-signal-21cm-line",
+      "desc": "<p>UK team seeking to put suitcase-sized satellite in orbit around moon in search for 21cm line radio frequency signal</p><p>Little is known about what was happening shortly after the big bang, but no",
+      "pubDate": "Fri, 14 Aug 2026 15:00:32 GMT",
+      "img": "https://i.guim.co.uk/img/media/c69f50c1a02d4a08b2ed76f7852b22060942ed6e/2_0_1338_1071/master/1338.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The Great Barrier Reef isn’t dead yet. According to News Corp that makes climate science a ‘pseudo-religion’ | Temperature Check",
+      "link": "https://www.theguardian.com/environment/2026/aug/15/the-great-barrier-reef-isnt-dead-yet-according-to-news-corp-that-makes-climate-science-a-pseudo-religion",
+      "desc": "<p>‘High coral cover is evidence of recovery and resilience, not evidence that the disturbances causing mortality didn’t happen,’ scientist says</p><ul><li><p><a href=\"https://www.theguardian.com/envi",
+      "pubDate": "Fri, 14 Aug 2026 15:00:32 GMT",
+      "img": "https://i.guim.co.uk/img/media/ffb4665e1b3098aca49464c9d301062dfc5b1b75/0_0_2601_2081/master/2601.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Heart, smarts and pragmatism: why health minister Mark Butler is suddenly a contender as a future PM",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/15/why-health-minister-mark-butler-potential-future-pm",
+      "desc": "<p>Cabinet colleagues say the veteran politician’s carriage of the NDIS firestorm shows his political judgement and collaborative style</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email",
+      "pubDate": "Fri, 14 Aug 2026 15:00:31 GMT",
+      "img": "https://i.guim.co.uk/img/media/58246e464cc392b3421862d49b425bc1ecee4967/0_0_4052_3242/master/4052.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Burnham temporarily bans disposable barbecue sales in ‘tinderbox’ Britain",
+      "link": "https://www.theguardian.com/environment/2026/aug/14/burnham-temporary-ban-barbecues-tinderbox-britain",
+      "desc": "<p>PM urges people not to risk lives and homes by starting fires as military brought in to help deal with wildfires</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/aug/14/clacton",
+      "pubDate": "Fri, 14 Aug 2026 14:50:35 GMT",
+      "img": "https://i.guim.co.uk/img/media/3af8440a11e7c68b64f9fa314cc613c461b05eee/953_817_2259_1807/master/2259.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Test your general knowledge with the Good Weekend quiz",
+      "link": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20260811-p60na3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
+      "pubDate": "Fri, 14 Aug 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.103125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/297b54b43fec49dc75ceb1969fd1a88bc723fd9a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
       "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
@@ -36548,96 +36648,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "One Nation’s economic thought bubbles have little substance – except for one | Greg Jericho",
-      "link": "https://www.theguardian.com/business/grogonomics/2026/jul/16/one-nation-australian-economy-peoples-bank",
-      "desc": "<p>The idea of a people’s bank has been long floated by the Greens. Anything that reduces the oligopoly power of the big four banks is a good thing</p><p>Barnaby Joyce is now the One Nation Treasury s",
-      "pubDate": "Wed, 15 Jul 2026 15:01:00 GMT",
-      "img": "https://i.guim.co.uk/img/media/8f618f2dc934853bcfc275b5f9e84d8b5c0b8094/503_0_3331_2665/master/3331.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Greater gliders not as great at gliding as thought – but still look like magic carpets, experts say",
-      "link": "https://www.theguardian.com/environment/2026/jul/16/greater-gliders-gliding-study",
-      "desc": "<p>While new study challenges assumptions about how far they travel, witnessing them in action still takes your breath away, scientists say</p><ul><li><p><a href=\"https://www.theguardian.com/australia",
-      "pubDate": "Wed, 15 Jul 2026 15:01:00 GMT",
-      "img": "https://i.guim.co.uk/img/media/27ed07274312f7382b5a3e937fe2be3492da114b/0_107_2540_2033/master/2540.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Albanese’s AI plan is admirable – but will face tech giants more powerful than most national governments",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/16/albanese-ai-plan-tech-giants-regulating-social-media-analysis",
-      "desc": "<p>Challenges of regulating social media or stopping hate speech show these firms can set their own terms and prices for countries like Australia</p><ul><li><p>Get our <a href=\"https://www.theguardian",
-      "pubDate": "Wed, 15 Jul 2026 15:00:59 GMT",
-      "img": "https://i.guim.co.uk/img/media/eaacf3a3cb7667feffaf55e76b76e6ba74f010a0/125_0_1858_1486/master/1858.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Almost 145,000 Australians will lose support for autism under NDIS reforms, documents reveal",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/16/ndis-reforms-autism-almost-145000-australians-will-lose-support",
-      "desc": "<p>Internal estimates show 144,600 people will be taken off the scheme by 2030, many of them under 18</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breakin",
-      "pubDate": "Wed, 15 Jul 2026 15:00:59 GMT",
-      "img": "https://i.guim.co.uk/img/media/9d04dadefb99b37549a95f32a090280c96a2ab5f/708_0_6343_5077/master/6343.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Australia has a love-hate relationship with cats – but under all the emotion is a fascinating history | Jodie Stewart",
-      "link": "https://www.theguardian.com/books/2026/jul/16/australia-cats-love-hate-relationship-history",
-      "desc": "<p>We got our first feline hero in 1971 when Matthew Flinders’ heartfelt tribute to his pet Trim was discovered</p><p>In 1872, the city of Melbourne hosted its first cat show one year after London’s C",
-      "pubDate": "Wed, 15 Jul 2026 15:00:59 GMT",
-      "img": "https://i.guim.co.uk/img/media/182650f8acf03b0d5140fc69506b4835f389643d/2516_956_5480_4387/master/5480.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Albanese’s AI blueprint sparks calls for datacentre moratorium until new regulations in place",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/16/albaneses-ai-blueprint-sparks-calls-for-datacentre-moratorium-until-new-regulations-in-place",
-      "desc": "<p>Prime minister’s plan will create energy regulations for datacentres in Australia</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/16/divine-playhouse-josh-thomas-wor",
-      "pubDate": "Wed, 15 Jul 2026 15:00:58 GMT",
-      "img": "https://i.guim.co.uk/img/media/fbd7230f2c80a45152e7be209adbf6e152914222/392_0_6564_5254/master/6564.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Tripling US union membership would shift $1.2tn to workers annually – report",
-      "link": "https://www.theguardian.com/us-news/2026/jul/15/union-membership-rates",
-      "desc": "<p>More density would also narrow racial pay gaps, while a decline in density correlated to surges in wealth inequality</p><p>Tripling union membership in the US would lead to a 14.5% raise for the me",
-      "pubDate": "Wed, 15 Jul 2026 14:37:02 GMT",
-      "img": "https://i.guim.co.uk/img/media/9f890c120f45483534a427a77a2bfcbc3d4af737/500_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘My father was an antisemite’: Professor issues plea to royal commission",
-      "link": "https://www.smh.com.au/national/victoria/my-father-was-an-antisemite-professor-issues-plea-to-royal-commission-20260715-p60fmq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Professor Jennifer Westacott will say that Australia experienced “a whole-of-nation failure to comprehend” the seriousness of rising antisemitism.",
-      "pubDate": "Thu, 16 Jul 2026 00:01:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2131%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_123/t_crop_custom/q_86%2Cf_auto/d87b28141079bfb228ba95fb61f9edc7f2afc020",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Superquiz, Thursday, July 16",
-      "link": "https://www.smh.com.au/national/superquiz-thursday-july-16-20260715-p60fj5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
-      "pubDate": "Wed, 15 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_285/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
