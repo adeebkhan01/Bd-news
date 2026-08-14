@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T21:51:05.131Z",
-  "summary": "Global conflict zones dominated today's news cycle, with escalating violence across multiple regions reshaping geopolitical tensions. Israel's military operations intensified on multiple fronts—evacuating Palestinian families in the West Bank while strikes in Lebanon drew international condemnation—as civilian casualties in Ukraine reached their highest levels since May 2022 and Yemen's Houthi forces stepped up maritime attacks. Economic pressures mounted alongside humanitarian crises, from Romania shutting its only nuclear plant due to drought conditions to rising cost-of-living concerns across Western economies. Regional instability also marked Colombia's earthquake response and Sudan's military struggles against rebel forces advancing toward Ethiopia.",
+  "fetchedAt": "2026-08-14T02:13:34.801Z",
+  "summary": "Middle East tensions are escalating on multiple fronts, with the US considering indefinite naval blockades of Iran while the UAE accuses Iran of attacking its vessels, and Yemen faces warnings of renewed full-scale conflict as Houthi attacks intensify. Ukraine's war is intensifying with civilian casualties hitting their highest levels since 2022, while Israeli military operations in Gaza and the West Bank continue to draw international condemnation, including accusations of war crimes. Economic turbulence and environmental crises are affecting multiple regions, from Korean stock market volatility to Romania shutting its sole nuclear plant due to dangerously low Danube water levels caused by heat. Domestically, several countries are holding elections and navigating political transitions, while global conflicts ranging from Sudan's civil war to Ukraine's defense efforts show no signs of resolution.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "AI escapes confinement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
+      "desc": "Over the course of two weeks, AI companies said that some of their AI models managed to hack systems.",
+      "pubDate": "Fri, 14 Aug 2026 01:56:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786672560.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
+      "desc": "Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.",
+      "pubDate": "Fri, 14 Aug 2026 01:09:44 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786669627.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
+      "desc": "No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.",
+      "pubDate": "Fri, 14 Aug 2026 00:33:48 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a7e5499b4-1786664089.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+      "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "desc": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
+      "pubDate": "Fri, 14 Aug 2026 00:02:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-01-07T094617Z_210955806_RC2KZAAH0EJZ_RTRMADP_3_YEMEN-SECURITY-1786212975.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: US eyes indefinite Iran naval blockade",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
+      "desc": "US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran &#039;indefinitely&#039;.",
+      "pubDate": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-13T045642Z_1917073729_RC2YSMASJR9K_RTRMADP_3_IRAN-CRISIS-OIL-COLUMN-RUSSELL-1786661630.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+      "pubDate": "Thu, 13 Aug 2026 22:00:10 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Mexico says Colombia rejected its earthquake rescue team",
       "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
@@ -193,6 +253,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukraine's monthly civilian casualties highest since 2022",
+      "link": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-eu-2092-rdf",
+      "desc": "UN monitors say civilian casualties in Ukraine hit their highest monthly level since the start of Russia's full-scale war. The latest attacks included a Russian drone strike on a train, killing two wo",
+      "pubDate": "2026-08-13T12:25:00Z",
+      "img": "https://static.dw.com/image/78351602_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Infantino’s FIFA fate must go to an election, says Africa football chief",
@@ -14320,86 +14390,6 @@
       "desc": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
       "pubDate": "Wed, 15 Jul 2026 02:14:37 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Xbox workers stunned after jobs 'bloodbath'",
-      "link": "https://www.bbc.co.uk/news/articles/c932eynvq1do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The video game giant owned by Microsoft plans to let 3,200 workers go. Will it be a big reset or a system crash?",
-      "pubDate": "Wed, 15 Jul 2026 00:09:04 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e23/live/fa524280-7f8c-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
-      "desc": "Iran&#039;s bridges, power plants possible targets, Trump says, adding that strikes on Iran will continue until he says.",
-      "pubDate": "Wed, 15 Jul 2026 00:00:15 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a56c21b9326-1784070683.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US Congress takes next step to make daylight saving time permanent",
-      "link": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
-      "pubDate": "Tue, 14 Jul 2026 23:15:53 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8854/live/13a1fe10-7fce-11f1-82bc-eb96a9eb8087.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "I changed jobs 10 times in 10 years to get the career I wanted",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
-      "pubDate": "Tue, 14 Jul 2026 23:04:15 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b112/live/176aa4b0-7c32-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Heating oil customers to get compensation after price hikes",
-      "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
-      "pubDate": "Tue, 14 Jul 2026 23:00:41 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb5/live/a97b22b0-7f95-11f1-ac71-510b51a60620.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-      "link": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
-      "pubDate": "Tue, 14 Jul 2026 22:17:43 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b761/live/c7a2b980-7e80-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "To drill or not to drill? Andy Burnham faces North Sea oil dilemma",
-      "link": "https://www.bbc.co.uk/news/articles/cg5350rp3z2o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Burnham, who is expected to become the UK's next prime minister, has been handed a letter from the oil and gas industry calling for his support.",
-      "pubDate": "Tue, 14 Jul 2026 22:02:36 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ea7/live/1a7b8920-7f9e-11f1-a5f4-433bb9aa2e5a.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
