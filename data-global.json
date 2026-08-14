@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-14T10:07:10.295Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Trump administration intensifies economic pressure on China through tariffs while simultaneously confronting Iran through military posturing and a potential naval blockade in the Middle East. Regional conflicts are intensifying, with Yemen facing renewed war risks from Houthi attacks, North Korea condemning upcoming US-South Korea drills, and the West Bank experiencing mounting violence against Palestinians and Christians, while Sudan's army reports losses to advancing rebel forces. Environmental crises are compounding geopolitical instability, from climate-driven sports changes in South Korea to Romania shutting its nuclear plant due to dangerously low Danube River levels, alongside an unfolding environmental disaster as Russian sanctioned crude oil reaches Oman's coastline. Meanwhile, Ukraine continues absorbing record civilian casualties while striking Russian infrastructure, and questions loom over Trump's potential third-term presidency and his administration's personnel changes.",
+  "fetchedAt": "2026-08-14T13:14:50.769Z",
+  "summary": "Global tensions are escalating across multiple flashpoints, with escalating Middle East violence taking center stage as the US eyes a naval blockade of Iran, Yemen faces imminent renewed war despite a two-year truce, and Israeli settler actions in the West Bank draw international condemnation. Major geopolitical shifts are underway in Europe and Asia, where UK political dynamics shifted with Farage's parliamentary return amid party funding scrutiny, while North Korea protests upcoming US-South Korea military drills and South Korea battles economic turbulence. Environmental crises are compounding regional instability, with drought forcing Romania to shut its sole nuclear plant and damaging the Danube, while Colombia and Venezuela struggle with earthquake aftermath. Trade and economic warfare are intensifying as Trump's administration broadens tariff pressure by accusing dozens of countries of helping China circumvent restrictions.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
+      "link": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss",
+      "desc": "US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.",
+      "pubDate": "Fri, 14 Aug 2026 11:28:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7ee6d14be5-1786701521.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+      "desc": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "pubDate": "Fri, 14 Aug 2026 10:32:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/qt-horizontal-thumb-1786703473.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "pubDate": "Fri, 14 Aug 2026 10:18:02 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d8/live/4e317200-97c9-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "What is a ‘ceasefire’ supposed to achieve?",
       "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
@@ -135,6 +165,16 @@
       "sourceColor": "#D2A02E"
     },
     {
+      "title": "Watch: What happens if Luigi Mangione pleads guilty today?",
+      "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Attorneys for Mangione, who is accused of killing United Healthcare CEO Brian Thompson, are meeting federal prosecutors on Friday.",
+      "pubDate": "Fri, 14 Aug 2026 01:19:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/687cc7b0-9772-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
       "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
       "desc": "Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.",
@@ -183,6 +223,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
+      "link": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Romania has shut down its only nuclear plant in a rare move prompted by the lack of cooling water from the Danube River. Hungary, meanwhile, is racing to dam the Danube, trying to keep its Paks plant ",
+      "pubDate": "2026-08-13T21:21:00Z",
+      "img": "https://static.dw.com/image/78359638_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Mexico says Colombia rejected its earthquake rescue team",
@@ -14280,116 +14330,6 @@
       "desc": "Al-Zaidi’s Washington visit exposed the pressure reshaping Baghdad’s politics, security and economy.",
       "pubDate": "Wed, 15 Jul 2026 13:57:10 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a578b710ce7-1784122225.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "As the US restarts war on Iran, is its weapons stockpile running low?",
-      "link": "https://www.aljazeera.com/news/2026/7/15/as-the-us-restarts-war-on-iran-is-its-weapons-stockpile-running-low?traffic_source=rss",
-      "desc": "The US has expended a significant number of munitions since the war began in February.",
-      "pubDate": "Wed, 15 Jul 2026 12:55:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26060567712472-1784111677.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
-      "pubDate": "Wed, 15 Jul 2026 12:26:38 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb1/live/6a4eb2f0-8044-11f1-8a74-43d9da26a654.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Israeli air attack on Gaza apartment kills family of three",
-      "link": "https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss",
-      "desc": "One child survives hit on Deir el-Balah home as Israel escalates attacks across territory despite October &#039;ceasefire&#039;.",
-      "pubDate": "Wed, 15 Jul 2026 12:11:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T101550Z_2134313576_RC28EMA2PMHP_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1784112649.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "India-UK trade deal comes into effect: What’s cheaper in each country now?",
-      "link": "https://www.aljazeera.com/news/2026/7/15/india-uk-trade-deal-comes-into-effect-whats-cheaper-in-each-country-now?traffic_source=rss",
-      "desc": "The deal cuts tariffs on thousands of goods and widens access for services firms and ​professionals in both markets.",
-      "pubDate": "Wed, 15 Jul 2026 12:06:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a576697-1784112791.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
-      "pubDate": "Wed, 15 Jul 2026 11:44:28 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aee/live/f5abe350-8039-11f1-86b6-ffbb9ce74513.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
-      "link": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
-      "desc": "Israel&#039;s relentless Gaza attacks aim to sabotage the &#039;ceasefire&#039; and ensure perpetual chaos, analysts warn.",
-      "pubDate": "Wed, 15 Jul 2026 11:36:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a569d25-1784061221.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Could the US take control of Iran’s southern islands?",
-      "link": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss",
-      "desc": "Operation would be a dramatic military spectacle but would carry costs analysts doubt Washington is willing to incur.",
-      "pubDate": "Wed, 15 Jul 2026 11:35:28 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a575e03-1784110595.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Climate we had in 20th Century 'has now gone' - Met Office",
-      "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
-      "pubDate": "Wed, 15 Jul 2026 11:11:32 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c0a/live/6c1a2520-8039-11f1-86b6-ffbb9ce74513.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?",
-      "link": "https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss",
-      "desc": "A new treaty signed by Britain and the EU includes the removal of border checks between Spain and Gibraltar.",
-      "pubDate": "Wed, 15 Jul 2026 10:45:04 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a57422272-1784103458.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
-      "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
-      "pubDate": "Wed, 15 Jul 2026 10:44:15 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd1/live/0dc02dc0-8030-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Crowds cross between Spain and Gibraltar following UK-EU treaty",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/crowds-cross-between-spain-and-gibraltar-following-uk-eu-treaty?traffic_source=rss",
-      "desc": "A large crowd crossed between Spain and Gibraltar in the early hours of Wednesday morning, celebrating the UK-EU treaty.",
-      "pubDate": "Wed, 15 Jul 2026 10:17:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/thumb-wide-clean-1784110579.png?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"

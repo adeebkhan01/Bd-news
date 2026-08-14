@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-14T10:06:56.448Z",
-  "summary": "Australia faces multiple crises across law enforcement, public safety and infrastructure today. The arrest of former CFMEU boss John Setka and busting of a major crime ring trafficking vapes and illicit tobacco signal intensifying organised crime operations, while a stabbing incident involving the alleged Samantha Murphy killer and bail concerns over an accused paedophile expose gaps in the justice system. Sydney Airport has become a flashpoint with a third near-miss incident now under investigation, prompting serious questions about aviation safety protocols. Domestically, transport chaos disrupted Sydney commuters, councils are abandoning aged care commitments leaving vulnerable Australians stranded, and the government is moving to regulate AI's impact on education, painting a picture of systems under strain.",
+  "fetchedAt": "2026-08-14T13:14:35.396Z",
+  "summary": "Australia faces mounting political and economic turbulence as Prime Minister Anthony Albanese navigates tariff negotiations with Trump while managing domestic crises including a major corruption case involving former union boss John Setka and safety concerns at Sydney Airport where investigators are probing a third near-miss incident. Key policy debates centre on aged care funding as councils exit the sector, concerns about artificial intelligence regulation, and Western Australia's threatened GST revenue-sharing deal. High-profile legal proceedings continue with Alan Jones facing indecent assault allegations and the case of Samantha Murphy's alleged killer taking a new turn, while social issues ranging from same-sex surrogacy rights to controversial statements from public figures dominate headlines. Global economic headwinds loom with US borrowing costs at 25-year highs and warnings of American financial instability potentially rippling through Australian markets.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
+      "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
+      "desc": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><p><strong>Insurer Aviva said it is helping customers affected by the <a href=\"h",
+      "pubDate": "Fri, 14 Aug 2026 12:40:46 GMT",
+      "img": "https://i.guim.co.uk/img/media/75f0ac0718a593c9328bde9a35dbb0066175ba38/604_0_6037_4832/master/6037.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "I’m a neuroscientist. Here’s why our brains need pop concerts | Bala Subramaniam",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/14/pop-concerts-brain-benefits",
+      "desc": "<p>Attending a Nick Jonas show with my kids was an invitation to ‘collective effervescence’. We need these shared experiences now more than ever</p><p>Three years ago, I agreed to accompany my childre",
+      "pubDate": "Fri, 14 Aug 2026 12:00:26 GMT",
+      "img": "https://i.guim.co.uk/img/media/5b384f2e88c6254142812339ed270d983e4faf72/161_0_2439_1952/master/2439.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "WA's lucrative GST deal is under threat",
+      "link": "https://www.smh.com.au/national/was-lucrative-gst-deal-is-under-threat-20260814-p60oji.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Scathing review into billion-dollar GST deal that which sees WA get 75 cents in every dollar, has been dubbed a &#34;costly mistake&#34;.",
+      "pubDate": "Fri, 14 Aug 2026 21:43:15 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8d3bea87d75762fc80bf11e2c2f0b8e4d47bc4fc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Nigel Farage claims victory in by-election over Count Binface",
+      "link": "https://www.smh.com.au/national/nigel-farage-claims-victory-in-by-election-over-count-binface-20260814-p60ojh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "UK right wing politician Nigel Farage has won a bizarre by-election battle in his seat of Clacton, caused by his own resignation.",
+      "pubDate": "Fri, 14 Aug 2026 21:34:48 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/375e04d52bfb0ac8695277b717abea678682685a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
+      "link": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
+      "desc": "<p>Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t</p><p>Conservative backlash was supposed to put an end to the diversit",
+      "pubDate": "Fri, 14 Aug 2026 11:00:27 GMT",
+      "img": "https://i.guim.co.uk/img/media/56970d026a4d4774d9908cb4bc8933deaae7c5d3/0_0_3000_2400/master/3000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Cory Bernardi condemned for anti-trans slur, labelling protesters 'incels'",
       "link": "https://www.abc.net.au/news/2026-08-14/cory-bernardi-condemned-for-video-from-anti-one-nation-protest/107037692",
@@ -1278,6 +1328,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Top Forbes editor reportedly fired after receiving $6m from business associate",
+      "link": "https://www.theguardian.com/media/2026/aug/13/forbes-editor-fired",
+      "desc": "<p>Randall Lane left his job last month after accepting money from founder of firm that does business with magazine</p><p>The top editor of Forbes left his job last month and was reportedly dismissed ",
+      "pubDate": "Thu, 13 Aug 2026 18:16:42 GMT",
+      "img": "https://i.guim.co.uk/img/media/52f3863e0a3e2992fbaec73ea739593905833e7b/417_0_4165_3333/master/4165.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Passenger train derails and flips over in southern England",
@@ -36578,106 +36638,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘I’ve never worked with so many conservatives’: the Texans fighting the Big Bend border wall",
-      "link": "https://www.theguardian.com/us-news/2026/jul/15/big-bend-wall-texas-bipartisan",
-      "desc": "<p>Residents across party lines say Trump’s proposed wall threatens their homes, livelihoods and wilderness along the Rio Grande</p><p>Last February, 41-year-old Molly Walker posted an Instagram story",
-      "pubDate": "Wed, 15 Jul 2026 13:00:55 GMT",
-      "img": "https://i.guim.co.uk/img/media/5867e4e51c7c932571a3d1073a2ea03a11e64d74/226_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
-      "desc": "<p>The next great climate divide will be between countries that have the resources to adapt and those that don’t</p><p>This summer, much of the media’s attention has focused on record temperatures acr",
-      "pubDate": "Wed, 15 Jul 2026 12:00:55 GMT",
-      "img": "https://i.guim.co.uk/img/media/dcc654bfbb41b05d4651902d8e17e607c90fce99/283_0_4071_3258/master/4071.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "One small pen for one giant fee: Buzz Aldrin’s mission-saving felt-tip up for auction",
-      "link": "https://www.theguardian.com/science/2026/jul/15/buzz-aldrin-apollo-astronaut-mission-felt-tip-pen-auction",
-      "desc": "<p>Sotheby’s expects second man on moon’s marker, crucial to Apollo 11 return, to reach astronomical sum</p><p>The felt-tip pen Buzz Aldrin used to fix a broken circuit breaker and escape from the moo",
-      "pubDate": "Wed, 15 Jul 2026 11:57:38 GMT",
-      "img": "https://i.guim.co.uk/img/media/fbb395c67d4b4f686374b52c6c312b621240a562/292_0_2917_2333/master/2917.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Aced by an honorary Aussie",
-      "link": "https://www.smh.com.au/national/nsw/aced-by-an-honorary-aussie-20260715-p60fds.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "He was named Sidney, after all.",
-      "pubDate": "Wed, 15 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "China’s economy grows at 4.3%, one of its lowest rates on record",
-      "link": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
-      "desc": "<p>Worse-than-expected figures for three months to June come amid concerns over lopsided economy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/15/china-growth-thames-water-",
-      "pubDate": "Wed, 15 Jul 2026 10:48:27 GMT",
-      "img": "https://i.guim.co.uk/img/media/842d0d5b82936dc6aa420ac878908f834180eb46/168_0_4945_3956/master/4945.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Personal information stolen in new cyberattack on health clinics",
-      "link": "https://www.smh.com.au/national/personal-information-stolen-in-new-cyberattack-on-health-clinics-20260715-p60fo9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Personal information from 21 health clinics nationwide has been stolen in a new cyberattack on Australian healthcare provider Partnered Health.&#xA;",
-      "pubDate": "Wed, 15 Jul 2026 20:27:18 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/931c710eadfd8be10da229d4f736ee76dd005533",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Anthony Albanese says he wants to do AI 'the Australian way' – video",
-      "link": "https://www.theguardian.com/australia-news/video/2026/jul/15/anthony-albanese-says-he-wants-to-do-ai-the-australian-way-video",
-      "desc": "<p>For months, artists and activists have been calling on the prime minister, Anthony Albanese, to act on the AI boom as datacentres pop up around the country. Today he made a major speech at the Univ",
-      "pubDate": "Wed, 15 Jul 2026 10:24:56 GMT",
-      "img": "https://i.guim.co.uk/img/media/9f7dea1f3890d6c465dc4bc4a6c3a34349fd61f9/0_368_1080_864/master/1080.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Iron ore workers set to strike for first time in two decades",
-      "link": "https://www.smh.com.au/national/iron-ore-workers-set-to-strike-for-first-time-in-two-decades-20260715-p60fo7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "For the first time in more than two decades, iron ore workers in WA's Pilbara are set to take industrial action.",
-      "pubDate": "Wed, 15 Jul 2026 20:22:48 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/eef28598f7c218b60e89c1947de1280a600b8787",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Boy killed woman fighting for life after car hits pedestrians in Perth",
-      "link": "https://www.smh.com.au/national/boy-killed-woman-fighting-for-life-after-car-hits-pedestrians-in-perth-20260715-p60fo8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A boy has died and another person has suffered critical injuries after being hit by a four-wheel drive in Perth’s east.",
-      "pubDate": "Wed, 15 Jul 2026 20:22:44 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a76e9a827cd386bce678028a52a4f3ed2fc5455e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sadiq Khan backs calls for maximum workplace temperature in UK",
-      "link": "https://www.theguardian.com/environment/2026/jul/15/sadiq-khan-backs-calls-uk-maximum-workplace-temperature",
-      "desc": "<p>Mayor of London backs calls from unions to update health and safety rules in light of more frequent heatwaves</p><p>The mayor of London, Sadiq Khan, is backing calls for a maximum workplace tempera",
-      "pubDate": "Wed, 15 Jul 2026 10:10:32 GMT",
-      "img": "https://i.guim.co.uk/img/media/6c09bebc0f67d5e51ebb01dcad4e1b560825a744/0_221_3104_2482/master/3104.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
