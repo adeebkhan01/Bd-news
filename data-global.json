@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-14T02:13:34.801Z",
-  "summary": "Middle East tensions are escalating on multiple fronts, with the US considering indefinite naval blockades of Iran while the UAE accuses Iran of attacking its vessels, and Yemen faces warnings of renewed full-scale conflict as Houthi attacks intensify. Ukraine's war is intensifying with civilian casualties hitting their highest levels since 2022, while Israeli military operations in Gaza and the West Bank continue to draw international condemnation, including accusations of war crimes. Economic turbulence and environmental crises are affecting multiple regions, from Korean stock market volatility to Romania shutting its sole nuclear plant due to dangerously low Danube water levels caused by heat. Domestically, several countries are holding elections and navigating political transitions, while global conflicts ranging from Sudan's civil war to Ukraine's defense efforts show no signs of resolution.",
+  "fetchedAt": "2026-08-14T04:51:37.081Z",
+  "summary": "Global tensions are escalating across multiple conflict zones with escalating attacks between Iran and US-aligned Gulf states, intensifying Israeli operations in the West Bank and Gaza drawing international condemnation, and warnings that Yemen faces imminent return to full-scale war. Environmental and infrastructure crises are unfolding as a Russian oil tanker spill reaches Oman's coast while Romania shuts its only nuclear plant due to historically low Danube water levels from extreme heat. Ukraine continues suffering record civilian casualties as fighting intensifies, while economic instability is spreading from Korean markets experiencing extreme volatility to broader concerns about UK living costs and British firm compliance burdens. Political transitions are underway in Zambia and Colombia, though the broader picture shows the world grappling with compounding geopolitical, environmental, and economic pressures simultaneously.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss",
+      "desc": "An oil slick from the tanker the Caroline Bezengi has reached Oman’s coastline weeks after the vessel ran aground.",
+      "pubDate": "Fri, 14 Aug 2026 03:20:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786677429.jpg?resize=1920%2C1074&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+      "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+      "desc": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.",
+      "pubDate": "Fri, 14 Aug 2026 02:21:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7e64a87910-1786668200.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Could Trump actually run for a third term as president?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
+      "desc": "Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.",
+      "pubDate": "Fri, 14 Aug 2026 02:12:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786673508.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "AI escapes confinement",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
@@ -93,6 +123,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
+      "pubDate": "Thu, 13 Aug 2026 20:37:14 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcf/live/070284b0-9741-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Are We in the Singularity?",
@@ -243,6 +283,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+      "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+      "pubDate": "Thu, 13 Aug 2026 13:20:55 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/ae2701f0-9717-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
@@ -14353,46 +14403,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Saving shea: How a Ugandan woman is turning waste into clean energy",
-      "link": "https://www.aljazeera.com/news/2026/7/15/saving-shea-how-a-ugandan-woman-is-turning-waste-into-clean-energy?traffic_source=rss",
-      "desc": "As demand for charcoal threatens indigenous trees, communities are finding new value in what was once treated as waste.",
-      "pubDate": "Wed, 15 Jul 2026 03:47:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Lucy-Everlyn-Atim-in-her-store-were-she-keeps-harvested-shea-nuts.-Photo-by-John-Okot.-1783958304.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss",
-      "desc": "US President Donald Trump and Iraqi PM Ali al-Zaidi have met at the White House pledging to deepen economic ties.",
-      "pubDate": "Wed, 15 Jul 2026 02:46:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784083581.jpg?resize=1656%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "China economic growth falls sharply, missing target",
-      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-      "pubDate": "Wed, 15 Jul 2026 02:22:23 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "China detains US scientist who studied North Korea nuclear tests",
-      "link": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
-      "pubDate": "Wed, 15 Jul 2026 02:14:37 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
