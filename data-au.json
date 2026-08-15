@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T03:42:21.397Z",
-  "summary": "Australian news today is dominated by several urgent matters: a missing bushwalker in the Southern Highlands has entered day four of search operations as rescue efforts intensify, while police have launched a strike force after a body was discovered in Baulkham Hills bushland. The aviation sector faces mounting pressure with Sydney Airport recording three near misses in recent weeks and concerns escalating over Air Services Australia's oversight. On the political front, the Coalition is divided over Andrew Bragg's speech while the government edges closer to a major NDIS reform deal, and an NDIS inquiry has highlighted concerning gaps in racism investigations. The coal industry received a boost with a six-year lifeline granted to one mine, though Sydney continues to grapple with infrastructure challenges including Sydney Trains network disruptions caused by fallen wires.",
+  "fetchedAt": "2026-08-15T06:43:45.920Z",
+  "summary": "Australia faces multiple crises today across infrastructure, health and public safety. A widespread Mastercard outage has disrupted global payments including in Australia, while bird flu has claimed its first penguin victim on Phillip Island with Victoria's death toll climbing. Police are conducting searches for missing bushwalkers in the Southern Highlands as authorities investigate several serious crimes including a rape case and a body found in Baulkham Hills bushland. Meanwhile, pressure is mounting on Air Services Australia following multiple near misses at Sydney Airport, and the government edges toward a significant deal on the NDIS amid concerns about its sustainability.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,126 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mastercard outage affects shoppers globally",
+      "link": "https://www.smh.com.au/national/global-mastercard-outage-stopping-shopping-in-sydney-20260815-p60omk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Service issues website Down Detector recorded thousands of reports of outages for the Commonwealth Bank, Mastercard, ApplePay and Westpac on Saturday afternoon.",
+      "pubDate": "Sat, 15 Aug 2026 16:24:51 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1623%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_54%2C$y_0/t_crop_custom/q_86%2Cf_auto/7f96da7d33def26aacb8eefdbcf9b2fa95b666cd",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "First H5N1 bird flu death recorded in Phillip Island penguins",
+      "link": "https://www.abc.net.au/news/2026-08-15/phillip-island-penguin-bird-flu/107042190",
+      "desc": "A Phillip Island penguin has died from H5N1 bird flu in the first detection among the island's little penguin colony, ahead of vaccinations beginning on Monday.",
+      "pubDate": "Sat, 15 Aug 2026 06:20:41 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/76f338210f4fd3f0241268572454bd6d?impolicy=wcms_crop_resize&amp;cropH=1733&amp;cropW=1300&amp;xPos=659&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "A man lied about paying this woman for sex. He is now going to jail for rape",
+      "link": "https://www.smh.com.au/national/victoria/a-man-lied-about-paying-this-woman-for-sex-he-is-now-going-to-jail-for-rape-20260806-p60m0q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "“This case stands as a reminder that consent is never conditional, negotiable, or diminished by a person’s occupation,” the victim said.",
+      "pubDate": "Sat, 15 Aug 2026 15:52:02 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2694%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_175%2C$y_0/t_crop_custom/q_86%2Cf_auto/a02b0bb781182fdc38bcbeac8040c55d15de3242",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Breaking: Mastercard reportedly down due to 'global issue'",
+      "link": "https://www.abc.net.au/news/2026-08-15/mastercard-outage/107042220",
+      "desc": "Mastercard card payments are being declined due to a global Mastercard issue, Commbank says.",
+      "pubDate": "Sat, 15 Aug 2026 05:44:48 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/5022373f720e3050d3a5b4c4a63cb05e?impolicy=wcms_crop_resize&amp;cropH=3003&amp;cropW=2252&amp;xPos=1460&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Bird flu kills Phillip Island penguin as death toll mounts in Victoria",
+      "link": "https://www.smh.com.au/national/victoria/bird-flu-kills-phillip-island-penguin-as-toll-mounts-in-victoria-20260815-p60om8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Authorities have confirmed a penguin has died as the state grapples with the deadly H5 bird flu outbreak.",
+      "pubDate": "Sat, 15 Aug 2026 15:28:31 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7385%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_105/t_crop_custom/q_86%2Cf_auto/7737d2446013f05cc8ccf0f775dc51accf6447d6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Bird Flu found in Victorian Penguin",
+      "link": "https://www.smh.com.au/national/bird-flu-found-in-victorian-penguin-20260815-p60omn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Bird flu has been found in one of Victoria's famous penguins, experts say.",
+      "pubDate": "Sat, 15 Aug 2026 15:25:34 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/16b99cae29db2feaa676fabeeb47b840becee9cc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Police give update on missing hiker",
+      "link": "https://www.smh.com.au/national/police-give-update-on-missing-hiker-20260815-p60omg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police are searching for a teenager hiker missing in rural NSW.",
+      "pubDate": "Sat, 15 Aug 2026 14:56:49 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0bcb0633a0d6928874df1fbd8b7c8ac84ab130fa",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Under-fire Weatherald chops on for a duck",
+      "link": "https://www.smh.com.au/national/under-fire-weatherald-chops-on-for-a-duck-20260815-p60om9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australian opener Jake Weatherald is bowled for a duck in the second innings against Bangladesh.",
+      "pubDate": "Sat, 15 Aug 2026 14:34:39 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/797bd7d2583c6cece9b33f58bb812d318461c6a5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Former Nationals member accused of killing Katanning teacher now facing fraud charges",
+      "link": "https://www.smh.com.au/national/western-australia/former-nationals-member-accused-of-killing-katanning-teacher-now-facing-fraud-charges-20260815-p60om1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Benjamin Simpkins is alleged to have killed 49-year-old Luke Russell in a hit-and-run incident two months ago. Now police say he also falsified records to get a job at a WA hospital.",
+      "pubDate": "Sat, 15 Aug 2026 14:31:27 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3537e33d98738fb8d8f31b227d84fe589e6b0f9a80d056964b845e1dde761da5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "One Nation’s Victorian leader listed as living outside his electorate",
+      "link": "https://www.smh.com.au/national/victoria/one-nation-s-victorian-leader-listed-as-living-outside-his-electorate-20260813-p60nz7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An investigation of the business and property dealings of One Nation’s first group of Victorian election candidates has also discovered one is the daughter of a former fraudster.",
+      "pubDate": "Sat, 15 Aug 2026 14:23:30 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.351%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_300%2C$y_50/t_crop_custom/q_86%2Cf_auto/4c389198781469a5c698368c4edfe16dd69693e3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Teen accused of gatecrashing party, assaulting resident with crowbar",
+      "link": "https://www.smh.com.au/national/queensland/teen-accused-of-gatecrashing-party-and-assaulting-resident-with-crowbar-20260815-p60olx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 56-year-old man and an 18-year-old suffered injuries in the incident.",
+      "pubDate": "Sat, 15 Aug 2026 14:14:26 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0985%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/56c21ac2de041dffc1cda7d94d3995224fd8ebd70403e812ffd65bf3a3355ecc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Five key takeaways from parliamentary hearings into client leaks at KPMG",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/15/five-key-takeaways-from-parliamentary-hearings-into-client-leaks-at-kpmg",
+      "desc": "<p>Partners say they ‘don’t recall’ leaked papers and are accused by lawyers of being misleading as more whistleblowers come forward</p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguar",
+      "pubDate": "Sat, 15 Aug 2026 04:00:46 GMT",
+      "img": "https://i.guim.co.uk/img/media/561c6ef517a44f83eda05a9e61a4bbc5e81eef98/176_0_3813_3051/master/3813.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "'Unbelievable': Smith fumbles record-breaking chance",
       "link": "https://www.smh.com.au/national/unbelievable-smith-fumbles-record-breaking-chance-20260815-p60oly.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36188,176 +36308,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Outrage over jailed killer’s weight loss jabs, plastic surgery",
-      "link": "https://www.smh.com.au/national/outrage-over-jailed-killer-s-weight-loss-jabs-plastic-surgery-20260716-p60fz8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Alicia Schiller is receiving taxpayer-funded weight loss injections and plastic surgery while serving a murder sentence.",
-      "pubDate": "Thu, 16 Jul 2026 16:39:03 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3d9ec25b65f7102093db4fbe9eadd56b19d29e6d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Smelter closure devastates Tasmanian community",
-      "link": "https://www.abc.net.au/news/2026-07-16/liberty-bell-bay-closure-devastates-community-northern-tasmania/106922774",
-      "desc": "Australia's only manganese smelter is ceasing operations, leaving more than 200 employees without work in northern Tasmania.",
-      "pubDate": "Thu, 16 Jul 2026 06:30:49 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/35c63860c77d3b6893457b9c25b2a8fc?impolicy=wcms_crop_resize&amp;cropH=1000&amp;cropW=750&amp;xPos=307&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Is SpaceX a meme stock? Elon Musk loses trillionaire status",
-      "link": "https://www.smh.com.au/business/companies/is-spacex-a-meme-stock-elon-musk-loses-trillionaire-status-20260716-p60frd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "A month after the biggest IPO in human history, SpaceX has been trading below its float price. Is the market finally waking up?",
-      "pubDate": "Thu, 16 Jul 2026 16:02:36 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/42d460f22751815abf0f7bbf002a29110b0e4c86",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "No hiring if an AI can do the job, staff at mining giant told",
-      "link": "https://www.smh.com.au/business/workplace/no-hiring-if-an-ai-can-do-the-job-staff-at-mining-giant-told-20260713-p60eth.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "An Australian company has become the latest in a line to curb its workforce as powerful tech tools come to do work once reserved for humans.",
-      "pubDate": "Thu, 16 Jul 2026 15:58:23 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4993%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/q_86%2Cf_auto/0d2d00284f495528dc5d56a41b81d8f0c1cbf06d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Slain woman’s children to return to India with their aunt and uncle",
-      "link": "https://www.smh.com.au/national/victoria/slain-woman-s-children-to-return-to-india-with-their-aunt-and-uncle-20260716-p60ft0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "After two women and two girls were found dead in Australia last week, the children of one of the women, Melbourne mother Lavanya Chappa, will be returned to India with their aunt and uncle and their m",
-      "pubDate": "Thu, 16 Jul 2026 15:55:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.7889%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_233/t_crop_custom/q_86%2Cf_auto/b0b50124148ff677a25a48e6db017c90c414c92b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Foxtel ups prices 10 days after announcing record NRL deal",
-      "link": "https://www.smh.com.au/business/companies/foxtel-ups-prices-10-days-after-announcing-record-nrl-deal-20260716-p60fxm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The pay television company is covering the lion’s share of the massive $5.3 billion NRL rights deal announced last week.",
-      "pubDate": "Thu, 16 Jul 2026 15:33:08 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4578%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_517%2C$y_100/t_crop_custom/q_86%2Cf_auto/311f896dc8759a91e98ad34adeb3a5c5b220caae",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Modern slavery builds many EVs. What if your government is a customer?",
-      "link": "https://www.smh.com.au/national/nsw/modern-slavery-builds-many-evs-what-if-your-government-is-a-customer-20260513-p5zwfv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "In parts of the Democratic Republic of the Congo, children as young as seven have been documented working in cobalt mines.",
-      "pubDate": "Thu, 16 Jul 2026 15:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.1165841121364652%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_686%2C$y_234/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/9523f88e3a2ff9bfc1013eee50ea88086c550bfe",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Another Brisbane radio shake-up with duo pulled from hosting duties",
-      "link": "https://www.smh.com.au/national/queensland/another-brisbane-radio-shake-up-with-duo-pulled-from-hosting-duties-20260716-p60fwe.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Sofie Formica and Dean Miller were announced as Breakfast hosts only eight months ago, replacing Peter Fegan.",
-      "pubDate": "Thu, 16 Jul 2026 15:27:09 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6343%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/2be1bf2956de8cd2b14b1e720d08c1f26311fbc2d02437837558f741603cc078",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Thousands of Aussies caught up in superannuation nightmare",
-      "link": "https://www.smh.com.au/national/thousands-of-aussies-caught-up-in-superannuation-nightmare-20260716-p60fy0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Thousands of Aussies may still have no idea they are missing money after the twin collapse of First Guardian and Shield Master managed investment schemes. The corporate watchdog ASIC is investigating ",
-      "pubDate": "Thu, 16 Jul 2026 15:10:22 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/54635c39c13595e45d11f326d2f42c250c41d05e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
-      "link": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-      "desc": "<p>President Lula’s office says US move is result of pressure on White House by family of predecessor Jair Bolsonaro</p><p>Brazil has vowed to retaliate against Washington’s decision to impose 25% tar",
-      "pubDate": "Thu, 16 Jul 2026 05:01:23 GMT",
-      "img": "https://i.guim.co.uk/img/media/c730a9c68ab6892fba2ac0c510711772789d3bda/0_0_5160_4128/master/5160.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Liberals say ‘all options’ should be considered despite Angus Taylor hosing down gender quota proposal",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/16/liberal-party-gender-quotas-angus-taylor-response",
-      "desc": "<p>Anne Ruston called for the party to act with ‘urgency’ after discussion paper suggested ways to improve engagement with women, multicultural communities and young people</p><ul><li><p>Get our <a hr",
-      "pubDate": "Thu, 16 Jul 2026 04:42:01 GMT",
-      "img": "https://i.guim.co.uk/img/media/d2ad43d70605f55902bd6c16bbd76467900322cb/921_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Bail for teen allegedly caught with cache of bomb-making manuals",
-      "link": "https://www.smh.com.au/national/victoria/bail-for-teen-allegedly-caught-with-cache-of-bomb-making-manuals-20260716-p60fsy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A Victorian teenager accused of amassing a dossier of violent terrorist material will be released on bail. Prosecutors plan to appeal the judge’s decision.",
-      "pubDate": "Thu, 16 Jul 2026 14:33:30 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5644%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/q_86%2Cf_auto/94e05148df303e512272cce34b8ee7afe4657f80",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Albanese makes AI plan, Hanson and Rinehart enjoy Sicily",
-      "link": "https://www.abc.net.au/news/2026-07-16/ai-albanese-book-deals-liberals-taylor-hanson-rinehart/106912200",
-      "desc": "It might not have been a sitting week but it has been a busy few days in politics with the prime minister's AI announcement, a raft of politicians inking book deals and a spotting of Pauline Hanson an",
-      "pubDate": "Thu, 16 Jul 2026 04:33:06 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/e8c515397693907aaef799822824d976?impolicy=wcms_crop_resize&amp;cropH=2735&amp;cropW=2051&amp;xPos=224&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Group including sawmillers calls for end to Tasmania's old-growth logging",
-      "link": "https://www.abc.net.au/news/2026-07-16/forest-congress-calls-for-end-old-growth-logging-tasmania/106922776",
-      "desc": "A coalition of conservationists, artists and forest industry figures wants an end to old-growth logging in Tasmania but major environmental groups have distanced themselves from the \"shared vision sta",
-      "pubDate": "Thu, 16 Jul 2026 04:24:58 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/6dcf40fec8bc12356614dff3e82af1a3?impolicy=wcms_crop_resize&amp;cropH=4608&amp;cropW=3456&amp;xPos=1728&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
-      "link": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
-      "desc": "<p>Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’</p><p>On each side of the target ship, a black vessel keeps a watchful d",
-      "pubDate": "Thu, 16 Jul 2026 04:00:14 GMT",
-      "img": "https://i.guim.co.uk/img/media/635c60273de57e773426a5ed282d9a494af8d887/894_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Can a world-first gene therapy reverse ageing? – podcast",
-      "link": "https://www.theguardian.com/science/audio/2026/jul/16/can-a-world-first-gene-therapy-reverse-ageing-podcast",
-      "desc": "<p>The first person has been treated with a highly anticipated new gene therapy that aims to turn back the clock on ageing cells. The trial is aimed at retinal cells, with the hope that encouraging th",
-      "pubDate": "Thu, 16 Jul 2026 04:00:13 GMT",
-      "img": "https://i.guim.co.uk/img/media/dca5069938e877eda8e5dc0b88b84e1638092449/751_0_4998_4000/master/4998.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "19-year coal mine extension would save 1,500 jobs, hearing told",
-      "link": "https://www.abc.net.au/news/2026-07-16/ipc-considers-hunter-valley-mine-extension/106918514",
-      "desc": "A proposed extension to a major NSW coal mine has been slammed by climate activists, despite strong support from the local community.",
-      "pubDate": "Thu, 16 Jul 2026 03:49:53 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/f5850cbeae37eee868f63dd6ae9a87d9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=2110&amp;xPos=1445&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
     }
   ]
 }

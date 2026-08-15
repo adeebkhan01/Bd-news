@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T03:42:34.897Z",
-  "summary": "President Trump has made sweeping statements about declaring the Strait of Hormuz US territory, escalating tensions amid ongoing Iran conflict, while simultaneously pursuing domestic legal battles over a ballroom project and dismissing mental health concerns raised about military personnel. Global instability continues across multiple fronts, with severe humanitarian crises in Gaza and Afghanistan, Israeli settler violence in the West Bank drawing international condemnation, and North Korea condemning upcoming US-South Korea military drills. Economic inequality is widening in the US as CEO pay surges, while diplomatic tensions mount between major powers including India-Pakistan over water treaties and accusations that countries are helping China circumvent Trump's tariffs. Regional political shifts are underway, including Reform UK's by-election victory in the UK and new Syrian leadership under Ahmed al-Sharaa.",
+  "fetchedAt": "2026-08-15T06:43:57.968Z",
+  "summary": "Global tensions escalated sharply today as President Trump signaled an aggressive shift in US foreign policy, declaring intentions to claim the Strait of Hormuz as US territory and dismissing concerns over a crisis aboard the USS Lincoln, while geopolitical friction with Iran and North Korea intensified. In Europe, wildfires ravaged landscapes across the continent following severe heatwaves, prompting military intervention and temporary BBQ bans, while Taiwan passed a defense budget amid regional security concerns. Meanwhile, humanitarian crises dominated coverage from Gaza to Afghanistan, with activists pushing for aid delivery to Palestinians under siege and the UN pressing for support to Afghan women five years into Taliban rule. Domestically in the US, income inequality widened as CEO pay surged, and Trump pursued legal maneuvers including a Supreme Court appeal on his ballroom project while the far-right Reform UK gained parliamentary ground through Farage's by-election victory.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Taiwan passes defence budget after record delay, retains drone funding",
+      "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+      "desc": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
+      "pubDate": "Sat, 15 Aug 2026 04:44:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7fe00e31d9-1786765326.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What we know about the crisis aboard the USS Lincoln",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+      "desc": "The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.",
+      "pubDate": "Sat, 15 Aug 2026 04:21:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786767604.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+      "pubDate": "Sat, 15 Aug 2026 03:58:31 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Did the US really destroy Iran’s ballistic missile capability?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+      "desc": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream\".",
+      "pubDate": "Sat, 15 Aug 2026 03:52:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786765829.jpg?resize=1920%2C1042&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "India marks 80th Independence Day with military display",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
+      "desc": "India marked its 80th Independence Day at Delhi’s historic Red Fort.",
+      "pubDate": "Sat, 15 Aug 2026 03:39:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-at-04.35.50-1786765059.png?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "US President Trump says he will declare Strait of Hormuz US territory",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
@@ -53,6 +113,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
+      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
+      "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebb/live/44b13670-91a2-11f1-964d-6f76397ea067.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
@@ -14253,16 +14323,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss",
-      "desc": "US President Trump’s nominee for top intel official, Jay Clayton, evaded directly stating that Biden won 2020 election",
-      "pubDate": "Thu, 16 Jul 2026 05:01:36 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784178083.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
