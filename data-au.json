@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T09:29:05.051Z",
-  "summary": "Australia's news cycle today has been dominated by several critical stories: a global Mastercard outage disrupted shoppers across the country, authorities continue searching for a missing NSW hiker now in its fourth day, and bird flu has claimed its first Australian victim with a little penguin found dead on Phillip Island. The day also saw significant stories around alleged crimes including a paedophile arrested after receiving bail, rape charges following a deception case, and ongoing investigations into deaths in Sydney and regional NSW, while political developments included the Nationals leader addressing internal party pressures from One Nation amid broader coalition tensions over policy direction.",
+  "fetchedAt": "2026-08-15T12:43:35.890Z",
+  "summary": "NSW is launching its biggest gun buyback program in decades following a federal funding deal, while Victoria continues to grapple with an H5N1 bird flu outbreak that has claimed a penguin on Phillip Island. A global Mastercard outage disrupted shoppers worldwide, and police are continuing their search for a missing NSW hiker now in its fourth day. The news cycle has also been dominated by crime stories including fraud charges against a former Nationals candidate and a rape conviction following perjury, alongside ongoing political tensions with One Nation challenging the Nationals' regional dominance.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia’s biggest gun buyback in decades to launch in NSW after funding deal with federal government",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/15/australia-nsw-gun-buyback-funding-deal-federal-government-ntwnfb",
+      "desc": "<p>Scheme announced in wake of Bondi beach terror attack will launch in November, with costs shared between NSW and commonwealth</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsle",
+      "pubDate": "Sat, 15 Aug 2026 12:30:56 GMT",
+      "img": "https://i.guim.co.uk/img/media/53dd86c1dba6e51b796f9e5ca7dc35bff3a1a027/1057_0_5268_4215/master/5268.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Fraud charges for former WA Nationals candidate accused of hit-run",
+      "link": "https://www.smh.com.au/national/fraud-charges-for-former-wa-nationals-candidate-accused-of-hit-run-20260815-p60oo8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Benjamin Simpkins has been charged with three fraud offences uncovered during a hit-run investigation.",
+      "pubDate": "Sat, 15 Aug 2026 21:05:20 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/bee746e1458e4a214b3c9a2fcff8f6a8f3bae4d5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "UK’s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
+      "link": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
+      "desc": "<p>Chinese-owned AESC has pushed back plans in sign of slowing transition from petrol and diesel to electric cars</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/aug/14/andy-burnha",
+      "pubDate": "Sat, 15 Aug 2026 11:00:54 GMT",
+      "img": "https://i.guim.co.uk/img/media/1ebc842f555e9a252aa9f08271d730845eed33e1/881_0_4800_3840/master/4800.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "We should be proud of our public schools",
+      "link": "https://www.smh.com.au/national/nsw/we-should-be-proud-of-our-public-schools-20260809-p60mos.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Attending a private school doesn’t necessarily give you a better education or make you a better person.",
+      "pubDate": "Sat, 15 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.20742018518518518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_143%2C$y_0/t_crop_custom/q_86%2Cf_auto/ab5812310b4e3821bd91e44d1f4a068977e0e2b4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Aussies on the ropes as Tigers domination continues",
+      "link": "https://www.smh.com.au/national/aussies-on-the-ropes-as-tigers-domination-continues-20260815-p60oo5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australia still need to score another 67 runs just to make Bangladesh bat again after the tourists continued to dominate the first Test.",
+      "pubDate": "Sat, 15 Aug 2026 20:39:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b5836f1db989ddd5fd66e007379536c573e1a42c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "link": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "desc": "<p>US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich</p><p>After the House passed its version of <a href=\"https://www.theguardian.com/us-news/donaldt",
+      "pubDate": "Sat, 15 Aug 2026 10:00:54 GMT",
+      "img": "https://i.guim.co.uk/img/media/9279099305e657622fd3938d007a475b177b2576/481_0_6507_5208/master/6507.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Natalya Lobanova on the positives to be gained from the UK’s latest heatwave – cartoon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/15/natalya-lobanova-uk-summer-heatwaves-cartoon",
+      "desc": "<p></p> <a href=\"https://www.theguardian.com/commentisfree/picture/2026/aug/15/natalya-lobanova-uk-summer-heatwaves-cartoon\">Continue reading...</a>",
+      "pubDate": "Sat, 15 Aug 2026 10:00:54 GMT",
+      "img": "https://i.guim.co.uk/img/media/12c70ae9a79c4be4d7244fb9226c7e01a8d3f0ca/264_517_2523_2017/master/2523.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins",
+      "desc": "<p>Despite the recent hearings in Congress, we seem to be even further from the goal of understanding Covid-19’s origin’s than we have ever been</p><p>As a microbiologist and infectious disease clinic",
+      "pubDate": "Sat, 15 Aug 2026 10:00:53 GMT",
+      "img": "https://i.guim.co.uk/img/media/cbb51dfcbf8fabf2315999ad2166a54943fe39ee/458_0_4583_3667/master/4583.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘We just didn’t have the answers’: The lifesaving disability teams keeping families afloat",
+      "link": "https://www.smh.com.au/national/nsw/we-just-didn-t-have-the-answers-the-lifesaving-disability-teams-keeping-families-afloat-20260715-p60fh0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "For the families of the more than 117,000 people with an intellectual disability in NSW, finding and accessing support in a fragmented system is ‘exceptionally hard’. But for Rose and her brother Dani",
+      "pubDate": "Sat, 15 Aug 2026 20:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7721563646627152%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1158%2C$y_607/t_crop_custom/q_86%2Cf_auto/fd9e1bbce285ca94e3f511a6e169fe0be48aac39",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The two species NSW is racing to protect after fifth case of deadly virus",
+      "link": "https://www.smh.com.au/national/nsw/the-two-species-nsw-is-racing-to-protect-after-fifth-case-of-deadly-virus-20260814-p60of0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A Victorian little penguin has died from the disease as the CSIRO revealed how bird flu winged across the world to arrive at Australian shores.",
+      "pubDate": "Sat, 15 Aug 2026 20:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.49027777777777776%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_102/t_crop_custom/q_86%2Cf_auto/4971943bbffb39a483ca1a187a45cebee4626dc1702d5015293d7cfeafdd81a5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Adelaide childcare centre shut down following alleged incident",
       "link": "https://www.smh.com.au/national/adelaide-childcare-centre-shut-down-following-alleged-incident-20260815-p60onq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36155,126 +36255,6 @@
       "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
       "pubDate": "Thu, 16 Jul 2026 23:59:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_236/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
-      "link": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
-      "desc": "<p>Diesel tops $5 a gallon as regular gas reaches almost $4, nearly a dollar and a quarter more than a year ago</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald",
-      "pubDate": "Thu, 16 Jul 2026 12:26:57 GMT",
-      "img": "https://i.guim.co.uk/img/media/929b558e97b6b11f4ba741ab68dc144c959eb490/2664_1175_5411_4327/master/5411.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Government keeps life-changing MS medicines on PBS amid drug pricing row",
-      "link": "https://www.abc.net.au/news/2026-07-16/ms-patients-given-pbs-lifeline/106925112",
-      "desc": "Health Minister Mark Butler has accepted independent advice for a rapid review of MS drugs to ensure they remain available on the PBS.",
-      "pubDate": "Thu, 16 Jul 2026 12:01:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/525fa84a4f85a09c4efe9713299a8ab7?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
-      "link": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran",
-      "desc": "<p>Fracking billionaire Harold Hamm is co-chair of a non-profit that has aggressively pushed for US energy dominance</p><p>Tycoon Harold Hamm is one of the US’s most successful oilmen, the son of Okla",
-      "pubDate": "Thu, 16 Jul 2026 12:00:39 GMT",
-      "img": "https://i.guim.co.uk/img/media/12e8d2c497af347c61a000ae8b5501c1c3632acf/604_191_3095_2477/master/3095.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Life-changing MS drugs to stay on the PBS. So why are others under threat – and how is Trump involved?",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/16/pharmaceutical-benefits-scheme-pbs-ms-drugs-medicine-us-trump",
-      "desc": "<p>Health minister Mark Butler confirms Ocrevus, Kesimpta and Lemtrada will stay subsidised amid questions about the Pharmaceutical Benefits Scheme</p><ul><li><p>Get our <a href=\"https://www.theguardi",
-      "pubDate": "Thu, 16 Jul 2026 12:00:38 GMT",
-      "img": "https://i.guim.co.uk/img/media/68a7831a6a95a6b2c979b70560785717ee312f13/312_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘Bike boy’ suing Dan Andrews to plead guilty to burglary and theft",
-      "link": "https://www.smh.com.au/national/victoria/bike-boy-suing-dan-andrews-to-plead-guilty-to-burglary-and-theft-20260716-p60g0n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Ryan Meuleman is expected to make a bid for freedom later this month after earlier indicating he wanted to be released to partake in rehab.",
-      "pubDate": "Thu, 16 Jul 2026 21:26:28 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.29889923793395423%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/50dff9e0f8cc8f05858bc9372f60a56d4f479b3f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Democrats allege Trump administration stalled US-Canada bridge opening as a favor to billionaire donor",
-      "link": "https://www.theguardian.com/business/2026/jul/16/trump-administration-canada-gordie-howe-bridge",
-      "desc": "<p>Delay seen as move to protect interests of Matthew Moroun, the owner of nearby Ambassador Bridge and a Trump donor</p><p>The Trump administration for months blocked a $4.7bn publicly owned bridge b",
-      "pubDate": "Thu, 16 Jul 2026 11:00:37 GMT",
-      "img": "https://i.guim.co.uk/img/media/2b462626b1abed8184be927453012822c55622e6/755_0_6657_5329/master/6657.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Giving dodgy software the flick",
-      "link": "https://www.smh.com.au/national/nsw/giving-dodgy-software-the-flick-20260716-p60frn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "While Satanism makes good bank.",
-      "pubDate": "Thu, 16 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_47/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Spectacular vision captures out-of-control car flying into Perth home",
-      "link": "https://www.smh.com.au/national/spectacular-vision-captures-out-of-control-car-flying-into-perth-home-20260716-p60g0v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Spectacular vision has captured an out of control car flying into a Perth home where an elderly woman was watching TV.",
-      "pubDate": "Thu, 16 Jul 2026 20:34:25 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/00c953e05eb2e126f34f3e27ffe1d8ba739154da",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sydney home ownership rate hits 70-year low",
-      "link": "https://www.abc.net.au/news/2026-07-16/kpmg-housing-report-sydney-home-ownership-gone-backwards/106922620",
-      "desc": "Sydney is no longer affordable for most, as new data reveals the number of people who own the home they live in is the lowest it has been in decades.",
-      "pubDate": "Thu, 16 Jul 2026 10:00:41 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/659d501fdb8827c766b04a74c84514db?impolicy=wcms_crop_resize&amp;cropH=615&amp;cropW=461&amp;xPos=179&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Has China got its hands on the world’s most important machine?",
-      "link": "https://www.smh.com.au/technology/has-china-got-its-hands-on-the-world-s-most-important-machine-20260716-p60fqi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
-      "desc": "The Trump administration has thrown Europe’s most valuable company into crisis by sharing with it the president’s concerns a machine that has been blocked from being exported to China may have found i",
-      "pubDate": "Thu, 16 Jul 2026 19:34:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5963%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ae7a44ed552845a8c5917a9219601bdd4b648beb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Beyond reach’: Sydney’s owner-occupier rate slumps to 70-year low",
-      "link": "https://www.smh.com.au/national/nsw/beyond-reach-sydney-s-owner-occupier-rate-slumps-to-70-year-low-20260716-p60fqu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "NSW – and especially Sydney – is dragging down the home ownership rate for the whole country as the cost of renting soars.",
-      "pubDate": "Thu, 16 Jul 2026 19:31:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2538%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_183%2C$y_71/t_crop_custom/q_86%2Cf_auto/c9b15d30dd7097b744d67a931f4a35f85506559c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Nepean River helps Mandaeans keep ancient rituals alive",
-      "link": "https://www.smh.com.au/national/nsw/nepean-river-helps-mandaeans-keep-ancient-rituals-alive-20260715-p60fjq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Dressed all in white, followers of one of the world’s oldest religious groups gathered on Wednesday to celebrate a holy occasion.",
-      "pubDate": "Thu, 16 Jul 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.16055322503384745%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_104/t_crop_custom/q_86%2Cf_auto/59e5ca7bcca7efc23671821f487133bcbe15708e",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
