@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T15:24:53.729Z",
-  "summary": "Australia's news cycle today centers on several significant developments: a major gun buyback program is launching in NSW with federal funding backing, while authorities investigate multiple serious matters including fraud charges against a former WA politician and ongoing searches for a missing hiker. Health concerns dominate with confirmed bird flu deaths in Phillip Island penguins and a reported Mastercard outage affecting shoppers globally. Political tensions simmer as the Nationals leader addresses One Nation threats while One Nation's Victorian leader faces scrutiny over his residential eligibility, and a separate case sees a man convicted of rape after lying about paying for sex.",
+  "fetchedAt": "2026-08-15T18:34:56.365Z",
+  "summary": "Australia faces several significant developments across crime, public health and infrastructure today. A deadly H5N1 bird flu strain has claimed its first penguin victim on Phillip Island, marking an escalation in Victoria's outbreak, while NSW is launching its biggest gun buyback in decades following a federal funding agreement. A major payment card outage affected Mastercard users globally, disrupting shopping, and a former WA Nationals candidate faces fraud charges following an alleged hit-and-run incident. The news also covers ongoing searches for a missing NSW hiker and mounting legal consequences for various criminal cases including rape and murder allegations.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,16 @@
     }
   ],
   "articles": [
+    {
+      "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
+      "link": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
+      "desc": "<p>Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G</p><p><a href=\"https://www.theguardian.com/society/2026/aug/15/poorly-insulated-home",
+      "pubDate": "Sat, 15 Aug 2026 16:00:01 GMT",
+      "img": "https://i.guim.co.uk/img/media/5e772cc596c6d07669eba138b3024ed64944ad0f/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Superquiz, Sunday, August 16",
       "link": "https://www.smh.com.au/national/superquiz-sunday-august-16-20260813-p60o7f.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36198,36 +36208,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Largest landlord in the US accused of civil rights violations",
-      "link": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
-      "desc": "<p>Fair housing complaints accuse Greystar of refusing to take tenants who use federal rent vouchers</p><p>Greystar, the largest owner and manager of apartments in the US, systematically flouts local ",
-      "pubDate": "Thu, 16 Jul 2026 18:09:28 GMT",
-      "img": "https://i.guim.co.uk/img/media/b1eb82833937e617ec15f9344ecc945ca0d9327f/764_222_5058_4045/master/5058.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Earth-like exoplanet could have life-supporting water on its surface",
-      "link": "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists",
-      "desc": "<p>Scientists discover the first confirmed atmosphere in habitable zone outside our solar system on LHS 1140b</p><p>The search for life outside our solar system has taken another twist as researchers ",
-      "pubDate": "Thu, 16 Jul 2026 18:00:45 GMT",
-      "img": "https://i.guim.co.uk/img/media/3c6dd923e4610b969f9f141d2af46405c2510aae/411_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Kalshi to offer betting on drug trial results and FDA regulatory decisions",
-      "link": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
-      "desc": "<p>Move comes as prediction platforms rapidly gain popularity and offer opportunities to bet on virtually anything</p><p>Kalshi is expanding its wagers to include bets on drug trial results and is con",
-      "pubDate": "Thu, 16 Jul 2026 17:21:30 GMT",
-      "img": "https://i.guim.co.uk/img/media/31ad85e820ffc4f4dbd840c33fc3892569e0bc8f/162_0_6792_5435/master/6792.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
