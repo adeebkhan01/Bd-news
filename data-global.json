@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-14T21:28:24.027Z",
-  "summary": "Global tensions are escalating across multiple fronts, with the Middle East dominating headlines as Israeli settler violence in the West Bank draws international condemnation and US pressure on Netanyahu, while separate conflicts in Gaza, Yemen, and the Red Sea threaten wider regional instability. Donald Trump continues to dominate US political coverage with legal challenges to his business projects and questions about presidential term limits, as Reform UK surges in British politics following Nigel Farage's parliamentary victory. Economic pressures are building worldwide, from soaring CEO pay deepening US inequality to volatile Asian markets and global supply chain disruptions as the Trump administration targets countries circumventing tariffs on Chinese goods. Human rights crises persist from Taliban restrictions on Afghan women to Philippine justice efforts and Venezuelan refugees facing compounded disasters, while humanitarian concerns in Gaza and the West Bank illustrate the human toll of ongoing conflicts.",
+  "fetchedAt": "2026-08-15T01:25:30.470Z",
+  "summary": "Global tensions are escalating amid escalating US-Iran hostilities, with Trump threatening to annex the Strait of Hormuz while Saudi-aligned forces and Iran face maritime confrontations in the region. In the Middle East, Israeli settler violence in the West Bank is drawing international scrutiny, with the US calling for Netanyahu to condemn attacks on Palestinian villages, while humanitarian crises persist in Gaza and across the region. Domestically in the US, Trump continues pursuing legal battles and making controversial statements ranging from a ballroom development project to questioning mental health protocols. Meanwhile, income inequality deepens as CEO pay surges, Afghanistan's women face unrecognisable living conditions under Taliban rule after five years, and various countries grapple with climate impacts and political upheaval from Venezuela to South Korea.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
+      "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
+      "desc": "More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.",
+      "pubDate": "Sat, 15 Aug 2026 00:23:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f9c08405d-1786747912.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+      "desc": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260814__C4PN4AF__v1__HighRes__UsPoliticsTrump-1786747603.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+      "desc": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+      "pubDate": "Fri, 14 Aug 2026 21:50:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f7db610a9-1786740150.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
       "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
@@ -14240,66 +14270,6 @@
       "desc": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
       "pubDate": "Thu, 16 Jul 2026 01:58:45 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T164046Z_166059555_RC2FEMAX5LOJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-1784160211.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-      "desc": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
-      "pubDate": "Thu, 16 Jul 2026 00:00:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T124225Z_2083184903_RC27EMA0BTZ8_RTRMADP_3_IRAN-CRISIS-1784159884.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
-      "pubDate": "Wed, 15 Jul 2026 23:35:39 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e360/live/a8a2b180-7628-11f1-ac11-19a4319081d7.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
-      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-      "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/d37622b0-805b-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
-      "link": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
-      "pubDate": "Wed, 15 Jul 2026 22:25:35 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d0/live/4b8920c0-8090-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Dong Guangping, who has resettled in Canada, recounts his perilous escape from China to South Korea.",
-      "pubDate": "Wed, 15 Jul 2026 22:04:12 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f86/live/acfc0010-8019-11f1-9317-f3c8d3f68726.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "xAI sues user for exploiting AI tool to sexualise minors",
-      "link": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors?traffic_source=rss",
-      "desc": "Lawsuit accuses Terry Harwood of misusing xAI to bypass safeguards and produce explicit deepfakes involving minors.",
-      "pubDate": "Wed, 15 Jul 2026 21:31:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1784145757.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
