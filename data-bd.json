@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T06:45:03.758Z",
-  "summary": "Bangladesh is celebrating a historic cricket achievement as the national team closes in on its first-ever Test victory in Australia, with fast bowler Mehidy Hasan taking five wickets to reduce the hosts to 284 runs. In domestic politics, the BNP has reshuffled its standing committee with new leadership appointments, while an attack on a Jamaat MP's vehicle in Kushtia signals ongoing political tensions. The economy shows mixed signals with BRAC Bank posting strong profit growth but RMG exports to the EU declining sharply by over sixteen percent in the first half of the year. The government is promoting digital innovation, rolling out AI-powered traffic enforcement systems and encouraging cautious adoption of artificial intelligence across official channels.",
+  "fetchedAt": "2026-08-16T09:30:00.902Z",
+  "summary": "Bangladesh faces immediate economic challenges as gas shortages halt production at over 100 factories while the garment sector seeks cost relief through solar and machinery upgrades. Political activity intensifies with the ruling party reshuffling its leadership and two candidates validating their presidential nominations ahead of upcoming elections, while Prime Minister Sheikh Hasina prepares a visit to Delhi. On the sporting front, Bangladesh achieved a historic first Test victory in Australia with a dominant performance, while domestically the country grapples with infrastructure issues including unused database investments and struggling government fish farms. The economy shows mixed signals with banking sector growth at 57% profit for BRAC Bank in the first half, offset by concerns about inflation, falling RMG exports to the EU, and phantom export schemes.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Dhaka seeks propitious environment for PM’s Delhi visit: Foreign ministry spokesperson",
+      "link": "https://en.prothomalo.com/bangladesh/w2otxtu6it",
+      "desc": "",
+      "pubDate": "Sun, 16 Aug 2026 07:39:45 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-16/0mnc5j2c/WhatsApp-Image-2026-08-16-at-12.59.16.jpeg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "প্রধানমন্ত্রীর দিল্লি সফরের জন্য ঢাকা অনুকূল পরিবেশ খুঁজছে: পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র",
+      "descBn": ""
+    },
+    {
+      "title": "RMG factories can cut energy bills through solar, machinery upgrades: CPD",
+      "link": "https://www.thedailystar.net/business/news/rmg-factories-can-cut-energy-bills-through-solar-machinery-upgrades-cpd-4248936",
+      "desc": "The CPD gathered data from 350 RMG factories and examined 65 machine types across eight production categories",
+      "pubDate": "Sun, 16 Aug 26 13:38:41 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/CPD%20event.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "সৌর শক্তি এবং যন্ত্রপাতি আপগ্রেডের মাধ্যমে আরএমজি কারখানাগুলি বিদ্যুৎ বিল কমাতে পারে: সিপিডি",
+      "descBn": "সিপিডি ৩৫০টি আরএমজি কারখানা থেকে তথ্য সংগ্রহ করেছে এবং আটটি উৎপাদন বিভাগ জুড়ে ৬৫ ধরনের মেশিন পরীক্ষা করেছে"
+    },
+    {
+      "title": "Oli Ahmad’s nomination paper declared valid for presidential election",
+      "link": "https://en.prothomalo.com/bangladesh/politics/rv11h1chho",
+      "desc": "",
+      "pubDate": "Sun, 16 Aug 2026 07:09:08 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-16/vqd26i8e/prothomalo-bangla2026-08-10emx678ml1-image-Template-2-Recovered.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ওলি আহমদের মনোনয়ন পত্র রাষ্ট্রপতি নির্বাচনের জন্য বৈধ ঘোষিত",
+      "descBn": ""
+    },
+    {
+      "title": "Gas shortage halts production at more than 100 factories",
+      "link": "https://en.prothomalo.com/business/local/agj4v1benw",
+      "desc": "",
+      "pubDate": "Sun, 16 Aug 2026 07:05:04 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-16/xneq704e/info.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "গ্যাসের সংকটে ১০০টিরও বেশি কারখানার উৎপাদন বন্ধ",
+      "descBn": ""
+    },
+    {
+      "title": "Mirza Fakhrul’s presidential nomination declared valid",
+      "link": "https://en.prothomalo.com/bangladesh/politics/gm1y7ekp13",
+      "desc": "",
+      "pubDate": "Sun, 16 Aug 2026 06:52:21 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-16/a0j4pkxn/prothomalo-bangla2026-08-16hu6tuyajuimage-2-uzzal-2.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "মিরজা ফখরুলের রাষ্ট্রপতি মনোনয়ন বৈধ ঘোষণা করা হয়েছে",
+      "descBn": ""
+    },
     {
       "title": "Vacancies, silted ponds leave Moulvibazar govt fish farm struggling",
       "link": "https://www.thedailystar.net/business/agriculture/news/vacancies-silted-ponds-leave-moulvibazar-govt-fish-farm-struggling-4248891",
@@ -18369,90 +18429,6 @@
       "sourceColor": "#c0392b",
       "titleBn": "তৃতীয় স্থানের প্লে-অফে গোল গোল্ডেন বুট দৌড়ে গণনা করা হয় কি?",
       "descBn": ""
-    },
-    {
-      "title": "Govt to vaccinate cattle in 5 flood-hit districts of Chattogram: minister",
-      "link": "https://www.thedailystar.net/business/news/govt-vaccinate-cattle-5-flood-hit-districts-chattogram-minister-4226101",
-      "desc": "The risk of FMD and other infectious diseases rises after floods",
-      "pubDate": "Fri, 17 Jul 26 15:23:27 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Agri%20event%20.jpg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "চট্টগ্রামের ৫টি বন্যাপ্রবণ জেলায় গবাদিপশু টিকাকরণ করবে সরকার: মন্ত্রী",
-      "descBn": "বন্যার পরে এফএমডি এবং অন্যান্য সংক্রামক রোগের ঝুঁকি বৃদ্ধি পায়"
-    },
-    {
-      "title": "Bay of Bengal, new geopolitics, and Bangladesh's strategic opportunities",
-      "link": "https://en.prothomalo.com/opinion/op-ed/kwg836rbi8",
-      "desc": "",
-      "pubDate": "Fri, 17 Jul 2026 09:01:06 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-17/9j806skm/flags.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "বঙ্গোপসাগর, নতুন ভূ-রাজনীতি এবং বাংলাদেশের কৌশলগত সুযোগসমূহ",
-      "descBn": ""
-    },
-    {
-      "title": "Argentina await FIFA decision over displaying World Cup Falklands banner",
-      "link": "https://en.prothomalo.com/sports/football/qn7wa92r43",
-      "desc": "",
-      "pubDate": "Fri, 17 Jul 2026 08:53:28 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-17/iwfvcqpl/2026-07-15T213841Z864818289UP1EM7F1N6HM3RTRMADP3SOCCER-WORLDCUP-ENG-ARG.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "আর্জেন্টিনা ওয়ার্ল্ড কাপ ফকল্যান্ডস ব্যানার প্রদর্শনের জন্য ফিফার সিদ্ধান্তের অপেক্ষায় আছে",
-      "descBn": ""
-    },
-    {
-      "title": "Argentina-Spain World Cup final referee announced: Who is this Slavko Vincic?",
-      "link": "https://en.prothomalo.com/sports/football/94w5412ih1",
-      "desc": "",
-      "pubDate": "Fri, 17 Jul 2026 08:15:42 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-17/1pbv2dxi/prothomalo-bangla2026-07-172loywkvf2026-07-01T034356Z1426012233UP1EM710AD7X5RTRMADP3SOCCER-WORLDCUP-MEX-ECU.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "আর্জেন্টিনা-স্পেন ওয়ার্ল্ড কাপ ফাইনালের রেফারি ঘোষণা: এই স্লাভকো ভিনসিক কে?",
-      "descBn": ""
-    },
-    {
-      "title": "Ziaur Rahman assassination: Mozaffar's role and 45 years in hiding",
-      "link": "https://en.prothomalo.com/bangladesh/3k25db9qxf",
-      "desc": "",
-      "pubDate": "Fri, 17 Jul 2026 08:10:23 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-16/lsoykrfy/prothomalo-bangla2026-07-16m3biftcsMozaffar.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "জিয়াউর রহমান হত্যাকাণ্ড: মোজাফফরের ভূমিকা এবং ৪৫ বছরের আত্মগোপন",
-      "descBn": ""
-    },
-    {
-      "title": "British-Bangladeshi hacker, accomplice jailed over cyberattack that brought London to a standstill",
-      "link": "https://en.prothomalo.com/international/europe/580855i1qh",
-      "desc": "",
-      "pubDate": "Fri, 17 Jul 2026 07:37:42 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-17/q8ykllie/prothomalo-bangla2026-07-17vwpidv8cUntitled-3.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ব্রিটিশ-বাংলাদেশী হ্যাকার এবং তার সহযোগী জেলে, লন্ডনকে স্থবির করে দেওয়া সাইবার আক্রমণের জন্য",
-      "descBn": ""
-    },
-    {
-      "title": "EU and G77 express support for Bangladesh's smooth and sustainable LDC graduation",
-      "link": "https://www.thedailystar.net/business/news/eu-and-g77-express-support-bangladeshs-smooth-and-sustainable-ldc-graduation-4226061",
-      "desc": "The assurances came during separate meetings at the United Nations Headquarters",
-      "pubDate": "Fri, 17 Jul 26 12:56:39 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/LDC%20Graduation%20and%20RMG%20-%20Anwar%20Sohel.jpg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "বাংলাদেশের মসৃণ এবং টেকসই সর্বনিম্ন উন্নয়নশীল দেশ স্নাতক হওয়ার বিষয়ে ইউরোপীয় ইউনিয়ন এবং জি৭৭ সমর্থন প্রকাশ করেছে",
-      "descBn": "এই আশ্বাস জাতিসংঘ সদর দপ্তরে পৃথক পৃথক সভায় দেওয়া হয়েছিল"
     }
   ]
 }

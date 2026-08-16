@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T06:45:29.920Z",
-  "summary": "Tensions are escalating across multiple conflict zones with Russian strikes continuing in Ukraine, Israel intensifying operations in Lebanon and the West Bank, and inflammatory rhetoric from the US regarding the Strait of Hormuz threatening to destabilize the Middle East further. The Gaza-adjacent crisis is compounded by diplomatic shifts, including South Korea's renewed proposal to formally end the Korean War and threats from various regional powers to reshape territorial arrangements. Domestic political developments range from ongoing legal battles involving Donald Trump to civil unrest including wildfires in Europe and flooding in Indiana, while sporting events continue as scheduled with Arsenal facing Manchester City.",
+  "fetchedAt": "2026-08-16T09:30:33.145Z",
+  "summary": "The Middle East remains the dominant crisis with Israel conducting strikes across Lebanon that have killed at least eleven people, while tensions escalate further as Iran and the US exchange rhetoric over the Strait of Hormuz, with Trump claiming he will declare it US territory. Russia's aerial bombardment of Ukraine continues to inflict civilian casualties as the war grinds on, while related geopolitical consequences ripple outward including a Canadian petition to expel the US ambassador gaining traction. South Korea has proposed formal talks with North Korea to officially end the Korean War, potentially marking a significant diplomatic shift on the peninsula. Environmental disasters are mounting with severe flooding in Indiana and wildfires across Europe forcing military intervention, while diplomatic tensions simmer between Japan and its Asian neighbors over a ministerial visit to a war shrine.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,16 @@
     }
   ],
   "articles": [
+    {
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "pubDate": "Sun, 16 Aug 2026 09:04:14 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
       "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
@@ -163,6 +173,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Russians snap up new homes built on Ukraine 'graveyard'",
+      "link": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Russia is constructing high-rises in the occupied Ukrainian city of Mariupol, on the sites of buildings it destroyed. Who's buying these properties? And what happened to the Ukrainians who used to liv",
+      "pubDate": "2026-08-15T11:50:00Z",
+      "img": "https://static.dw.com/image/78236479_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
@@ -13923,26 +13943,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
-      "desc": "Berlin warns against a &#039;security vacuum&#039; in Lebanon&#039;s south once UNIFIL mandate expires at year&#039;s end.",
-      "pubDate": "Fri, 17 Jul 2026 09:24:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2024/10/AFP__20240823__36EP9W9__v2__Preview__LebanonIsraelUnConflictPolitics-1728814295.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "pubDate": "Fri, 17 Jul 2026 07:25:31 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
