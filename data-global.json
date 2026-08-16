@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T09:30:33.145Z",
-  "summary": "The Middle East remains the dominant crisis with Israel conducting strikes across Lebanon that have killed at least eleven people, while tensions escalate further as Iran and the US exchange rhetoric over the Strait of Hormuz, with Trump claiming he will declare it US territory. Russia's aerial bombardment of Ukraine continues to inflict civilian casualties as the war grinds on, while related geopolitical consequences ripple outward including a Canadian petition to expel the US ambassador gaining traction. South Korea has proposed formal talks with North Korea to officially end the Korean War, potentially marking a significant diplomatic shift on the peninsula. Environmental disasters are mounting with severe flooding in Indiana and wildfires across Europe forcing military intervention, while diplomatic tensions simmer between Japan and its Asian neighbors over a ministerial visit to a war shrine.",
+  "fetchedAt": "2026-08-16T12:46:38.357Z",
+  "summary": "Russia's intensifying assault on Ukraine continues with fresh aerial attacks killing civilians across the country, while North Korean troops now bolster Russian forces in what represents a significant escalation of the conflict. In the Middle East, Israel has stepped up military operations in southern Lebanon despite a ceasefire agreement and expanded control in the occupied West Bank through civilian police rule, while tensions simmer with Iran over the strategic Strait of Hormuz amid ongoing US-Iran friction. Beyond these conflicts, regional instability extends to a potential formal end to the Korean War after South Korea proposed talks with North Korea, and Europe faces severe wildfire challenges requiring military intervention to contain summer heatwaves that have scorched landscapes across the continent.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,66 @@
   ],
   "articles": [
     {
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+      "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+      "desc": "Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
+      "pubDate": "Sun, 16 Aug 2026 11:54:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-14T135710Z_245746425_RC2DYMADRKY6_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLEMENT-QUSRA-1786870620.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘Limited options’ for many Iranians as war with US chokes economy",
+      "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+      "desc": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
+      "pubDate": "Sun, 16 Aug 2026 11:38:50 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26222576169185-1786874442.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+      "desc": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
+      "pubDate": "Sun, 16 Aug 2026 11:14:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-14T202503Z_238316824_RC2KYMAAQV38_RTRMADP_3_USA-TRUMP-1786739217.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "desc": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
+      "pubDate": "Sun, 16 Aug 2026 10:59:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26227373051696-1786858053.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+      "desc": "The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.",
+      "pubDate": "Sun, 16 Aug 2026 09:48:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-15T180643Z_2051320191_UP1EM8F1CKO70_RTRMADP_3_SOCCER-TURKEY-KAS-TS-1-1786871053_b28870-1786871878.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
@@ -33,6 +93,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Troops from North Korea to boost Russia's Ukraine forces",
+      "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt that this will make a fundamental difference in the course of Russia's war ",
+      "pubDate": "2026-08-16T06:49:00Z",
+      "img": "https://static.dw.com/image/76947268_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
@@ -13850,96 +13920,6 @@
       "desc": "The Italian government can now offer children and wives of mafia bosses a way out of the family business.",
       "pubDate": "Fri, 17 Jul 2026 13:09:18 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5a1d9e77-1784290718.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "China slams Trump’s claims over 2020 US election interference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/china-slams-trumps-claims-over-2020-us-election-interference?traffic_source=rss",
-      "desc": "China has responded to US President Donald Trump’s claims that China interfered in the 2020 US presidential election.",
-      "pubDate": "Fri, 17 Jul 2026 12:15:49 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-clean-1784290504.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's next prime minister",
-      "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-next-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Andy Burnham was confirmed as Keir Starmer's successor as British prime minister. The former Manchester mayor became a leading figure in the Labour Party and one of the UK's most popular politicians.",
-      "pubDate": "2026-07-17T11:51:00Z",
-      "img": "https://static.dw.com/image/77645769_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Too hot to fly: the airports at risk from climate change",
-      "link": "https://www.bbc.co.uk/news/videos/cly5vw5xdz8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Simon King looks at the threats posed to airline operations by hotter weather and rising sea levels.",
-      "pubDate": "Fri, 17 Jul 2026 11:31:17 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8f/live/20a33a10-81c3-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "How new PM Andy Burnham will change UK's international role",
-      "link": "https://www.dw.com/en/how-new-pm-andy-burnham-will-change-uk-s-international-role/a-77994989?maca=en-rss-en-eu-2092-rdf",
-      "desc": "From northwest England to the global stage: Andy Burnham becomes Britain's new prime minister on Monday. How will the former mayor of Manchester tackle international affairs?",
-      "pubDate": "2026-07-17T11:29:00Z",
-      "img": "https://static.dw.com/image/77620554_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Trump’s new election push, explained",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss",
-      "desc": "US President Donald Trump used a primetime White House address to revive claims about the 2020 election.",
-      "pubDate": "Fri, 17 Jul 2026 10:40:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-clean-1784284768.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "India debuts hydrogen-powered train as part of sustainability drive",
-      "link": "https://www.aljazeera.com/economy/2026/7/17/india-debuts-hydrogen-powered-train-as-part-of-sustainability-drive?traffic_source=rss",
-      "desc": "India joins a handful of countries that have successfully deployed the zero-emission technology in their rail networks.",
-      "pubDate": "Fri, 17 Jul 2026 10:25:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a59f461-1784280161.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How AI and satellites help fight wildfires",
-      "link": "https://www.dw.com/en/how-ai-and-satellites-help-fight-wildfires/a-77966509?maca=en-rss-en-bus-2091-rdf",
-      "desc": "Wildfires are raging across Europe, Canada and beyond. To successfully fight these fires, speed is essential. A German startup uses satellite data and AI to spot fires early.",
-      "pubDate": "2026-07-17T10:10:00Z",
-      "img": "https://static.dw.com/image/77306277_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
-      "link": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
-      "desc": "While the &#039;export engine is running very hot&#039;, jobs are lagging, squeezing spending in China.",
-      "pubDate": "Fri, 17 Jul 2026 10:06:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260625__B89A7XM__v1__MidRes__ChinaEconomy-1782904913.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israel headed for October election as parliament dissolved",
-      "link": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
-      "desc": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
-      "pubDate": "Fri, 17 Jul 2026 09:42:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a59e171855f-1784275313.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"

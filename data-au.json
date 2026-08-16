@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T09:30:18.120Z",
-  "summary": "Australia is facing a significant push on gun control with Prime Minister Anthony Albanese and NSW Premier Chris Minns announcing a new gun buyback scheme amid warnings that the country now has more firearms than at the time of the Port Arthur massacre. The nation is also grappling with child safety concerns, including allegations against Sydney private school boys and questions about how schools respond to incidents involving young people accused of sex crimes. On a brighter note, the Logies are underway in Sydney with Robert Irwin hosting, while Bangladesh has secured a historic cricket victory over Australia and Western Australia is rolling out its largest modular social housing project in the Wheatbelt region.",
+  "fetchedAt": "2026-08-16T12:46:23.024Z",
+  "summary": "Australia faced a violent day with multiple serious crimes including a shooting in Melbourne's Altona North linked to organised crime, a daylight sex attack, and several stabbings and assaults across the country. Cost of living pressures remain a critical issue, with announcements on toll caps in Victoria and relief measures for power prices as renewable energy helps reduce energy costs. The national conversation spans education safeguarding, with concerns about sexual misconduct in schools, and defence matters, including Japan's defence minister visiting Australia following diplomatic tensions. Major events like the Logies awards and ongoing cricket competitions provided lighter coverage amid the grimmer headlines dominating the news cycle.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,136 @@
     }
   ],
   "articles": [
+    {
+      "title": "Haddara crime family boss shot in Altona North",
+      "link": "https://www.smh.com.au/national/victoria/haddara-crime-family-boss-shot-in-altona-north-20260816-p60oua.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police are investigating after man was shot in Altona North on Sunday evening.",
+      "pubDate": "Sun, 16 Aug 2026 22:26:48 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2236%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_65/t_crop_custom/q_86%2Cf_auto/50f604e277009221c7594e1aa41718387a807588",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Florida sets record for sea turtle nests but Trump move could stall recovery",
+      "link": "https://www.theguardian.com/environment/2026/aug/16/florida-sea-turtle-nests-endangered-species",
+      "desc": "<p>Loggerhead turtles abound this season but rollback of Endangered Species Act protections could threaten future</p><p>Wildlife groups in <a href=\"https://www.theguardian.com/us-news/florida\">Florida",
+      "pubDate": "Sun, 16 Aug 2026 12:00:25 GMT",
+      "img": "https://i.guim.co.uk/img/media/14202211c76e257eb3a4ee3c131ed16b82acdf7b/29_0_3061_2448/master/3061.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Andy Burnham has barely acknowledged the climate crisis. If only Britain’s workers had that luxury | John Harris",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/16/andy-burnham-climate-crisis-britain-workers-heatstroke",
+      "desc": "<p>Nurses collapsing, builders with heatstroke, bus drivers in cabs that reach 44C. The new PM wanted to spend the summer talking about the cost of living – he should change his plans</p><p>I don’t th",
+      "pubDate": "Sun, 16 Aug 2026 11:33:42 GMT",
+      "img": "https://i.guim.co.uk/img/media/e983f71955e419feac5a25cc5cc2f613689455d1/11_0_4149_3320/master/4149.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Green's ton fails to stop horror defeat",
+      "link": "https://www.smh.com.au/national/greens-ton-fails-to-stop-horror-defeat-20260816-p60ou6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Cameron Green hit a ton for Australia but it didn't stop an embarrassing nine-wicket loss in Darwin.",
+      "pubDate": "Sun, 16 Aug 2026 21:04:59 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/790aa51ba7ba47ffda6f1b3f832bfce6635e099e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "From pasta pastor to plastic projectile",
+      "link": "https://www.smh.com.au/national/nsw/from-pasta-pastor-to-plastic-projectile-20260814-p60o9d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Working overtime on the census.",
+      "pubDate": "Sun, 16 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_51/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man knocked off e-scooter and bashed in Adelaide",
+      "link": "https://www.smh.com.au/national/man-knocked-off-e-scooter-and-bashed-in-adelaide-20260816-p60otu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man has head injuries after a thief knocked him off his e-scooter and stole it, leaving him unconscious.",
+      "pubDate": "Sun, 16 Aug 2026 20:35:08 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/edd0a1e36b5298781e3eaf6be6f30dad4650aec6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Woman allegedly victim of daylight sex attack at home",
+      "link": "https://www.smh.com.au/national/woman-allegedly-victim-of-daylight-sex-attack-at-home-20260816-p60otv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An elderly woman is recovering after an alleged sex attack inside her Clermont home, detective arresting a 35-year-old man found hiding in a backyard.",
+      "pubDate": "Sun, 16 Aug 2026 20:26:02 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f0bf01ab7a6fb47491701490ec9038d3b0ab5c9f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The knock on the door: 57 years on, a Vietnam War widow tells her story",
+      "link": "https://www.smh.com.au/national/victoria/the-knock-on-the-door-57-years-on-a-vietnam-war-widow-tells-her-story-20260812-p60no9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Decades after being evicted from army housing with three young children, Lynne Moore is finally sharing the long-ignored plight of Australia’s young war widows.",
+      "pubDate": "Sun, 16 Aug 2026 19:56:54 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_15/t_crop_custom/q_86%2Cf_auto/8ce24adb5044bd6e499f89e67d9d4c7eb8dcf420",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Logies 2026 winners list",
+      "link": "https://www.abc.net.au/news/2026-08-16/logies-2026-winners-list-gold-logie/107025284",
+      "desc": "Goolagong takes home two Logies, while Robert Irwin and the ABC's Dog Park and The Assembly win their first awards.",
+      "pubDate": "Sun, 16 Aug 2026 09:52:14 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/fa92b4b214a61051129363c2f2621f21?impolicy=wcms_crop_resize&amp;cropH=2667&amp;cropW=2000&amp;xPos=1000&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Teenager charged over stabbing",
+      "link": "https://www.smh.com.au/national/teenager-charged-over-stabbing-20260816-p60otp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A teenage boy is facing serious charges over an allegedly violent stabbing attack in Brisbane.",
+      "pubDate": "Sun, 16 Aug 2026 19:35:32 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ebff6f6c6f59a2eb8c4fa7e6c21b27816b4269dd",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Victorians to have tolls capped at $50 a week under Coalition",
+      "link": "https://www.smh.com.au/national/victorians-to-have-tolls-capped-at-50-a-week-under-coalition-20260816-p60otq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Coalition has vowed to cap tolls for Victorians at $50 per week if it wins the state election later this year.",
+      "pubDate": "Sun, 16 Aug 2026 19:34:42 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/7c00edfb4e1fb9421065dded28e9874c38a6f414",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Relief for families struggling with skyrocketing power prices",
+      "link": "https://www.smh.com.au/national/relief-for-families-struggling-with-skyrocketing-power-prices-20260816-p60otl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An Australian inventor has built an AI tool to help slash household bills.",
+      "pubDate": "Sun, 16 Aug 2026 19:31:01 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e3517c40459b8119c3f7d8b6055c772a39fc842e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘I’ve fallen in love with the trade’: The AI-proof job that 30,000 more Australians took up last year",
+      "link": "https://www.smh.com.au/national/i-ve-fallen-in-love-with-the-trade-the-ai-proof-job-that-30-000-more-australians-took-up-last-year-20260807-p60mby.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Despite the hazards – risk of electrocution or severe burns from live wires, breathing in toxic building materials and falls from dangerous heights – being an electrician has never been more popular.",
+      "pubDate": "Sun, 16 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.17982679572083546%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_81/t_crop_custom/q_86%2Cf_auto/39ec91ff68f37a26ef614d2f1f7fcd8afe8ffabc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Block export of ‘national treasure’ UK fossils, says MP",
       "link": "https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp",
@@ -35575,86 +35705,6 @@
       "desc": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
       "pubDate": "Fri, 17 Jul 2026 23:59:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_1.103125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/297b54b43fec49dc75ceb1969fd1a88bc723fd9a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Jackdaw gasfield would create only 27 direct full-time jobs, documents show",
-      "link": "https://www.theguardian.com/business/2026/jul/17/jackdaw-gasfield-north-sea-drilling-andy-burnham",
-      "desc": "<p>Campaigners say field will bring minimal benefit for UK economy, as industry lobbies Burnham for go-ahead</p><p>More people can fit on to the top deck of a standard London bus than will be directly",
-      "pubDate": "Fri, 17 Jul 2026 12:30:23 GMT",
-      "img": "https://i.guim.co.uk/img/media/3752a76639ec7cb219187820237f0f6f80985e3a/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "How do you actually shop local in New York City?",
-      "link": "https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc",
-      "desc": "<p>Shopping local ensures a future for cultures and communities, says Caroline Weaver, creator of the Locavore Guide digital directory </p><p>When I signed the lease for my new apartment in Brooklyn, ",
-      "pubDate": "Fri, 17 Jul 2026 12:00:07 GMT",
-      "img": "https://i.guim.co.uk/img/media/1c827a55eef86440a817ecefc1e1e4cbd2a5f087/3_0_2994_2400/master/2994.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Another critical workforce section of BHP to walk off the job",
-      "link": "https://www.smh.com.au/national/another-critical-workforce-section-of-bhp-to-walk-off-the-job-20260717-p60gda.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "As more workers are given the green light to walk off the job, the mining giant is downplaying the impact of Pilbara's first strike in more than 25 years.",
-      "pubDate": "Fri, 17 Jul 2026 21:16:02 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/161129ef30033522050d00375c129eab0bd35cd0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
-      "link": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
-      "desc": "<p>Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust law</p><p>A last-ditch effort to block the merger between Paramount Skydance and Warne",
-      "pubDate": "Fri, 17 Jul 2026 11:00:06 GMT",
-      "img": "https://i.guim.co.uk/img/media/94cd6fa8c6fd40646e32ba217d63a03c6eebdc84/145_0_4585_3668/master/4585.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "California braces for its sharkiest summer in a decade – but experts say don’t panic",
-      "link": "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike",
-      "desc": "<p>Young great white sharks are returning in large numbers, but researchers say humans are not on the menu</p><p>Surfers, swimmers and fishermen across <a href=\"https://www.theguardian.com/us-news/cal",
-      "pubDate": "Fri, 17 Jul 2026 10:00:04 GMT",
-      "img": "https://i.guim.co.uk/img/media/508bea5222d2e6382beadc482bc4eefa267c7c7c/342_0_3424_2739/master/3424.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Climate change driving more rains that lead to deadly flash floods, experts say",
-      "link": "https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods",
-      "desc": "<p>Over the last month, states across the country have experienced record rainfall and flash flooding</p><p>Climate change is driving increasingly common bouts of heavy rain in the US that cause deadl",
-      "pubDate": "Fri, 17 Jul 2026 10:00:04 GMT",
-      "img": "https://i.guim.co.uk/img/media/1ae86f1dcd9fc6df091ffbcf8c9ac908c2d03b3d/500_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Did the world’s fourth-richest man just touch down in Sydney?",
-      "link": "https://www.smh.com.au/business/companies/did-the-world-s-fourth-richest-man-just-touch-down-in-sydney-20260717-p60gbk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Amazon founder Jeff Bezos, or his doppelganger, enjoyed the views and fine food in Coogee alongside his wife Lauren Sanchez Bezos.",
-      "pubDate": "Fri, 17 Jul 2026 19:56:34 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6724%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f54993df34ac964231fe47dc252f2717a6cc256904beb48ddfe43177f735873b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "He was caught helping bikies stay out of jail, now this Perth lawyer is heading there himself",
-      "link": "https://www.smh.com.au/national/western-australia/he-was-caught-helping-bikies-stay-out-of-jail-now-this-perth-lawyer-is-heading-there-himself-20260717-p60gc2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Ted Dobson, son of late prominent Perth lawyer Terry Dobson, struck up an “intense” friendship with former head of the Comancheros bikie gang Ray Cilli.",
-      "pubDate": "Fri, 17 Jul 2026 19:42:11 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.1037%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/21b0cd880c19a7e0a7a0038547e9ffbc3ca48368",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
