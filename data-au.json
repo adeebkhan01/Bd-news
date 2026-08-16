@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T18:34:10.101Z",
-  "summary": "Australia's news today spans crime, politics, and cost-of-living pressures. A Haddara crime family boss was shot in Melbourne while a teenager faced charges over a stabbing, and multiple arrests followed allegations against Sydney private school boys. On the political front, Prime Minister Albanese negotiated parliamentary deals while international relations took an unusual turn with Japan's defence minister visiting in the wake of the melon-gate controversy. Several stories addressed households' financial strain, including relief measures for power prices, toll caps of fifty dollars weekly in Victoria, and superannuation cuts for Victorian public servants.",
+  "fetchedAt": "2026-08-16T21:23:46.265Z",
+  "summary": "Australia's political landscape faces growing pressure over immigration policy, with Labor warned against tightening work rights for visa holders as concerns about skills and integration mount, while an exclusive poll shows nearly half of Victorian Labor voters potentially defecting over the government's overall policies. The country is grappling with AI-related challenges, from deepfake scams targeting prominent Australians to new content labelling laws that may actually obscure fraudulent material. Domestically, Melbourne's housing market continues to dominate concerns with record income requirements in top suburbs, while the city grapples with safety issues at schools and alleged gangland violence, alongside broader economic uncertainty as the ASX looks set to decline following weak US economic data.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,356 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia politics live: Labor warned against changing work rights for visa holders amid ‘scapegoating’ of immigrants",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "desc": "<p>Dozens of non-profit groups urge Labor not to limit work rights for temporary migrants. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cva",
+      "pubDate": "Sun, 16 Aug 2026 21:23:35 GMT",
+      "img": "https://i.guim.co.uk/img/media/c23fe7f3d2388f0fdc880d9c4b9ae550b6b23b01/473_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Australia news LIVE: Labor marked down on migration; Hanson ramps up fight against gun buyback scheme",
+      "link": "https://www.smh.com.au/national/australia-news-live-labor-marked-down-on-migration-hanson-ramps-up-fight-against-gun-buyback-scheme-20260817-p60ov6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow along as we bring you live news updates from Australia and beyond.",
+      "pubDate": "Mon, 17 Aug 2026 07:18:28 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2388%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e68e3a0c291051dc312c5cd757e6bfcec8ec1cc9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Director faces investigations following Mundella collapse",
+      "link": "https://www.abc.net.au/news/2026-08-17/mundella-dairy-collapse-liquidation-investigation/105507238",
+      "desc": "The collapse of a well-known WA dairy processor and associated companies has left unsecured creditors empty-handed. Now liquidators are set to investigate possible insolvent trading and hundreds of po",
+      "pubDate": "Sun, 16 Aug 2026 20:58:54 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/76e992f7ba2c04032fcfc098b6af034f?impolicy=wcms_crop_resize&amp;cropH=2624&amp;cropW=1968&amp;xPos=802&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Live: Record number of 'shonks' banned from NDIS",
+      "link": "https://www.abc.net.au/news/2026-08-17/federal-politics-live-blog-august-7/107044768",
+      "desc": "A record number of so-called \"shonks\" have been banned from the National Disability Insurance Scheme this year, the federal government says. Follow live.",
+      "pubDate": "Sun, 16 Aug 2026 20:57:54 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/39b687ff969aec8b5feef1fc7c83bc79?impolicy=wcms_crop_resize&amp;cropH=3072&amp;cropW=2304&amp;xPos=2304&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Iran puts bounty on US soldiers",
+      "link": "https://www.smh.com.au/national/iran-puts-bounty-on-us-soldiers-20260817-p60ovb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Iran is offering a large cash bounty for killing or capturing American troops.",
+      "pubDate": "Mon, 17 Aug 2026 06:15:23 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/439cee9060d9ae9406ea885979fe281119fc7fc8",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Teenager charged over alleged Melbourne shooting",
+      "link": "https://www.smh.com.au/national/teenager-charged-over-alleged-melbourne-shooting-20260817-p60ova.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An 18-year-old man has been charged over an alleged shooting at a Melbourne shopping centre.",
+      "pubDate": "Mon, 17 Aug 2026 06:10:16 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/58ffccc935ae8b50e35f843d5738fa91b67dd761",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Poor genetic health threatens many species – but it’s fixable",
+      "link": "https://theconversation.com/poor-genetic-health-threatens-many-species-but-its-fixable-288091",
+      "desc": "Four experts explain what genetic health is and why it matters for our most vulnerable wildlife.",
+      "pubDate": "2026-08-16T20:06:27Z",
+      "img": "https://images.theconversation.com/files/751887/original/file-20260804-50-24pvu7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C273%2C2116%2C1058&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "New EU laws make AI content labels compulsory – but might just make it harder to spot deepfakes",
+      "link": "https://theconversation.com/new-eu-laws-make-ai-content-labels-compulsory-but-might-just-make-it-harder-to-spot-deepfakes-289597",
+      "desc": "Labels alone won’t be enough to tackle the rise of deepfakes.",
+      "pubDate": "2026-08-16T20:06:14Z",
+      "img": "https://images.theconversation.com/files/754009/original/file-20260814-50-88hy22.jpg?ixlib=rb-4.1.1&amp;rect=0%2C872%2C4400%2C2200&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Australia divided on Labor government policies",
+      "link": "https://www.smh.com.au/national/australia-divided-on-labor-government-policies-20260817-p60ov8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "More voters support falling home prices, a new poll today shows.",
+      "pubDate": "Mon, 17 Aug 2026 06:06:12 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2b102b641abf1599f6846d6b0adba4882b6c8cd5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Why most homeowners don’t need to lose sleep over negative equity",
+      "link": "https://theconversation.com/why-most-homeowners-dont-need-to-lose-sleep-over-negative-equity-289591",
+      "desc": "Owing more to the bank than your home is worth is a daunting prospect. But if you’ve bought a place to live in, not as an investment, there’s little reason to panic.",
+      "pubDate": "2026-08-16T20:05:31Z",
+      "img": "https://images.theconversation.com/files/754003/original/file-20260813-50-oomihl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C671%2C4066%2C2033&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Exclusive poll shows nearly half of respondents defecting from Victorian Labor. What do these voters care about?",
+      "link": "https://theconversation.com/exclusive-poll-shows-nearly-half-of-respondents-defecting-from-victorian-labor-what-do-these-voters-care-about-288946",
+      "desc": "Victorian voters surveyed named cost of living, crime and health as their top three policy issues, with just over three months until the next state election.",
+      "pubDate": "2026-08-16T20:05:09Z",
+      "img": "https://images.theconversation.com/files/754027/original/file-20260814-60-i06ifc.png?ixlib=rb-4.1.1&amp;rect=0%2C62%2C1999%2C999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Alleged gangland boss shot in Melbourne",
+      "link": "https://www.smh.com.au/national/alleged-gangland-boss-shot-in-melbourne-20260817-p60ov7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Police are treating the shooting of Melbourne crime figure Fadi Haddara as a targeted attack.",
+      "pubDate": "Mon, 17 Aug 2026 06:04:55 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/65497d6ea87d03bc2c3f6e6b5feedc1efc3905ec",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Sam Pang wins gold Logie as Robert Irwin unleashes reptiles",
+      "link": "https://www.abc.net.au/news/2026-08-17/logies-2026-key-moments-robert-irwin-sam-pang-sam-neill/107044090",
+      "desc": "Sam Pang takes home the gold at the 66th TV Week Logies as Robert Irwin takes over the hosting duties. Here are your key moments.",
+      "pubDate": "Sun, 16 Aug 2026 19:50:44 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/681d944391175d73d46aa3a2de325a95?impolicy=wcms_crop_resize&amp;cropH=2728&amp;cropW=2046&amp;xPos=1047&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "SubTopia: A Seed for Housing",
+      "link": "https://www.smh.com.au/national/subtopia-a-seed-for-housing-20260813-p60o4f.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A winning entry into the SubTopia design competition.",
+      "pubDate": "Mon, 17 Aug 2026 05:45:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/388247256c4e9460a7ffe74e318fba11287fef89",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "SubTopia: Blackwood Fields",
+      "link": "https://www.smh.com.au/national/subtopia-blackwood-fields-20260813-p60o4k.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A winning entrant into the SubTopia design competition.",
+      "pubDate": "Mon, 17 Aug 2026 05:45:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/02ab77dfd244186cc8f5642b97ca2f6ef3161ab5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "SubTopia: Murnong Yaluk",
+      "link": "https://www.smh.com.au/national/subtopia-murnong-yaluk-20260813-p60o4m.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A winning entrant into the SubTopia design competition.",
+      "pubDate": "Mon, 17 Aug 2026 05:45:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f727274e3db5366f94417d73898eb647fe025ac5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "SubTopia: Common Ground",
+      "link": "https://www.smh.com.au/national/subtopia-common-ground-20260813-p60o4o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A winning entrant into the SubTopia design competition.",
+      "pubDate": "Mon, 17 Aug 2026 05:45:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0ae84f2e4041633d2cfdf0caa675fc8fea742c4f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Surge in demand for Sydney’s metro trains leaves passengers waiting",
+      "link": "https://www.smh.com.au/national/nsw/surge-in-demand-for-sydney-s-metro-trains-leaves-passengers-waiting-20260807-p60mg6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "On the eve of the second anniversary of the metro city section, new government figures reveal the choices commuters are making.",
+      "pubDate": "Mon, 17 Aug 2026 05:40:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.18102564102564103%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_75/t_crop_custom/q_86%2Cf_auto/c6f8affde5d8deb538d433149af2ad0514204172",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "ASX set to slide, Wall Street slips after weak update on the US economy",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-slips-after-weak-update-on-the-us-economy-20260817-p60ouq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The US stock market edged back from its all-time high following the latest report on the economy to come in surprisingly weak, this time about how much shoppers are spending at retailers.",
+      "pubDate": "Mon, 17 Aug 2026 05:22:53 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2066%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_104/t_crop_custom/q_86%2Cf_auto/6acbb96b8f0c7860e6f717bca0334702ca21a9c9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "NZ creates remarkably valuable tech firms. How can it keep more of the benefits?",
+      "link": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789",
+      "desc": "A new stocktake of the tech ecosystem shows NZ has grown companies now valued at more than $133 billion. But is it as good at retaining them?",
+      "pubDate": "2026-08-16T19:04:11Z",
+      "img": "https://images.theconversation.com/files/754000/original/file-20260813-50-34pjqa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C456%2C5472%2C2736&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "In this Sydney suburb you need to earn $6.3m to be in the top 1%: How does your area compare?",
+      "link": "https://www.smh.com.au/national/nsw/in-this-sydney-suburb-you-need-to-earn-6-3m-to-be-in-the-top-1-percent-how-does-your-area-compare-20260811-p60nf7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The top earners in 83 locales take home more than $1 million a year on average. Check out your neighbourhood.",
+      "pubDate": "Mon, 17 Aug 2026 05:01:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0105%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/edb8b622ffcc539f31e1f1e0918a3c83369ceff55d258300d9cb22d1a6fb6dff",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "AI deepfake scams are impersonating Australia's most public faces",
+      "link": "https://www.abc.net.au/news/2026-08-17/asic-ai-powered-impersonation-scams-warning-alan-kohler/107038256",
+      "desc": "Regulators are removing record numbers of fake celebrity-endorsed investment scams, using AI images of famous figures from the prime minister to Alan Kohler and Gina Rinehart.",
+      "pubDate": "Sun, 16 Aug 2026 19:00:53 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/5a80e26495c6e8c88b10618bc7275b90?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=516&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Betting against the bank. ‘Widow-maker’ trades are making a comeback",
+      "link": "https://www.smh.com.au/business/banking-and-finance/betting-against-the-bank-widow-maker-trades-are-making-a-comeback-20260813-p60o7u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "It’s known as a high-risk trade in the investment world. Lately, more have been game to try it.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/4f792360cdd8053c0ce21dca9cfe1c8159e06f08",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The fake Alan Kohler interview that shows a type of scam that’s on the rise",
+      "link": "https://www.smh.com.au/business/companies/the-fake-alan-kohler-interview-that-shows-a-type-of-scam-that-s-on-the-rise-20260816-p60opm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The corporate regulator says bogus investment claims using sophisticated AI-generated images of famous Australians are becoming more prevalent.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_187%2C$y_0/t_crop_custom/q_86%2Cf_auto/9509b5e48139cb0e5d3d1698441b2b339032e3c16aad894797f68a276c97c3f4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Brisbane’s most expensive homes are in our suburb, but we still love underdogs and outsiders",
+      "link": "https://www.smh.com.au/national/queensland/brisbane-s-most-expensive-homes-are-in-our-suburb-but-we-still-love-underdogs-and-outsiders-20260723-p60i1v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "While all Brisbane suburbs change over time, some change more rapidly than others.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/521911ffae8e42c38a036e27db574fe8fcc0053d1f6649ef36b52e41cd59eecd",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Developer’s plans could cut out council for golf course resort, housing approval",
+      "link": "https://www.smh.com.au/national/queensland/developer-hopes-to-cut-out-council-for-golf-course-resort-housing-approval-20260728-p60jaa.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Stephen Williams is seeking a priority designation to clear the way for a five-star resort and housing hub on land that includes Sirromet Winery.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5274%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/1fd97222f141e13a75b550e5e4d96523726f0868",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Real estate agent sacked over allegations he secretly sold properties to his partner",
+      "link": "https://www.smh.com.au/national/victoria/real-estate-agent-sacked-over-allegations-he-secretly-sold-properties-to-his-partner-20260811-p60n9w.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Ray White firm dismissed the agent and reported him to Consumer Affairs after a deceased estate was sold for $80,000 under its listed price – to his partner.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7286%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_242%2C$y_260/t_crop_custom/q_86%2Cf_auto/b20016202c9aec65052f4e671d1580e10c9fa0ec",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Melbourne High students to shift into portables after ‘extreme’ safety concerns raised",
+      "link": "https://www.smh.com.au/national/victoria/melbourne-high-students-to-shift-into-portables-after-extreme-safety-concerns-raised-20260813-p60o1d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The prestigious South Yarra all-boys public school will move up to 30 demountable classrooms to its hockey field from next year.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.2622%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_97/t_crop_custom/q_86%2Cf_auto/c2ae2609f4a08f25a29d9c5b8ea1d81746e2aaccd8f2af222f465a906d9a6491",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘It’s really debilitating’: The hidden danger in your daily screen time driving a surge in disease",
+      "link": "https://www.smh.com.au/healthcare/it-s-really-debilitating-the-hidden-danger-in-your-daily-screen-time-driving-a-surge-in-disease-20260814-p60obj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Optometrists are reporting a significant rise in dry eye disease, particularly among younger patients, due to extended screen use. The condition can impact vision and lead to permanent damage.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.138%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_63/t_crop_custom/q_86%2Cf_auto/0fa186a0bf337ce9a9ac3d5f9f395474621d6b2e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "How Perth’s most in-demand schools impact nearby property prices",
+      "link": "https://www.smh.com.au/national/western-australia/how-perth-s-most-in-demand-schools-impact-nearby-property-prices-20260814-p60ode.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "New data, compiled by Buyers Advocate Perth, shows a trend in property prices over the past 30 years in the catchments of some of WA’s most in demand schools.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5515625%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_47/t_crop_custom/q_86%2Cf_auto/42a8dacf0d76e1c5e4d4568c9a143e8279be341fb70439f755c73aab09e3292f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The bright sparks whose jobs are safe from artificial intelligence",
+      "link": "https://www.smh.com.au/national/nsw/the-bright-sparks-whose-jobs-are-safe-from-artificial-intelligence-20260814-p60oe9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "While AI might be able to harness all of human intelligence, it also has the capacity to harvest its worst",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2626%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7d6cf652b17117c75fb2802f8755b7eb9899540f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The surprise guest at the Nationals’ gala dinner",
+      "link": "https://www.smh.com.au/cbd/the-surprise-guest-at-the-nationals-gala-dinner-20260816-p60oql.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "All eyes heading into the party”s conference over the weekend were on who would become its next national director. Then billionaire Clive Palmer showed up.",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4005%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_83%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/2ec47ed989d88e99e0fcb5b45a608e9bcc49a75e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Here's what is changing about how food delivery workers are paid",
+      "link": "https://www.abc.net.au/news/2026-08-17/what-is-changing-about-how-food-delivery-workers-are-paid/107036602",
+      "desc": "New minimum standards for food delivery workers come into effect today. It will see about 250,000 workers access better pay, and personal accident insurance cover.",
+      "pubDate": "Sun, 16 Aug 2026 18:55:16 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/738839ec08b463063c623fb1c9560515?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=403&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Business and mining leaders resist push to slash migration intake",
+      "link": "https://www.abc.net.au/news/2026-08-17/mining-business-immigrant-worker-skilled-visa-economy/107043674",
+      "desc": "Business and mining leaders are warning it is critical for Australia to remain a destination of choice for skilled migrants, resisting a push from across the political spectrum to cut the immigration ",
+      "pubDate": "Sun, 16 Aug 2026 18:54:16 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/837142a11fa5897f70400777dd9c525c?impolicy=wcms_crop_resize&amp;cropH=1622&amp;cropW=1217&amp;xPos=552&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Rooftop solar waste is growing. Some experts say $10 fee per panel could help",
+      "link": "https://www.abc.net.au/news/2026-08-17/solar-panel-waste-growing-recycling-fee-proposed/107023182",
+      "desc": "Solar panel waste is projected to reach about 90,000 tonnes a year by 2030. One of Australia's leading science organisations says a $10 fee per panel could help solve the problem.",
+      "pubDate": "Sun, 16 Aug 2026 18:40:22 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/39e75d27d07993780e212c56cb2659bf?impolicy=wcms_crop_resize&amp;cropH=3362&amp;cropW=2522&amp;xPos=1245&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
       "link": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
@@ -35448,236 +35798,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sydney suburbs which recorded rent price drops, as 'real test' looms",
-      "link": "https://www.abc.net.au/news/2026-07-18/domain-quarterly-report-shows-sydney-rent-price-drops-increases/106912298",
-      "desc": "The June quarterly rent report from Domain paints a mixed picture of Sydney's market, including both major surges and significant drops for rent prices in certain suburbs.",
-      "pubDate": "Fri, 17 Jul 2026 21:11:50 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/5bd651e5eaa4727b6405a59df59ed7ca?impolicy=wcms_crop_resize&amp;cropH=2851&amp;cropW=2138&amp;xPos=1068&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Regulating AI is like catching smoke, warns Christopher Pyne",
-      "link": "https://www.abc.net.au/news/2026-07-18/regulating-ai-is-like-catching-smoke-warns-christopher-pyne/106931580",
-      "desc": "Former Defence Minister Christopher Pyne tells David Lipson artificial intelligence is the most significant development since the nuclear weapon.",
-      "pubDate": "Fri, 17 Jul 2026 21:00:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/d9d8bd1d497ce2af89a66307aac101a6?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=1620&amp;xPos=1110&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "My ex-partner wants to try tuning-fork therapy. Should I tell anyone?",
-      "link": "https://www.smh.com.au/national/my-ex-partner-wants-to-try-tuning-fork-therapy-should-i-tell-anyone-20260701-p60bos.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "If your ex-partner opts for tuning-fork therapy, you’re probably on different wavelengths, advises Modern Guru.",
-      "pubDate": "Sat, 18 Jul 2026 07:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7844%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/2275f8565a1a61a3a06b795238a295df3f2b658c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-      "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "desc": "<p>109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaki",
-      "pubDate": "Fri, 17 Jul 2026 20:31:59 GMT",
-      "img": "https://i.guim.co.uk/img/media/3c48b75e08a12165709b2e264eb0d86e516dcf5b/480_0_5001_4000/master/5001.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘It’s a bit gamified, almost like Pokemon Go’: The tracking app preventing magpie attacks",
-      "link": "https://www.smh.com.au/national/it-s-a-big-gamified-almost-like-pokemon-go-the-tracking-app-preventing-magpie-attacks-20260706-p60cvn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Being swooped by a magpie is practically a rite of passage during nesting season. But a new app aims to change that.",
-      "pubDate": "Sat, 18 Jul 2026 06:15:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3014%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_154%2C$y_102/t_crop_custom/q_86%2Cf_auto/a2a7044560638b3c1c89e346ecac52bca67a68ad",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The revolutionary music machine invented by an ‘audio mad scientist’ and Tame Impala frontman",
-      "link": "https://www.smh.com.au/national/the-revolutionary-music-machine-invented-by-an-audio-mad-scientist-and-tame-impala-frontman-20260703-p60cft.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "It was an idea from songwriter-producer Kevin Parker, made a reality by Kiwi ‘sonic tinkerer’ Tom Cosm. The result is a device that opens up sound creation to just about anyone.",
-      "pubDate": "Sat, 18 Jul 2026 06:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5883333333333333%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_836/t_crop_custom/q_86%2Cf_auto/11c741ca1bb24b18007c814c334e3bffa1062961",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "What your sleep schedule says about what you eat, and how it affects your body",
-      "link": "https://www.smh.com.au/national/queensland/what-your-sleep-schedule-says-about-what-you-eat-and-how-it-affects-your-body-20260714-p60f6o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The study analysed data from nearly 300 women and assessed if they were night owls or early birds.",
-      "pubDate": "Sat, 18 Jul 2026 06:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_434%2C$y_265/t_crop_custom/q_86%2Cf_auto/d9ad5f51efaa153058eaf0adba50a20e47b87764",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Prime minister is right to pump the brakes on data centres",
-      "link": "https://www.smh.com.au/national/prime-minister-is-right-to-pump-the-brakes-on-data-centres-20260716-p60fx7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The development of massive data centres is causing unease and needs deft manoeuvring to avoid public disillusionment.",
-      "pubDate": "Sat, 18 Jul 2026 05:50:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2759%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/9cd394c947ccccaed96b7b27e3db9a5c04aa1ea8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Sluggish salary? Why your recent ‘pay rise’ might not feel like one",
-      "link": "https://www.smh.com.au/business/workplace/sluggish-salary-why-your-recent-pay-rise-might-not-feel-like-one-20260716-p60fvr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Months of inflationary pressures are making it hard for salaries to keep up with the cost of everyday life, and there’s little respite on the horizon.",
-      "pubDate": "Sat, 18 Jul 2026 05:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/q_86%2Cf_auto/f587a823a2965c18e079aec448292c65e30bbc13d1f7951794814cc85438b158",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "'Unethical': Minister admits big tech firms use Aussie content without artists' permission",
-      "link": "https://www.abc.net.au/news/2026-07-18/ai-music-copyright-training-office-of-ai/106901562",
-      "desc": "Australian artists have already had their music taken to train overseas AI models without payment or consent.",
-      "pubDate": "Fri, 17 Jul 2026 19:28:00 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8d6c34d89d7d708e089bdae4a3545d89?impolicy=wcms_crop_resize&amp;cropH=1920&amp;cropW=1440&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "A Beauty Point family home that gives brutalism a contemporary, modern feel",
-      "link": "https://www.smh.com.au/business/consumer-affairs/a-beauty-point-family-home-that-gives-brutalism-a-contemporary-modern-feel-20260430-p5zsm6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Aside from the off formed concrete walls and robust materials such as steel, there are certain other hallmarks that tie this house to the 1970s.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_182/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/303b677fd447022a06e6bb1b291f3c22511bfed1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "First we read DNA. Then we edited. Now we’re learning to write",
-      "link": "https://www.smh.com.au/national/first-we-read-dna-then-we-edited-now-we-re-learning-to-write-20260627-p60al5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "For billions of years, evolution was driven by random mutations. A new breakthrough puts control over DNA, life’s blueprint, in human hands.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.14942853111330603%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/q_86%2Cf_auto/83512ef6877d9cfa69d9216a1d83396583752e14",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Race to the bottom’: Investigation reveals toll of weak medical device laws",
-      "link": "https://www.smh.com.au/national/race-to-the-bottom-investigation-reveals-toll-of-weak-medical-device-laws-20260630-p60bas.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "In the first part of an AI-powered investigation, we reveal the death and injury toll of Australia’s medical device industry. Find out how a tiny back pain pump has left a mother paralysed.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6623%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f64e6a9d9158430c3ffe1c2358f212e562410910330ae5adc226b079d45e7ed3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘That rise in libido is a little bit alarming’: ABC presenter Ed Le Brocq",
-      "link": "https://www.smh.com.au/national/that-rise-in-libido-is-a-little-bit-alarming-abc-presenter-ed-le-brocq-20260701-p60bph.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The musician and writer talks death, sex and testosterone.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7727103519147687%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_559%2C$y_449/t_crop_custom/q_86%2Cf_auto/f46e6c5e365604d844e6213d7578d8b67732a28a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The many faces and multiple betrayals of ‘Australia’s worst daycare predator’",
-      "link": "https://www.smh.com.au/national/nsw/the-many-faces-and-multiple-betrayals-of-australia-s-worst-daycare-predator-20260715-p60fhb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "He passed himself off as the “rock star” child carer, a family man beloved by kids, co-workers and parents. But Hamish Tait is now accused of being “a wolf in sheep’s clothing”.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/510f0476bbe7ea5721c6383ab493a77f3b7a9616e42f99361472f0e61bd787ab",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "There are millions of documents in the Epstein files. One revealed Virginia Giuffre’s ‘saviour’ was not all he seemed",
-      "link": "https://www.smh.com.au/national/there-are-millions-of-documents-in-the-epstein-files-one-revealed-virginia-giuffre-s-saviour-was-not-all-he-seemed-20260716-p60fsb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "She took on some of the world’s most powerful people, but behind closed doors she was fighting a secret battle – now those aware of the alleged violence are speaking out.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_210/t_crop_custom/q_86%2Cf_auto/bffe81baf95b9179494e5860934bb7fb6dd70a5c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The July 18 edition",
-      "link": "https://www.smh.com.au/national/the-july-18-edition-20260716-p60fxx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Life, not as we know it | Aussie company’s cool data centre solution | Music machine strikes a chord | Comedy as therapy",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_62/t_crop_custom/q_86%2Cf_auto/f40afdd3a3e6d08e59f49726af2d3ad59ec27127a3b5d8b7d0a36b859417bd25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘A mecca for antisocial behaviour’: Residents fume over beauty billionaires’ derelict property",
-      "link": "https://www.smh.com.au/national/victoria/a-mecca-for-antisocial-behaviour-residents-fume-over-beauty-billionaires-derelict-property-20260717-p60g4r.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The vacant corner site – which is owned by the co-CEOs of major beauty store Mecca – has been described by locals as an embarrassment to their community.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_22/t_crop_custom/q_86%2Cf_auto/878d7c72df5129876923c87ebd10ca3ff98a751e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Falsified documents, a $3000 fine and the Big Build deal haunting the premier",
-      "link": "https://www.smh.com.au/national/victoria/falsified-documents-a-3000-fine-and-the-big-build-deal-haunting-the-premier-20260717-p60g7q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The owner of a CFMEU-backed labour firm has cut a plea deal over suspicious cash withdrawals, bringing fresh focus to allegations Jacinta Allan’s office intervened to help get the company onto a Big B",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/9d0e69eceac62c10d0bc7605cd654a4ea2765245",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The hidden toll of medical devices that thousands use",
-      "link": "https://www.smh.com.au/national/the-hidden-toll-of-medical-devices-that-thousands-use-20260717-p60gcu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A major investigation reveals why risky machines resulting in deaths and injuries are sold without human clinical trials.",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c505168bec70ce2e4ff7dec81d0b2f08c12733e3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Malcolm Roberts falsely claimed COVID-19 vaccines caused miscarriages",
-      "link": "https://www.abc.net.au/news/2026-07-18/malcolm-roberts-falsely-claimed-covid-vax-causes-miscarriage/106930070",
-      "desc": "The One Nation senator made the previously unreported remarks during a live stream discussion with three prominent Australian anti-vaccine mandate activists.",
-      "pubDate": "Fri, 17 Jul 2026 18:55:26 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/f1c4045f061e59062ef15cf3317e227a?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "As US and Iran battle for control over Hormuz, oil nations are building alternatives",
-      "link": "https://www.abc.net.au/news/2026-07-18/gulf-nations-building-alternatives-to-strait-of-hormuz/106928846",
-      "desc": "Amid uncertainty around the Strait of Hormuz, for months Gulf countries and oil companies have been finding ways to bypass the choke point.",
-      "pubDate": "Fri, 17 Jul 2026 18:46:21 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/5ef839ee32f63ec4839e5f93d000fccf?impolicy=wcms_crop_resize&amp;cropH=3430&amp;cropW=2573&amp;xPos=1200&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Subsidy changes prompt battery installation collapse",
-      "link": "https://www.abc.net.au/news/2026-07-18/battery-installation-rates-collapse-solar-coaster-strikes-back/106909726",
-      "desc": "Federal subsidies have ignited huge demand for batteries, but a tightening of the rules has experts warning of \"boom and bust\" cycles for the industry.",
-      "pubDate": "Fri, 17 Jul 2026 18:44:20 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/4a0fef3d82687bfbbb0dcd3d88f2ebe7?impolicy=wcms_crop_resize&amp;cropH=1063&amp;cropW=797&amp;xPos=398&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
     }
   ]
 }
