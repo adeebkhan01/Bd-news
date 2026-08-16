@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T12:46:38.357Z",
-  "summary": "Russia's intensifying assault on Ukraine continues with fresh aerial attacks killing civilians across the country, while North Korean troops now bolster Russian forces in what represents a significant escalation of the conflict. In the Middle East, Israel has stepped up military operations in southern Lebanon despite a ceasefire agreement and expanded control in the occupied West Bank through civilian police rule, while tensions simmer with Iran over the strategic Strait of Hormuz amid ongoing US-Iran friction. Beyond these conflicts, regional instability extends to a potential formal end to the Korean War after South Korea proposed talks with North Korea, and Europe faces severe wildfire challenges requiring military intervention to contain summer heatwaves that have scorched landscapes across the continent.",
+  "fetchedAt": "2026-08-16T15:25:31.014Z",
+  "summary": "Global tensions are escalating across multiple conflict zones as Israel intensifies military operations in Lebanon and the West Bank while simultaneously facing threats from Iran and discussions about the Strait of Hormuz, Russia continues aerial bombardment across Ukraine with North Korean troop reinforcements, and Yemen sees renewed Houthi attacks. The Middle East remains the dominant concern, with diplomatic efforts underway between Iran and the US regarding regional tensions and potential ceasefire arrangements. Secondary developments include North Korea's military support for Russia, a teenager's arrest in a Virginia university shooting, flooding in Indiana, and ongoing legal proceedings including a trial related to Tupac Shakur's death. Sports and climate stories round out the news cycle, though they remain secondary to the military and diplomatic crises unfolding globally.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Teenager arrested in Virginia State University shooting that injured five",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
+      "pubDate": "Sun, 16 Aug 2026 15:22:50 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+      "desc": "About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.",
+      "pubDate": "Sun, 16 Aug 2026 14:29:18 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24230354554435-1727334024.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
+      "desc": "Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.",
+      "pubDate": "Sun, 16 Aug 2026 13:53:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786888341.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+      "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+      "desc": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
+      "pubDate": "Sun, 16 Aug 2026 13:18:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26226687153183-1786877760.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+      "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+      "desc": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
+      "pubDate": "Sun, 16 Aug 2026 13:17:57 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-12T132109Z_1086069827_RC21XMARBV2I_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-QUSRA-1786870614.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
@@ -13860,66 +13910,6 @@
       "desc": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
       "pubDate": "Fri, 17 Jul 2026 15:40:10 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/164A5144-1784299021.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Burnham confirmed as leader of UK’s governing Labour Party, headed for PM",
-      "link": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
-      "desc": "Andy Burnham set to become UK prime minister but faces challenges including the cost of living crisis and two wars.",
-      "pubDate": "Fri, 17 Jul 2026 13:51:18 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5a2180d0f7-1784291712.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "China’s Xi Jinping launches new AI alliance: What is it?",
-      "link": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it?traffic_source=rss",
-      "desc": "Beijing is likely to use the WAICO alliance to influence global AI regulations, analysts say.",
-      "pubDate": "Fri, 17 Jul 2026 13:47:38 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-17T050624Z_2070014021_RC2DFMAILY47_RTRMADP_3_CHINA-AI-1784291078.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN urges probe into deaths in Pakistani-administered Kashmir unrest",
-      "link": "https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss",
-      "desc": "Kashmir clashes have killed 31 since June, leading UN rights chief Volker Turk to appeal for calm.",
-      "pubDate": "Fri, 17 Jul 2026 13:16:57 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5a10eb-1784287467.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
-      "link": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss",
-      "desc": "Satellite images reveal strikes between July 7 and 12 on Iran’s largest nuclear power plant.",
-      "pubDate": "Fri, 17 Jul 2026 13:10:50 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/GettyImages-1685052-1784216862.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
-      "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
-      "desc": "Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.",
-      "pubDate": "Fri, 17 Jul 2026 13:10:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5a208d-1784291469.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "‘Offer he can’t refuse’: Is Italy’s mafia law breaking crime or families?",
-      "link": "https://www.aljazeera.com/news/2026/7/17/offer-he-cant-refuse-is-italys-mafia-law-breaking-crime-or-families?traffic_source=rss",
-      "desc": "The Italian government can now offer children and wives of mafia bosses a way out of the family business.",
-      "pubDate": "Fri, 17 Jul 2026 13:09:18 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5a1d9e77-1784290718.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
