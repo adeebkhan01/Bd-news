@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T12:51:45.485Z",
-  "summary": "Global tensions are escalating across multiple fronts as Trump administration policy shifts reshape military commitments and regional conflicts intensify. The Trump administration is scaling back joint military exercises with South Korea while sending envoy Jared Kushner to Israel to negotiate a Gaza peace plan amid broader US-Iran tensions following the expiration of their memorandum of understanding. The Middle East conflict is deepening with reports of Israeli military operations in the West Bank, settler violence against Palestinians, and a controversial call from an Israeli minister for nightly killings in Gaza, while Iran's top negotiator claims victory in confrontation with the US and Israel. Meanwhile, humanitarian crises are mounting with the Ebola outbreak in the Democratic Republic of Congo becoming the deadliest in the country's history, and major economies like Japan and India face economic headwinds.",
+  "fetchedAt": "2026-08-17T15:28:55.353Z",
+  "summary": "Iran's nuclear agreement with the US has collapsed as the Memorandum of Understanding expires, escalating regional tensions as Trump administration officials threaten military action against Iran and potentially Oman. The Middle East remains a flashpoint with intensified Israeli-Palestinian violence, including reports of targeted killings in Gaza and new Israeli settler outposts in the West Bank, while Trump envoy Kushner is in Israel pursuing a separate Gaza peace plan involving Hamas. Beyond the region, major economic and humanitarian concerns are emerging including a record-breaking Ebola outbreak in the Democratic Republic of Congo, Japan's slowing economy missing growth forecasts, and the humanitarian crisis in Gaza prompting activist attempts to break Israel's siege. The Trump administration is simultaneously scaling back military exercises with South Korea, signalling a broader shift in US strategic posture toward its regional allies.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Police execute controlled World War II–era Mine explosion",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+      "desc": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
+      "pubDate": "Mon, 17 Aug 2026 15:08:17 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786979267.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+      "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
+      "desc": "President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November&#039;s US midterms.",
+      "pubDate": "Mon, 17 Aug 2026 15:06:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a8231567421-1786917206.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+      "pubDate": "Mon, 17 Aug 2026 14:59:02 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cbd/live/ce084930-9a40-11f1-a86b-519b4d19bbee.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+      "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+      "desc": "Twelve people including the captain are on board &#039;Kate&#039;, the latest vessel attempting to deliver aid.",
+      "pubDate": "Mon, 17 Aug 2026 14:12:08 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/%D9%81%D8%B1%D8%A7%D9%86%D9%83-%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%88-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%86%D8%AA-%D9%A3-1786972046.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
+      "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+      "desc": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
+      "pubDate": "Mon, 17 Aug 2026 12:44:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260810__C4AU2ZQ__v2__HighRes__YemenSaudiIranUsIsraelWar-1786373417.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump scales down war games with South Korea: Why it matters",
       "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
@@ -405,6 +455,16 @@
       "sourceColor": "#D2A02E"
     },
     {
+      "title": "Why Kyiv keeps attacking Russian retail giant Wildberries",
+      "link": "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Ukraine has been striking warehouses belonging to Russia's largest online marketplace, saying the attacks disrupt Moscow's military logistics. But experts see wider risks for Russia's economy.",
+      "pubDate": "2026-08-16T15:45:00Z",
+      "img": "https://static.dw.com/image/78020232_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
       "title": "Teenager arrested in Virginia State University shooting that injured five",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
@@ -523,6 +583,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Will North Korean forces bolster Russia's Ukraine war?",
+      "link": "https://www.dw.com/en/will-north-korean-forces-bolster-russia-s-ukraine-war/a-78385524?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Intelligence agencies report that North Korea could send up to 50,000 troops to support Russia in its war on Ukraine, though experts doubt this will fundamentally shift the military balance in Moscow’",
+      "pubDate": "2026-08-16T06:49:00Z",
+      "img": "https://static.dw.com/image/76947268_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Troops from North Korea to boost Russia's Ukraine forces",
@@ -2133,6 +2203,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "EU waste packaging rules: Why small businesses are worried",
+      "link": "https://www.dw.com/en/eu-waste-packaging-rules-why-small-businesses-are-worried/a-78326555?maca=en-rss-en-bus-2091-rdf",
+      "desc": "The EU has introduced new rules targeting packaging waste and \"forever chemicals.\" Although the changes will be phased in slowly, some small sellers have already paused shipments due to the additional",
+      "pubDate": "2026-08-12T09:21:00Z",
+      "img": "https://static.dw.com/image/78330980_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "EU waste packaging rules: Why small businesses are worried",
@@ -13930,36 +14010,6 @@
       "desc": "IMF releases £346m in emergency funds as new details emerge about the disaster response.",
       "pubDate": "Sat, 18 Jul 2026 15:35:54 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5b94e5e51e-1784386789.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
-      "link": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
-      "desc": "The deals include rebuilding the long-defunct Iraq-Syria crude oil pipeline, which could bypass the Strait of Hormuz.",
-      "pubDate": "Sat, 18 Jul 2026 14:23:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5b80c1-1784381633.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Top German conservative quits after surrogacy sparks backlash within party",
-      "link": "https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party?traffic_source=rss",
-      "desc": "Jens Spahn steps down after party criticism over surrogacy, highlighting tensions in Germany&#039;s conservative coalition.",
-      "pubDate": "Sat, 18 Jul 2026 13:54:21 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5b781527ad-1784379413.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran accuses US of striking critical infrastructure as war intensifies",
-      "link": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
-      "desc": "The conflict has been escalating since US President Donald Trump declared 10 days ago the peace deal with Iran is over.",
-      "pubDate": "Sat, 18 Jul 2026 12:59:26 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5b058c6b97-1784350092.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"

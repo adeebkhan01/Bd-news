@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T12:51:30.630Z",
-  "summary": "Australia is confronting several pressing policy challenges today, with Peter Dutton's Liberal-National opposition calling for more police funding rather than parliamentary seats, while independent David Taylor is demanding the government repeal its tax measures to secure his crucial NDIS bill support. On the technology and safety front, new AI-powered satellites are revolutionising wildfire detection as Australia grapples with fire risks, while Qantas faces embarrassment after an A380 completed a return flight to the US with maintenance equipment still lodged in its wing. Social issues dominate the broader agenda, from mental health concerns highlighted by an inquest into a hospital death to antisemitism fears in Victoria, alongside ongoing investigations into allegations against prominent figures including former football executive Andrew Jones.",
+  "fetchedAt": "2026-08-17T15:28:39.055Z",
+  "summary": "Australia faces mounting economic pressures as government borrowing costs hit multi-year highs amid inflation concerns, while political debates intensify over the superannuation system and funding for the NDIS. A Western Australia byelection is underway as the state navigates questions about public service priorities, with opposition emerging over education and policing spending. In corporate accountability, 3M faces court allegations of knowingly hiding product harm for over fifty years, and Qantas encountered safety lapses on major routes. The nation continues grappling with ongoing social challenges including antisemitism in communities, education accessibility in rural areas, and distracted driving linked to music streaming platforms.",
   "sources": [
     {
       "id": "abcnews",
@@ -30,11 +30,111 @@
   ],
   "articles": [
     {
+      "title": "Sharks have always stoked panic in Australia. While scientific understanding grows, conservation efforts can be unseated by fear | Anna Clark",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/18/australia-shark-attacks-growing-fear-sydney-beaches",
+      "desc": "<p>From Aboriginal rock art to colonial encounters, sharks have been a figure of fear and fascination throughout the long human history of this continent</p><p>Is there a more primal fear among beach-",
+      "pubDate": "Mon, 17 Aug 2026 15:00:04 GMT",
+      "img": "https://i.guim.co.uk/img/media/5d1086ec1ed96ce8b21e4e8be3f10378f18636af/1230_319_6431_5145/master/6431.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "3M knew for more than 50 years that its products could harm humans, Australian government alleges in court documents",
+      "link": "https://www.theguardian.com/environment/2026/aug/18/3m-knew-for-more-than-50-years-that-its-products-could-harm-humans-australian-government-alleges-in-court-documents",
+      "desc": "<p><strong>Exclusive:</strong> federal government court filings claim internal company documents included warnings about products being toxic</p><ul><li><p>Get our <a href=\"https://www.theguardian.com",
+      "pubDate": "Mon, 17 Aug 2026 15:00:03 GMT",
+      "img": "https://i.guim.co.uk/img/media/70bf7c6fed4a9f8d09c1f8e5e16a47b7e5090b06/494_0_2460_1969/master/2460.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Top album releases linked to rise in fatal crashes as ‘distracted’ drivers access music",
+      "link": "https://www.theguardian.com/world/2026/aug/17/top-album-releases-linked-to-rise-in-fatal-crashes-as-distracted-drivers-access-music",
+      "desc": "<p>Harvard study finds traffic fatalities increase by 15% on release dates compared with similar days either side</p><p>The release of a new album by Taylor Swift might be a cause for celebration amon",
+      "pubDate": "Mon, 17 Aug 2026 15:00:02 GMT",
+      "img": "https://i.guim.co.uk/img/media/ceb6efa5e0b3fa7484a125c58a2363f5c20af2fb/679_0_6142_4912/master/6142.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Why rightwing critics are wrong to say the Australian super system is broken",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/18/why-rightwing-critics-are-wrong-to-say-the-australian-super-system-is-broken",
+      "desc": "<p>Spending on aged pension will be stable for decades to come, experts argue, despite claims by Bragg and Hanson</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_",
+      "pubDate": "Mon, 17 Aug 2026 15:00:01 GMT",
+      "img": "https://i.guim.co.uk/img/media/c21af2511cd24ef0d2b61cdfc4dfbb5fb5487389/886_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Reform’s Tice says people should stop fighting climate crisis and ‘enjoy’ heat",
+      "link": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
+      "desc": "<p>Deputy leader says it is ‘arrogant’ to try to stop global heating, despite UK being left reeling by summer firewave</p><p>Reform’s deputy leader has dismissed efforts to tackle climate breakdown as",
+      "pubDate": "Mon, 17 Aug 2026 14:51:21 GMT",
+      "img": "https://i.guim.co.uk/img/media/68560645ae625ac7728440008e1f0a0c8f12c6a7/123_0_5160_4128/master/5160.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "What is Ebola and why is the outbreak in DRC causing so much concern?",
+      "link": "https://www.theguardian.com/world/2026/aug/17/what-is-ebola-why-who-says-drc-uganda-outbreak-global-health-emergency",
+      "desc": "<p>Strain of virus with no vaccine has potential to overrun response impeded by conflict and misinformation</p><p>Health authorities in the Democratic Republic of the Congo are losing their battle to ",
+      "pubDate": "Mon, 17 Aug 2026 14:32:08 GMT",
+      "img": "https://i.guim.co.uk/img/media/2e3ca6b964114597aebf007381339ce30406a39f/479_0_4800_3840/master/4800.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Government borrowing costs hit multi-year highs as markets fear inflation, and oil and gas prices rise – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates",
+      "desc": "<p>British house prices expected to fall this year, despite ‘Burnham bounce’, Rightmove reports</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/17/newly-listed-asking-prices-kensi",
+      "pubDate": "Mon, 17 Aug 2026 14:31:59 GMT",
+      "img": "https://i.guim.co.uk/img/media/d3ecac1f9202d70b9fc8b3a2a54eeb209a382d20/204_0_2538_2030/master/2538.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Superquiz, Tuesday, August 18",
+      "link": "https://www.smh.com.au/national/superquiz-tuesday-august-18-20260817-p60p3u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "pubDate": "Mon, 17 Aug 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_242/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "UK government ‘irresponsible’ for not publishing emergency drought plans",
+      "link": "https://www.theguardian.com/environment/2026/aug/17/uk-government-emergency-drought-plans-transparency",
+      "desc": "<p>Campaigners demand greater transparency into water companies’ plans not made public due to ‘security reasons’</p><p>The UK government has been accused of a lack of transparency and of acting irresp",
+      "pubDate": "Mon, 17 Aug 2026 13:56:49 GMT",
+      "img": "https://i.guim.co.uk/img/media/5606efd173c1081e163dd9001e658c7a8e3ad742/351_0_4560_3648/master/4560.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
       "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
       "link": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
       "desc": "<p>Hi-tech cameras orbiting Earth and on the ground, along with AI, help firefighters extinguish blazes before they spread</p><p>The fires in Spokane, <a href=\"https://www.theguardian.com/us-news/wash",
       "pubDate": "Mon, 17 Aug 2026 12:00:53 GMT",
       "img": "https://i.guim.co.uk/img/media/c638ed164246c700aabde8f45b8221de4889a000/333_0_3312_2651/master/3312.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
+      "desc": "<p>Exclusive: Raúl Torrez is drafting two bills with state lawmakers to bolster consumer protections and child safety online, building on state’s landmark case against Meta</p><p><a href=\"https://www.",
+      "pubDate": "Mon, 17 Aug 2026 11:00:53 GMT",
+      "img": "https://i.guim.co.uk/img/media/f25d80fdd4eb21172be835d121eab4cfa52798cd/700_0_5000_4000/master/5000.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -680,6 +780,16 @@
       "sourceColor": "#0A5CA8"
     },
     {
+      "title": "Are Microsoft’s AI plans being held back by a shortage of chips?",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+      "desc": "<p>Guardian investigation finds apparent discrepancy between what tech company has said about its AI capacity – and the number of advanced chips it has in operation</p><p></p><p>The chips are quite sm",
+      "pubDate": "Mon, 17 Aug 2026 04:00:46 GMT",
+      "img": "https://i.guim.co.uk/img/media/2e6cebbdc93edfcd04f7445de550e1e428c6cb16/27_1630_2855_2283/master/2855.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
       "title": "Anthony Albanese's teen social media ban has a shark problem",
       "link": "https://www.abc.net.au/news/2026-08-17/teen-social-media-ban-efficacy-sharks-tech-companies/107044990",
       "desc": "If the prime minister is right and there's no time to waste, how much more of it can we spend just waiting for the teen social media ban to work?",
@@ -918,6 +1028,16 @@
       "sourceId": "conversationau",
       "sourceName": "The Conversation AU",
       "sourceColor": "#D8352A"
+    },
+    {
+      "title": "After Hormuz, China looks to the promise – and peril – of the Arctic’s ‘ice silk road’",
+      "link": "https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road",
+      "desc": "<p>China has established the first scheduled transit through the northern sea route, but questions remain over the environmental and political risks</p><p>When Marco Rubio suggested that the world sho",
+      "pubDate": "Mon, 17 Aug 2026 00:09:23 GMT",
+      "img": "https://i.guim.co.uk/img/media/5c65a999f0e35b4e73672e06644b71d00ced8236/0_0_4320_3456/master/4320.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Many NZ lawyers find their work rewarding – and distressing. How can they be supported?",
@@ -1375,6 +1495,16 @@
       "desc": "<a href=\"https://www.theguardian.com/commentisfree/picture/2026/aug/16/nicola-jennings-andy-burnham-disposable-barbecue-ban-cartoon\">Continue reading...</a>",
       "pubDate": "Sun, 16 Aug 2026 15:37:07 GMT",
       "img": "https://i.guim.co.uk/img/media/51c0e402901ffa926054b8c5d7cdf893baa8b161/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "A fake website and a deluge of CVs: the Australian firm embroiled in an FBI probe into alleged Chinese espionage",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/17/fbi-investigation-china-alleged-espionage-fake-websites-defence-intelligence-australia",
+      "desc": "<p><strong>Exclusive: </strong>Fake consultancy impersonating Brisbane firm online is one of 13 websites seized by the US Department of Justice</p><ul><li><p><a href=\"https://www.theguardian.com/austr",
+      "pubDate": "Sun, 16 Aug 2026 15:00:30 GMT",
+      "img": "https://i.guim.co.uk/img/media/4fb3471814f8ddf60e815e68672a8e1e71ac2e08/688_0_6880_5504/master/6880.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -2180,6 +2310,16 @@
       "sourceColor": "#052962"
     },
     {
+      "title": "Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims",
+      "link": "https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims",
+      "desc": "<p>London police force tells Telegraph incident was result of ‘human error’ and it is conducting an investigation</p><p>The Metropolitan police have apologised for accidentally exposing the email addr",
+      "pubDate": "Sat, 15 Aug 2026 12:22:47 GMT",
+      "img": "https://i.guim.co.uk/img/media/527748c927dbdb9a4ab079cc69ae9fd58dff3f05/229_98_3364_2690/master/3364.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
       "title": "Fraud charges for former WA Nationals candidate accused of hit-run",
       "link": "https://www.smh.com.au/national/fraud-charges-for-former-wa-nationals-candidate-accused-of-hit-run-20260815-p60oo8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
       "desc": "Benjamin Simpkins has been charged with three fraud offences uncovered during a hit-run investigation.",
@@ -2235,6 +2375,16 @@
       "desc": "<p></p> <a href=\"https://www.theguardian.com/commentisfree/picture/2026/aug/15/natalya-lobanova-uk-summer-heatwaves-cartoon\">Continue reading...</a>",
       "pubDate": "Sat, 15 Aug 2026 10:00:54 GMT",
       "img": "https://i.guim.co.uk/img/media/12c70ae9a79c4be4d7244fb9226c7e01a8d3f0ca/264_517_2523_2017/master/2523.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Hundreds of sea turtles are stranded in Cape Cod each year. An ‘amazing network’ has mobilized to help",
+      "link": "https://www.theguardian.com/us-news/2026/aug/15/cape-cod-stranded-sea-turtle-hospital",
+      "desc": "<p>Massachusetts beaches have become a ‘hotspot for mass stranding of sea turtles’, so an annual rescue effort has grown</p><p>Sea turtle #471 gasped audibly, as veterinarian Kathy Tuxbury palpated th",
+      "pubDate": "Sat, 15 Aug 2026 10:00:53 GMT",
+      "img": "https://i.guim.co.uk/img/media/c0bcb4b9d2efc8f8d1c57d897a5fcaf974d8e9e7/226_0_5602_4480/master/5602.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -36428,26 +36578,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Superquiz, Sunday, July 19",
-      "link": "https://www.smh.com.au/national/superquiz-sunday-july-19-20260716-p60fst.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
-      "pubDate": "Sat, 18 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_234/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak",
-      "link": "https://www.theguardian.com/society/2026/jul/18/trump-cyclosporiasis-outbreak",
-      "desc": "<p>Experts say layoffs, reduced disease surveillance and Medicaid cuts have made the foodborne parasite more difficult to track and contain</p><p>As soon as Michigan detected the first sign of cyclosp",
-      "pubDate": "Sat, 18 Jul 2026 13:32:17 GMT",
-      "img": "https://i.guim.co.uk/img/media/0db0420f58fe4cb79a31e9d5dc7db591e1eaab79/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
