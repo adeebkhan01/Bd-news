@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T21:23:56.633Z",
-  "summary": "Global tensions are escalating across multiple flashpoints, with the Middle East dominating headlines as Israeli operations intensify in the West Bank and Lebanon, while Turkish and Iranian officials voice concerns about regional stability and the critical Strait of Hormuz. The Ukraine conflict continues to draw international attention, with Russian strikes hitting civilian targets and North Korean troops reportedly being deployed to support Russian forces. Political developments include Brazil's former leaders Lula and Bolsonaro launching presidential campaigns, Japan facing regional backlash over ministerial visits to a controversial war shrine, and South Korea proposing formal peace talks with the North. Domestic incidents include a shooting at Virginia State University and flooding deaths in Indiana, while sports news features Mohamed Salah's debut and transfer activity in European football.",
+  "fetchedAt": "2026-08-17T01:28:34.345Z",
+  "summary": "The Middle East remains the dominant global flashpoint, with escalating tensions between Israel and Iran threatening regional stability as a landmark nuclear agreement expires, while Israeli military operations in Gaza, Lebanon, and the occupied West Bank continue to intensify despite international concern. Russia's invasion of Ukraine shows no signs of abating, with North Korean troops now reinforcing Russian forces and fresh strikes killing civilians across Ukrainian cities. Donald Trump's return to prominence is reshaping US foreign policy, including scaled military exercises with South Korea and provocative statements about controlling the Strait of Hormuz, while geopolitical realignment sees Turkey and other regional powers repositioning themselves amid the broader US-Iran confrontation. Domestically, natural disasters have struck multiple countries, including Hurricane Lala devastating Hawaii and flooding affecting Indiana.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
+      "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
+      "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+      "desc": "US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un.",
+      "pubDate": "Mon, 17 Aug 2026 00:11:18 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a823fd8d7-1786920920.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "pubDate": "Mon, 17 Aug 2026 00:06:05 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+      "desc": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
+      "pubDate": "Mon, 17 Aug 2026 00:00:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a825656138c-1786926678.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
+      "desc": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.",
+      "pubDate": "Sun, 16 Aug 2026 23:58:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786924707.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+      "link": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+      "desc": "Far-right National Security Minister Ben-Gvir sits on Israel&#039;s security cabinet, which helps shape war and policy.",
+      "pubDate": "Sun, 16 Aug 2026 23:58:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_691b335b1de4-1763390299.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What could stop Israeli settler attacks on Palestinians?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+      "desc": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
+      "pubDate": "Sun, 16 Aug 2026 21:54:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a81c3e78437b-1786889191.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Anwar Ibrahim: Malaysia between the superpowers",
+      "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+      "desc": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
+      "pubDate": "Sun, 16 Aug 2026 21:23:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786915353.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
       "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
@@ -13713,116 +13793,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-      "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "It's a small but growing problem in the property market - here's how to protect yourself.",
-      "pubDate": "Sat, 18 Jul 2026 01:14:53 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847b/live/e25f5800-81e1-11f1-8b86-31ce3d5ecce7.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Analyst questions Trump’s renewed focus on US election integrity",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss",
-      "desc": "Eric Ham argues President Donald Trump’s renewed focus on election security is attempt to expand federal authority.",
-      "pubDate": "Sat, 18 Jul 2026 00:49:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26198068644479-1784335738.jpeg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Diamonds and 'cab to orbit': The rocket aiming to transform India's space ambitions",
-      "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "India's first space-tech unicorn Skyroot Aerospace is set to launch Vikram-1 on Saturday.",
-      "pubDate": "Sat, 18 Jul 2026 00:39:18 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67c/live/812402b0-81c4-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump Media reportedly mulling fee for first access to social media posts",
-      "link": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss",
-      "desc": "US president has frequently been accused of trading government influence for improper financial gain.",
-      "pubDate": "Sat, 18 Jul 2026 00:32:34 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5ab1e308d2-1784328675.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UK by-election sees record 34 candidates as Farage seeks return",
-      "link": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss",
-      "desc": "The Reform UK leader seeks to regain his seat after resigning amid gifts controversy.",
-      "pubDate": "Sat, 18 Jul 2026 00:23:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-19T014450Z_726930182_RC2OWLA7LS6Z_RTRMADP_3_BRITAIN-POLITICS-MAKERFIELD-1783603274.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: US and Iran exchange deadly attacks for 7th night",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
-      "desc": "Intense fighting between the two sides as US attacks shift further into Iran’s interior.",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-03T140929Z_235347936_RC29AKAUEPRU_RTRMADP_3_IRAN-CRISIS-USA-1777944959.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "EU urges Israel to halt settlement expansion as settlers attack children",
-      "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss",
-      "desc": "Pressure is growing within the EU to sanction Israel for its illegal settlements and violence against Palestinians.",
-      "pubDate": "Fri, 17 Jul 2026 22:54:04 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5aa6755a9b-1784325749.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-      "link": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss",
-      "desc": "US president has frequently pushed false claims blaming the mismanagement of rival politicians for large wildfires.",
-      "pubDate": "Fri, 17 Jul 2026 22:47:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5a8e0a-1784319498.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
-      "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
-      "desc": "Deal with Chevron aims to rebuild a crude oil pipeline that runs from Iraq&#039;s oil-rich Kirkuk to Syria&#039;s Baniyas.",
-      "pubDate": "Fri, 17 Jul 2026 22:19:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5a970b48286-1784321803.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
-      "link": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.",
-      "pubDate": "Fri, 17 Jul 2026 22:14:12 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4def/live/c42d9d00-820f-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US launches seventh straight night of strikes on Iran",
-      "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
-      "desc": "The US military says it&#039;s degrading Iran&#039;s military but has been accused by Tehran of targeting civilian infrastructure.",
-      "pubDate": "Fri, 17 Jul 2026 22:11:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T023852Z_1217099177_RC2QEMAP3N85_RTRMADP_3_IRAN-CRISIS-USA-1784322981.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
