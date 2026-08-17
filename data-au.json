@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T09:46:32.235Z",
-  "summary": "Australia's news cycle today is dominated by several serious matters: a premature baby has become the nation's youngest surviving newborn, while a Perth man faces charges over threats to blow up a police station and a gangland boss fights for life after being shot, highlighting ongoing public safety concerns. Education features prominently with debates over school funding disparities, a Catholic education leader calling for post-ICAC reforms, and allegations emerging in a Scots College rape case. The government is pushing ahead with data centre fast-tracking and gambling reforms, while separate issues ranging from gun buyback divisions between rural and urban communities to marine heatwaves and artificial intelligence governance also feature in today's coverage.",
+  "fetchedAt": "2026-08-17T12:51:30.630Z",
+  "summary": "Australia is confronting several pressing policy challenges today, with Peter Dutton's Liberal-National opposition calling for more police funding rather than parliamentary seats, while independent David Taylor is demanding the government repeal its tax measures to secure his crucial NDIS bill support. On the technology and safety front, new AI-powered satellites are revolutionising wildfire detection as Australia grapples with fire risks, while Qantas faces embarrassment after an A380 completed a return flight to the US with maintenance equipment still lodged in its wing. Social issues dominate the broader agenda, from mental health concerns highlighted by an inquest into a hospital death to antisemitism fears in Victoria, alongside ongoing investigations into allegations against prominent figures including former football executive Andrew Jones.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
+      "link": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
+      "desc": "<p>Hi-tech cameras orbiting Earth and on the ground, along with AI, help firefighters extinguish blazes before they spread</p><p>The fires in Spokane, <a href=\"https://www.theguardian.com/us-news/wash",
+      "pubDate": "Mon, 17 Aug 2026 12:00:53 GMT",
+      "img": "https://i.guim.co.uk/img/media/c638ed164246c700aabde8f45b8221de4889a000/333_0_3312_2651/master/3312.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "No truck with terrorism",
+      "link": "https://www.smh.com.au/national/nsw/no-truck-with-terrorism-20260817-p60owa.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "We’re gonna need a bigger cart.",
+      "pubDate": "Mon, 17 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Taylor demands Albanese repeal ‘cruel tax’ in return for NDIS bill support",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/17/angus-taylor-links-support-for-ndis-reform-to-removal-of-widow-tax-loophole",
+      "desc": "<p>Coalition leader tells Anthony Albanese that delaying change to budget measure is ‘unconscionable’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breakin",
+      "pubDate": "Mon, 17 Aug 2026 10:51:40 GMT",
+      "img": "https://i.guim.co.uk/img/media/d56c335e15bde62f76ddf960974bc9e6354c7a91/690_0_2853_2282/master/2853.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The LNP wants more police, not MPs. Expert says it’s a ‘false economy’",
+      "link": "https://www.smh.com.au/national/queensland/the-lnp-wants-more-police-not-mps-expert-says-it-s-a-false-economy-20260803-p60l2t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "This week in our Queensland public sector column, Public Circus reveals a case for democratic improvement and a lonely bitcoin-er as school pay talks loom, and more.",
+      "pubDate": "Mon, 17 Aug 2026 20:47:33 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9192067401052149%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_684%2C$y_47/t_crop_custom/q_86%2Cf_auto/9f32c1f3dd6a8ef04aaf534bc1dbf39ea791b30c431c77f21f53504ea3947528",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Mother charged over crash that killed her daughter",
+      "link": "https://www.smh.com.au/national/mother-charged-over-crash-that-killed-her-daughter-20260817-p60p69.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A mother has been charged over a car accident that killed her four-year-old daughter and seriously injured her son in Perth.",
+      "pubDate": "Mon, 17 Aug 2026 20:35:39 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e1896f253642a1458b2564c5b194f24420f2afaf",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Voting begins in WA byelection",
+      "link": "https://www.smh.com.au/national/voting-begins-in-wa-byelection-20260817-p60p68.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "More than a thousand voters have hit the polls early in the Secret Harbour byelection.",
+      "pubDate": "Mon, 17 Aug 2026 20:31:09 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6a90152ea8232c85479fb41d3b213e5fdfb39c21",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Fauci could face prison if convicted of contempt, former prosecutor says",
+      "link": "https://www.abc.net.au/news/2026-08-17/anthony-fauci-could-face-time-in-prison-if-convicted-of-contempt/107045672",
+      "desc": "As the US Department of Justice weighs whether to prosecute Anthony Fauci, medical experts say his persecution is weakening America's health system.",
+      "pubDate": "Mon, 17 Aug 2026 10:28:42 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d4a5f73fc665e040436651bd7ddcab66?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1545&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Rhossi, a rare sea turtle, recovers after 5,000-mile trek from Wales to Texas",
+      "link": "https://www.theguardian.com/us-news/2026/aug/17/rhossi-sea-turtle-texas-wales-recovery-update-houston-zoo",
+      "desc": "<p>Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumonia</p><p>A <a href=\"https://www.theguardian.com/us-news/2026/aug/15/cape-cod-stranded-se",
+      "pubDate": "Mon, 17 Aug 2026 10:00:52 GMT",
+      "img": "https://i.guim.co.uk/img/media/a6e090e820682276027c3b8929b2f3e95e8c0d02/494_0_2698_2160/master/2698.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Meet baby Miracle: Australia’s most premature newborn to survive",
       "link": "https://www.smh.com.au/national/queensland/meet-baby-miracle-australia-s-most-premature-newborn-to-survive-20260817-p60ozc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36365,36 +36445,6 @@
       "desc": "<p>Experts say layoffs, reduced disease surveillance and Medicaid cuts have made the foodborne parasite more difficult to track and contain</p><p>As soon as Michigan detected the first sign of cyclosp",
       "pubDate": "Sat, 18 Jul 2026 13:32:17 GMT",
       "img": "https://i.guim.co.uk/img/media/0db0420f58fe4cb79a31e9d5dc7db591e1eaab79/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Residents in Perth's south-west resort to drinking water from bird baths",
-      "link": "https://www.smh.com.au/national/residents-in-perths-south-west-resort-to-drinking-water-from-bird-baths-20260718-p60gi1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A social housing complex in Beaconsfield has suffered weeks of water problems, with residents claiming they are so desperate, some have resorted to drinking from bird baths.",
-      "pubDate": "Sat, 18 Jul 2026 20:56:05 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/43392ba3e2428ae82eea9233d7d49e86eb40cf85",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
-      "link": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
-      "desc": "<p>Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy</p><p>The scale of the graft is decidedly off the charts, but the <a href=\"https:/",
-      "pubDate": "Sat, 18 Jul 2026 10:00:02 GMT",
-      "img": "https://i.guim.co.uk/img/media/3ba66ada2cd57e6600bb18623a6eefd07a1e58cf/461_89_3066_2452/master/3066.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Poultry sector growth plan risks UK national security, campaigners warn",
-      "link": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
-      "desc": "<p>Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocks</p><p>The government’s planned poultry sector growth plan is a risk to national secu",
-      "pubDate": "Sat, 18 Jul 2026 10:00:01 GMT",
-      "img": "https://i.guim.co.uk/img/media/311d7b5d6d53f4f4e2c6e7926252d2179d8432d4/530_0_3001_2400/master/3001.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
