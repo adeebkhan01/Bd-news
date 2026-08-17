@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T15:28:39.055Z",
-  "summary": "Australia faces mounting economic pressures as government borrowing costs hit multi-year highs amid inflation concerns, while political debates intensify over the superannuation system and funding for the NDIS. A Western Australia byelection is underway as the state navigates questions about public service priorities, with opposition emerging over education and policing spending. In corporate accountability, 3M faces court allegations of knowingly hiding product harm for over fifty years, and Qantas encountered safety lapses on major routes. The nation continues grappling with ongoing social challenges including antisemitism in communities, education accessibility in rural areas, and distracted driving linked to music streaming platforms.",
+  "fetchedAt": "2026-08-17T18:44:19.948Z",
+  "summary": "Australian workers and consumers face mounting financial pressures as Jetstar reports record profits while staff demand higher wages, while households grapple with rising debt and government borrowing costs hit multi-year highs amid inflation concerns. Politically, the Albanese government faces demands from the Greens to repeal the NDIS tax and pressure over education funding as Western Australia holds a byelection. International developments include a worsening Ebola outbreak in the Democratic Republic of Congo and stalled Middle East negotiations, while climate concerns intensify with European heatwaves and new AI technology being deployed for wildfire detection.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Record Jetstar profits fuel pay fight over 'rock bottom' wages",
+      "link": "https://www.abc.net.au/news/2026-08-18/jetstar-profits-soar-workers-pay-stalls/107002696",
+      "desc": "Jetstar is making record profits while passengers are being slugged more fees and now workers say they want a bigger slice of the airline's success.",
+      "pubDate": "Mon, 17 Aug 2026 18:38:41 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/b14dbc16349f9063969f36ad518108f8?impolicy=wcms_crop_resize&amp;cropH=1920&amp;cropW=1440&amp;xPos=511&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "What to do if your credit card debt is starting to feel overwhelming",
+      "link": "https://www.abc.net.au/news/2026-08-18/how-to-pay-off-a-credit-card-debt/107004086",
+      "desc": "As the cost of living continues to rise, what steps can you take if your credit card is starting to feel like a problem?",
+      "pubDate": "Mon, 17 Aug 2026 18:30:00 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/55cc82d95659aa38828967680414915f?impolicy=wcms_crop_resize&amp;cropH=2126&amp;cropW=1594&amp;xPos=6&amp;yPos=274&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Kushner talks with Hamas and Israel end without Gaza deal",
+      "link": "https://www.abc.net.au/news/2026-08-18/gaza-board-of-peace-latest/107048348",
+      "desc": "Jared Kushner and Benjamin Netanyahu have discussed putting a US general in charge of verifying Hamas's disarmaments, with Israel's military to remain place until that happens.",
+      "pubDate": "Mon, 17 Aug 2026 16:35:57 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d8c975e056b50fc79abf66c77a834261?impolicy=wcms_crop_resize&amp;cropH=1771&amp;cropW=1328&amp;xPos=1232&amp;yPos=713&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
+      "link": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
+      "desc": "<p>Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought</p><p>Successive intense heatwaves and an increasingly severe, continent-wide dr",
+      "pubDate": "Mon, 17 Aug 2026 16:01:47 GMT",
+      "img": "https://i.guim.co.uk/img/media/13bb6e45da9f6fdeb8d43e497bfb6f7440eea661/0_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Did you solve it? A new goat for puzzledom’s GOAT",
+      "link": "https://www.theguardian.com/science/2026/aug/17/did-you-solve-it-a-new-goat-for-puzzledoms-goat",
+      "desc": "<p>The solution to today’s puzzle</p><p>Earlier today I set you a new twist on the Monty Hall problem, which is (according to AI) the most discussed recreational maths puzzle in history.</p><p>The sta",
+      "pubDate": "Mon, 17 Aug 2026 16:00:01 GMT",
+      "img": "https://i.guim.co.uk/img/media/12aabb9009a6a3dc9630ead75ddd0dc95048e412/0_291_4123_3298/master/4123.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
+      "link": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+      "desc": "<p>Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked</p><p>US gas prices this month are so far the highest ever recorded for August as peace tal",
+      "pubDate": "Mon, 17 Aug 2026 15:51:46 GMT",
+      "img": "https://i.guim.co.uk/img/media/24af72b71f79b33388aba42419e5996e19a78bc8/724_546_6520_5216/master/6520.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Sharks have always stoked panic in Australia. While scientific understanding grows, conservation efforts can be unseated by fear | Anna Clark",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/18/australia-shark-attacks-growing-fear-sydney-beaches",
@@ -36568,16 +36628,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Iran’s supreme leader warns of ‘unforgettable lessons’ if US continues attacks",
-      "link": "https://www.smh.com.au/business/iran-s-supreme-leader-warns-of-unforgettable-lessons-if-us-continues-attacks-20260719-p60gio.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Iran’s supreme leader warns of ‘unforgettable lessons’ if US continues attacks",
-      "pubDate": "Sun, 19 Jul 2026 04:21:08 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/10cce1b5d578a6dd1af0258ce6e8baa57cdfa219",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
