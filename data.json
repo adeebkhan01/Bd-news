@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T03:52:45.413Z",
-  "summary": "Bangladesh faces mounting economic and infrastructure challenges as energy and gas shortages paralyze industrial production, with officials warning a two-year timeline to resolve the crisis, while foreign investment in stocks continues declining amid broader economic uncertainty. Environmental issues dominate domestic concerns, from river pollution and encroachment in Mymensingh to the widespread use of banned pesticides like paraquat, alongside pressure on the garment industry to accelerate its green transition. The government is attempting countermeasures through a 400 crore taka startup fund and relaxed import rules, while the political landscape shifts with a presidential election underway and the BNP reshuffling its leadership structure. On a brighter note, Bangladesh celebrated a historic cricket victory over Australia, providing rare positive news amid the country's mounting development and stability challenges.",
+  "fetchedAt": "2026-08-17T07:02:24.506Z",
+  "summary": "Bangladesh faces mounting infrastructure challenges with authorities estimating at least two years to resolve the country's electricity and gas crises, while economic concerns persist as foreign investment in stocks continues to decline and the garment industry faces pressure to meet environmental standards. The government is taking action on multiple fronts, launching a 400 crore taka startup investment fund and forming new panels to address issues in the tea industry, though shipyard safety remains under scrutiny following nine worker deaths at Sitakunda where agencies had declared the facility safe. On the international stage, Bangladesh seeks improved diplomatic relations with India and navigates complex geopolitical risks involving China and the United States, while cricket success against Australia provides a rare moment of national celebration.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,54 @@
     }
   ],
   "articles": [
+    {
+      "title": "Making food security nutrition-sensitive",
+      "link": "https://www.thedailystar.net/business/news/making-food-security-nutrition-sensitive-4249671",
+      "desc": "About 4.54 crore people in Bangladesh were moderately or severely food insecure during 2023-2025",
+      "pubDate": "Mon, 17 Aug 26 12:14:34 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/healthy-food-habits.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "খাদ্য নিরাপত্তাকে পুষ্টি-সংবেদনশীল করে তোলা",
+      "descBn": "২০২৩-২০২৫ সালে বাংলাদেশে প্রায় ৪.৫৪ কোটি মানুষ মধ্যম বা গুরুতর খাদ্য নিরাপত্তাহীনতার সম্মুখীন ছিলেন"
+    },
+    {
+      "title": "Japanese economy ekes out modest growth",
+      "link": "https://www.thedailystar.net/business/news/japanese-economy-ekes-out-modest-growth-4249661",
+      "desc": "Gross domestic product grew 0.3 percent between April and June",
+      "pubDate": "Mon, 17 Aug 26 12:07:12 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/japan_economy_1.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "জাপানি অর্থনীতি সামান্য বৃদ্ধি অর্জন করেছে",
+      "descBn": "এপ্রিল থেকে জুন মাসের মধ্যে মোট দেশীয় পণ্য ০.৩ শতাংশ বৃদ্ধি পেয়েছে"
+    },
+    {
+      "title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows",
+      "link": "https://www.thedailystar.net/business/news/oil-rises-us-iran-peace-talks-stall-hormuz-shipping-slows-4249651",
+      "desc": "Brent crude futures rose as much as 1 percent to $89.40 per barrel",
+      "pubDate": "Mon, 17 Aug 26 12:02:21 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/US_oil_mar.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "আমেরিকা-ইরান শান্তি আলোচনা বন্ধ হয়ে যাওয়ায় তেলের দাম বৃদ্ধি, হরমুজ শিপিং ধীর হয়",
+      "descBn": "ব্রেন্ট কাঁচা তেলের ফিউচার বৃদ্ধি পেয়ে প্রতি ব্যারেলে ১ শতাংশ পর্যন্ত $89.40 এ পৌঁছেছে"
+    },
+    {
+      "title": "What Bangladesh’s win in Darwin means beyond cricket",
+      "link": "https://en.prothomalo.com/opinion/zygjme6r40",
+      "desc": "",
+      "pubDate": "Mon, 17 Aug 2026 04:06:43 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-17/0v0mk2hi/prothomalo-bangla2026-08-16dvjsa3aaC-1.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ডার্উইনে বাংলাদেশের জয় ক্রিকেটের বাইরে কী অর্থ বহন করে",
+      "descBn": ""
+    },
     {
       "title": "Rivers in Mymensingh division devastated by pollution and encroachment",
       "link": "https://en.prothomalo.com/environment/hmsghndlmf",
@@ -18429,126 +18477,6 @@
       "sourceColor": "#1a7a4a",
       "titleBn": "তেলের দামে সংক্ষিপ্ত হ্রাসে ফেব্রুয়ারির পর থেকে সর্বোচ্চ মার্কিন ভোক্তা সংবেদনশীলতা",
       "descBn": "প্রাথমিক তথ্য দেখায় যে বিশ্ববিদ্যালয়ের ভোক্তা সংবেদনশীলতা সূচক জুলাইয়ে ৫৪.৪ পয়েন্টে এসেছে, যা জুনের পাঠ থেকে প্রায় ১০ শতাংশ বৃদ্ধি পেয়েছে"
-    },
-    {
-      "title": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure",
-      "link": "https://www.thedailystar.net/business/news/oil-settles-renewed-us-iran-hostilities-and-threat-red-sea-closure-4226651",
-      "desc": "Brent crude futures settled $3.87, or 4.59 percent, higher to $88.10 a barrel",
-      "pubDate": "Sat, 18 Jul 26 12:58:52 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-06/oil_depot.jpg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "মার্কিন-ইরান শত্রুতা পুনরুদ্ধার এবং লাল সাগর বন্ধ হওয়ার হুমকিতে তেলের দাম বৃদ্ধি",
-      "descBn": "ব্রেন্ট কাঁচা তেলের ভবিষ্যৎ চুক্তি $3.87 বা 4.59 শতাংশ বৃদ্ধি পেয়ে প্রতি ব্যারেলে $88.10 এ বন্ধ হয়েছে"
-    },
-    {
-      "title": "Acute shortage of workforce strains health services, recruitment drive on",
-      "link": "https://en.prothomalo.com/youth/employment/5m6hdjx20g",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 06:54:54 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/bedcu1s3/prothomalo-bangla2022-07d6fc0625-1bb5-42f7-a21a-805733ab892bIMG6997.webp",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "কর্মীর তীব্র সংকট স্বাস্থ্যসেবায় চাপ, নিয়োগ প্রচারণা চলছে",
-      "descBn": ""
-    },
-    {
-      "title": "England don't want to play, neither do we: France coach Deschamps",
-      "link": "https://en.prothomalo.com/sports/football/f73n1afgfv",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 06:43:12 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/elw96b59/2026-07-17T155220Z1751497444UP1EM7H183723RTRMADP3SOCCER-WORLDCUP-FRA-ENG-PREVIEW.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ইংল্যান্ড খেলতে চায় না, আমরাও চাই না: ফ্রান্সের কোচ ডেশাঁ",
-      "descBn": ""
-    },
-    {
-      "title": "Lamine Yamal is truly amazing: Messi",
-      "link": "https://en.prothomalo.com/sports/football/zfqmfmzcng",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 06:34:27 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/lrx2bisl/2026-07-17T232416Z2035219437UP1EM7H1T0F9PRTRMADP3SOCCER-WORLDCUP-ESP-ARG-PREVIEW.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "লামিন ইয়ামাল সত্যিই অসাধারণ: মেসি",
-      "descBn": ""
-    },
-    {
-      "title": "Money sent abroad through legal channels for medical treatment rises tenfold",
-      "link": "https://en.prothomalo.com/business/local/5bccqakwzt",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 06:29:23 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/5gp4ht4u/prothomaloimportmedia2020031248a0ecc800c6ddca53d75386a9c30c09-5e69db3b76c5f.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "চিকিৎসার জন্য আইনি চ্যানেলের মাধ্যমে বিদেশে পাঠানো অর্থ দশগুণ বৃদ্ধি পেয়েছে",
-      "descBn": ""
-    },
-    {
-      "title": "‘Terrorist’ Shahidul gets bail in 3 cases within 11 days",
-      "link": "https://en.prothomalo.com/bangladesh/crime-and-law/wz1vndholt",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 06:24:23 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/wbtuyjnc/prothomalo-bangla2025-10-23ddj7it1xWhatsApp-Image-2025-10-23-at-12.07.18.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "'সন্ত্রাসী' শাহিদুল ১১ দিনে ৩টি মামলায় জামিন পেল",
-      "descBn": ""
-    },
-    {
-      "title": "No new aplications, official July martyrs count now stands at 843",
-      "link": "https://en.prothomalo.com/bangladesh/2a9ijbf4eb",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 04:41:07 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/tqug2ipa/d76c81c3506906P1mr.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "নতুন আবেদন নেই, জুলাই শহিদদের সরকারি সংখ্যা এখন ৮৪৩",
-      "descBn": ""
-    },
-    {
-      "title": "Floods submerge crops; fisheries and livestock sectors face Tk 4.88b loss",
-      "link": "https://en.prothomalo.com/bangladesh/kdtqbh15rd",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 04:32:09 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/vn0l4c0g/prothomalo-bangla2026-07-17nnpihctyCapture.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "বন্যায় নিমজ্জিত ফসল; মৎস্য ও পশুপালন খাতে ৪.৮৮ বিলিয়ন টাকার ক্ষতি",
-      "descBn": ""
-    },
-    {
-      "title": "US strikes Iranian sites for 7th straight night; Iran renews attacks",
-      "link": "https://en.prothomalo.com/international/9f0apaq2nn",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 04:22:36 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/bsdqy82i/2026-04-03T140929Z235347936RC29AKAUEPRURTRMADP3IRAN-CRISIS-USA-1777944959.webp",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "সাত রাত ধরে যুক্তরাষ্ট্র ইরানের লক্ষ্যবস্তুতে আঘাত করছে; ইরান আক্রমণ পুনরায় শুরু করে",
-      "descBn": ""
-    },
-    {
-      "title": "India moves fasting activist Sonam Wangchuk to hospital, says police",
-      "link": "https://en.prothomalo.com/international/india/b3w3y1da0i",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 04:18:59 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-18/63tymfkb/2026-07-18T030011Z754952483RC21GMA1U1D2RTRMADP3INDIA-GEN-Z-ACTIVIST.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ভারত উপবাসী কর্মী সোনাম ওয়াংচুককে হাসপাতালে স্থানান্তরিত করেছে, পুলিশ জানায়",
-      "descBn": ""
     }
   ]
 }
