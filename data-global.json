@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T15:35:26.050Z",
-  "summary": "The Middle East remains a flashpoint with intensified Israeli operations in Gaza and the West Bank drawing international concern, while Syria's judiciary sentenced Bashar al-Assad's cousin to death for war crimes. Russia's ongoing campaign against Ukraine includes escalating missile strikes despite mounting economic costs, with Moscow now protesting Japan's engagement with Putin over territorial disputes. Political transitions in Africa and Asia dominated coverage, with Zambia's president re-elected despite opposition concerns and North Korea signaling willingness for dialogue with the incoming Trump administration. Energy geopolitics shifted with Brazil celebrating an Amazon oil discovery as a future growth engine, while the UAE and Qatar hosted Iranian football clubs at neutral venues amid regional tensions.",
+  "fetchedAt": "2026-08-18T18:42:22.470Z",
+  "summary": "Global financial markets face mounting pressures as borrowing costs surge amid elevated oil prices, inflation concerns, and AI investment volatility. International tensions dominate the geopolitical landscape, with Russia intensifying missile strikes on Ukraine while the Middle East sees Syria's judiciary sentencing Bashar al-Assad's cousin to death for war crimes, and Iran engaging in regional sports competition at neutral venues amid diplomatic friction. In Africa, Zambia's incumbent president Hichilema secured re-election with sixty percent support despite opposition concerns, while Brazil's leadership celebrated a major oil discovery near the Amazon as an economic opportunity. The humanitarian crisis in Palestine continues to deepen, with reports of Israeli siege conditions affecting civilian health and security across Gaza and the West Bank.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+      "pubDate": "Tue, 18 Aug 2026 18:20:08 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03c/live/2a921030-9b15-11f1-ae25-295c0447cea3.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Palestinian living in caves older than Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+      "desc": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
+      "pubDate": "Tue, 18 Aug 2026 15:53:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787068355.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
       "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
@@ -14220,36 +14250,6 @@
       "desc": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
       "pubDate": "Sun, 19 Jul 2026 20:05:31 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784487729.jpg?resize=1920%2C1061&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "At least 50 Malian soldiers killed in attack on military convoy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
-      "desc": "At least 50 Malian soldiers were killed after a joint Malian army and Russia&#039;s Africa Corps convoy was ambushed.",
-      "pubDate": "Sun, 19 Jul 2026 18:27:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/WIDE-THUMB-MALI-1784485557.png?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-      "link": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss",
-      "desc": "Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.",
-      "pubDate": "Sun, 19 Jul 2026 18:24:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/10/ap_68e9f94c2aff3-1760164172.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israel uses law to destroy Palestinian education in East Jerusalem",
-      "link": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
-      "desc": "Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.",
-      "pubDate": "Sun, 19 Jul 2026 15:46:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-01-30T161002Z_767267645_RC29S5A0IWFR_RTRMADP_3_ISRAEL-PALESTINIANS-ISRAEL-UNRWA-1784472608.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
