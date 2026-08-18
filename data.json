@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T12:53:17.300Z",
-  "summary": "Bangladesh is navigating significant political and economic transitions, with the government restructuring security forces by replacing the RAB with a Special Response Battalion and shifting its fiscal year to April-March starting 2028-29, while also pursuing diplomatic engagement with India and the UAE on trade and investment. Major economic challenges include persistent uncertainty in LNG supply and gas availability, low adoption of digital payment systems like Bangla QR, and widespread tax compliance issues with over 90% of economic units lacking TINs, though the ADB projects Bangladesh could become a trillion-dollar economy by 2034 with proper support. The country faces internal tensions over recent political changes, with opposition figures calling out government pressure on institutions and highlighting concerns about democratic space, while authorities seek international cooperation on extradition matters involving former officials.",
+  "fetchedAt": "2026-08-18T15:34:58.849Z",
+  "summary": "Bangladesh's new government has earned praise from business groups like BKMEA though observers note room for improvement, while the country grapples with persistent economic challenges including commodity price inflation, gas supply shortages, and low tax compliance with over 90 percent of economic units lacking TINs. Diplomatically, Dhaka is contesting Myanmar's border statistics and awaiting India's response on bilateral trade and investment, with a visiting Indian delegation and Emirati investors signaling renewed regional economic engagement. Infrastructure modernization efforts are underway, including initiatives to digitize construction procurement and shift fiscal year timing, while the government seeks to reduce dependency on imported agricultural products and address the LNG and power crisis through sustainable solutions.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,138 @@
     }
   ],
   "articles": [
+    {
+      "title": "Several initiatives of new govt praiseworthy, but there is room for improvement: BKMEA",
+      "link": "https://www.thedailystar.net/business/news/several-initiatives-new-govt-praiseworthy-there-room-improvement-bkmea-4250906",
+      "desc": "However, the association says six months is not enough time to evaluate any government",
+      "pubDate": "Tue, 18 Aug 26 21:04:00 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/BKMEA.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "নতুন সরকারের বেশ কিছু উদ্যোগ প্রশংসনীয়, তবে উন্নতির অবকাশ রয়েছে: বিকেএমইএ",
+      "descBn": "তবে সংস্থাটি বলছে যে কোনো সরকারকে মূল্যায়ন করার জন্য ছয় মাস যথেষ্ট নয়"
+    },
+    {
+      "title": "Dhaka urges correction as Myanmar statement based on erroneous statistics",
+      "link": "https://en.prothomalo.com/bangladesh/4cugcbnkqi",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 14:48:57 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-18/jqf2216o/Rohingya-2.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ঢাকা সংশোধনের জন্য আহ্বান করছে কারণ মিয়ানমারের বিবৃতি ত্রুটিপূর্ণ পরিসংখ্যানের উপর ভিত্তি করে",
+      "descBn": ""
+    },
+    {
+      "title": "Pakistan captain Babar Azam out of first Test against England",
+      "link": "https://en.prothomalo.com/sports/cricket/yecxkz52s9",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 14:32:07 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-18/9o3zrfoj/babar.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "পাকিস্তান অধিনায়ক বাবর আজম ইংল্যান্ডের বিরুদ্ধে প্রথম টেস্ট থেকে বাইরে",
+      "descBn": ""
+    },
+    {
+      "title": "Market monitoring alone cannot reduce commodity prices: Muktadir",
+      "link": "https://www.thedailystar.net/business/news/market-monitoring-alone-cannot-reduce-commodity-prices-muktadir-4250856",
+      "desc": "The commerce minister urges people not to expect immediate results in reducing commodity prices",
+      "pubDate": "Tue, 18 Aug 26 20:14:12 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Daily%20commodities.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "শুধুমাত্র বাজার পর্যবেক্ষণ দ্রব্যমূল্য কমাতে পারবে না: মুক্তাদির",
+      "descBn": "বাণিজ্য মন্ত্রী মানুষকে দ্রব্যমূল্য হ্রাসে তাৎক্ষণিক ফলাফলের আশা না করতে আহ্বান করেছেন"
+    },
+    {
+      "title": "India close on victory in first Test against Sri Lanka",
+      "link": "https://en.prothomalo.com/sports/cricket/2f2s5qlxo9",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 14:13:58 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-18/j758kz39/301952-01-02.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "শ্রীলঙ্কার বিরুদ্ধে প্রথম টেস্টে ভারত বিজয়ের কাছাকাছি",
+      "descBn": ""
+    },
+    {
+      "title": "Dependence on imported agri products will be gradually reduced: minister",
+      "link": "https://www.thedailystar.net/business/news/dependence-imported-agri-products-will-be-gradually-reduced-minister-4250811",
+      "desc": "The performance and progress of the Ministry of Agriculture during the government’s first 180 days had been satisfactory, the minister says",
+      "pubDate": "Tue, 18 Aug 26 19:30:58 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Agriculture%20ministry.jpeg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "আমদানিকৃত কৃষি পণ্যের উপর নির্ভরতা ক্রমান্বয়ে হ্রাস করা হবে: মন্ত্রী",
+      "descBn": "সরকারের প্রথম ১৮০ দিনে কৃষি মন্ত্রণালয়ের কর্মক্ষমতা এবং অগ্রগতি সন্তোষজনক হয়েছে বলে জানিয়েছেন মন্ত্রী"
+    },
+    {
+      "title": "What will change when the fiscal year is shifted? What are the pros and cons?",
+      "link": "https://en.prothomalo.com/business/tbilbfc1ad",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 13:30:33 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-18/p0h31pn3/fiscal-year.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "আর্থিক বছর পরিবর্তন হলে কী পরিবর্তন হবে? সুবিধা এবং অসুবিধা কী?",
+      "descBn": ""
+    },
+    {
+      "title": "Businesses in India, Bangladesh to form B2B task forces",
+      "link": "https://www.thedailystar.net/business/news/businesses-india-bangladesh-form-b2b-task-forces-4250791",
+      "desc": "The proposed task forces would focus on infrastructure investment and emerging technologies",
+      "pubDate": "Tue, 18 Aug 26 19:08:47 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/FBCCI%2C%20CII.jpeg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "ভারত ও বাংলাদেশের ব্যবসায়িক প্রতিষ্ঠানগুলি বি২বি টাস্কফোর্স গঠন করবে",
+      "descBn": "প্রস্তাবিত টাস্কফোর্সগুলি অবকাঠামো বিনিয়োগ এবং উদীয়মান প্রযুক্তিতে দৃষ্টি নিবদ্ধ করবে"
+    },
+    {
+      "title": "Bangladesh's construction procurement still runs on phone calls and Whatsapp. This startup wants to change that",
+      "link": "https://www.thedailystar.net/news/technology/news/bangladeshs-construction-procurement-still-runs-phone-calls-and-whatsapp-startup-wants-change-4250786",
+      "desc": "Dhaka-based startup ProQ has launched an online procurement platform aimed at bringing more of Bangladesh’s construction and interior materials purchasing process onto a single digital system.",
+      "pubDate": "Tue, 18 Aug 26 19:01:58 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Screenshot%202026-08-18%20at%206.54.25%E2%80%AFPM.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "বাংলাদেশের নির্মাণ ক্রয় এখনও ফোন কল এবং হোয়াটসঅ্যাপে পরিচালিত হয়। এই স্টার্টআপ এটি পরিবর্তন করতে চায়",
+      "descBn": "ঢাকাভিত্তিক স্টার্টআপ প্রোকিউ একটি অনলাইন ক্রয় প্ল্যাটফর্ম চালু করেছে যা বাংলাদেশের নির্মাণ এবং অভ্যন্তরীণ উপকরণ ক্রয় প্রক্রিয়ার আরও বেশি অংশকে একটি একক ডিজিটাল সিস্টেমে নিয়ে আসার লক্ষ্য রাখে।"
+    },
+    {
+      "title": "China is the largest trading partner of 151 countries; will its influence decline?",
+      "link": "https://en.prothomalo.com/business/local/oxuu9dy5i3",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 12:36:45 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-18/7v4rj7cu/prothomalo-bangla2026-08-185c5md9jaWhatsApp-Image-2026-08-18-at-10.18.02.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "চীন ১৫১টি দেশের সবচেয়ে বড় বাণিজ্য অংশীদার; তার প্রভাব হ্রাস পাবে কি?",
+      "descBn": ""
+    },
+    {
+      "title": "There is a sustainable solution to the gas and power crisis",
+      "link": "https://en.prothomalo.com/opinion/op-ed/6fz4i18h4g",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 11:50:01 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-18/eyvssed2/gascrisis-2.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "গ্যাস এবং বিদ্যুৎ সংকটের একটি টেকসই সমাধান রয়েছে",
+      "descBn": ""
+    },
     {
       "title": "Iran negotiator Ghalibaf says Hormuz will not open until US meets demands",
       "link": "https://en.prothomalo.com/international/middle-east/qygpbyvd8g",
@@ -1532,6 +1664,18 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "টাকা ৬.৩৭ বিলিয়ন ডাটাবেস অব্যবহৃত, আরও টাকা ৬.৭৬ বিলিয়ন প্রকল্প চলমান",
+      "descBn": ""
+    },
+    {
+      "title": "2 countries you can travel by cable car in just 8 minutes",
+      "link": "https://en.prothomalo.com/lifestyle/dtvtig7wy1",
+      "desc": "",
+      "pubDate": "Sun, 16 Aug 2026 04:37:24 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-15/ec88s7r4/xihnua.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "মাত্র ৮ মিনিটে যে ২টি দেশ ভ্রমণ করতে পারবেন ক্যাবল কার দিয়ে",
       "descBn": ""
     },
     {
@@ -18380,150 +18524,6 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "শীর্ষ শট (১৯ জুলাই ২০২৬)",
-      "descBn": ""
-    },
-    {
-      "title": "Bangladesh clinch T20 series against Zimbabwe",
-      "link": "https://en.prothomalo.com/sports/cricket/h0zgeuy5u6",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 15:28:56 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-19/b8hnpozs/Toss.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "জিম্বাবোয়ের বিরুদ্ধে টি২০ সিরিজ জয় করল বাংলাদেশ",
-      "descBn": ""
-    },
-    {
-      "title": "BRAC Bank ranks third in remittance inflows with $2.97 billion in FY26",
-      "link": "https://www.thedailystar.net/business/news/brac-bank-ranks-third-remittance-inflows-297-billion-fy26-4227681",
-      "desc": "BRAC Bank PLC processed a record $2.97 billion in inward wage earners’ remittances in fiscal year (FY) 2025-26, making it Bangladesh’s third-largest remittance bank, according to the latest official d",
-      "pubDate": "Sun, 19 Jul 26 21:23:42 +0600",
-      "img": null,
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "ব্র্যাক ব্যাংক অর্থবছর ২৬-তে ২.৯৭ বিলিয়ন ডলার রেমিট্যান্স ইনফ্লো সহ তৃতীয় স্থান অধিকার করেছে",
-      "descBn": "ব্র্যাক ব্যাংক পিএলসি অর্থবছর (এফওয়াই) ২০২৫-২৬-এ রেকর্ড ২.৯৭ বিলিয়ন ডলার ওয়েজ আর্নারস রেমিট্যান্স প্রক্রিয়া করেছে, যা এটিকে বাংলাদেশের তৃতীয় বৃহত্তম রেমিট্যান্স ব্যাংক হিসাবে প্রতিষ্ঠিত করেছে, সর্বশেষ অফিসিয়াল তথ্য অনুযায়ী।"
-    },
-    {
-      "title": "July Charter implementation debate should end: Mirza Fakhrul",
-      "link": "https://en.prothomalo.com/bangladesh/z6bume466m",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 15:02:24 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-19/aqm9csgz/image-406956-1784460248.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "জুলাই সনদ বাস্তবায়ন বিতর্ক শেষ হওয়া উচিত: মির্জা ফখরুল",
-      "descBn": ""
-    },
-    {
-      "title": "Will 'Invest Bangladesh' make investing easier?",
-      "link": "https://www.thedailystar.net/business/news/will-invest-bangladesh-make-investing-easier-4227631",
-      "desc": "The new authority promises a genuine one-stop service through integrated digital platforms, statutory timelines for approvals and a single-window clearance system",
-      "pubDate": "Sun, 19 Jul 26 20:51:43 +0600",
-      "img": null,
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "কি 'বাংলাদেশে বিনিয়োগ' বিনিয়োগকে সহজ করবে?",
-      "descBn": "নতুন কর্তৃপক্ষ সমন্বিত ডিজিটাল প্ল্যাটফর্মের মাধ্যমে প্রকৃত ওয়ান-স্টপ সেবা প্রদান করার প্রতিশ্রুতি দেয়, অনুমোদনের জন্য বৈধ সময়সীমা এবং একক-জানালা ক্লিয়ারেন্স ব্যবস্থা"
-    },
-    {
-      "title": "Bangladeshi passport: ‘Except Israel’ restored, new watermarks to feature Abu Sayed, Mugdho and Wasim",
-      "link": "https://en.prothomalo.com/bangladesh/i0c55dplsb",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 14:49:36 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-19/8wy5h3ls/Passport-1.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "বাংলাদেশী পাসপোর্ট: 'ইসরায়েল ছাড়া' পুনরুদ্ধার করা হয়েছে, নতুন ওয়াটারমার্কে থাকবে আবু সায়েদ, মুগ্ধো এবং ওয়াসিম",
-      "descBn": ""
-    },
-    {
-      "title": "FIFA generates $15 billion from the World Cup",
-      "link": "https://en.prothomalo.com/sports/football/c4qou7wqn8",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 14:43:00 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-19/r2n04cof/prothomalo-bangla2026-07-18qmt9yyh6worldcup.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "বিশ্বকাপ থেকে FIFA ১৫ বিলিয়ন ডলার উপার্জন করেছে",
-      "descBn": ""
-    },
-    {
-      "title": "FIFA World Cup Golden Boot winners: Complete list from 1930 to 2022",
-      "link": "https://en.prothomalo.com/sports/football/7ug5jzj4uq",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 14:05:32 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2022-12/6f736a05-9c38-4b80-8b47-d5b8aa72f850/2022_12_18T183507Z_287645644_UP1EICI1FMG6I_RTRMADP_3_SOCCER_WORLDCUP_ARG_FRA_REPORT.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ফিফা বিশ্বকাপ গোল্ডেন বুট বিজয়ী: ১৯৩০ থেকে ২০২২ পর্যন্ত সম্পূর্ণ তালিকা",
-      "descBn": ""
-    },
-    {
-      "title": "Sri Lanka's Softlogic Life buys 60% stake in Diamond Life",
-      "link": "https://www.thedailystar.net/business/news/sri-lankas-softlogic-life-buys-60-stake-diamond-life-4227591",
-      "desc": "The Sri Lankan company signed a share purchase agreement to acquire the stake for nearly $1.9 million or Tk 23.4 crore",
-      "pubDate": "Sun, 19 Jul 26 20:05:13 +0600",
-      "img": null,
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "শ্রীলঙ্কার সফটলজিক লাইফ ডায়মন্ড লাইফে ৬০% শেয়ার ক্রয় করেছে",
-      "descBn": "শ্রীলঙ্কার কোম্পানিটি প্রায় ১.৯ মিলিয়ন ডলার বা ২৩.৪ কোটি টাকায় শেয়ার ক্রয় চুক্তি স্বাক্ষর করেছে"
-    },
-    {
-      "title": "Govt seeks early disposal of ILO complaint, cites labour reforms",
-      "link": "https://www.thedailystar.net/business/news/govt-seeks-early-disposal-ilo-complaint-cites-labour-reforms-4227581",
-      "desc": "Labour minister made the call in a meeting in Dhaka with the ILO director-general",
-      "pubDate": "Sun, 19 Jul 26 19:51:15 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Labour%20minister%20meeting%20with%20ILO%20Director-General.jpeg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "সরকার আইএলও অভিযোগের দ্রুত নিষ্পত্তি চায়, শ্রম সংস্কার উল্লেখ করে",
-      "descBn": "শ্রম মন্ত্রী ঢাকায় আইএলও মহাপরিচালকের সাথে একটি সভায় এই আহ্বান জানিয়েছেন"
-    },
-    {
-      "title": "Biman to lease 10 aircraft by 2027: Millat",
-      "link": "https://en.prothomalo.com/bangladesh/4gjdxa3nyc",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 13:45:21 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-19/1mqn1i3i/Aircraft-2.webp",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "২০২৭ সালের মধ্যে বিমান ১০টি বিমান ভাড়া নেবে: মিল্লাত",
-      "descBn": ""
-    },
-    {
-      "title": "Road to the World Cup final: How Argentina and Spain reached the title decider",
-      "link": "https://en.prothomalo.com/sports/football/07cf0p12uy",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 13:25:00 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-19/wuk836n5/Composite-image-of-players-from-Spain-and-Argentina-ahead-of-the-FIFA-World-Cup-2026-final.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "বিশ্বকাপ ফাইনালের পথ: আর্জেন্টিনা এবং স্পেন কীভাবে চ্যাম্পিয়নশিপ ডিসাইডারে পৌঁছেছে",
-      "descBn": ""
-    },
-    {
-      "title": "Measles outbreak: 4 more children die in 24 hours",
-      "link": "https://en.prothomalo.com/bangladesh/65ii66m373",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 13:19:57 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-04-03/16wj9q4b/measles.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "হাম রোগের প্রাদুর্ভাব: ২৪ ঘণ্টায় আরও ৪ জন শিশু মারা গেছে",
       "descBn": ""
     }
   ]
