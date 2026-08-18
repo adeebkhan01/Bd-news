@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T06:49:53.160Z",
-  "summary": "Australian authorities are investigating multiple violent crime incidents including a shooting linked to organised crime and a cold case murder, with CCTV evidence central to both inquiries. Several major institutions face scrutiny today: the Alan Jones trial continues with emotional testimony, the AFL is considering sanctions against Sydney Swans players, and Commonwealth prosecutors are pursuing chemical giant PFAS over health impacts. Political developments include a bipartisan gambling reform deal advancing through parliament despite Coalition backbench dissent over perceived weakness, while One Nation's proposed migration restrictions draw debate about economic and social policy. Beyond politics, cricket star David Warner's attempted seat change before a random breath test has drawn attention, and infrastructure issues from river fatbergs to aging Victorian pools are garnering public discussion.",
+  "fetchedAt": "2026-08-18T09:37:18.263Z",
+  "summary": "Australia's major political and regulatory focus today centres on gambling reform, with Labor and Coalition united on tighter advertising laws despite some backbench criticism that the measures don't go far enough. The criminal justice system dominates coverage with several high-profile cases in flux, including appeals from Erin Patterson in the mushroom poisoning case and Ralph Carr over his rape conviction, while separately David Warner faces court over drink driving allegations. Commonwealth Bank's reshuffled loyalty program and major corporate accountability issues, including construction industry bikie infiltration and chemical giant PFAS cover-ups, signal ongoing scrutiny of business practices. A spate of violent crime stories including gangland shootings and a hit team surveillance operation underscore persistent underworld activity in major cities.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,236 @@
     }
   ],
   "articles": [
+    {
+      "title": "Labor and Coalition unite to lock in new gambling ad laws",
+      "link": "https://www.smh.com.au/national/labor-and-coalition-unite-to-lock-in-new-gambling-ad-laws-20260818-p60pi2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Labor and the Coalition have joined forces in Canberra to lock in tough new restrictions on gambling ads and VIP account managers.",
+      "pubDate": "Tue, 18 Aug 2026 19:35:08 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4d9a5e39cb42fd32cffbf2f78ec9fa946a31cdd8",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Grieving Queensland mother demands answers over baby boy’s death",
+      "link": "https://www.smh.com.au/national/grieving-queensland-mother-demands-answers-over-baby-boy-s-death-20260818-p60pi0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An Ipswich mother whose baby died following a delayed caesarean section is stepping up her fight for accountability.",
+      "pubDate": "Tue, 18 Aug 2026 19:32:08 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/27b013a4c06ba267e6e8cfaeac89516a3ff90ccb",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Commonwealth Bank announces major change to its loyalty program",
+      "link": "https://www.smh.com.au/national/commonwealth-bank-announces-major-change-to-its-loyalty-program-20260818-p60pi3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Commonwealth Bank has announced what it is calling the biggest change to the country's largest banking loyalty program.",
+      "pubDate": "Tue, 18 Aug 2026 19:30:30 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d77aa028a7ac0aad7c0f2d1d6ac7b4c876e9bb2b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The same thing killed 43 per cent of these astronauts. Scientists have a theory",
+      "link": "https://www.smh.com.au/national/nsw/the-same-thing-killed-43-per-cent-of-these-astronauts-scientists-have-a-theory-20260812-p60nrb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "There’s a crucial reason a leading Australian cardiologist has turned his attention to space travel.",
+      "pubDate": "Tue, 18 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_16/t_crop_custom/q_86%2Cf_auto/6c530c820cc1f7523daf5a1c3231946fe419633bd9532333599416c96b267665",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Jenny was killed 100 metres from home. The driver was fined $2000",
+      "link": "https://www.smh.com.au/national/victoria/jenny-was-killed-100-metres-from-home-the-driver-was-fined-2000-20260813-p60o4e.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "In Victoria, a fatal crash can result in a $2000 fine when a driver’s conduct falls short of dangerous driving. Grieving families want that gap closed.",
+      "pubDate": "Tue, 18 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.30257142857142855%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/c31d052f5e34cdf10257b58869a204cc8c8271e9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "What my week as a content creator for a Temu sloth taught me",
+      "link": "https://www.smh.com.au/national/what-my-week-as-a-content-creator-for-a-temu-sloth-taught-me-20260818-p60peh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "In my naivety, I was excited. Thrilled. Overjoyed, even, to be leaving the cesspit of germs, the $180-a-day fees, the baby-ness of long daycare behind.",
+      "pubDate": "Tue, 18 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6635%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_121/t_crop_custom/q_86%2Cf_auto/8ca71e3083e10bdd80d12320d0cb72766e906c65",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Tributes flow following shock death of actress Hayden Panettiere",
+      "link": "https://www.smh.com.au/national/tributes-flow-following-shock-death-of-actress-hayden-panettiere-20260818-p60pi1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Tributes have been laid outside the home of Hollywood actress Hayden Panettiere as more details surrounding her shock death are released.",
+      "pubDate": "Tue, 18 Aug 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b73162ba9a443f4cc35a79cb2d6747ad892a5bfe",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Sick of AI slop? So are the tech giants",
+      "link": "https://www.smh.com.au/business/companies/sick-of-ai-slop-so-are-the-tech-giants-20260818-p60pd2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Silicon Valley wants to take out the trash: Swamped by low-quality content first made possible by their own AI tools, Google, Spotify, LinkedIn and others are trying to dig themselves out of their dig",
+      "pubDate": "Tue, 18 Aug 2026 19:29:11 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7885331347728964%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_208/t_crop_custom/q_86%2Cf_auto/5ad3cf3f9250594c0cbc26586f615ad969ff587c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ralph Carr lawyer slams rape conviction as miscarriage of justice",
+      "link": "https://www.smh.com.au/national/ralph-carr-lawyer-slams-rape-conviction-as-miscarriage-of-justice-20260818-p60phx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The high-profile lawyer defending celebrity manager Ralph Carr has labelled his rape conviction a miscarriage of justice.",
+      "pubDate": "Tue, 18 Aug 2026 19:26:35 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/48c5291d0f3768488d3d389cd2d81107337e8a69",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Disability advocate ‘humiliated’ after being kicked off Virgin flight",
+      "link": "https://www.smh.com.au/national/disability-advocate-humiliated-after-being-kicked-off-virgin-flight-20260818-p60ph4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Shane Hryhorec said he was left humiliated after he was kicked off a Virgin flight and has threatened legal action against the airline.",
+      "pubDate": "Tue, 18 Aug 2026 19:25:36 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8890e3fe6c5b7d1862219aaf21bcbf898dc1c81a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Search continues for hit team after underworld figure shot in driveway",
+      "link": "https://www.smh.com.au/national/search-continues-for-hit-team-after-underworld-figure-shot-in-driveway-20260818-p60phv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Underworld figure Fadi Haddara remains in hospital with bullet wounds following a targeted shooting outside his Melbourne home.",
+      "pubDate": "Tue, 18 Aug 2026 19:21:04 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/55599907c87d11b5deecdccb285ea1fcd88d9dd0",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Burn your house and kill your kids’: Construction giant accused of using bikies",
+      "link": "https://www.smh.com.au/national/victoria/burn-your-house-and-kill-your-kids-construction-giant-accused-of-using-bikies-20260817-p60ox8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A CFMEU activist claims Comanchero bikies threatened him and his family after an incident on a building site.",
+      "pubDate": "Tue, 18 Aug 2026 19:05:42 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.919753086419753%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/066d7eb4b0fb818e5e0f3b0b5fdd2daab08566ee977d161f12eb7eb64ab10019",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Queensland Rail reaches deal with train controllers",
+      "link": "https://www.abc.net.au/news/2026-08-18/queensland-rail-reaches-deal-with-train-controllers/107051822",
+      "desc": "The Fair Work Commission has overseen bargaining negotiations since May, after six enterprise agreements between Queensland Rail and seven unions expired earlier this year.",
+      "pubDate": "Tue, 18 Aug 2026 09:05:33 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/9df676e5d29fb70de55687bd14ed5255?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=405&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Towers up to 30 storeys could be allowed near major shopping centre",
+      "link": "https://www.smh.com.au/national/queensland/towers-up-to-30-storeys-could-be-allowed-near-major-shopping-centre-20260818-p60pg4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Residents will get to have their say on the proposal, which is part of council’s “tall-not-sprawl” push to increase housing supply in multiple suburbs.",
+      "pubDate": "Tue, 18 Aug 2026 19:02:30 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.20429999999999998%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_84/t_crop_custom/q_86%2Cf_auto/1669ab636ec3cb50d8329630f0059944023b51f9deb0caf24980ff5f55edd00f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Erin Patterson launches appeal against conviction in mushroom murder case",
+      "link": "https://www.smh.com.au/national/erin-patterson-launches-appeal-against-conviction-in-mushroom-murder-case-20260818-p60ph5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Erin Patterson returns to court to appeal her conviction for murdering three relatives with a poisoned beef Wellington.",
+      "pubDate": "Tue, 18 Aug 2026 18:41:14 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/c22afba9dd54bee66fcfce21e9095cb1a42162d4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ralph Carr vows to fight for his freedom as lawyer rebuked over ‘emotional’ speech",
+      "link": "https://www.smh.com.au/national/victoria/ralph-carr-vows-to-fight-for-his-freedom-as-lawyer-rebuked-over-emotional-speech-20260817-p60p6a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Lawyers traded legal blows on the second day of convicted rapist Carr’s pre-sentence hearing, as his defence counsel claimed the conviction was a gross miscarriage of justice.",
+      "pubDate": "Tue, 18 Aug 2026 18:38:36 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2506%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/a9c38e05ab61f4bfcc270ad5cec2b1fd54e7f4f5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "David Warner fronts court after being found guilty of drink driving",
+      "link": "https://www.smh.com.au/national/david-warner-fronts-court-after-being-found-guilty-of-drink-driving-20260818-p60ph1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Cricketer David Warner has learned his fate in court after being caught drink driving on the Easter long weekend.",
+      "pubDate": "Tue, 18 Aug 2026 18:36:48 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/743d2861146eba99623b7a92323878986d67eac9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Commonwealth Bank boss Matt Comyn enters his bachelor era",
+      "link": "https://www.smh.com.au/cbd/commonwealth-bank-boss-matt-comyn-enters-his-bachelor-era-20260818-p60pft.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The golden boy of corporate Australia is working through a separation with his wife, Lucy.",
+      "pubDate": "Tue, 18 Aug 2026 17:57:22 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2572%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_259%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/c6dc5bf06fb266a095e506a17ebf5a631dbbffdc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Construction worker confronted by men linked to bikie gang, CFMEU inquiry hears",
+      "link": "https://www.abc.net.au/news/2026-08-18/qld-men-linked-to-bikies-allegedly-threatened-worker/107051804",
+      "desc": "Queensland's CFMEU inquiry has heard three Melbourne men linked to the Comancheros bikie gang flew to Brisbane before one allegedly threatened a construction worker at a major government project.",
+      "pubDate": "Tue, 18 Aug 2026 07:51:38 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/773e5193febc0eb975d5a2fb1f5d6cfd?impolicy=wcms_crop_resize&amp;cropH=654&amp;cropW=491&amp;xPos=488&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Politics with Michelle Grattan: One Nation’s David Farley on the migrants his party wants",
+      "link": "https://theconversation.com/politics-with-michelle-grattan-one-nations-david-farley-on-the-migrants-his-party-wants-289971",
+      "desc": "Farley described One Nation’s immigration target as more complex than its official 130,000 figure, estimating about 40,000 more ‘rotating’ migrants were also needed.",
+      "pubDate": "2026-08-18T07:49:50Z",
+      "img": "https://images.theconversation.com/files/754482/original/file-20260818-50-47630z.jpg?ixlib=rb-4.1.1&amp;rect=23%2C444%2C7008%2C3504&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Victoria moves to expand definition of ‘corruption’ before state election",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/18/victoria-moves-to-expand-definition-of-corruption-before-state-election-ntwnfb",
+      "desc": "<p>Former Ibac head welcomes potential change that could capture actions that currently cannot be used to make corrupt findings</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newslet",
+      "pubDate": "Tue, 18 Aug 2026 07:25:26 GMT",
+      "img": "https://i.guim.co.uk/img/media/d5f1696fa3905e006a9431f9ec06a88aefc8a742/476_0_4744_3797/master/4744.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "What should the AFL do when players face sexual assault allegations?",
+      "link": "https://theconversation.com/what-should-the-afl-do-when-players-face-sexual-assault-allegations-289965",
+      "desc": "How the AFL handles complaints of sexual assault sends a message to women and girls.",
+      "pubDate": "2026-08-18T06:58:38Z",
+      "img": "https://images.theconversation.com/files/754515/original/file-20260818-50-gxi6g9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C93%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Long-awaited gambling reform bill is an improvement, but does not go nearly far enough to reduce harm",
+      "link": "https://theconversation.com/long-awaited-gambling-reform-bill-is-an-improvement-but-does-not-go-nearly-far-enough-to-reduce-harm-289382",
+      "desc": "The new legislation tinkers around the edges rather than making bigger changes to really tackle gambling harm.",
+      "pubDate": "2026-08-18T06:52:40Z",
+      "img": "https://images.theconversation.com/files/754512/original/file-20260818-50-m3i25j.jpg?ixlib=rb-4.1.1&amp;rect=0%2C187%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
     {
       "title": "CCTV released after alleged gangland figure shot in driveway",
       "link": "https://www.smh.com.au/national/cctv-released-after-alleged-gangland-figure-shot-in-driveway-20260818-p60pgx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -618,6 +848,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "ASX falls short of snapping five-day losing streak — as it happened",
+      "link": "https://www.abc.net.au/news/2026-08-18/asx-markets-business-live-news-august-18-2026/107045928",
+      "desc": "The Australian share market fell short of snapping its five-day losing streak on Tuesday, despite companies posting bumper earnings results for the last financial year.",
+      "pubDate": "Mon, 17 Aug 2026 21:53:16 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=724&amp;cropW=543&amp;xPos=32&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
     },
     {
       "title": "WA judges told to stop giving reduced sentences due to prison overcrowding",
@@ -37245,86 +37485,6 @@
       "desc": "The World Health Organisation has a suite of new recommendations to cut dementia risk.",
       "pubDate": "Sun, 19 Jul 2026 20:00:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.2519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/eabe75f81cad61837e2ed793896e062ca1ad52b6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Jean genies: Meet our low-key world record verifying gurus",
-      "link": "https://www.smh.com.au/national/victoria/jean-genies-meet-our-low-key-world-record-verifying-gurus-20260706-p60cxw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Do you have the loudest burp or longest leg hair? A local world record website can verify it for you.",
-      "pubDate": "Sun, 19 Jul 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.30257142857142855%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_182/t_crop_custom/q_86%2Cf_auto/20981adf2d43b74ddb885946a337423b1de3e73f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Police stand by statement over Taser incident",
-      "link": "https://www.smh.com.au/national/police-stand-by-statement-over-taser-incident-20260719-p60gnt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "South Australian police are standing by their statement that a man who disarmed his neighbour refused to put the knife down before he was Tasered.",
-      "pubDate": "Sun, 19 Jul 2026 19:14:48 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1bc3da466ce97cea0ea9b44cfaaac7968877ea2c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Can Australia dodge the next Iran oil shock?",
-      "link": "https://www.smh.com.au/business/the-economy/can-australia-dodge-the-next-iran-oil-shock-20260717-p60g4x.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Energy companies and governments are racing to find new oil supply routes. Others argue the real solution is to reduce the need for oil in the first place.",
-      "pubDate": "Sun, 19 Jul 2026 19:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/38ea08a8aadf4ad42de7840df22c917da498005a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australians feel worse off since last year",
-      "link": "https://www.smh.com.au/national/australians-feel-worse-off-since-last-year-20260719-p60gnr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Exclusive data reveals two-thirds of Australians feel worse off than last year.",
-      "pubDate": "Sun, 19 Jul 2026 18:56:01 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a36330b873cba146f2ffb30e358b75b5d73e970f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Neighbours star Terence Donovan dies aged 90",
-      "link": "https://www.smh.com.au/national/neighbours-star-terence-donovan-dies-aged-90-20260719-p60gnp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Neighbours star Terence Donovan, the father of Jason Donovan, has died aged 90 in Melbourne.",
-      "pubDate": "Sun, 19 Jul 2026 18:39:36 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/be3c5c3e4b3e90e56bd746da6c41c01380164826",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "If Hanson is all the rage, it’s time for a reality check",
-      "link": "https://www.smh.com.au/national/nsw/if-hanson-is-all-the-rage-it-s-time-for-a-reality-check-20260719-p60gjn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "One Nation’s leader is given free marketing every day by commentators ever keen to report on her latest controversy.",
-      "pubDate": "Sun, 19 Jul 2026 18:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1331%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/15cf782634da31d03b3abd9c0c7d1a8d851354ed",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "World Cup’s high cost didn’t stop this fan’s last-minute dash to final",
-      "link": "https://www.smh.com.au/business/consumer-affairs/world-cup-s-high-cost-didn-t-stop-this-fan-s-last-minute-dash-to-final-20260719-p60gk1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Branded the most expensive sporting event in history, the World Cup’s eye-watering ticket costs and travel expenses didn’t stop some Australians.",
-      "pubDate": "Sun, 19 Jul 2026 17:26:04 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_54%2C$y_290/t_crop_custom/q_86%2Cf_auto/6a737e8b1d21160d0ef84d74de835c6b1a8cfd91",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "After Mimi’s, Jeff Bezos slips into the Park Hyatt and orders a negroni",
-      "link": "https://www.smh.com.au/cbd/bezos-watch-amazon-founder-slips-into-park-hyatt-bar-for-a-negroni-20260719-p60gkx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The billionaire has been out and about since arriving in Australia with his wife, Lauren Sanchez, on Friday.",
-      "pubDate": "Sun, 19 Jul 2026 17:19:45 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.682175564236111%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_158%2C$y_52/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/8ac8d73a0e9f1749f15aa772917b1a7a7e3d8d91",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
