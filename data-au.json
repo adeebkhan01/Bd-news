@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T01:24:25.649Z",
-  "summary": "Australia's legal system is in focus with high-profile cases dominating headlines, including the Alan Jones indecent assault trial continuing with further cross-examination, and workplace safety incidents under investigation in Western Australia. Economic and policy developments centre on labor market reforms, with the government preparing to address the \"widow tax\" through negative gearing changes and the ASX expected to slide as global oil prices climb, while copper prices continue to fuel BHP's strong profits. Health and environmental concerns are rising up the agenda, with warnings that heatwaves pose greater dangers to people over sixty than previously recognised, and Australia grappling with emerging threats from bird flu and the Varroa mite. Political divisions are sharpening around proposed gambling advertising restrictions, with the Greens questioning a Labor-Coalition deal, while Pauline Hanson launches a tobacco tax-cutting policy that challenges conventional health policy.",
+  "fetchedAt": "2026-08-18T03:47:56.727Z",
+  "summary": "Australia's news landscape today is dominated by corporate accountability and legal proceedings, with disability rights and workplace conduct issues taking centre stage. A disability advocate's removal from a Virgin flight, Alan Jones's sexual assault trial, and a billionaire family member's resignation over rape case messages reflect broader questions about institutional responsibility and appropriate treatment. Major economic stories include CBA's rewards overhaul affecting Qantas customers, BHP's record $14 billion profit driven by copper demand, and Labor's moves to address the negative gearing \"widow tax.\" Health and environment concerns also feature prominently, particularly warnings about extreme heat dangers for over-60s and ongoing debates around gambling advertising reform.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "Disability advocate removed from Virgin flight over wheelchair motor dispute",
+      "link": "https://www.abc.net.au/news/2026-08-18/shane-hryhorec-disability-advocate-removed-from-virgin-flight/107049174",
+      "desc": "Virgin Australia says it is reviewing an incident where a wheelchair user was removed from a flight after his battery-powered motor could not be stored in overhead lockers on board.",
+      "pubDate": "Tue, 18 Aug 2026 03:34:21 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/1e519997a233a04ddd5b0e35d5a2bcae?impolicy=wcms_crop_resize&amp;cropH=2738&amp;cropW=2054&amp;xPos=1023&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Scooter companies forced to fund river clean-up after mass dumpings revealed",
+      "link": "https://www.smh.com.au/national/queensland/scooter-companies-forced-to-fund-river-clean-up-after-mass-dumpings-revealed-20260818-p60pd7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "“We’re working to keep pressure on those operators to make sure that those scooters are retrieved.”",
+      "pubDate": "Tue, 18 Aug 2026 13:27:29 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3828835978835979%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_373%2C$y_410/t_crop_custom/q_86%2Cf_auto/617de1d5f500fa6ba55a90f9ad9f15a1de1e88dbf2a11f28cabfc00d0b7e869c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "CBA punishes Qantas customers in reward points overhaul",
+      "link": "https://www.smh.com.au/business/companies/cba-punishes-qantas-customers-in-reward-points-overhaul-20260818-p60pdb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The bank has struck a new partnership with Virgin ahead of a move by the RBA to cut the fees that can be charged for credit card transactions.",
+      "pubDate": "Tue, 18 Aug 2026 13:11:47 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/4f792360cdd8053c0ce21dca9cfe1c8159e06f08",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Former Alan Jones colleague tells court of currying favour through texts",
+      "link": "https://www.abc.net.au/news/2026-08-18/cross-examination-of-complainant-c-in-alan-jones-trial-sydney/107049392",
+      "desc": "Complainant C has alleged he was indecently assaulted by Alan Jones on eight separate occasions while working with the veteran broadcaster in 2008.",
+      "pubDate": "Tue, 18 Aug 2026 02:35:00 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/e96032cb2d35312c2e68af60ad6a1ca2?impolicy=wcms_crop_resize&amp;cropH=3490&amp;cropW=2618&amp;xPos=1098&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Origin Energy hack traced to Accenture's Manila office",
+      "link": "https://www.abc.net.au/news/2026-08-18/origin-energy-hack-traced-to-accenture-manila-office/107049188",
+      "desc": "The investigation into last month's breach reveals a link to a former Accenture employee in the Philippines.",
+      "pubDate": "Tue, 18 Aug 2026 02:10:39 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d312d17212987caf599a79f5144be8cb?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "The Taliban has brought Afghanistan close to collapse, but resistance is growing",
+      "link": "https://theconversation.com/the-taliban-has-brought-afghanistan-close-to-collapse-but-resistance-is-growing-289880",
+      "desc": "Armed groups are challenging the group’s hold on power. Can they present a united front?",
+      "pubDate": "2026-08-18T02:06:44Z",
+      "img": "https://images.theconversation.com/files/754485/original/file-20260818-59-bxrobn.jpg?ixlib=rb-4.1.1&amp;rect=0%2C432%2C5184%2C2592&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Red alert: This chart says Wall Street is ready to crash",
+      "link": "https://www.smh.com.au/business/markets/red-alert-this-chart-says-wall-street-is-ready-to-crash-20260818-p60p6p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "A fear gauge created by a Nobel Prize laureate has become one of the most important numbers in the world – and one you should care about.",
+      "pubDate": "Tue, 18 Aug 2026 11:57:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5612%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_72%2C$y_67/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/18d52235fa2ec0623a262bcb4b3135f539a9b1b34a977d63ff508ffa2318b227",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Geologist flags huge Victorian gold potential for Aureka",
+      "link": "https://www.smh.com.au/business/companies/geologist-flags-huge-victorian-gold-potential-for-aureka-20260818-p60pc6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Aureka has flagged a huge gold exploration target of up to 545,000 ounces at its Irvine project, next door to the giant Stawell mine in Victoria, on top of its existing 398,000oz resource.",
+      "pubDate": "Tue, 18 Aug 2026 11:52:33 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/51a20a5e90fae6d240bff2d4c8c962e1c6407dd1f9d6f006a50a4c704d2548d6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Revealed: The $129m plan to bulldoze a Sydney sporting field for homes",
+      "link": "https://www.smh.com.au/national/nsw/revealed-the-129m-plan-to-bulldoze-a-sydney-sporting-field-for-homes-20260817-p60p1v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "More than 100 homes could soon be built on the ground in the Ryde district.",
+      "pubDate": "Tue, 18 Aug 2026 11:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.2325057670126873%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_68%2C$y_116/t_crop_custom/q_86%2Cf_auto/603c605af993570fcf34ece72f73530e43a0b959",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Alan Jones trial live updates: ‘Complainant C’ returns for further cross-examination as alleged indecent assault, sexual touching trial continues",
       "link": "https://www.smh.com.au/national/nsw/alan-jones-trial-live-updates-complainant-c-returns-for-further-cross-examination-as-alleged-indecent-assault-sexual-touching-trial-continues-20260818-p60p7y.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -335,6 +425,16 @@
       "desc": "My research has found religious education can encourage critical thinking in children, instil kindness and tolerance, and help expand students’ worldviews.",
       "pubDate": "2026-08-17T20:09:33Z",
       "img": "https://images.theconversation.com/files/753771/original/file-20260813-69-co1f3s.png?ixlib=rb-4.1.1&amp;rect=0%2C81%2C1999%2C999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Australia must move up the AI ‘value chain’ to capture maximum benefit from the technology: Andrew Charlton",
+      "link": "https://theconversation.com/australia-must-move-up-the-ai-value-chain-to-capture-maximum-benefit-from-the-technology-andrew-charlton-289900",
+      "desc": "The assistant minister argues Australia needs to leverage its data centre advantage and translate that into benefits and growth for the broader economy.",
+      "pubDate": "2026-08-17T20:09:18Z",
+      "img": "https://images.theconversation.com/files/754290/original/file-20260817-60-3bqgr6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C745%2C6407%2C3203&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
       "sourceId": "conversationau",
       "sourceName": "The Conversation AU",
       "sourceColor": "#D8352A"
@@ -36718,56 +36818,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Alex was mistakenly given the wrong medication. Eight days later, he was dead",
-      "link": "https://www.smh.com.au/national/victoria/alex-was-mistakenly-given-the-wrong-medication-eight-days-later-he-was-dead-20260715-p60fj6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A beloved son was given another resident’s medication at a Melbourne group home. His family says questions remain over his death and Footscray facility’s closure.",
-      "pubDate": "Sun, 19 Jul 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/39b958d87c96a0ad6e4908932fa866f351967f39",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia news live: Liberals criticise Hanson for ‘inflammatory’ and ‘insane’ claims at London CPAC conference",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
-      "desc": "<p>Follow the latest updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app<",
-      "pubDate": "Sun, 19 Jul 2026 03:14:00 GMT",
-      "img": "https://i.guim.co.uk/img/media/823716954b669610d2c6ebb1d519c6406d2c3b85/1101_499_6057_4845/master/6057.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Why Bek Condello left a doomsday church at 27",
-      "link": "https://www.abc.net.au/news/2026-07-19/bek-condello-doomsday-church-can-you-handle-a-girl-like-me/106901606",
-      "desc": "Author Bek Condello says she has not spoken to her friends or family inside the church since she decided to leave.",
-      "pubDate": "Sun, 19 Jul 2026 03:03:53 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/6f38b11147e77d92948d3544a483bc46?impolicy=wcms_crop_resize&amp;cropH=1542&amp;cropW=1157&amp;xPos=7&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Some of WA's key policies are up in the air with minister's resignation",
-      "link": "https://www.abc.net.au/news/2026-07-19/paul-papalia-decisions-shape-communities-in-wa-north/106921766",
-      "desc": "Residents in WA's north have been left with a slew of unanswered questions relating to crime and justice in the wake of long-serving WA government minister Paul Papalia's resignation.",
-      "pubDate": "Sun, 19 Jul 2026 01:59:03 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/b9b4dc3e8de992d168b0c2be195eba2f?impolicy=wcms_crop_resize&amp;cropH=2000&amp;cropW=1498&amp;xPos=751&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Senior Liberal rubbishes Abbott's 'failed' multiculturalism claim",
-      "link": "https://www.abc.net.au/news/2026-07-19/senator-andrew-bragg-defies-liberal-tony-abbott-multiculturalism/106932702",
-      "desc": "Senator Andrew Bragg says he \"strongly\" disagrees with the recently elected Liberal Party president, who claims diversity is \"not a strength\".",
-      "pubDate": "Sun, 19 Jul 2026 01:46:22 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/245140691972b89e939f794aeb41ee13?impolicy=wcms_crop_resize&amp;cropH=3500&amp;cropW=2625&amp;xPos=1313&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
     }
   ]
 }
