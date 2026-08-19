@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T18:40:03.825Z",
-  "summary": "Global tensions are escalating across multiple fronts, with Middle East conflicts dominating headlines as Israel faces international condemnation over Gaza operations and alleged strikes on civilians, while Iran tensions spike with alleged missile attacks on the UAE and warnings of broader regional conflict. Trade dynamics are shifting dramatically under the Trump administration, with new US-Canada tariff agreements announced, crypto tax crackdowns intensifying, and energy prices driving inflation concerns across developed economies. Military posturing is intensifying particularly in East Asia, where North Korea distances itself from US engagement attempts while South Korea scales back joint drills at Washington's request, reflecting broader US strategic repositioning. Humanitarian crises are deepening, with aid worker attacks hitting record levels and thousands remaining missing in Gaza, while various geopolitical moves from Ukraine's military recruitment pressures to sanctions on the International Criminal Court signal a fractured international order.",
+  "fetchedAt": "2026-08-19T21:28:50.334Z",
+  "summary": "Global markets stabilized today as US borrowing costs eased following government intervention, while a proposed US-Canada trade deal drew mixed signals with Trump claiming fairness but details remaining unclear. Geopolitical tensions remained acute across multiple fronts: Iran faced parliamentary hardline rhetoric and alleged targeting of the UAE, North Korea's leadership rejected US engagement, and NATO prepared defenses against potential Iranian strikes. The Middle East conflict intensified with Israel launching new settlement bids in the West Bank and acknowledging fire on a vehicle carrying Gaza's symbolic victim Hind Rajab, while Canada condemned what it termed an unlawful Israeli invasion and pledged aid to Lebanon. Meanwhile, aid access to Gaza remained compromised, Ukrainian military recruitment turned violent, and the broader economic picture showed inflation heating up alongside record attacks on humanitarian workers worldwide.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "US long-term borrowing costs ease after government steps in",
+      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+      "pubDate": "Wed, 19 Aug 2026 19:26:06 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c600/live/6b7a29d0-9bff-11f1-aed2-8d6da8d75094.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "pubDate": "Wed, 19 Aug 2026 19:02:41 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Zambia opposition leader to challenge Hichilema election victory in court",
+      "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
+      "desc": "Opposition leader claims &#039;serious irregularities&#039; in the vote that handed President Hakainde Hichilema a second term.",
+      "pubDate": "Wed, 19 Aug 2026 18:43:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a811edbdc0e-1786846939.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
+      "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
+      "desc": "Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.",
+      "pubDate": "Wed, 19 Aug 2026 18:21:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/14222065-1787059750.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
       "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
@@ -14350,86 +14390,6 @@
       "desc": "The BBC hears from people about the risks and rewards of investing in technology shares.",
       "pubDate": "Mon, 20 Jul 2026 22:00:41 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/dc840590-80bd-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
-      "desc": "Protesters threw eggs at lawmakers&#039; vehicles outside Albania&#039;s parliament, demanding changes to laws.",
-      "pubDate": "Mon, 20 Jul 2026 21:19:41 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784582343.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
-      "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-      "desc": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
-      "pubDate": "Mon, 20 Jul 2026 21:06:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP25357403714237-1774083562.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How will Zelenskyy handle the growing political crisis at home?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-      "desc": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
-      "pubDate": "Mon, 20 Jul 2026 20:50:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784574869.jpg?resize=1920%2C1061&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Indian police attack Cockroach Janta Party’s parliament march",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
-      "desc": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party&#039;s march in New Delhi.",
-      "pubDate": "Mon, 20 Jul 2026 20:21:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/THUMB1-copy-1784578722.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Merger deal between Paramount and Warner Bros paused by judge",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
-      "pubDate": "Mon, 20 Jul 2026 19:48:13 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6662/live/88431510-846f-11f1-b286-f1d324aa6c22.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "EU pauses methane penalties amid energy crisis, US pressure",
-      "link": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss",
-      "desc": "The European Commission says waiving penalties will ensure the security of energy supply.",
-      "pubDate": "Mon, 20 Jul 2026 19:29:37 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69b03a18-1773156888.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US judge orders pause on Paramount–Warner Bros merger",
-      "link": "https://www.aljazeera.com/economy/2026/7/20/us-judge-orders-pause-on-paramount-warner-bros?traffic_source=rss",
-      "desc": "Paramount risks $650m quarterly fees if merger delays extend beyond September, as per the merger agreement terms.",
-      "pubDate": "Mon, 20 Jul 2026 19:20:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-13T155314Z_1369891601_RC23DMA6AWMU_RTRMADP_3_WARNER-BROS-DIS-M-A-PARAMOUNT-LAWSUIT-1784571865.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who is new chancellor John Healey? Labour veteran who quit as defence secretary",
-      "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
-      "pubDate": "Mon, 20 Jul 2026 18:44:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
