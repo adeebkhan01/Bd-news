@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T03:50:14.821Z",
-  "summary": "Global tensions are escalating across multiple regions as the UAE imposes a trade embargo on Iran over alleged missile attacks while the US sanctions the International Criminal Court's leadership, amid ongoing rhetoric between Washington and Tehran about negotiations. Trade relations show mixed signals with Trump pausing tariffs on Canada after reaching a tentative deal, though broader economic concerns persist as global borrowing costs hit fresh highs. The humanitarian crisis in the Democratic Republic of Congo has reached critical levels with Ebola infections surpassing five thousand cases and declared a global emergency by the WHO, while conflict continues to intensify in Ukraine with Russian missile strikes killing civilians and damaging critical infrastructure. Domestically across various countries, significant legal proceedings are underway including trials related to Meta's impact on children's mental health and investigations into historical atrocities in Syria.",
+  "fetchedAt": "2026-08-19T06:50:46.745Z",
+  "summary": "Global tensions are mounting across multiple fronts as geopolitical rivalries intensify. The standoff between the US and Iran has escalated sharply, with the UAE imposing a trade embargo on Tehran and Trump denying negotiations despite claims of Iranian outreach, while North Korea's alignment with China appears strengthened by scaled-back US-South Korea military exercises. Trade negotiations between the US and Canada have reached a tentative deal averting steep tariffs, but broader economic pressures persist as energy costs drive inflation higher in the UK and global borrowing rates hit fresh highs. Meanwhile, humanitarian crises are deepening with the DR Congo's Ebola outbreak declared a global emergency exceeding five thousand cases, and Ukraine continues navigating wartime governance challenges following its defence minister's ouster and calls for elections.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The cost of things is now rising at a faster pace compared with last month.",
+      "pubDate": "Wed, 19 Aug 2026 06:50:04 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19e9/live/20c8c240-9a13-11f1-a05c-fdd5e0ed226e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
+      "desc": "Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.",
+      "pubDate": "Wed, 19 Aug 2026 06:27:30 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-16T110833Z_26409245_RC2ASLA47TWZ_RTRMADP_3_CHINA-ECONOMY-1787055776.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
+      "desc": "Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.",
+      "pubDate": "Wed, 19 Aug 2026 06:16:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787120195.jpg?resize=1619%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukraine’s ousted defence minister calls for elections during war",
+      "link": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "desc": "Mykhailo Fedorov&#039;s call is first such demand by a major Ukrainian political figure since Russia&#039;s full-scale invasion.",
+      "pubDate": "Wed, 19 Aug 2026 05:59:44 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26197370623875-1784279166.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "South Korea, US scale back annual military drills after Trump’s order",
+      "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+      "desc": "Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.",
+      "pubDate": "Wed, 19 Aug 2026 04:59:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-23T100451Z_306806787_RC224KA1SJYW_RTRMADP_3_NORTHKOREA-SOUTHKOREA-1787104066.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
       "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
@@ -14393,36 +14453,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Controversial farm subsidy scheme gets billion pound budget",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kn49y3vdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The protest-hit Sustainable Farming Scheme has been introduced after almost a decade in development.",
-      "pubDate": "Mon, 20 Jul 2026 05:49:38 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b9/live/03604bf0-839e-11f1-8c34-fb0b540950a3.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
-      "desc": "US President Donald Trump said the latest strikes on Iran were carried out &#039;in honour&#039; of killed US military personnel.",
-      "pubDate": "Mon, 20 Jul 2026 04:52:56 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784523106.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US releases footage of ninth consecutive night of strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
-      "desc": "The US military carried out its ninth consecutive night of strikes on Iran.",
-      "pubDate": "Mon, 20 Jul 2026 04:38:16 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784522281.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }

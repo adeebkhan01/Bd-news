@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T03:50:01.279Z",
-  "summary": "Australia's parliament passed major reforms today with NDIS changes securing Senate approval after Coalition negotiations over 63 amendments, while a separate gambling reform package cleared the House of Representatives following widespread concerns about casino breaches and problem gambling affecting vulnerable Australians. High-profile legal proceedings continued with Alan Jones' cross-examination in his sexual assault trial and Erin Patterson pursuing her appeal against the mushroom poisoning convictions that killed three people. In other major developments, a SpaceX Starship rocket splashed down off Christmas Island and was retrieved, One Nation finally lodged three years of overdue financial documents under government warning, and a significant data breach at Quest hotel chain has emerged.",
+  "fetchedAt": "2026-08-19T06:50:34.168Z",
+  "summary": "Australia's day is dominated by ongoing scandals involving the Sydney Swans, with five players banned over a breach of standards as a police investigation continues, complemented by separate reporting on financial crime in hospitality venues and gambling breaches at casinos. There's significant political and infrastructure news including the Coalition's pledge to scrap Victoria's VNI West transmission project and controversy over Western Australia's GST deal, while high-profile legal proceedings continue involving broadcaster Alan Jones and mushroom poisoning appellant Erin Patterson. Economic concerns loom with retail spending faltering amid consumer pressure, competition regulator action against tech company WiseTech, and a property market exposed to exploitation through dubious lending practices. SpaceX's Starship splashed down near Christmas Island in a lighter moment that captured public interest across the remote region.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,176 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia was famous for having no guns – what happened? Do we have a gun problem now? | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/19/australia-was-famous-for-having-no-guns-do-we-have-a-gun-problem-now",
+      "desc": "<p>One guy in Sydney has 371 of them. Who needs 371 guns?</p><ul><li><p><a href=\"https://www.theguardian.com/commentisfree/2014/jun/16/-sp-first-dog-on-the-moon-subscribe-by-email\">Sign up here to get",
+      "pubDate": "Wed, 19 Aug 2026 06:41:07 GMT",
+      "img": "https://i.guim.co.uk/img/media/0bcf6ade59f02ee8ef50ffb6198409eab82f1517/0_0_906_725/master/906.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Swans ban five players over breach of standards amid police probe",
+      "link": "https://www.smh.com.au/national/swans-ban-five-players-over-breach-of-standards-amid-police-probe-20260819-p60ptx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Swans chairman Andrew Pridham and CEO Matthew Pavlich have fronted the media following season-ending bans for five players.",
+      "pubDate": "Wed, 19 Aug 2026 16:36:06 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/af52579eca7675dc1d8eef273c1ed0fdad9f7561",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Open slather for money laundering in NSW clubs and hotels",
+      "link": "https://www.smh.com.au/national/nsw/open-slather-for-money-laundering-in-nsw-clubs-and-hotels-20260819-p60pnc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Turning dirty money into legitimate cash has been stopped in NSW casinos but it’s still rife in other establishments.",
+      "pubDate": "Wed, 19 Aug 2026 16:25:47 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2121%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3c9602b9c674f091a1dbec1083b1eaa39201f0a5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "SpaceX Starship the talk of remote Australian island as Elon Musk’s engineers sent to retrieve it",
+      "link": "https://www.theguardian.com/science/2026/aug/19/elon-musk-spacex-starship-lands-christmas-island-australia",
+      "desc": "<p>Christmas Island locals who woke to see the spacecraft floating off the coast hope global attention will encourage tourists</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/20",
+      "pubDate": "Wed, 19 Aug 2026 06:24:23 GMT",
+      "img": "https://i.guim.co.uk/img/media/7a84941b021e697bb484823da1f8bd033a6f60b1/446_0_3333_2667/master/3333.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Myna birds filmed taking the train like regular Sydney commuters",
+      "link": "https://www.smh.com.au/national/myna-birds-filmed-taking-the-train-like-regular-sydney-commuters-20260819-p60ptk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A pair of ultra-relaxed myna birds have been filmed taking the morning train to Artarmon - a habit that was revealed as an daily occurrence for the two feathered friends.",
+      "pubDate": "Wed, 19 Aug 2026 16:10:16 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/65d85b9363deb4eb3113e23b4f199ed2242c40de",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Five charts that explain what’s really happening with housing",
+      "link": "https://www.smh.com.au/business/banking-and-finance/five-charts-that-explain-what-s-really-happening-with-housing-20260818-p60p9a.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The May budget upended demand for mortgages, but that isn’t the whole story in a market that has been running hot for years.",
+      "pubDate": "Wed, 19 Aug 2026 16:04:37 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2628%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/2daa3eb13d450aedb188810fc8ad48316751b1bc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Army joins search for missing Sydney bushwalker, 18",
+      "link": "https://www.smh.com.au/national/nsw/army-joins-search-for-missing-sydney-bushwalker-18-20260819-p60ps1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The army has joined emergency services and volunteers searching for Lily Hooper after the teenager did not return from a hike south-west of Sydney last week.",
+      "pubDate": "Wed, 19 Aug 2026 15:55:21 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.8589%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_721/t_crop_custom/q_86%2Cf_auto/92584494992d66d3b2c0192b9e79bb56a7298f2e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Retailers on the ropes as consumers all but close their wallets",
+      "link": "https://www.smh.com.au/business/companies/retailers-on-the-ropes-as-consumers-all-but-close-their-wallets-20260819-p60ppb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The shareholder jury has spoken: the discretionary retail sector is in an unambiguous slump.",
+      "pubDate": "Wed, 19 Aug 2026 15:50:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1882%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/b74308600818dbc5146f2741eaa1275447b2eeba",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The billionaire brat pack can’t stop whinging. They’re only embarrassing themselves",
+      "link": "https://www.smh.com.au/business/the-economy/the-billionaire-brat-pack-can-t-stop-whinging-they-re-only-embarrassing-themselves-20260819-p60plf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "From Gina Rinehart to Lauren Bezos, Elon Musk to Mark Zuckerberg, the super wealthy appear to have everything but the one thing they truly want.",
+      "pubDate": "Wed, 19 Aug 2026 15:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/8a19b4a93fd6b354324f239b2432c4699454e694",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Coalition vows to scrap VNI West transmission project in Victoria",
+      "link": "https://www.abc.net.au/news/2026-08-19/victorian-coalition-promises-to-scrap-vni-west-transmission-line/107053638",
+      "desc": "The Victorian Liberal and National parties will scrap the controversial VNI West transmission project if the Coalition wins the state election in November.",
+      "pubDate": "Wed, 19 Aug 2026 05:25:01 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/52bfcc079933a9ab6905e42e2f482bfc?impolicy=wcms_crop_resize&amp;cropH=392&amp;cropW=294&amp;xPos=183&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Alan Jones trial exposes rift between former Sydney talkback giants",
+      "link": "https://www.smh.com.au/national/nsw/alan-jones-trial-exposes-rift-between-former-sydney-talkback-giants-20260819-p60prt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Former 2GB hosts Ray Hadley and Jason Morrison are expected to give evidence in the trial in the weeks ahead.",
+      "pubDate": "Wed, 19 Aug 2026 15:13:16 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6281%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_30%2C$y_0/t_crop_custom/q_86%2Cf_auto/50278e0d3656933ce129ec7ec4ba965e7b68e6f964310c5ce2d37424294f5cdf",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "A timeline of right-wing stunts funded by the Plymouth Brethren Christian Church",
+      "link": "https://www.smh.com.au/national/a-timeline-of-right-wing-stunts-funded-by-the-plymouth-brethren-christian-church-20260819-p60psq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The Plymouth Brethren Christian Church has organised and funded a number of right-wing political stunts around the country.",
+      "pubDate": "Wed, 19 Aug 2026 15:01:45 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4a9c34329399eccdc86cd1229907fc2228f561fa",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
+      "desc": "<p>Food Foundation sounds alarm over supply risks and price shocks as about 40% of Britain’s food is imported</p><p>The UK is vulnerable to food price shocks because of its dependence on imports of fr",
+      "pubDate": "Wed, 19 Aug 2026 05:00:06 GMT",
+      "img": "https://i.guim.co.uk/img/media/f6aa775f912c60f9a2982dcb7cec428717b8769c/509_177_6506_5206/master/6506.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Telstra suspends Swans players from brand ambassador program",
+      "link": "https://www.smh.com.au/business/companies/telstra-suspends-swans-players-from-brand-ambassador-program-20260819-p60pqk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The telco said it was “deeply concerned” by the allegations and would make final decisions on its sponsorships once the police investigation was complete.",
+      "pubDate": "Wed, 19 Aug 2026 14:25:33 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.6944%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/dc17eb20460ad4c974cac2f9e699ac6a8568c2ab8d384786cfad7cc190db07cf",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Former treasurer says WA’s GST deal is ‘the greatest public policy decision this century’",
+      "link": "https://www.smh.com.au/national/western-australia/former-treasurer-says-wa-s-gst-deal-is-the-greatest-public-policy-decision-this-century-20260819-p60prd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The comments come after the Productivity Commission labelled the 2018 deal a “mistake” that could end up costing Australian taxpayers up to $12b a year.",
+      "pubDate": "Wed, 19 Aug 2026 14:18:10 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5919%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_51%2C$y_0/t_crop_custom/q_86%2Cf_auto/57abfb3de582b456bb0c30d02e42916f8650a18e560a46630a20e3c749485d8f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Carbon pollution has fuelled ‘massive expansion’ of marine heatwaves in Europe, study finds",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/carbon-pollution-massive-expansion-marine-heatwaves-europe",
+      "desc": "<p>Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climate</p><p>Carbon pollution has fuelled a “massive expansion” of marine heatwaves in Europ",
+      "pubDate": "Wed, 19 Aug 2026 04:00:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/bd72147bde43ba629cd3212aea27908b6b16b768/453_0_6521_5216/master/6521.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "WiseTech raided by competition watchdog, smashing shares",
+      "link": "https://www.smh.com.au/technology/wisetech-raided-by-competition-watchdog-smashing-shares-20260819-p60pqy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
+      "desc": "It’s the third regulator or police force to investigate the embattled software company or its billionaire founder.",
+      "pubDate": "Wed, 19 Aug 2026 13:50:44 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.25013447932532856%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_279%2C$y_181/t_crop_custom/q_86%2Cf_auto/586e87cc31083a951e37b0f0dcfa59150435c735",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Viking lights up visual tungsten in drilling at historic Nevada mine",
       "link": "https://www.smh.com.au/business/companies/viking-lights-up-visual-tungsten-in-drilling-at-historic-nevada-mine-20260819-p60pr3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -37408,216 +37578,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Gateway fires up three-rig gold hunt at WA Yandal project",
-      "link": "https://www.smh.com.au/business/companies/gateway-fires-up-three-rig-gold-hunt-at-wa-yandal-project-20260720-p60gya.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Gateway Mining has launched a major RC drilling campaign across multiple discoveries at its WA Yandal project to convert a burgeoning discovery pipeline into future resource growth.",
-      "pubDate": "Mon, 20 Jul 2026 16:30:18 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/b4363ed85921e977a21a25d63499e7022b77153b6a765069e8da330a251ff640",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Abortion clinic-style protest bans could reduce ‘distress and anxiety’ at synagogues and Jewish schools, Dreyfus says",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/20/mark-dreyfus-protest-ban-synagogues-jewish-schools-antisemitism-royal-commission-ntwnfb",
-      "desc": "<p>Former attorney general details antisemitic abuse at royal commission, saying he was labelled a ‘genocidal Zionist’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/2",
-      "pubDate": "Mon, 20 Jul 2026 06:28:03 GMT",
-      "img": "https://i.guim.co.uk/img/media/8278b3c99095b854217f206cbc995373edfbaf98/653_392_5133_4106/master/5133.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Terrifying near-miss crash caught on camera",
-      "link": "https://www.smh.com.au/national/terrifying-near-miss-crash-caught-on-camera-20260720-p60gy7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A 51-year-old woman has been charged after a terrifying collision on a Melbourne bridge that could have been so much worse.",
-      "pubDate": "Mon, 20 Jul 2026 16:19:53 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f1edeb6959b6511680f3eed486f6c227d5018cc9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘ISIS bride’ who allegedly urged children to behave like terrorists granted bail",
-      "link": "https://www.smh.com.au/national/victoria/isis-bride-who-allegedly-urged-children-to-behave-like-terrorists-granted-bail-20260720-p60gwt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Mother-of-four Rayann El Houli will remain within the community, after a magistrate deemed her risk of reoffending to be “relatively low”.",
-      "pubDate": "Mon, 20 Jul 2026 16:13:02 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_155/t_crop_custom/q_86%2Cf_auto/0773fb575f2f31c786d49c0ea23f89d039659237032fe7d9fb6ac8f96d6adb95",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Barkly drills for bigger NT rare earths with 10,000m push",
-      "link": "https://www.smh.com.au/business/companies/barkly-drills-for-bigger-nt-rare-earths-with-10-000m-push-20260720-p60gxs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Barkly Rare Earths has officially set the drill bit spinning in a 10,000m campaign to expand its 40Mt NT rare earths resource, with first assays on the way.",
-      "pubDate": "Mon, 20 Jul 2026 16:11:22 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_381%2C$y_108/t_crop_custom/q_86%2Cf_auto/83195ea3114d737ab91d4a587c62c6f8cc8a8aca82110ea879549a4aab3d6212",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Can you solve it? Do you think like a physicist?",
-      "link": "https://www.theguardian.com/science/2026/jul/20/can-you-solve-it-do-you-think-like-a-physcist",
-      "desc": "<p>A scorching puzzle about heat</p><p>In a summer heatwave, you keep the curtains drawn all day.</p><p>It helps keep the room cool.</p> <a href=\"https://www.theguardian.com/science/2026/jul/20/can-yo",
-      "pubDate": "Mon, 20 Jul 2026 06:10:48 GMT",
-      "img": "https://i.guim.co.uk/img/media/41fcb27ee901e451174b6c19ab9193207043c8b3/0_0_4505_3601/master/4505.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Bezos’ whirlwind visit: How do the rich and famous get to the beach so fast?",
-      "link": "https://www.smh.com.au/business/companies/bezos-whirlwind-visit-how-do-the-rich-and-famous-get-to-the-beach-so-fast-20260720-p60gq9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The billionaire landed, appeared at a restaurant near Coogee beach a mere hour later, then jetted off after a 43-hour stay.",
-      "pubDate": "Mon, 20 Jul 2026 16:03:51 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6724%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f54993df34ac964231fe47dc252f2717a6cc256904beb48ddfe43177f735873b",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Coles’ backdown on $4 billion pet deal was a smart move. Private equity can’t have been pleased",
-      "link": "https://www.smh.com.au/business/companies/investors-bark-coles-backpedals-on-peak-pooch-price-for-pet-business-20260720-p60gux.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Leah Weckert isn’t the first boss of the supermarket chain to believe that pets could be a boon to the chain, but investors corrected her.",
-      "pubDate": "Mon, 20 Jul 2026 15:49:52 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3796427266081871%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_60%2C$y_342/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/c79a2322a066cb4f6984c58af4a1efd4a41dc9fa",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Monday briefing: 50 years after Viking landed on Mars, did Nasa overlook evidence of life?",
-      "link": "https://www.theguardian.com/world/2026/jul/20/monday-briefing-50-years-after-viking-landed-on-mars-did-nasa-overlook-evidence-of-life",
-      "desc": "<p>In today’s newsletter: ​Breakthroughs increasingly hinge not on finding something new, but on recognising what was​ missed. A leading scientist tells us why it matters</p><p></p><p>Good morning. As",
-      "pubDate": "Mon, 20 Jul 2026 05:48:17 GMT",
-      "img": "https://i.guim.co.uk/img/media/0606e5105e9020c16c382a37b1cce62fd59e3954/125_0_3750_3000/master/3750.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘One in 15 million’: Mum gives birth to identical quadruplets in likely Australian first",
-      "link": "https://www.smh.com.au/national/queensland/one-in-15-million-mum-gives-birth-to-identical-quadruplets-in-likely-australian-first-20260720-p60guk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Jenitar Sau Na’amoana, 34, was raising four young children and had not planned to have another when she naturally fell pregnant.",
-      "pubDate": "Mon, 20 Jul 2026 15:22:58 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.1595%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_36%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/adffb9142f9b2637e6dacdaa2b8faeaa6071c17704995993265c1daeae2e07c2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Starwatch: Identifying the Scorpion, mythical adversary of Orion",
-      "link": "https://www.theguardian.com/science/2026/jul/20/starwatch-identifying-the-scorpion-mythical-adversary-of-orion",
-      "desc": "<p>The full constellation can be frustrating to track down in the UK owing to its low presence in the southern sky</p><p>This week we will take the opportunity to identify Scorpius, the Scorpion, one ",
-      "pubDate": "Mon, 20 Jul 2026 05:00:47 GMT",
-      "img": "https://i.guim.co.uk/img/media/0f2c11a92c4b86be8203544c9af253f203dc9f49/642_0_2039_1632/master/2039.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
-      "link": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
-      "desc": "<p>The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land</p><p>The jerry-built bordello at the foot of Vila Cururu, a",
-      "pubDate": "Mon, 20 Jul 2026 05:00:47 GMT",
-      "img": "https://i.guim.co.uk/img/media/b32908c7a7eaabb7194ecfdee23a1b24b43d95e9/241_0_3500_2801/master/3500.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Safety authority grilled over pilot drug-testing gaps",
-      "link": "https://www.smh.com.au/national/queensland/safety-authority-grilled-over-pilot-drug-testing-gaps-20260720-p60gwq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Pilots on Sea World joy flights were breath-tested for alcohol before every shift but faced no mandated routine testing for illicit drugs ahead of a fatal crash, a coroner has heard.",
-      "pubDate": "Mon, 20 Jul 2026 14:56:49 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.30036142855129405%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/4ee256aa8649ec552f3b0681579531122bc9d3bb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
-      "link": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
-      "desc": "<p>Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has found</p><ul><li><p><a href=\"https://www.theguardian.com/austr",
-      "pubDate": "Mon, 20 Jul 2026 04:43:37 GMT",
-      "img": "https://i.guim.co.uk/img/media/fefc6edd8b5e59707c2b70fe938b7b4e76324256/270_0_1125_900/master/1125.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Brisbane MP says tax figures show 'AirTrain's foreign owners are ripping us all off'",
-      "link": "https://www.abc.net.au/news/2026-07-20/airtrain-paid-no-company-tax-greens-mp/106935730",
-      "desc": "Financial reports from a company that owns the Brisbane AirTrain service show it paid zero income tax between 2015 and 2025 financial years.",
-      "pubDate": "Mon, 20 Jul 2026 04:39:21 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/dad21836682e800cba10829e5d869af7?impolicy=wcms_crop_resize&amp;cropH=1667&amp;cropW=1250&amp;xPos=451&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "The government wants to tap $4 trillion in super to address Australia’s challenges. It’s a risky strategy",
-      "link": "https://theconversation.com/the-government-wants-to-tap-4-trillion-in-super-to-address-australias-challenges-its-a-risky-strategy-287762",
-      "desc": "Forcing funds to invest members’ savings in particular projects or sectors is problematic. There’s a better approach.",
-      "pubDate": "2026-07-20T04:24:27Z",
-      "img": "https://images.theconversation.com/files/748513/original/file-20260717-57-9gpu2l.jpg?ixlib=rb-4.1.1&amp;rect=0%2C783%2C5451%2C2725&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Mia Freedman’s son appointed CEO of Mamamia",
-      "link": "https://www.smh.com.au/business/companies/mia-freedman-s-son-appointed-ceo-of-mamamia-20260720-p60gvc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Luca Lavigne, 28, will take over as chief executive of Australia’s largest women-focused media company in September.",
-      "pubDate": "Mon, 20 Jul 2026 14:24:01 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/5ca8991d58e62435e5ad90b5840fa9a5a6a90a657e3fea4a634b16f95be1097e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Critical Resources taps cooling guru for AI data centre tech push",
-      "link": "https://www.smh.com.au/business/companies/critical-resources-taps-cooling-guru-for-ai-data-centre-tech-push-20260720-p60gvt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Critical Resources has tapped a liquid cooling guru to advance its licensed tech for AI data centres, a capital-light play alongside its core lithium and battery projects.",
-      "pubDate": "Mon, 20 Jul 2026 14:18:37 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/df39e62315af19ecb75baee5a5eb45f1f0a3f1ea99f91da5c4bb1c7e389cb28a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Electric vehicles are built different. Australia needs better data to get the most out of the shift",
-      "link": "https://theconversation.com/electric-vehicles-are-built-different-australia-needs-better-data-to-get-the-most-out-of-the-shift-287070",
-      "desc": "Australia stopped keeping detailed data on its vehicle fleet after the domestic car industry ended. That’s becoming an issue.",
-      "pubDate": "2026-07-20T04:12:09Z",
-      "img": "https://images.theconversation.com/files/748735/original/file-20260720-71-vt5fwu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C203%2C2121%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "White spot disease fallout leads to auction of historic seafood site",
-      "link": "https://www.abc.net.au/news/2026-07-20/maclean-clarence-fishing-coop-outlet-up-for-sale/106932870",
-      "desc": "A seafood outlet that has been operating for almost 80 years on the NSW Mid North Coast will go up for auction as the Clarence River Fishermen's Co-op battles financial challenges posed by white spot ",
-      "pubDate": "Mon, 20 Jul 2026 04:01:40 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/51a9b87c0f9cdb5e8c2d4f5b110f2e92?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "AI-altered images on birdwatching forums putting research at risk",
-      "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
-      "desc": "<p>Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists</p><p>For many birdwatchers, recording a species outside it",
-      "pubDate": "Mon, 20 Jul 2026 04:00:45 GMT",
-      "img": "https://i.guim.co.uk/img/media/2c6fb5539ce914deef1de8b4e9f9a3c6159194d2/256_0_1280_1024/master/1280.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
