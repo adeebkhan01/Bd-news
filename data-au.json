@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T15:34:43.520Z",
-  "summary": "Australia's domestic policy agenda is dominated by welfare and economic concerns, with major controversies erupting over aged care funding decisions, gambling reform inadequacy, and proposed changes to the NDIS that could significantly affect vulnerable Australians. Labor faces criticism from multiple fronts on its reform packages, particularly regarding claims that housing tax changes could raise rents and that new gambling restrictions won't sufficiently address addiction problems. A series of institutional governance issues has emerged, ranging from toxic contamination at a Perth waste facility affecting groundwater to allegations of sexual assault involving Sydney Swans players and ongoing investigations into hospital administration failures. Several stories also highlight how artificial intelligence is reshaping critical sectors, from automated hiring tools raising discrimination concerns to external audits now required for child safety on the gaming platform Roblox.",
+  "fetchedAt": "2026-08-19T18:39:49.168Z",
+  "summary": "Australia faces mounting pressures on essential services and public safety, with investigations into NDIS funding delays, contamination at Perth waste sites, and a critical stabbing in Sydney highlighting systemic concerns. Major policy debates are intensifying around Labor's tax and rental reforms, AI oversight in hiring and child safety, and the future of climate versus economic priorities, with the NDIS overhaul set to significantly impact vulnerable Australians. Key legal cases are advancing, including the mushroom murderer retrial and an AI discrimination landmark ruling, while corporate governance remains under scrutiny with CBA's Comyn offloading shares during his separation. International developments show ongoing labor shortages in US firefighting and fresh maritime conservation successes, though environmental hazards from algae blooms to toxic seepage continue affecting communities.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Human remains again found at Lake Mead as water levels drop amid drought",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-remains",
+      "desc": "<p>Discovery marks latest grim finding in lake as water levels in crucial reservoir outside Las Vegas continue to decline</p><p>Human remains have once again been discovered at Lake Mead outside Las V",
+      "pubDate": "Wed, 19 Aug 2026 17:30:28 GMT",
+      "img": "https://i.guim.co.uk/img/media/42e51a2228f70a38d992856dc5a9098d8a230328/542_0_5417_4335/master/5417.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Otter spotted for first time in 100 years in New York City’s Bronx River",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city",
+      "desc": "<p>Image captured in early June shows animal foraging in the waterway in first since early 1900s, signaling its recovery </p><p>An otter has been spotted in the Bronx River for the first time in more ",
+      "pubDate": "Wed, 19 Aug 2026 17:27:55 GMT",
+      "img": "https://i.guim.co.uk/img/media/784bea804079e04dd8dc6a5bc095f1c662fedceb/224_0_788_630/master/788.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Judge finds King Eddies negligent after catastrophic birth-injury but rules against compensation payout",
+      "link": "https://www.smh.com.au/national/western-australia/judge-finds-king-eddies-negligent-after-catastrophic-birth-injury-but-rules-against-compensation-payout-20260807-p60mgp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The five-year-old was left with a severe brain injury after she was born via c-section in 2020. Her family sought financial compensation to support her after she was left with developmental delays, ce",
+      "pubDate": "Thu, 20 Aug 2026 03:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.2444%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/13609204055b59f1bf72bb5b09b37be48d332458",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "First bluefin tunas caught off Yorkshire since 1960s ‘success story’ for marine conservation",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/first-bluefin-tunas-caught-off-yorkshire-since-1960s-success-story-for-marine-conservation",
+      "desc": "<p>Researchers laud return of giant tuna to North Sea after being fished almost to point of extinction</p><p>Researchers have lauded two giant bluefin tunas being caught off the coast of Yorkshire for",
+      "pubDate": "Wed, 19 Aug 2026 16:36:55 GMT",
+      "img": "https://i.guim.co.uk/img/media/399e2a48a60ecb57e79d970270442ba861273b08/0_121_1536_1229/master/1536.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Swimmers warned of toxic algae at newly designated Thames bathing site",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/swimmers-warned-toxic-algae-thames-bathing-site-ham",
+      "desc": "<p>People told they and their pets should keep out of river at Ham amid anger over Thames Water’s treated sewage plan</p><p></p><p>Swimmers are being warned not to enter the water at the first officia",
+      "pubDate": "Wed, 19 Aug 2026 16:32:47 GMT",
+      "img": "https://i.guim.co.uk/img/media/a830b976cd1735f7f7bf685e88812506288c3ac1/0_0_4608_3685/master/4608.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Tice should apologise to firefighters for ‘enjoy it’ remark on extreme heat, says Labour",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/19/richard-tice-enjoy-it-remark-extreme-heat-labour",
+      "desc": "<p>Exclusive: Bridget Phillipson’s comments show her party feels voters have been alienated by Reform net zero attacks</p><p>Richard Tice should apologise to firefighters for his comments this week ur",
+      "pubDate": "Wed, 19 Aug 2026 16:19:41 GMT",
+      "img": "https://i.guim.co.uk/img/media/b33fb79c9eacef017f9c62bdb51d0ac3a1717aa0/868_0_4840_3872/master/4840.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Astronomers detect fastest known star in Milky Way",
+      "link": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
+      "desc": "<p>Star’s extreme proximity to Sagittarius A* means it could open new window onto black hole’s fundamental properties</p><p>Astronomers have detected the fastest known star in the Milky Way, hurtling ",
+      "pubDate": "Wed, 19 Aug 2026 16:00:25 GMT",
+      "img": "https://i.guim.co.uk/img/media/b178f8f4542aa44e213da91e90deba77bee34c37/0_436_3912_3129/master/3912.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Reform says we need to choose between climate and economy. It's wrong | Larry Elliott",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/19/reform-says-we-need-to-choose-between-climate-and-economy-its-wrong",
@@ -37568,56 +37638,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
-      "link": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
-      "desc": "<p>$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’</p><p>A federal judge on Monday ordered <a href=\"https://www.theguardian.com/",
-      "pubDate": "Mon, 20 Jul 2026 18:03:21 GMT",
-      "img": "https://i.guim.co.uk/img/media/c7cb6340ad5de73e26a06fecd74088442001ca69/0_674_2000_1599/master/2000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Afghanistan floods kill at least 20 people, with more than 100 missing",
-      "link": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
-      "desc": "<p>National disaster agency confirms ‘severe financial and human losses’ in remote province of Nuristan</p><p>At least 20 people have been killed and more than 80 injured in flooding that hit Afghanis",
-      "pubDate": "Mon, 20 Jul 2026 17:31:06 GMT",
-      "img": "https://i.guim.co.uk/img/media/77505e4cc01e416639c5698433307b30ee739215/290_0_4333_3466/master/4333.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Weather warnings as tropical depression develops along US Gulf coast",
-      "link": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
-      "desc": "<p>Depression set to become tropical storm later on Monday as separate storm strengthens off Mexico’s Pacific coast</p><p>A tropical depression was continuing to develop along the <a href=\"https://www",
-      "pubDate": "Mon, 20 Jul 2026 16:55:04 GMT",
-      "img": "https://i.guim.co.uk/img/media/9d58db7ff462e2fb3cb98cc2ffeb3e4ac3f2affc/255_0_920_736/master/920.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds",
-      "desc": "<p><strong>Exclusive: </strong>Research spanning 82 countries finds antibiotic resistance increased in every region between 2004 and 2022</p><p>Harry Booth has had a rough run through Australia’s cold",
-      "pubDate": "Mon, 20 Jul 2026 16:00:45 GMT",
-      "img": "https://i.guim.co.uk/img/media/fbfd3e8eec77433f77b69f0106ce7862b08271f2/0_477_1542_1233/master/1542.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Did you solve it? Do you think like a physicist?",
-      "link": "https://www.theguardian.com/science/2026/jul/20/did-you-solve-it-do-you-think-like-a-physicist",
-      "desc": "<p>The answer to today’s puzzle</p><p><a href=\"https://www.theguardian.com/science/2026/jul/20/can-you-solve-it-do-you-think-like-a-physcist\">Earlier today</a> I set you a puzzle about keeping homes c",
-      "pubDate": "Mon, 20 Jul 2026 15:47:25 GMT",
-      "img": "https://i.guim.co.uk/img/media/675b434718e0d801825fc4b941a4c8da76f2564f/416_0_4160_3328/master/4160.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
