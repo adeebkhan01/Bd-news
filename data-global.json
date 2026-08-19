@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T01:26:44.527Z",
-  "summary": "The Democratic Republic of Congo faces a major health crisis as Ebola cases exceed five thousand, with the WHO declaring it a global emergency and warning the outbreak could be contained within months if funding is secured. Middle East tensions are escalating as Trump denies negotiating with Iran while simultaneously threatening military action against Oman over alleged hostility, and the US has imposed sanctions on the International Criminal Court's leadership. Russia continues intensive military operations against Ukraine with renewed missile strikes on civilian areas including Kharkiv, while also protesting international diplomatic moves and conducting operations near nuclear infrastructure. In other developments, Harvard is paying settlements over a morgue scandal, Meta faces a landmark trial over children's mental health impacts, and various political figures worldwide face legal scrutiny ranging from war crimes to violence allegations.",
+  "fetchedAt": "2026-08-19T03:50:14.821Z",
+  "summary": "Global tensions are escalating across multiple regions as the UAE imposes a trade embargo on Iran over alleged missile attacks while the US sanctions the International Criminal Court's leadership, amid ongoing rhetoric between Washington and Tehran about negotiations. Trade relations show mixed signals with Trump pausing tariffs on Canada after reaching a tentative deal, though broader economic concerns persist as global borrowing costs hit fresh highs. The humanitarian crisis in the Democratic Republic of Congo has reached critical levels with Ebola infections surpassing five thousand cases and declared a global emergency by the WHO, while conflict continues to intensify in Ukraine with Russian missile strikes killing civilians and damaging critical infrastructure. Domestically across various countries, significant legal proceedings are underway including trials related to Meta's impact on children's mental health and investigations into historical atrocities in Syria.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+      "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
+      "desc": "Iran denies launching missiles at the UAE, suggesting the incident was a &#039;false flag operation&#039;.",
+      "pubDate": "Wed, 19 Aug 2026 03:34:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20241231__36RU6CE__v3__MidRes__TopshotUaeNye-1776490877.jpg?resize=1800%2C1200&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+      "pubDate": "Wed, 19 Aug 2026 03:26:27 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US sanctions International Criminal Court’s president and top lawyer",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
+      "desc": "The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.",
+      "pubDate": "Wed, 19 Aug 2026 03:25:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ICC-THUMB-1787109875.jpeg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Husband and mother-in-law charged over Indian bride's death",
+      "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+      "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "pubDate": "Wed, 19 Aug 2026 02:41:36 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+      "desc": "Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.",
+      "pubDate": "Wed, 19 Aug 2026 02:35:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26203838804160-1787096756.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "pubDate": "Wed, 19 Aug 2026 01:31:15 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
       "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
@@ -14350,26 +14420,6 @@
       "desc": "The US military carried out its ninth consecutive night of strikes on Iran.",
       "pubDate": "Mon, 20 Jul 2026 04:38:16 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784522281.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Andy Burnham to become UK’s PM on Monday: What happens next?",
-      "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
-      "desc": "Andy Burnham will become UK prime minister. Here&#039;s how the transition of power will unfold.",
-      "pubDate": "Mon, 20 Jul 2026 03:20:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5d0692a22c-1784481426.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Palestinians celebrate Spain’s World Cup victory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
-      "desc": "Palestinians across Gaza and the Occupied West Bank celebrated Spain’s World Cup victory.",
-      "pubDate": "Mon, 20 Jul 2026 02:23:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784514196.jpg?resize=1441%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
