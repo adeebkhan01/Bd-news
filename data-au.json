@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T21:28:00.096Z",
-  "summary": "Australia's parliament has moved decisively on major legislative reform, with the NDIS overhaul passing the Senate after the Coalition accepted 63 amendments, and a gambling reform package clearing the House of Representatives. The government is also cracking down on superannuation switching schemes while One Nation continues pushing alternative policies like tobacco excise cuts. In domestic incidents, a man has died following a stabbing in Queensland and a woman was killed in a workplace accident at a Perth tow yard. Financial markets are set to decline as the ASX prepares to dip alongside Wall Street's fall in AI stocks.",
+  "fetchedAt": "2026-08-19T01:26:32.695Z",
+  "summary": "Australia's political agenda is dominated by welfare and regulatory reform, with the NDIS passing the Senate after the Coalition secured 63 amendments, while the parliament also backed a gambling reform package addressing concerns highlighted by David Pocock over family harm. Two major criminal cases are commanding attention: Alan Jones faces cross-examination in his trial with emerging text evidence suggesting tensions with Ray Hadley, while Erin Patterson appeals her mushroom poisoning conviction that killed four people. The country is grappling with emerging social harms, including a Sydney casino facing multimillion-dollar fines for allowing a 16-year-old's gambling spree and growing concerns about digital exploitation networks and misinformation spread during crises. In lighter news, SpaceX's rocket splashdown near Christmas Island required recovery operations, while science stories range from shrews' adaptive snout growth to insights about AI's cognitive costs.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,186 @@
     }
   ],
   "articles": [
+    {
+      "title": "Alan Jones trial live updates: Text messages reveal bitter feud between Jones, Ray Hadley as cross-examination of ‘Complainant C’ continues",
+      "link": "https://www.smh.com.au/national/nsw/alan-jones-trial-live-updates-former-2gb-broadcaster-s-lawyers-continue-cross-examination-of-complainant-c-in-indecent-assault-sexual-touching-trial-20260818-p60pfp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "‘C’ returns to the witness box today after a tense day of cross-examination on Tuesday, during which he was grilled over text messages to Jones.",
+      "pubDate": "Wed, 19 Aug 2026 11:24:17 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3001%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_402%2C$y_38/t_crop_custom/q_86%2Cf_auto/9161ae2d072f5e3fd65bcda91635e9b43edefe59",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Erin Patterson appeal LIVE: Mushroom killer seeks to challenge guilty verdict",
+      "link": "https://www.smh.com.au/national/victoria/erin-patterson-appeal-live-mushroom-killer-seeks-to-challenge-guilty-verdict-20260818-p60phk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow our live coverage as Erin Patterson challenges her conviction whilst the DPP appeals her sentence.",
+      "pubDate": "Wed, 19 Aug 2026 11:19:54 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7204%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d2d45b6116caabdce2f7a3da42e353aa3558bb00",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "I have seen the raw grief of a family who lost a son to gambling. Labor’s stitch-up shows politics is broken | David Pocock",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/19/gambling-deal-labor-coalition-australia-politics-ntwnfb",
+      "desc": "<p>How is it that Australians can call so strongly for action on gambling advertising and the major parties fail so comprehensively to listen?</p><ul><li><p>Get our <a href=\"https://www.theguardian.co",
+      "pubDate": "Wed, 19 Aug 2026 01:05:53 GMT",
+      "img": "https://i.guim.co.uk/img/media/4a310704c730a1e4076d22b6b7131b5ceaa910fb/672_65_2871_2297/master/2871.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Woman at centre of Swans sexual assault probe speaks to police",
+      "link": "https://www.smh.com.au/national/victoria/woman-at-centre-of-swans-sexual-assault-probe-speaks-to-police-20260819-p60pjw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The woman attended a city police station on Tuesday to officially file her complaint, detailing what she says happened at the Pullman hotel.",
+      "pubDate": "Wed, 19 Aug 2026 11:02:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1292724609375%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_23/t_crop_custom/q_86%2Cf_auto/f4d5dfed95c1e094712b5b7eb1584885e2ff7629",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Parasite linked to ‘mushy fish’ could be much more widespread than thought",
+      "link": "https://theconversation.com/parasite-linked-to-mushy-fish-could-be-much-more-widespread-than-thought-289212",
+      "desc": "Ordered kingfish sashimi recently? A parasite can infect some fish, yet they still look and taste the same when raw.",
+      "pubDate": "2026-08-19T01:02:24Z",
+      "img": "https://images.theconversation.com/files/754245/original/file-20260817-50-tgqn0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C726%2C4351%2C2175&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Is the laundry still damp, or just cold? Why your skin can’t tell the difference",
+      "link": "https://theconversation.com/is-the-laundry-still-damp-or-just-cold-why-your-skin-cant-tell-the-difference-288495",
+      "desc": "Our skin alone can’t actually tell if something is wet.",
+      "pubDate": "2026-08-19T00:49:29Z",
+      "img": "https://images.theconversation.com/files/754194/original/file-20260816-59-bvr3x1.jpg?ixlib=rb-4.1.1&amp;rect=0%2C25%2C2121%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Sydney casinos fined millions after 16-year-old’s gambling, drinking spree",
+      "link": "https://www.smh.com.au/national/nsw/sydney-casinos-fined-millions-after-16-year-old-s-gambling-drinking-spree-20260819-p60pjk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The boy visited the casinos multiple times and consumed numerous alcoholic drinks, some of them complimentary.",
+      "pubDate": "Wed, 19 Aug 2026 10:46:03 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3539%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/9b4cb56170509d8996b9388e2c78fde006ec132e191087ee031b3624b143c921",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The emerging threat of violent, exploitative digital ‘com networks’: what do we need to know?",
+      "link": "https://theconversation.com/the-emerging-threat-of-violent-exploitative-digital-com-networks-what-do-we-need-to-know-289613",
+      "desc": "Perpetrators gradually build trust with young people before pressuring them to harm pets, siblings, or themselves.",
+      "pubDate": "2026-08-19T00:39:13Z",
+      "img": "https://images.theconversation.com/files/754242/original/file-20260817-50-dt4kau.jpg?ixlib=rb-4.1.1&amp;rect=0%2C675%2C5999%2C2999&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Offloading work tasks to AI comes with a cost – to our brains",
+      "link": "https://theconversation.com/offloading-work-tasks-to-ai-comes-with-a-cost-to-our-brains-289384",
+      "desc": "We risk replacing genuine knowledge with “work slop”.",
+      "pubDate": "2026-08-19T00:38:11Z",
+      "img": "https://images.theconversation.com/files/754491/original/file-20260818-50-90ye0m.jpg?ixlib=rb-4.1.1&amp;rect=0%2C62%2C4509%2C2254&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Need a tow? SpaceX rocket taken to Christmas Island after splashdown",
+      "link": "https://www.smh.com.au/technology/need-a-tow-spacex-rocket-taken-to-christmas-island-after-splashdown-20260819-p60pkk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
+      "desc": "Elon Musk’s SpaceX had faced difficulties retrieving the 52-metre-long spacecraft which had sat in the Indian Ocean for almost a month.",
+      "pubDate": "Wed, 19 Aug 2026 10:16:03 +1000",
+      "img": "https://static.ffx.io/images/$zoom_2.648888888888889%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1a6f08e545c6803bfcefdf51ba82a365d3e6cca696bc04de7157c08f0bed3fb1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "During eruptions, misinformation can spread further than ash. How can we spot it?",
+      "link": "https://theconversation.com/during-eruptions-misinformation-can-spread-further-than-ash-how-can-we-spot-it-289799",
+      "desc": "From scary headlines to recycled eruption videos, new research reveals how common misconceptions can fuel misinformation about volcanoes.",
+      "pubDate": "2026-08-19T00:13:41Z",
+      "img": "https://images.theconversation.com/files/754547/original/file-20260818-50-y1d2dr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C364%2C4368%2C2184&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Police release CCTV of Melbourne arson linked to bikies",
+      "link": "https://www.smh.com.au/national/police-release-cctv-of-melbourne-arson-linked-to-bikies-20260819-p60pln.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two masked men are seen dousing cars in accelerant and setting them alight in November last year.",
+      "pubDate": "Wed, 19 Aug 2026 10:00:20 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/95bf5adf6cbc990d946ba3520daf2d37ff2cb0d3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "WA news LIVE: SpaceX rocket lands in ocean off Christmas Island",
+      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-spacex-rocket-lands-in-ocean-off-christmas-island-20260819-p60pko.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow our live coverage here.",
+      "pubDate": "Wed, 19 Aug 2026 09:30:11 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9558%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/2c3d3b2db92e1f4a056683260de8ba4ff4b775d83a5cf96a078e6e713ca6bd3a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Shrews may grow bigger snouts in winter to cope with cold air, scientists say",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/shrews-bigger-snouts-winter-cold-air",
+      "desc": "<p>Study of long-clawed shrew skulls from Japan shows that while skulls get smaller in winter, snouts elongate</p><p>Humans turn to heated blankets and fluffy socks to cope with winter, but long-clawe",
+      "pubDate": "Tue, 18 Aug 2026 23:01:02 GMT",
+      "img": "https://i.guim.co.uk/img/media/85245c7b71f1c02861b2f1d511c5077175f30503/395_0_4426_3543/master/4426.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Ulez led to better lung size and function among London children, study finds",
+      "link": "https://www.theguardian.com/environment/2026/aug/18/ulez-better-lung-size-function-london-children",
+      "desc": "<p>Researchers find capacity stunted by pollution was restored after introduction of ultra-low emission zone</p><p>Children’s lungs grew bigger and stronger after the most polluting vehicles were rest",
+      "pubDate": "Tue, 18 Aug 2026 22:30:02 GMT",
+      "img": "https://i.guim.co.uk/img/media/07fd4aef33b985254b5eee808b3ed40883817126/344_0_3291_2633/master/3291.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Introducing Ulez was my hardest decision as mayor of London – but now we know its astonishing impact | Sadiq Khan",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/18/ulez-hardest-decision-mayor-london-impact-sadiq-khan",
+      "desc": "<p>Critics said I was attacking motorists. It’s more important for me that the city’s children are no longer breathing dangerous levels of pollution</p><ul><li><p><a href=\"https://www.theguardian.com/",
+      "pubDate": "Tue, 18 Aug 2026 22:30:02 GMT",
+      "img": "https://i.guim.co.uk/img/media/6b34c644324a9179aaac84612acf81bd706ce726/345_0_3355_2684/master/3355.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Push to double standard rental lease minimum to two years",
+      "link": "https://www.smh.com.au/national/push-to-double-standard-rental-lease-minimum-to-two-years-20260819-p60pkc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A push to double the standard rental lease minimum to two years will be presented to Parliament today.",
+      "pubDate": "Wed, 19 Aug 2026 08:25:59 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/23eb7fde0ed7d2db942d65b74d9fe8d2471856b1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Harvard to pay $53m over theft and sale of human remains from medical school",
+      "link": "https://www.theguardian.com/education/2026/aug/18/harvard-human-remains-lawsuit",
+      "desc": "<p>Cedric Lodge, 58, sentenced in December to eight years in prison for stealing and selling body parts in national scheme</p><p><a href=\"https://www.theguardian.com/education/harvard-university\">Harv",
+      "pubDate": "Tue, 18 Aug 2026 21:44:31 GMT",
+      "img": "https://i.guim.co.uk/img/media/641985c167b24ff1093f69b49f4f0f8ceb16c24b/447_0_4473_3579/master/4473.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Australia politics live: NDIS reforms to pass parliament today after 63 amendments get Coalition on side",
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
@@ -37488,146 +37668,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Early pressure a plus for Eagles while Freo star emerges unscathed",
-      "link": "https://www.smh.com.au/national/western-australia/early-pressure-a-plus-for-eagles-while-freo-star-emerges-unscathed-20260720-p60gs2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Fremantle withstood an undermanned Port Adelaide to almost seal the minor premiership, while a spirited West Coast took it up to the two-time defending premiers Brisbane.",
-      "pubDate": "Mon, 20 Jul 2026 11:19:09 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/c7e838a2327c2b2ed13d30c4a6251403620718e1d9d3ee3f965350fd8182fe11",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Has AI changed your life in unexpected ways? The ABC wants to hear from you",
-      "link": "https://www.abc.net.au/news/2026-07-20/ai-artificial-intelligence-audience-change/106935112",
-      "desc": "Most of us never chose to live in an artificial intelligence (AI) world. Yet over the past few years, it has become part of everyday life, changing how we think, learn and communicate.",
-      "pubDate": "Mon, 20 Jul 2026 01:14:58 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/e2e82712b5db65ad32992666d9c33d2e?impolicy=wcms_crop_resize&amp;cropH=464&amp;cropW=348&amp;xPos=238&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Jacinta Allan wants 'cultural change' as witch billboard returns to road",
-      "link": "https://www.abc.net.au/news/2026-07-20/jacinta-allan-billboard-melbourne-women-respect-violence/106934826",
-      "desc": "The Victorian premier says a controversial billboard seen around Melbourne again is \"dangerous\" and driving disrespect for women.",
-      "pubDate": "Mon, 20 Jul 2026 01:01:06 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/0891a9fd3d12428d9ca1d02c5e256a7e?impolicy=wcms_crop_resize&amp;cropH=2048&amp;cropW=1536&amp;xPos=51&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "The $58 ‘cure’ that left babies with severe burns",
-      "link": "https://www.smh.com.au/national/the-58-cure-that-left-babies-with-severe-burns-20260717-p60gcz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An investigation into the Euky Bear humidifier reveals infant injuries and a botched recall process.",
-      "pubDate": "Mon, 20 Jul 2026 11:00:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0b10eb4469e18d101b44889a9405a196286a4607",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Many feared a US World Cup under Trump would be a disaster. Its legacy will prove otherwise",
-      "link": "https://theconversation.com/many-feared-a-us-world-cup-under-trump-would-be-a-disaster-its-legacy-will-prove-otherwise-287378",
-      "desc": "Several controversies before and during the World Cup won’t stop it being remembered fondly by most fans.",
-      "pubDate": "2026-07-20T00:27:12Z",
-      "img": "https://images.theconversation.com/files/748711/original/file-20260720-81-hp8lbg.jpg?ixlib=rb-4.1.1&amp;rect=0%2C241%2C3383%2C1691&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Medical Malfunctions",
-      "link": "https://www.smh.com.au/national/medical-malfunctions-20260720-p60goz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Devices supposed to help Australians with health issues are causing harm at concerning levels and the system that supervises them is overwhelmed.",
-      "pubDate": "Mon, 20 Jul 2026 09:47:41 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/6dfe63b00b6dd9883854d0186f4bad0e453df1ffe9bee9fac84125f8939df454",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "WA news LIVE: Residents go days without water at Beaconsfield complex",
-      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-residents-go-days-without-water-at-beaconsfield-complex-20260720-p60gq5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow our live coverage here.",
-      "pubDate": "Mon, 20 Jul 2026 09:30:11 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.5366666666666666%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_206%2C$y_39/t_crop_custom/q_86%2Cf_auto/a9a6249b5a255192c1667e545a9a56443f0e120b6d32aec57ff9f88c7865e3d5",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Building dams to protect Lismore from flooding would cost billions. Could nature do it better?",
-      "link": "https://theconversation.com/building-dams-to-protect-lismore-from-flooding-would-cost-billions-could-nature-do-it-better-287370",
-      "desc": "Nature-inspired responses like planting more trees and revegetating wetlands could reduce flooding in the northern rivers.",
-      "pubDate": "2026-07-19T23:26:15Z",
-      "img": "https://images.theconversation.com/files/748245/original/file-20260716-57-3z1p5k.jpg?ixlib=rb-4.1.1&amp;rect=527%2C1385%2C6192%2C3096&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Newspoll has right-wing parties rebounding from a slump three weeks ago",
-      "link": "https://theconversation.com/newspoll-has-right-wing-parties-rebounding-from-a-slump-three-weeks-ago-287493",
-      "desc": "After a post-Press Club address slump, One Nation has picked up again in the polls.",
-      "pubDate": "2026-07-19T23:23:37Z",
-      "img": "https://images.theconversation.com/files/748709/original/file-20260719-71-9161f9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C25%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Spain completely dominates Argentina in one-sided World Cup final",
-      "link": "https://theconversation.com/spain-completely-dominates-argentina-in-one-sided-world-cup-final-287371",
-      "desc": "The scoreline might suggest a tight struggle in the World Cup final but it was all one-way traffic as Spain prevailed.",
-      "pubDate": "2026-07-19T22:26:36Z",
-      "img": "https://images.theconversation.com/files/748707/original/file-20260719-57-o8qxcb.jpg?ixlib=rb-4.1.1&amp;rect=0%2C82%2C2154%2C1077&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Five family members found dead after flash flood in Utah canyon, police say",
-      "link": "https://www.theguardian.com/us-news/2026/jul/19/utah-flash-flood-deaths-family",
-      "desc": "<p>Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rains</p><p>Five family members who had set out for a day of hiking were killed after a flas",
-      "pubDate": "Sun, 19 Jul 2026 22:24:04 GMT",
-      "img": "https://i.guim.co.uk/img/media/0afed4a34f478f8127ac2e93d273f00e7ee5a156/329_0_1800_1440/master/1800.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Five-year wait for much-needed housing in WA's holiday hotspot",
-      "link": "https://www.abc.net.au/news/2026-07-20/margaret-river-tiny-homes-red-tape-hold-up/106924370",
-      "desc": "A housing charity says bureaucratic delays have held up its attempt to build some small homes in Margaret River.",
-      "pubDate": "Sun, 19 Jul 2026 22:04:04 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/3dd916755c3d1cd67b00ce737a086312?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=363&amp;xPos=249&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Fears massive US private lending market sinking",
-      "link": "https://www.abc.net.au/news/2026-07-20/asic-raises-alarm-on-private-credit/106929244",
-      "desc": "The corporate regulator is concerned about the risks posed by private credit for Australians with superannuation.",
-      "pubDate": "Sun, 19 Jul 2026 21:58:55 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/7f9cf318ec7466611d803f91f1d532de?impolicy=wcms_crop_resize&amp;cropH=559&amp;cropW=419&amp;xPos=210&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "News live: PM says Hanson should not ‘talk Australia down’ overseas; private schools cry poor in new ad campaign",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
-      "desc": "<p>Albanese’s comments come as One Nation leader nears end of UK tour. Follow today’s news live</p><p>The state funeral for veteran broadcaster Derryn Hinch will be held in Melbourne this afternoon. H",
-      "pubDate": "Sun, 19 Jul 2026 21:49:40 GMT",
-      "img": "https://i.guim.co.uk/img/media/d473deb9bfff1a2c93cdfc31f6a2acdb17893396/420_0_2953_2362/master/2953.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
     }
   ]
 }
