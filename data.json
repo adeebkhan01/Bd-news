@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T06:50:25.721Z",
-  "summary": "Bangladesh faces mounting governance challenges as the newly reformed security force operates under a new name despite the RAB's official abolition, while law and order concerns persist across the country. The government is pursuing bilateral engagement with India, with Prime Minister set for a memorable reception, and local businesses preparing joint task forces to boost trade ties. Domestically, the economy shows fragile gains amid persistent inflation and gas shortages that have halted production at over 100 factories, while education continues with the 50th BCS viva phase beginning August 25. Meanwhile, a tragic incident claimed nine Bangladeshi lives in a Kolkata hotel fire, and authorities are pursuing efforts to apprehend the former army chief through Interpol channels.",
+  "fetchedAt": "2026-08-19T09:37:16.574Z",
+  "summary": "Bangladesh faces mounting infrastructure challenges as factories across Narsingdi halt production due to gas shortages, while the government reshapes institutional structures including the abolition of the RAB under a new framework and the retirement of seventeen BSEC officials. The education sector continues adjusting with the SSC examination potentially moving to March 2027 and record numbers of re-scrutiny requests following recent results. Regional tensions persist with India signaling constructive engagement ahead of the Prime Minister's visit, while Bangladesh disputes Myanmar's statements and grapples with broader economic fragility including inflation pressures and subdued market conditions. Telecommunications infrastructure remains a concern, with call drops and package complaints dominating user grievances, even as companies explore satellite and AI solutions to modernize services.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,78 @@
     }
   ],
   "articles": [
+    {
+      "title": "SSC 2027: Govt weighs March schedule instead of January",
+      "link": "https://en.prothomalo.com/youth/education/edmbn1nbqa",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 08:45:42 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-19/mmp9pih1/SSC-Exam.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "এসএসসি ২০২৭: সরকার জানুয়ারির পরিবর্তে মার্চ সময়সূচী বিবেচনা করছে",
+      "descBn": ""
+    },
+    {
+      "title": "Call drops, mobile packages top user complaints: minister",
+      "link": "https://www.thedailystar.net/business/news/call-drops-mobile-packages-top-user-complaints-minister-4251476",
+      "desc": "Operators should raise awareness of how call-drop compensation works, he said",
+      "pubDate": "Wed, 19 Aug 26 14:32:11 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/low%20mobile%20network_0.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "কল ড্রপ, মোবাইল প্যাকেজ ব্যবহারকারীদের শীর্ষ অভিযোগ: মন্ত্রী",
+      "descBn": "অপারেটরদের কল-ড্রপ ক্ষতিপূরণ কীভাবে কাজ করে সে সম্পর্কে সচেতনতা বৃদ্ধি করা উচিত, তিনি বলেছেন"
+    },
+    {
+      "title": "Gas crisis: Production halted at over 300 factories in Narsingdi",
+      "link": "https://en.prothomalo.com/bangladesh/cescifwl8e",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 08:18:29 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-19/lwwmtod7/Narsingdi-gas-crisis-factory-closed-2.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "গ্যাস সংকট: নারসিংদীতে ৩০০টিরও বেশি কারখানায় উৎপাদন বন্ধ",
+      "descBn": ""
+    },
+    {
+      "title": "Bowling great Donald warns Bangladesh that Australia will hit back hard",
+      "link": "https://en.prothomalo.com/sports/cricket/gi9vpl816i",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 07:39:50 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-14/k8l13pj3/278576-01-02.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বোলিং কিংবদন্তি ডোনাল্ড বাংলাদেশকে সাবধান করেছেন যে অস্ট্রেলিয়া কঠোর আঘাত করবে",
+      "descBn": ""
+    },
+    {
+      "title": "BSEC sends 17 officials into compulsory retirement",
+      "link": "https://en.prothomalo.com/business/local/wbj9tb5zrs",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 07:08:46 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-19/ntbly7kn/prothomalo-bangla2022-057a54c5a0-9031-40d7-ab6e-ab85f9aa4445bsecbhaban.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বিএসইসি ১৭ জন কর্মচারীকে বাধ্যতামূলক অবসরে পাঠিয়েছে",
+      "descBn": ""
+    },
+    {
+      "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+      "link": "https://www.thedailystar.net/business/news/oil-extends-climb-prolonged-hormuz-export-uncertainty-4251441",
+      "desc": "Brent crude futures climbed 42 cents, or 0.5 percent, to $91.44",
+      "pubDate": "Wed, 19 Aug 26 12:50:16 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/crude-oil.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "হরমুজ রপ্তানি অনিশ্চয়তার কারণে তেলের দাম আরও বৃদ্ধি পাচ্ছে",
+      "descBn": "ব্রেন্ট কাঁচা তেলের ভবিষ্যত চুক্তি ৪২ সেন্ট বা ০.৫ শতাংশ বৃদ্ধি পেয়ে ৯১.৪৪ ডলারে পৌঁছেছে"
+    },
     {
       "title": "RAB abolished on paper, to continue under new name",
       "link": "https://en.prothomalo.com/bangladesh/1eg7u0efld",
@@ -18284,78 +18356,6 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "মাইলফলক যুদ্ধবিমান দুর্ঘটনা এক বছর পূর্ণ, ভুক্তভোগীদের জন্য প্রার্থনা",
-      "descBn": ""
-    },
-    {
-      "title": "ACC conducts raid on Ziaul Ahsan’s Jalsiri residence",
-      "link": "https://en.prothomalo.com/bangladesh/crime-and-law/vqkbcan2fv",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 08:49:35 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-20/9qh4pw92/Ziaul-Ahsan-ACC-Raid-1.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "এসিসি জিয়াউল আহসানের জালশিরি বাসভবনে রেড পরিচালনা করেছে",
-      "descBn": ""
-    },
-    {
-      "title": "Dhaka City College: Appointments of 105 out of 198 teachers found to be irregular",
-      "link": "https://en.prothomalo.com/youth/education/ltgmx5gqd8",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 08:23:37 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-20/4vi71ssq/info.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ঢাকা সিটি কলেজ: ১৯৮ জন শিক্ষকের মধ্যে ১০৫ জনের নিয়োগ অনিয়মিত পাওয়া গেছে",
-      "descBn": ""
-    },
-    {
-      "title": "The World Cup final from start to finish: In Pictures",
-      "link": "https://en.prothomalo.com/sports/football/cg15cx7mjc",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 07:45:20 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-20/07xhcqc1/2026-07-19T225008Z602837919UP1EM7J1RFIF9RTRMADP3SOCCER-WORLDCUP-ESP-ARG.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "শুরু থেকে শেষ পর্যন্ত বিশ্বকাপ ফাইনাল: ছবিতে",
-      "descBn": ""
-    },
-    {
-      "title": "Sole DAP fertiliser plant shut since June 28 over raw material shortage",
-      "link": "https://www.thedailystar.net/business/news/sole-dap-fertiliser-plant-shut-june-28-over-raw-material-shortage-4228206",
-      "desc": "Officials said the shutdown at DAPFCL in Anwara, Chattogram, followed a shortage of phosphoric acid",
-      "pubDate": "Mon, 20 Jul 26 13:31:37 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/08/01/dapfcl-fertilizer.jpg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "জুন ২৮ থেকে কাঁচামাল সংকটের কারণে একমাত্র DAP সার কারখানা বন্ধ",
-      "descBn": "কর্মকর্তারা বলেছেন যে চট্টগ্রামের আনোয়ারায় DAPFCL-এর এই বন্ধটি ফসফোরিক এসিডের সংকটের কারণে ঘটেছে"
-    },
-    {
-      "title": "Rashed Khan appointed political assistant to PM Tarique Rahman",
-      "link": "https://en.prothomalo.com/bangladesh/tr7z219qqw",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 07:09:34 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-20/c06lcdkd/info.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "প্রধানমন্ত্রী তারিক রহমানের রাজনৈতিক সহায়ক হিসেবে নিয়োগ পেলেন রাশেদ খান",
-      "descBn": ""
-    },
-    {
-      "title": "Quazi M Ahmed receives lifetime achievement award",
-      "link": "https://en.prothomalo.com/bangladesh/e9cqful9dv",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 07:01:20 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-20/hljxy56f/WhatsApp-Image-2026-07-20-at-12.09.04-PM.jpeg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "কাজী এম আহমেদ আজীবন সাফল্যের পুরস্কার পান",
       "descBn": ""
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T06:50:46.745Z",
-  "summary": "Global tensions are mounting across multiple fronts as geopolitical rivalries intensify. The standoff between the US and Iran has escalated sharply, with the UAE imposing a trade embargo on Tehran and Trump denying negotiations despite claims of Iranian outreach, while North Korea's alignment with China appears strengthened by scaled-back US-South Korea military exercises. Trade negotiations between the US and Canada have reached a tentative deal averting steep tariffs, but broader economic pressures persist as energy costs drive inflation higher in the UK and global borrowing rates hit fresh highs. Meanwhile, humanitarian crises are deepening with the DR Congo's Ebola outbreak declared a global emergency exceeding five thousand cases, and Ukraine continues navigating wartime governance challenges following its defence minister's ouster and calls for elections.",
+  "fetchedAt": "2026-08-19T09:37:46.097Z",
+  "summary": "Global tensions are escalating across multiple fronts as the Trump administration reshapes US foreign policy, scaling back military exercises with South Korea and pausing tariffs on Canada while simultaneously sanctioning the International Criminal Court and denying talks with Iran despite claims of negotiation efforts. Humanitarian crises are deepening, with aid workers facing record attacks, the Democratic Republic of Congo's Ebola outbreak now affecting over five thousand people and declared a global emergency, and thousands remaining missing in Gaza. Regional conflicts continue to intensify, including new Russian missile strikes on Ukrainian cities and a UAE trade embargo against Iran following alleged missile attacks. The political landscape is shifting across multiple countries, from Florida's primary results to Ukraine's ousted defence minister calling for elections and Quebec separatists pledging to avoid independence referendums during Trump's presidency.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Aid workers faced record number of attacks in 2025, UN says",
+      "link": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
+      "desc": "Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.",
+      "pubDate": "Wed, 19 Aug 2026 08:40:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-01T145908Z_84008677_RC2PDFA7M46I_RTRMADP_3_ISRAEL-PALESTINIANS-GHF-1-1753483289.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who won and lost in Florida primaries: Key takeaways",
+      "link": "https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss",
+      "desc": "Florida primaries reveal political shifts, reshaping key races ahead of crucial US midterm elections in November.",
+      "pubDate": "Wed, 19 Aug 2026 08:38:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a85575d5723-1787123549.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+      "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea5/live/58d5cb20-9b93-11f1-a724-73731eb60c12.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Jump in energy bills drives UK inflation to highest rate for four months",
       "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&amp;at_campaign=rss",
@@ -70,6 +100,26 @@
       "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Thai teen found in suitcase died from suffocation, police reveal",
+      "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
+      "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6796/live/113a11d0-9b85-11f1-bdab-bd265066e1df.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Families' agonising search for answers as thousands still missing in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+      "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5b/live/9a846da0-9a4f-11f1-96c4-e7f87215742d.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -14413,46 +14463,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
-      "link": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for education reforms.",
-      "pubDate": "Mon, 20 Jul 2026 08:41:22 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e1/live/a523fc00-8413-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
-      "pubDate": "Mon, 20 Jul 2026 08:38:02 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f13/live/83464970-8414-11f1-b3ec-1d7f0502d196.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why are Ukraine's military recruiters facing violence in their own country?",
-      "link": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has become “increasingly threatening”.",
-      "pubDate": "Mon, 20 Jul 2026 08:21:09 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c042/live/b63d1ee0-8413-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Going with the flow: Renewable energy battery breakthrough",
-      "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research.",
-      "pubDate": "Mon, 20 Jul 2026 08:20:07 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2de3/live/19e368b0-811b-11f1-96bf-6155b9f8d82a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
