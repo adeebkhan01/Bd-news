@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T09:37:33.324Z",
-  "summary": "Australia faces mounting economic pressures on households as rising housing costs and reduced consumer spending force workers into longer hours and commutes, while retailers struggle with weak demand. Several major institutions face scrutiny including Concord hospital set for investigation, WiseTech hit by competition watchdog raids, and the Swans football club dealing with player suspensions amid a police investigation into alleged sexual assault. Political divisions are emerging over key policy areas including gambling reform that critics say falls short, a rejected North Sea drilling approval that Labour fears could cost 50 seats to the Greens, and contested infrastructure projects like Victoria's VNI West transmission line. Meanwhile, international developments include an ongoing Meta trial in the US and rising tensions in Middle Eastern waters affecting oil prices.",
+  "fetchedAt": "2026-08-19T12:53:52.458Z",
+  "summary": "Australia's corporate and financial sectors face mounting scrutiny this week, with CBA chief Matt Comyn offloading shares during his separation and AI hiring tools drawing discrimination lawsuits that reveal how automation can entrench workplace bias. Environmental and public health concerns dominate regional news, from over 100 Olympic pools worth of toxic \"bin juice\" seeping into Perth's groundwater to investigations into mismanagement at Concord Hospital. The sports world is rocked by five Sydney Swans players suspended amid a police investigation into alleged sexual assault, while criminal cases command attention including fresh charges against the Mushroom Murderer seeking retrial and a child abuser's meth-distribution scheme. Consumer-facing sectors are struggling as retailers report wallets staying firmly shut, housing costs continue driving workers to exhaustion through overtime and long commutes, and labor disputes flare over contracts and workplace standards.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,126 @@
     }
   ],
   "articles": [
+    {
+      "title": "Matt Comyn offloads $8.4m of CBA shares amid separation from wife",
+      "link": "https://www.smh.com.au/cbd/matt-comyn-offloads-8-4m-of-cba-shares-amid-separation-from-wife-20260819-p60ps8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "When we saw the CBA boss had offloaded some of his shares last week, we didn’t think much of it. But that was before we knew he and his wife were working through a separation.",
+      "pubDate": "Wed, 19 Aug 2026 21:20:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5384%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_478%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/becf51c199f472de71f8e411876f1a877775b32c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Perth residents demand answers over toxic liquid build up",
+      "link": "https://www.smh.com.au/national/perth-residents-demand-answers-over-toxic-liquid-build-up-20260819-p60pvp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A council in Perth's northern suburbs has just 30 days to come up with a plan for toxic liquid building up at Tamala Park as residents demand answers.",
+      "pubDate": "Wed, 19 Aug 2026 21:11:15 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/803aeb0a6eb20b1e3b0a7d54f97a4fa36cd2d9e5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Scots College denies shielding boys because parents were donors",
+      "link": "https://www.smh.com.au/national/nsw/scots-college-denies-shielding-boys-because-parents-were-donors-20260819-p60ps6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Parents have accused the school of downplaying the seriousness of an alleged sexual assault because of donations made by families of two of the accused boys.",
+      "pubDate": "Wed, 19 Aug 2026 21:09:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.192198567180319%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_136%2C$y_114/t_crop_custom/q_86%2Cf_auto/666367d7f0626397cc11f9f5c82e03013d717b2b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
+      "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+      "desc": "<p>A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire</p><p>For the last four years, Erin Kistler has applied for thousands of jobs at compan",
+      "pubDate": "Wed, 19 Aug 2026 11:00:13 GMT",
+      "img": "https://i.guim.co.uk/img/media/97c70a6b185a61783623194a6c08e38ab9881a23/0_0_3000_2400/master/3000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Medical researcher who touted Covid ‘cure’ and was hailed by Dr Oz under fire over ethics",
+      "link": "https://www.theguardian.com/science/2026/aug/19/french-medical-researcher-covid-ethics",
+      "desc": "<p>New findings further call into question scientific judgment of current health leaders in the Trump administration</p><p>A French researcher whose work was praised by <a href=\"https://www.theguardia",
+      "pubDate": "Wed, 19 Aug 2026 11:00:13 GMT",
+      "img": "https://i.guim.co.uk/img/media/fcfc2a33c88cdcc4a7b28f3108e2d6f7b25938b9/0_0_1500_1200/master/1500.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Bittersweet nostalgia",
+      "link": "https://www.smh.com.au/national/nsw/bittersweet-nostalgia-20260819-p60pjz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "But it does have a peel.",
+      "pubDate": "Wed, 19 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Appalling’: Buyer slams lack of communication over plans to turn dirt patch into $1.5b complex",
+      "link": "https://www.smh.com.au/national/queensland/appalling-buyer-slams-lack-of-communication-over-plans-to-turn-dirt-patch-into-1-5b-complex-20260819-p60prp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The developer behind the proposed Teneriffe Banks project is adamant it will go ahead after questions were raised about its viability.",
+      "pubDate": "Wed, 19 Aug 2026 20:26:57 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2006%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_115/t_crop_custom/q_86%2Cf_auto/0c79131fa7153b61c56b8d3cc759d152c517253fdbca5215214b8ed76a6b90c5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Over 100 olympic pools of ‘bin juice’ from this Perth tip is seeping into the ground",
+      "link": "https://www.smh.com.au/national/western-australia/over-100-olympic-pools-of-bin-juice-from-this-perth-tip-is-seeping-into-the-ground-20260819-p60puh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "There is no secret that the smell from a landfill stinks. But the real concern is what is beneath the surface.",
+      "pubDate": "Wed, 19 Aug 2026 20:15:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/6c7d9f8e8b4e9166fac7774271ad0fd92a94acdbd80d8030630bba0b2fa16444",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The ‘catastrophic failure’ that could win mushroom murderer Erin Patterson a retrial",
+      "link": "https://www.smh.com.au/national/victoria/the-catastrophic-failure-that-could-win-mushroom-murderer-erin-patterson-a-retrial-20260819-p60pru.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Patterson’s defence team has outlined to appeal judges what it says are seven reasons she failed to get a fair trial.",
+      "pubDate": "Wed, 19 Aug 2026 20:14:55 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_92/t_crop_custom/q_86%2Cf_auto/edc2d510fdfa6717d758527bd246a4da81f5b938",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Sacked worker forced to pay for using ‘plain wrong’ AI in landmark case",
+      "link": "https://www.smh.com.au/business/workplace/sacked-worker-forced-to-pay-for-using-plain-wrong-ai-in-landmark-case-20260819-p60puw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "For the first time, the Fair Work Commission has forced a worker to pay for wasting its time, fining a sacked Aldi store assistant more than $1200.",
+      "pubDate": "Wed, 19 Aug 2026 20:01:01 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7548%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_174/t_crop_custom/q_86%2Cf_auto/a42d28919d71e44c5d5f8eca9f0314c69b35ba30",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
+      "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
+      "desc": "<p>Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers</p> <a href=\"https://www.theguardian.com/media",
+      "pubDate": "Wed, 19 Aug 2026 10:00:13 GMT",
+      "img": "https://i.guim.co.uk/img/media/43cef9cf74c2747b45641ac41a75fc0d8e9dbeee/0_339_2400_1919/master/2400.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "What Brisbane can learn from the Germans about bike lights",
+      "link": "https://www.smh.com.au/national/queensland/what-brisbane-can-learn-from-the-germans-about-bike-lights-20260813-p60nzl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Just as we tamed e-bikes, a new menace rolled into view: blinding LED bike lights with retina-melting outputs.",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.32482537037037035%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_85%2C$y_191/t_crop_custom/q_86%2Cf_auto/2fea0c63ebd2f5444820174c33e068ee0d64b697",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "‘No need to add more pressure’: Selective school offers out as gender quotas take effect",
       "link": "https://www.smh.com.au/national/nsw/no-need-to-add-more-pressure-selective-school-offers-out-as-gender-quotas-take-effect-20260818-p60pbs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -398,6 +518,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+      "desc": "<p>US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’</p><p>Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-even",
+      "pubDate": "Wed, 19 Aug 2026 03:47:12 GMT",
+      "img": "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Viking lights up visual tungsten in drilling at historic Nevada mine",
@@ -1118,6 +1248,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Controversial NDIS bill passes Senate with ‘substantial’ amendments as Labor and Coalition strike deal",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
+      "desc": "<p>David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on Wednesday</p><ul><li><p><a href=\"https://www.theguardian.com/austr",
+      "pubDate": "Tue, 18 Aug 2026 11:04:25 GMT",
+      "img": "https://i.guim.co.uk/img/media/e42b30533457d8cb26aaedfc890434d0b0454c93/335_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "England’s ancient oak trees dying in extreme hot and dry weather",
@@ -37468,86 +37608,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "On a Colorado farm, solar panels bring shade for plants, power – and cash: in pictures",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jul/20/colorado-farming-solar-panels-in-pictures",
-      "desc": "<p>More than 3,000 solar panels power Jack’s Solar Garden, cool the land and help it turn a profit</p><p><em>The Guardian receives support for visual climate coverage from the Outrider Foundation. The",
-      "pubDate": "Mon, 20 Jul 2026 12:00:40 GMT",
-      "img": "https://i.guim.co.uk/img/media/82c08c4f6f94f9d6c3d10231d2a5a9e43ad4f324/282_178_1484_1188/master/1484.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Trump officials kill proposed rules for Pfas-contaminated sewage fertilizer",
-      "link": "https://www.theguardian.com/environment/2026/jul/20/trump-pfas-sewage-farm-fertilizer",
-      "desc": "<p>EPA tosses out scientific research carried out under Biden and says toxic sludge not a significant threat to public</p><p>The Trump administration has killed proposed regulations for sewage sludge ",
-      "pubDate": "Mon, 20 Jul 2026 12:00:40 GMT",
-      "img": "https://i.guim.co.uk/img/media/007e144670bb0983f54dbd634b68d92e8ac84350/984_0_5001_4000/master/5001.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Young mum dies in Sunshine Coast unit fire, another woman escapes",
-      "link": "https://www.smh.com.au/national/queensland/one-woman-dies-in-sunshine-coast-unit-fire-another-escapes-20260720-p60guq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The 21-year-old woman from Kallangur was trapped in the blaze that broke out on Sunday night and died from her injuries in hospital.",
-      "pubDate": "Mon, 20 Jul 2026 21:53:39 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.5388235159934254%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_396/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/593a81bdf93dc82b53181dafe21fddf0c09dffa94bbe8bcdb69870d05a072ae0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Andy Burnham to take office as UK PM",
-      "link": "https://www.smh.com.au/national/andy-burnham-to-take-office-as-uk-pm-20260720-p60h01.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The UK is about to have a new prime minister as Andy Burnham takes over from Keir Starmer.",
-      "pubDate": "Mon, 20 Jul 2026 21:23:47 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/75c5d2bc7c3a4519be734c1aa829946983b9b8b7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Jack’s big TED talk",
-      "link": "https://www.smh.com.au/national/nsw/jack-s-big-ted-talk-20260720-p60gp6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "It was a sliding windows moment.",
-      "pubDate": "Mon, 20 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_51/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Israel attacks Labor’s draft platform on Israel-Gaza conflict",
-      "link": "https://theconversation.com/israel-attacks-labors-draft-platform-on-israel-gaza-conflict-287187",
-      "desc": "The draft party platform reaffirms Labor’s support for a two-state solution.",
-      "pubDate": "2026-07-20T10:36:25Z",
-      "img": "https://images.theconversation.com/files/748782/original/file-20260720-57-6u6k6q.jpg?ixlib=rb-4.1.1&amp;rect=0%2C904%2C5415%2C2707&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Residents push back against another plan for new pickleball courts",
-      "link": "https://www.smh.com.au/national/queensland/residents-push-back-against-another-plan-for-new-pickleball-courts-20260720-p60gry.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The local council representative apologised for not effectively communicating with residents, but said the $250,000 construction would still go ahead.",
-      "pubDate": "Mon, 20 Jul 2026 20:18:18 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2043%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/c12b986ee408a3daee88213365fa5e5bf16cf9d8f832c5aff5cd82e8506f41e9",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The public servants nervously awaiting their estimates grilling",
-      "link": "https://www.smh.com.au/national/queensland/the-public-servants-nervously-awaiting-their-estimates-grilling-20260709-p60e2d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "This week in Public Circus: The top bureaucrats under the gun in estimates, the Public Sector Commissioner offloads his uranium shares, and the watchdog stopping short of barking.",
-      "pubDate": "Mon, 20 Jul 2026 20:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2088534664478532%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e2fad73aff7d3a14fe264d8b4ee2e0da4a8bc82e037c008dec012aa9de19ea93",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }

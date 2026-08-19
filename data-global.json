@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T09:37:46.097Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Trump administration reshapes US foreign policy, scaling back military exercises with South Korea and pausing tariffs on Canada while simultaneously sanctioning the International Criminal Court and denying talks with Iran despite claims of negotiation efforts. Humanitarian crises are deepening, with aid workers facing record attacks, the Democratic Republic of Congo's Ebola outbreak now affecting over five thousand people and declared a global emergency, and thousands remaining missing in Gaza. Regional conflicts continue to intensify, including new Russian missile strikes on Ukrainian cities and a UAE trade embargo against Iran following alleged missile attacks. The political landscape is shifting across multiple countries, from Florida's primary results to Ukraine's ousted defence minister calling for elections and Quebec separatists pledging to avoid independence referendums during Trump's presidency.",
+  "fetchedAt": "2026-08-19T12:54:06.021Z",
+  "summary": "Global tensions are escalating across multiple fronts as the US tightens economic pressure on Iran through UAE trade sanctions while scaling back military exercises with South Korea to appease Kim Jong Un, whose regime China is courting more aggressively. The Ukraine conflict deepens with forcible military recruitment turning violent and a sacked defence minister calling for elections during wartime, while Russian strikes continue killing civilians. The Democratic Republic of Congo faces a declared global health emergency with over five thousand Ebola cases, and a record number of aid workers have been attacked worldwide in 2025. Tech and economics show mixed signals with Chinese robotics stocks surging on investor optimism even as UK inflation rises sharply on energy costs and trade deal negotiations between the US and Canada seek to avert new tariffs.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
+      "link": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
+      "desc": "The UAE announced the embargo, accusing Iran of launching missiles into its territory.",
+      "pubDate": "Wed, 19 Aug 2026 12:37:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a83dd487a-1787026760.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
+      "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
+      "desc": "&#039;Busification&#039;, the term describing being captured on the street, is engulfed by abuse and corruption.",
+      "pubDate": "Wed, 19 Aug 2026 11:47:44 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a70989bd02ed-1785763995.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
+      "desc": "Unitree shares surge as much as 620 percent amid enthusiasm for burgeoning field of human-like robots.",
+      "pubDate": "Wed, 19 Aug 2026 11:40:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/robots-1787125819_e99a76-1787126200.jpeg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Inflation is heating up but don't expect another crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
+      "pubDate": "Wed, 19 Aug 2026 11:27:39 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd2/live/d1695290-9bc1-11f1-ae8a-8d57110c5ba6.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Spared execution eight times, oldest inmate in US dies at 101",
+      "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
+      "pubDate": "Wed, 19 Aug 2026 11:22:09 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b412/live/6bcce520-9b38-11f1-adfc-97cecc6f1ad1.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?",
+      "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+      "desc": "Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.",
+      "pubDate": "Wed, 19 Aug 2026 10:57:57 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a857516db3e-1787131158.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why White House envoys cannot sway Israel’s war leader",
+      "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
+      "desc": "Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.",
+      "pubDate": "Wed, 19 Aug 2026 10:24:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP20244322856458-1787133089.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Aid workers faced record number of attacks in 2025, UN says",
       "link": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
@@ -283,6 +353,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why has Russia threatened the UK and what happens next?",
+      "link": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "UK Prime Minister Andy Burnham has said London will continue \"to support Ukraine 100%\".",
+      "pubDate": "Tue, 18 Aug 2026 21:45:17 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ac/live/08b5c2c0-9b4e-11f1-a291-b542ee92de7c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Syria opens Assad-era nuclear programme to UN probe",
@@ -14353,116 +14433,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why are thousands of people protesting in Delhi?",
-      "link": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Thousands of mostly young people have marched on India's parliament to demand changes to how the education system is run.",
-      "pubDate": "Mon, 20 Jul 2026 12:33:01 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c26/live/e37d7760-8440-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
-      "pubDate": "Mon, 20 Jul 2026 12:31:10 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1301/live/b6dffa50-842e-11f1-8db9-6b4471749e2a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "The hunger-striking engineer demanding education reforms in India",
-      "link": "https://www.bbc.co.uk/news/articles/cq562x2zlw4o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Climate activist Sonam Wangchuk has a long history of challenging the status quo and refusing food to highlight his causes.",
-      "pubDate": "Mon, 20 Jul 2026 12:25:57 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/956d/live/76fe5780-8431-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Utah firefighter and four family members killed in flash flooding",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A husband, wife and their three sons died - meaning that only a daughter who did not join the outing is still alive.",
-      "pubDate": "Mon, 20 Jul 2026 12:13:58 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0523/live/61b044e0-842e-11f1-8db9-6b4471749e2a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why is Christopher Nolan’s Odyssey so controversial?",
-      "link": "https://www.aljazeera.com/news/2026/7/20/why-is-christopher-nolans-odyssey-so-controversial?traffic_source=rss",
-      "desc": "Controversy has centred largely on casting, but it also reflects broader debates on who gets to retell this epic story.",
-      "pubDate": "Mon, 20 Jul 2026 12:10:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-11T172729Z_905930157_RC2NBMA0XB1O_RTRMADP_3_FILM-THE-ODYSSEY-INDIA-PREMIERE-1784542263.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
-      "desc": "Iran praises Spain&#039;s win over Argentina after Spanish government&#039;s condemnation of policies on Gaza and war on Iran.",
-      "pubDate": "Mon, 20 Jul 2026 11:50:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-11-27T142936Z_1985613632_RC2QDBABW6FP_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-IRAN-1784546579.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's new prime minister",
-      "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-new-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Andy Burnham has been sworn in as the successor to British Prime Minister Keir Starmer. Burnham, the former Manchester mayor, has become a leading figure in the Labour Party and one of the UK's most p",
-      "pubDate": "2026-07-20T11:37:00Z",
-      "img": "https://static.dw.com/image/77645769_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Meet Andy Burnham, Britain's prime minister",
-      "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Andy Burnham has been sworn in as the successor to British Prime Minister Keir Starmer. The former Manchester mayor has become a leading figure in the Labour Party and one of the UK's most popular pol",
-      "pubDate": "2026-07-20T11:37:00Z",
-      "img": "https://static.dw.com/image/77645769_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Occupied West Bank World Cup screening halted for funeral",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
-      "desc": "A screening of the FIFA World Cup final in Ramallah was halted following news that two Palestinians were killed.",
-      "pubDate": "Mon, 20 Jul 2026 10:33:16 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784543512.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Police attack Cockroach activists as thousands march on Indian parliament",
-      "link": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament?traffic_source=rss",
-      "desc": "More than 10,000 protesters braved tear gas and baton charges in their largest challenge yet to PM Modi&#039;s government.",
-      "pubDate": "Mon, 20 Jul 2026 09:51:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260720__C2M44DE__v1__HighRes__IndiaPoliticsEducationProtest-1784535594.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried?",
-      "link": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried?traffic_source=rss",
-      "desc": "Turkiye&#039;s expanding military ties in eastern Libya raise new questions about regional security and Egypt&#039;s red lines.",
-      "pubDate": "Mon, 20 Jul 2026 09:48:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/G6M_WQJWQAAIQcL-1784453011.jpeg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
