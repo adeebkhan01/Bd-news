@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T12:54:06.021Z",
-  "summary": "Global tensions are escalating across multiple fronts as the US tightens economic pressure on Iran through UAE trade sanctions while scaling back military exercises with South Korea to appease Kim Jong Un, whose regime China is courting more aggressively. The Ukraine conflict deepens with forcible military recruitment turning violent and a sacked defence minister calling for elections during wartime, while Russian strikes continue killing civilians. The Democratic Republic of Congo faces a declared global health emergency with over five thousand Ebola cases, and a record number of aid workers have been attacked worldwide in 2025. Tech and economics show mixed signals with Chinese robotics stocks surging on investor optimism even as UK inflation rises sharply on energy costs and trade deal negotiations between the US and Canada seek to avert new tariffs.",
+  "fetchedAt": "2026-08-19T15:34:58.296Z",
+  "summary": "Global tensions are escalating across multiple fronts, with the US-Iran conflict intensifying as the UAE imposes a trade embargo on Iran over alleged missile attacks, while North Korea remains a focus of diplomatic attention with Trump signaling renewed engagement. On the Ukraine front, military recruitment efforts are becoming increasingly violent, a former defence minister is calling for elections, and a Ukrainian suspect has been arrested over the Nord Stream pipeline blasts. Domestically, Trump is scaling back tariffs on Canada and Mexico after reaching preliminary trade deals, while inflation concerns persist in the UK driven by energy costs, and Target receives a billion-dollar tariff refund windfall. Meanwhile, humanitarian crises are deepening with record attacks on aid workers in 2025 and ongoing struggles to deliver assistance in Gaza, while the UN estimates thousands remain missing in the conflict zone.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Retail giant Target receives $1bn boost from tariff refunds",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "pubDate": "Wed, 19 Aug 2026 14:47:02 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a3/live/9236eb70-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Monzo down as some users unable to make card payments or transfers",
+      "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The digital bank said it was \"rolling out a fix and moving quickly\" to get the service working again",
+      "pubDate": "Wed, 19 Aug 2026 14:13:33 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d7/live/94b09ad0-9bd4-11f1-bb4d-1147ef2e78e5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+      "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+      "desc": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn&#039;t need Barcelona&#039;s new signing Rodri.",
+      "pubDate": "Wed, 19 Aug 2026 13:24:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/13987767-1787144073.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why aid entering Gaza may not reach those who need it",
+      "link": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+      "desc": "It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.",
+      "pubDate": "Wed, 19 Aug 2026 13:01:39 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP25324744620661-1787137266.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "War on Iran: Iran allegedly targets the UAE",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+      "desc": "After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.",
+      "pubDate": "Wed, 19 Aug 2026 13:01:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/clean-1787144432.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US war on Iran puts Cambodian children’s education at risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
+      "desc": "US war on Iran puts Cambodian children’s education at risk",
+      "pubDate": "Wed, 19 Aug 2026 12:56:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Cambodia-Horizontal-thumb-1787144103.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+      "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
       "link": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
@@ -70,6 +140,16 @@
       "desc": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
       "pubDate": "Wed, 19 Aug 2026 11:22:09 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b412/live/6bcce520-9b38-11f1-adfc-97cecc6f1ad1.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+      "pubDate": "Wed, 19 Aug 2026 11:19:12 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -14313,126 +14393,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russia says bus strike kills 5 in border region with Ukraine",
-      "link": "https://www.dw.com/en/russia-says-bus-strike-kills-5-in-border-region-with-ukraine/a-78039260?maca=en-rss-en-eu-2092-rdf",
-      "desc": "The strike comes as Ukraine launched more than hundreds of drones at Moscow after a Russian missile barrage on Kyiv, as President Zelenskyy sought to calm growing tensions over Ukraine’s military lead",
-      "pubDate": "2026-07-20T15:09:00Z",
-      "img": "https://static.dw.com/image/78039331_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-      "link": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
-      "desc": "The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.",
-      "pubDate": "Mon, 20 Jul 2026 14:37:16 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260718__C2JR9DR__v3__HighRes__TopshotIranUsIsraelWar-1784462360_76d046-1784462424.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN chief Guterres to visit Cyprus in bid to revive peace talks",
-      "link": "https://www.dw.com/en/un-chief-guterres-to-visit-cyprus-in-bid-to-revive-peace-talks/a-78037819?maca=en-rss-en-eu-2092-rdf",
-      "desc": "UN Secretary-General Antonio Guterres will visit Cyprus next week in what is seen as an effort to kickstart the stalled peace process. Why now? What is known about the plan? And what might be differen",
-      "pubDate": "2026-07-20T14:16:00Z",
-      "img": "https://static.dw.com/image/78040756_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Guterres to visit Cyprus as UN seeks to revive peace talks",
-      "link": "https://www.dw.com/en/guterres-to-visit-cyprus-as-un-seeks-to-revive-peace-talks/a-78037819?maca=en-rss-en-eu-2092-rdf",
-      "desc": "UN Secretary-General Antonio Guterres will visit Cyprus next week in what is seen as an effort to kickstart the stalled peace process. Why now? What is known about the plan? And what might be differen",
-      "pubDate": "2026-07-20T14:16:00Z",
-      "img": "https://static.dw.com/image/75483855_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Why a 90-year-old treaty limits NATO in the Black Sea",
-      "link": "https://www.dw.com/en/why-a-90-year-old-treaty-limits-nato-in-the-black-sea/a-77966363?maca=en-rss-en-eu-2092-rdf",
-      "desc": "A 90-year-old treaty still shapes the balance of power in the Black Sea. As Ukraine fights on against Russia, can NATO project power into waters it can't enter freely?",
-      "pubDate": "2026-07-20T14:10:00Z",
-      "img": "https://static.dw.com/image/77964384_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
-      "pubDate": "Mon, 20 Jul 2026 14:02:31 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/ce9d2310-842f-11f1-8db9-6b4471749e2a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Petro to give farewell speech amid Colombia transfer-of-power tensions",
-      "link": "https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss",
-      "desc": "The outgoing president has called for protests as he continues to dispute the results of last month&#039;s election.",
-      "pubDate": "Mon, 20 Jul 2026 13:56:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5d1f111e5a-1784487697.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
-      "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Chinese retailer allowed unsafe toys and counterfeit clothes to be sold on its site, says the EU.",
-      "pubDate": "Mon, 20 Jul 2026 13:44:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ee/live/51afee90-843a-11f1-9dde-1165f12cfa4b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
-      "link": "https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss",
-      "desc": "Veteran negotiator assumes Palestinian group&#039;s overall leadership following a wartime election process.",
-      "pubDate": "Mon, 20 Jul 2026 13:18:47 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP24213464306513-1729254699.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-      "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
-      "pubDate": "Mon, 20 Jul 2026 13:13:29 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/796c/live/7a3f2110-8425-11f1-8aab-7b42b0ff0499.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
-      "link": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
-      "desc": "We explain how the war has changed for all the parties since their MoU unravelled and as the conflict has escalated.",
-      "pubDate": "Mon, 20 Jul 2026 13:06:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5d53182e4dc-1784501016.jpg?resize=1920%2C1365",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Burnham promises help with your money. How could it affect you?",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
-      "pubDate": "Mon, 20 Jul 2026 13:03:23 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/acd4de30-8439-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
