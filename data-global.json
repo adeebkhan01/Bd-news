@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T18:44:27.140Z",
-  "summary": "The United States is intensifying pressure on Iran through economic sanctions and threatening allies who provide support, while the Middle East remains volatile with Russian airstrikes continuing against Ukraine and regional tensions rising over potential Turkish military expansion in Syria. Major humanitarian crises are unfolding across multiple regions, including mass displacement in Sudan and Gaza, while deportations from the US have begun and Bangladesh navigates political transition following elections. Asia faces mounting geopolitical challenges, with Myanmar's military deepening ties despite its internal conflict, North Korea conducting drills, and South Korea concerned about the stability of its long-standing alliance with Washington. The global economy confronts energy challenges and inflation pressures amid ongoing conflicts, while several high-profile investigations and political shifts signal institutional strain in various countries.",
+  "fetchedAt": "2026-08-20T21:31:49.850Z",
+  "summary": "Global tensions are escalating across multiple fronts as the Trump administration pursues aggressive economic isolation of Iran while tightening pressure on Cuba, while Israel-Palestine conflict continues to dominate Middle Eastern affairs with international condemnation of West Bank settlements and ongoing civilian casualties in Gaza. Syria's political transition is advancing with the detention of Assad-era officials on war crimes charges, though regional stability remains fragile with concerns about Turkish military involvement. Humanitarian crises are worsening in Sudan, Myanmar, and the Democratic Republic of Congo, with displacement and disease outbreaks affecting hundreds of thousands. Domestic pressures mount in the US with major debt reaching 40 trillion dollars and deportation operations ramping up, while Bangladesh faces political upheaval amid youth demands for economic opportunity.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
+      "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A tradition on a river once fished by US President Jimmy Carter could be coming to an end.",
+      "pubDate": "Thu, 20 Aug 2026 20:47:39 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/785d/live/b7b0e340-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US pummels Cuban economy with new sanctions on mining, construction",
+      "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+      "desc": "US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.",
+      "pubDate": "Thu, 20 Aug 2026 20:37:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a874baa-1787251626.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+      "desc": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
+      "pubDate": "Thu, 20 Aug 2026 20:32:13 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Mini-SV_Tibetan-protest-unity-law-NDelhi_WIDE-THUMB-1787257904.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+      "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+      "desc": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.",
+      "pubDate": "Thu, 20 Aug 2026 20:10:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87445e66e7-1787249758.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+      "desc": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
+      "pubDate": "Thu, 20 Aug 2026 20:05:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-21.01.53-1787256218.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Walmart sees sales drop as US consumer spending retreats",
+      "link": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
+      "desc": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart&#039;s growth.",
+      "pubDate": "Thu, 20 Aug 2026 19:18:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a87169f-1787238047.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
+      "desc": "Jewish-American activist says Israel barred his re-entry over his work with Palestinians in the occupied West Bank.",
+      "pubDate": "Thu, 20 Aug 2026 19:09:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787252723.jpg?resize=1440%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+      "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
+      "desc": "Who is Ahmad Hassoun, the &#039;barrel bomb mufti&#039; close to the inner circle of the al-Assad regime?",
+      "pubDate": "Thu, 20 Aug 2026 18:55:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2021/11/000_1VH7R9.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "pubDate": "Thu, 20 Aug 2026 18:55:14 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe",
+      "link": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
+      "desc": "Swalwell, a vocal Trump critic, resigned from Congress and dropped out of California governor&#039;s race amid allegations.",
+      "pubDate": "Thu, 20 Aug 2026 18:39:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8734730260f-1787245683.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
       "link": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
@@ -14310,56 +14410,6 @@
       "desc": "Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests.",
       "pubDate": "Tue, 21 Jul 2026 21:58:32 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5fe73235d8f-1784670002.jpg?resize=1920%2C1333",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-      "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-      "desc": "Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.",
-      "pubDate": "Tue, 21 Jul 2026 21:17:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5fda112b34-1784666641.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
-      "desc": "Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza&#039;s fragile ceasefire.",
-      "pubDate": "Tue, 21 Jul 2026 21:03:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784665547.jpg?resize=1920%2C1061&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "French parliament passes social media ban for under-15s",
-      "link": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
-      "desc": "President Emmanuel Macron, who has championed the initiative, wants the ban in effect before the upcoming school year.",
-      "pubDate": "Tue, 21 Jul 2026 20:44:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5fc448-1784661064.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
-      "link": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
-      "desc": "Relations between Canada and its largest trading partner have been tested by Trump&#039;s repeated jibes, threats and tariffs",
-      "pubDate": "Tue, 21 Jul 2026 20:17:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/05/AFP__20250404__393G2PZ__v1__HighRes__CanadaUsTradeTariffsDiplomacy-1746804431.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss",
-      "desc": "US President Trump said he is open to direct talks with Hezbollah.",
-      "pubDate": "Tue, 21 Jul 2026 19:16:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-20.11.29-1784661286.png?resize=1200%2C675",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
