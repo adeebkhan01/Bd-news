@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T01:25:38.829Z",
-  "summary": "The Trump administration is escalating pressure on Iran with sweeping new sanctions and threats of economic retaliation against countries providing assistance, while tensions simmer across the Middle East with Israel conducting military operations in Gaza and NATO allies preparing for potential Iranian strikes. The US national debt has surpassed $40 trillion amid broader economic shifts, including new US-Canada trade agreements and cryptocurrency tax enforcement efforts. Political upheaval continues globally, with Kenya's opposition challenging election results, Kosovo investigating mass graves from past conflicts, and Ukraine intensifying military recruitment as fighting persists. Regional crises demand international attention, from Lebanon's humanitarian needs following Israeli operations to persistent questions about aid delivery effectiveness in Gaza.",
+  "fetchedAt": "2026-08-20T03:50:01.095Z",
+  "summary": "Global tensions are escalating sharply as the Trump administration announces \"crushing\" economic sanctions on Iran and warns of consequences for any country providing assistance, rattling allies like South Korea who fear shifts in long-standing security relationships. Domestically, the US national debt has surpassed forty trillion dollars while borrowing costs show signs of easing after government intervention. Major humanitarian crises continue as Israel investigates the killing of a six-year-old in Gaza and Kosovo discovers suspected mass graves, while Lebanon hands over a Syrian general to Damascus following arrest warrant procedures. In Africa, Nigeria launches election campaigns with reform pressures mounting while Kenya's opposition prepares court challenges, and a former Liberian vice president faces drug-trafficking charges.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Former Liberian vice president charged in drug-trafficking probe",
+      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
+      "pubDate": "Thu, 20 Aug 2026 03:09:24 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+      "pubDate": "Thu, 20 Aug 2026 02:05:20 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+      "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+      "desc": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
+      "pubDate": "Thu, 20 Aug 2026 01:56:41 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-03-16T082617Z_1488819421_RC2E5KAH65LK_RTRMADP_3_IRAN-CRISIS-SOUTHKOREA-PROTEST-1787187535.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
@@ -14370,56 +14400,6 @@
       "desc": "Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels.",
       "pubDate": "Tue, 21 Jul 2026 03:49:57 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5ee6e4-1784604388.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
-      "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss",
-      "desc": "Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.",
-      "pubDate": "Tue, 21 Jul 2026 03:29:37 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5edc570773-1784601687.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US military releases footage of tenth consecutive night of strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
-      "desc": "US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.",
-      "pubDate": "Tue, 21 Jul 2026 03:15:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784603696.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
-      "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss",
-      "desc": "A series of diplomatic consultations in Cairo underscores the Horn of Africa&#039;s growing strategic importance.",
-      "pubDate": "Tue, 21 Jul 2026 02:52:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2008/06/1_250165_1_3.jpeg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
-      "pubDate": "Tue, 21 Jul 2026 02:07:48 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5c/live/801f6fc0-838c-11f1-a4c3-dfd0ee4be073.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why protests are growing in Ukraine over defence leadership and dismissals",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
-      "desc": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
-      "pubDate": "Tue, 21 Jul 2026 01:27:56 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784597269.jpg?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
