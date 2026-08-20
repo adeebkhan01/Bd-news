@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T21:28:50.334Z",
-  "summary": "Global markets stabilized today as US borrowing costs eased following government intervention, while a proposed US-Canada trade deal drew mixed signals with Trump claiming fairness but details remaining unclear. Geopolitical tensions remained acute across multiple fronts: Iran faced parliamentary hardline rhetoric and alleged targeting of the UAE, North Korea's leadership rejected US engagement, and NATO prepared defenses against potential Iranian strikes. The Middle East conflict intensified with Israel launching new settlement bids in the West Bank and acknowledging fire on a vehicle carrying Gaza's symbolic victim Hind Rajab, while Canada condemned what it termed an unlawful Israeli invasion and pledged aid to Lebanon. Meanwhile, aid access to Gaza remained compromised, Ukrainian military recruitment turned violent, and the broader economic picture showed inflation heating up alongside record attacks on humanitarian workers worldwide.",
+  "fetchedAt": "2026-08-20T01:25:38.829Z",
+  "summary": "The Trump administration is escalating pressure on Iran with sweeping new sanctions and threats of economic retaliation against countries providing assistance, while tensions simmer across the Middle East with Israel conducting military operations in Gaza and NATO allies preparing for potential Iranian strikes. The US national debt has surpassed $40 trillion amid broader economic shifts, including new US-Canada trade agreements and cryptocurrency tax enforcement efforts. Political upheaval continues globally, with Kenya's opposition challenging election results, Kosovo investigating mass graves from past conflicts, and Ukraine intensifying military recruitment as fighting persists. Regional crises demand international attention, from Lebanon's humanitarian needs following Israeli operations to persistent questions about aid delivery effectiveness in Gaza.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,146 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "pubDate": "Thu, 20 Aug 2026 01:02:51 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Publisher of US military newspaper resigns over differences with government",
+      "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+      "desc": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.",
+      "pubDate": "Thu, 20 Aug 2026 00:34:13 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26015712020023-1787185917.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
+      "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
+      "desc": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
+      "pubDate": "Thu, 20 Aug 2026 00:06:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T193540Z_1306600256_RC2I7LA8H5U7_RTRMADP_3_NIGERIA-MILITARY-1785968014.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "desc": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26218279447356-1787178721.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US national debt passes record $40 trillion",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
+      "desc": "The amount has doubled in the last decade, from Trump&#039;s first term through the Biden administration.",
+      "pubDate": "Wed, 19 Aug 2026 23:59:16 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a861a778829-1787173495.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Kosovo finds remains of at least 23 people in suspected mass graves",
+      "link": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
+      "desc": "The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.",
+      "pubDate": "Wed, 19 Aug 2026 23:55:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260801__C3R36KQ__v1__HighRes__KosovoSerbiaInvestigationWarMissing-1787179531.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
+      "desc": "South Korea&#039;s stock market has attracted a wave of novice investors amid booming demand for chips used in AI.",
+      "pubDate": "Wed, 19 Aug 2026 23:51:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/kospi-1787097950.jpeg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "India's Gen Z are driving up a mega boom in its beauty market",
+      "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
+      "pubDate": "Wed, 19 Aug 2026 23:31:24 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd6/live/e0b60a90-9194-11f1-9e9c-c71e84be4584.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
+      "link": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
+      "desc": "NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.",
+      "pubDate": "Wed, 19 Aug 2026 23:24:43 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8621ba2aa03-1787175354.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+      "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+      "desc": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+      "pubDate": "Wed, 19 Aug 2026 23:21:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T092946Z_1008935972_RC27QBANQ0SB_RTRMADP_3_SYRIA-JUSTICE-ASSAD-1787176314.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
+      "desc": "US president also says any country that trades with Iran will &#039;face tremendous economic consequences&#039;.",
+      "pubDate": "Wed, 19 Aug 2026 23:18:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a863c2b9f2cd-1787182123_e60870-1787182171.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "I quit my £80,000 job to make ice cream - here's how",
+      "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
+      "pubDate": "Wed, 19 Aug 2026 23:08:03 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "“I get along with him very well.”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+      "desc": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
+      "pubDate": "Wed, 19 Aug 2026 21:35:34 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787175248.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+      "desc": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+      "pubDate": "Wed, 19 Aug 2026 21:09:15 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787173584.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "US long-term borrowing costs ease after government steps in",
       "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&amp;at_campaign=rss",
@@ -14283,116 +14423,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
-      "link": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
-      "desc": "Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions.",
-      "pubDate": "Tue, 21 Jul 2026 00:08:50 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0b93ea-1779143658.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US attacks Iran for 10th consecutive night",
-      "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
-      "desc": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
-      "pubDate": "Tue, 21 Jul 2026 00:06:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5eb780831cc-1784592256.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-      "desc": "Explosions reported in Iran&#039;s Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-20T143912Z_969046555_RC2FELAQAH60_RTRMADP_3_IRAN-CRISIS-IRANIANS-SOUTH-1784591155.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
-      "link": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
-      "desc": "Police say a possible political motive is under investigation in the killing of the Reform UK figure.",
-      "pubDate": "Mon, 20 Jul 2026 23:21:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a55ef057b14-1784016645.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Argentina, minus Messi, return home after World Cup final heartbreak",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/argentina-minus-messi-return-home-after-world-cup-final-heartbreak?traffic_source=rss",
-      "desc": "Thousands wait to greet the team, who return without captain Messi and a few other players after the World Cup.",
-      "pubDate": "Mon, 20 Jul 2026 23:16:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260720__C2PH298__v1__HighRes__ArgentinaFblWc2026Fans-1784587436.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
-      "link": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
-      "pubDate": "Mon, 20 Jul 2026 23:06:04 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e6c/live/07f87140-8418-11f1-b3ec-1d7f0502d196.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "What are the new British Prime Minister’s biggest challenges?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
-      "desc": "Britain has a new Prime Minister: Andy Burnham. The former Mayor of Manchester must now unite a divided nation.",
-      "pubDate": "Mon, 20 Jul 2026 22:54:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784588030.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
-      "desc": "Chaos outside India&#039;s parliament as protesters tried to storm it; satirical Cockroach Janta Party gains traction.",
-      "pubDate": "Mon, 20 Jul 2026 22:40:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784587213.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "War on Iran: War resumes 30 days after MoU",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
-      "desc": "30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.",
-      "pubDate": "Mon, 20 Jul 2026 22:26:49 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784586401.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump imposes 50% tariff on Canadian imports",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-      "pubDate": "Mon, 20 Jul 2026 22:02:42 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "The 20-somethings betting big on tech stocks",
-      "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-      "pubDate": "Mon, 20 Jul 2026 22:00:41 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/dc840590-80bd-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
