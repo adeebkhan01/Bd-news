@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T01:36:10.517Z",
-  "summary": "The Middle East dominates global headlines as tensions escalate across multiple fronts, with the Trump administration vowing sweeping sanctions on Iran while the USS Washington enters the region, the war in Yemen intensifies, and Israel faces international condemnation over West Bank settlements and Gaza operations. In Asia, Myanmar's military intensifies diplomacy as the Rohingya crisis deepens, while Pakistan's Imran Khan faces legal troubles and China faces rare Tibetan protests against ethnic policies. The US economy shows signs of weakness with consumer spending retreating and debt hitting forty trillion dollars, mirroring concerns in other Western economies, while multiple corruption and misconduct investigations create political turbulence domestically. Regional conflicts from Syria's transitional justice process to Colombia's illegal mining deaths underscore broader instability across developing nations.",
+  "fetchedAt": "2026-08-21T03:53:14.936Z",
+  "summary": "Global tensions are escalating across multiple flashpoints as the US pursues aggressive economic isolation of Iran while signaling openness to North Korea, creating potential friction with allied nations. In the Middle East, conflict intensifies with deadly Russian strikes on Kyiv, Houthi attacks in Yemen, and ongoing Israeli operations in Gaza drawing international condemnation from major Western powers. Political upheaval continues in Asia, where Pakistan's former Prime Minister Imran Khan has been hospitalized following court intervention, Hong Kong activists face security trial convictions, and Bangladesh grapples with youth unemployment pressures. Economic pressures are mounting globally, with US consumer spending retreating, US debt reaching forty trillion dollars, and Brazil attempting to navigate between American and Chinese technological competition amid broader geopolitical rivalry.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,36 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pakistan’s Imran Khan moved to hospital after Supreme Court order",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+      "desc": "Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.",
+      "pubDate": "Fri, 21 Aug 2026 03:08:09 +0000",
+      "img": null,
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "pubDate": "Fri, 21 Aug 2026 02:59:46 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+      "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+      "desc": "The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
+      "pubDate": "Fri, 21 Aug 2026 01:38:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-17T065124Z_993058877_RC2GFMARZ9BM_RTRMADP_3_CHINA-AI-1787272458.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Taliban release two detained UN staff members in Afghanistan",
       "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
@@ -14333,76 +14363,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "France passes law banning under-15s from social media",
-      "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The law will require social media platforms in France to verify all users age from January.",
-      "pubDate": "Wed, 22 Jul 2026 03:50:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4c4/live/46825250-8580-11f1-a2a8-afc39501b832.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "France becomes first EU country to officially ban social media for children",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss",
-      "desc": "France will ban social media for under-15s from September 1, following the UK and Australia’s moves toward blanket bans.",
-      "pubDate": "Wed, 22 Jul 2026 03:34:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784691160.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
-      "pubDate": "Wed, 22 Jul 2026 03:05:08 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a13/live/5d582620-8572-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
-      "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
-      "desc": "A deadly attack near Anefis exposes the growing challenges facing Mali&#039;s military leaders.",
-      "pubDate": "Wed, 22 Jul 2026 02:39:13 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26199696598399-1784634685.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
-      "link": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
-      "desc": "OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.",
-      "pubDate": "Wed, 22 Jul 2026 02:36:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6018089d-1784682504.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US targets China in move to ban military-grade drone imports",
-      "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
-      "desc": "Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
-      "pubDate": "Wed, 22 Jul 2026 02:21:57 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-16T050558Z_29520214_RC2Q8LATM31Z_RTRMADP_3_USA-CHINA-TRUMP-XI-1779064690_5f84a2-1779064944.jpg?resize=1200%2C630&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-      "pubDate": "Wed, 22 Jul 2026 02:15:05 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
