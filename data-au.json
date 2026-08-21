@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T09:40:22.064Z",
-  "summary": "Australia faces mounting safety and security challenges with investigations into Sydney Airport incidents, an alleged e-scooter robbery, and ongoing child welfare concerns highlighted by a bushwalker rescue miscommunication that cost a life. A major health breakthrough offers hope for aggressive breast cancer patients, while political upheaval continues with the Sydney Swans scandal, questions over Christian movement funding transparency, and investigations into Meta's influencer engagement tactics. Infrastructure and climate concerns dominate longer-term issues, from the delayed motorway opening to warnings of an intense storm season driven by El Niño conditions. Authorities are also cracking down on counterfeit goods, with Border Force targeting fake squishies amid a consumer demand surge.",
+  "fetchedAt": "2026-08-21T12:54:56.168Z",
+  "summary": "Australia faces mounting crime and safety concerns, with shootings in Melbourne's western suburbs, a high-profile rape retrial in Perth, and a spate of violent incidents including alleged e-scooter robberies and a caravan park fire death. The country is bracing for severe weather as meteorologists warn of a wild storm season ahead, while an El Niño pattern is expected to increase rainfall and disruption. Major institutional crises are unfolding, including investigations into Sydney Airport following multiple safety incidents and allegations against the Sydney Swans organization that may trigger legal action. On a more positive note, medical researchers report a potential breakthrough for treating aggressive breast cancer, and journalist John Silvester has been recognized as Australia's most outstanding columnist for his crime reporting.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Age crime reporter John Silvester named Australia’s most outstanding columnist",
+      "link": "https://www.smh.com.au/national/victoria/age-crime-reporter-john-silvester-named-australia-s-most-outstanding-columnist-20260821-p60qj0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A Melbourne crime reporter for The Age for more than 30 years, Silvester was recognised at the prestigious Kennedy Awards for his popular Naked City column.",
+      "pubDate": "Fri, 21 Aug 2026 22:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.19019396551724135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_34/t_crop_custom/q_86%2Cf_auto/4ed148bd4a4dadf670b9d0d13a65628ad2a6877a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Altona North rocked by second shooting in a week",
+      "link": "https://www.smh.com.au/national/victoria/altona-north-rocked-by-second-shooting-in-a-week-20260821-p60qiz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The drive-by shooting of a man comes five days after gangland boss Fadi Haddara was ambushed outside his Altona North home.",
+      "pubDate": "Fri, 21 Aug 2026 22:11:22 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.39496792822742194%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_128/t_crop_custom/q_86%2Cf_auto/65cf8065dd454939768aa71668da53a0c7369f6b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "UK rapper Yung Filly to be retried on Perth rape charges",
+      "link": "https://www.smh.com.au/national/uk-rapper-yung-filly-to-be-retried-on-perth-rape-charges-20260821-p60qiy.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "UK rapper Yung Filly is set to face a retrial in Perth after a jury couldn't reach verdicts on some of his rape allegations.",
+      "pubDate": "Fri, 21 Aug 2026 21:10:41 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2745150678e6b58a6e973c15fce97f3992c64396",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Debate erupts over council plans to reimagine King George Square",
+      "link": "https://www.smh.com.au/national/queensland/debate-erupts-over-council-plans-to-reimagine-king-george-square-20260821-p60qf2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Some opposition councillors have called for greenery, shade and water features – removed in 2009 – to be reinstalled in the square.",
+      "pubDate": "Fri, 21 Aug 2026 21:07:16 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2626%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_159/t_crop_custom/q_86%2Cf_auto/875d6b08729904918c68d890163aff11bcb12e65b3d38d6669813ae1455c6a39",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Perth father's Bali death sparks police investigation",
+      "link": "https://www.smh.com.au/national/perth-fathers-bali-death-sparks-police-investigation-20260821-p60qix.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Four Australians are being investigated over a Perth father's death in Bali following an alleged assault.",
+      "pubDate": "Fri, 21 Aug 2026 21:06:45 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/898d86d2b633520a1ce6eb43baaac25f056f6d31",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
+      "link": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
+      "desc": "<p>Meat producer closes facilities in Utah and Iowa as beef prices rise for consumers amid historic cattle shortage</p><p>Tyson Foods, the largest meatpacking company in the US, announced last week th",
+      "pubDate": "Fri, 21 Aug 2026 11:00:34 GMT",
+      "img": "https://i.guim.co.uk/img/media/007d1b92de1efad789db00f28e00599fd0dfe918/333_0_3333_2667/master/3333.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+      "desc": "<p>Exclusive: Planning documents show datacentre in North Ockendon would be incompatible with UK net zero targets</p><p>A “hyperscale” datacentre in outer London would generate more than 1m tonnes of ",
+      "pubDate": "Fri, 21 Aug 2026 10:00:31 GMT",
+      "img": "https://i.guim.co.uk/img/media/5e4995a896e3c857e647f342a61e99386d8893db/53_0_3076_2461/master/3076.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Border force asked to seize fake squishies as demand surges",
       "link": "https://www.smh.com.au/business/consumer-affairs/border-force-asked-to-seize-fake-squishies-as-demand-surges-20260821-p60qa8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -1818,6 +1888,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
+      "link": "https://www.theguardian.com/environment/2026/aug/20/tipping-points-heatwaves-wildfires-permafrost-climate-crisis",
+      "desc": "<p>Prof Gustaf Hugelius warns wildfires could accelerate release of methane and carbon as vast regions approach irreversible thresholds</p><p>Heatwaves and wildfires are not just scorching forests, th",
+      "pubDate": "Thu, 20 Aug 2026 04:00:43 GMT",
+      "img": "https://i.guim.co.uk/img/media/ef74992658483c0dfc7b558d92666dc9c3c5f3f2/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "It’s finally raining. Will it be enough to end the drought? – podcast",
@@ -37678,146 +37758,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Albanese will announce extension of “Paid Prac” at Labor national conference",
-      "link": "https://theconversation.com/albanese-will-announce-extension-of-paid-prac-at-labor-national-conference-288104",
-      "desc": "Anthony Albanese will announce on Thursday the extension of the Prac Payment system in a speech given to Labor’s national conference",
-      "pubDate": "2026-07-22T12:30:43Z",
-      "img": "https://images.theconversation.com/files/749440/original/file-20260722-75-cfyksj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C237%2C6682%2C3341&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "ALP announces sweeping changes to student work placements as Gaza war looms large at party conference",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/22/alp-announces-sweeping-changes-to-student-work-placements-as-gaza-war-looms-large-at-party-conference",
-      "desc": "<p>Anthony Albanese will cast ‘practical’ policies as the key to countering the anxiety and frustration in Australia</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cv",
-      "pubDate": "Wed, 22 Jul 2026 12:30:14 GMT",
-      "img": "https://i.guim.co.uk/img/media/1b493d22c5d54dab0be9b601c674d87d89fe77cb/2256_1639_2401_1921/master/2401.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Labor powerbrokers cut AI deal for workers",
-      "link": "https://www.abc.net.au/news/2026-07-22/labor-to-launch-fair-ai-taskforce-to-give-workers-a-say/106946558",
-      "desc": "Labor will respond to growing anxiety about the rise of artificial intelligence with a new taskforce to give Australian workers a greater say in how the technology shapes the nation.",
-      "pubDate": "Wed, 22 Jul 2026 12:23:07 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/730f50d9d9da1a137bf20825104cb642?impolicy=wcms_crop_resize&amp;cropH=3512&amp;cropW=2634&amp;xPos=2123&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort",
-      "link": "https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai",
-      "desc": "<p>Administration will also overhaul how US government funds federal research by supporting individual scientists and AI over universities</p><p>The US will spend $5bn to tackle longstanding scientifi",
-      "pubDate": "Wed, 22 Jul 2026 11:51:44 GMT",
-      "img": "https://i.guim.co.uk/img/media/5acef3176300d741436f44acdb56e6fe137d12df/333_0_3333_2667/master/3333.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Six beluga whales finally leave embattled Canadian marine park",
-      "link": "https://www.theguardian.com/world/2026/jul/22/six-beluga-whales-finally-leave-embattled-canadian-marine-park",
-      "desc": "<p>Whales flown to US aquariums after long-running saga in which Marineland had threatened to euthanise them</p><p>Six beluga whales have at last left Marineland, the embattled Canadian marine park in",
-      "pubDate": "Wed, 22 Jul 2026 11:48:32 GMT",
-      "img": "https://i.guim.co.uk/img/media/f2a93315f7673c9ca5d01f55854d5cf15864545e/490_521_2057_1645/master/2057.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Appetite for reflection",
-      "link": "https://www.smh.com.au/national/nsw/appetite-for-reflection-20260722-p60he4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Fast food in the fast lane.",
-      "pubDate": "Wed, 22 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_51/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Concerns about national Aus Alert system ahead of test",
-      "link": "https://www.smh.com.au/national/concerns-about-national-aus-alert-system-ahead-of-test-20260722-p60hpm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The states will continue to use their current emergency warning systems this bushfire season despite the federal government’s $132 million Aus Alert rollout.",
-      "pubDate": "Wed, 22 Jul 2026 20:56:47 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a7d038e57bb172cfe383d7f473d70d3272f231a7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Brisbane 2032 Olympic aquatic centre design revealed",
-      "link": "https://www.smh.com.au/national/brisbane-2032-olympic-aquatic-centre-design-revealed-20260722-p60hpk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Nine News can reveal the team of designers chosen to bring the Brisbane 2032 National Aquatic Centre to life, offering an exclusive first look at the locked-in plans for the major venue.",
-      "pubDate": "Wed, 22 Jul 2026 20:36:55 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/265ddbbd624a1b0c2e420d51163042695e9c80de",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Getting rid of a headache’: Secret tape exposes land-swap deal for ‘toxic’ waste",
-      "link": "https://www.smh.com.au/national/western-australia/getting-rid-of-a-headache-secret-tape-exposes-land-swap-deal-for-toxic-waste-20260722-p60hmm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A secret recording at the heart of a defamation suit years in the making has been played in WA’s Supreme Court after a judge knocked back a bid to suppress it.",
-      "pubDate": "Wed, 22 Jul 2026 20:24:47 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.268986537973076%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_111/t_crop_custom/q_86%2Cf_auto/d650b0e8f1d9089e8bd524b96329990c8525a28c301457d46592a73eb1644950",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and nuclear arsenal",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
-      "desc": "<p>Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missile</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-ne",
-      "pubDate": "Wed, 22 Jul 2026 10:00:13 GMT",
-      "img": "https://i.guim.co.uk/img/media/689c706db035ce93a3c736bdee508d40d270310e/688_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "The world is on fire, and who does Trump blame? The Canadians | Arwa Mahdawi",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/22/trump-canada-wildfires-blame-air-pollution-climate-crisis",
-      "desc": "<p>The US president has been complaining about Canada’s ‘filthy, polluted and unhealthy air’. Maybe he should put all that energy into tackling the climate crisis</p><p>Right, that’s it: we’ve got to ",
-      "pubDate": "Wed, 22 Jul 2026 10:00:13 GMT",
-      "img": "https://i.guim.co.uk/img/media/e41ee34b5ce5ccdc2cd08b6998f239c22af62dd4/439_0_4239_3391/master/4239.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘If all else fails, sue’: how ultra-processed food firms are using the courts to obstruct health rules",
-      "link": "https://www.theguardian.com/society/2026/jul/22/processed-food-firms-courts-obstruct-health-regulations",
-      "desc": "<p>Exclusive: Global investigation reveals 235 lawsuits have been brought against governments in five countries since 2010</p><p>The world’s biggest ultra-processed food companies have filed scores of",
-      "pubDate": "Wed, 22 Jul 2026 10:00:12 GMT",
-      "img": "https://i.guim.co.uk/img/media/1fdbe9a3526a0434d6f48dac7216cc055118578b/41_0_7078_5660/master/7078.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Why video game music is the future of orchestral concerts",
-      "link": "https://www.smh.com.au/national/queensland/why-video-game-music-is-the-future-of-orchestral-concerts-20260604-p603y1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Fans can experience the music of Mario, Zelda, Sonic and more when the Queensland Symphony Orchestra plays a concert dedicated to gaming’s greatest hits.",
-      "pubDate": "Wed, 22 Jul 2026 19:50:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4696207407407407%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_174%2C$y_220/t_crop_custom/q_86%2Cf_auto/61d7ee55e482a5e4279d8bd4154c63431c97111d8b9496be4ceb03ddf7d42c2d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Thousands of teachers to take to streets, but demands far from clear",
-      "link": "https://www.smh.com.au/national/victoria/thousands-of-teachers-to-take-to-streets-but-demands-far-from-clear-20260722-p60hgt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Up to 35,000 education staff are expected to march through Melbourne on Thursday after rejecting the government’s latest deal.",
-      "pubDate": "Wed, 22 Jul 2026 19:46:24 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_73%2C$y_68/t_crop_custom/q_86%2Cf_auto/26195e8e17368f63fecd93583b85cf37abf4bd72",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
