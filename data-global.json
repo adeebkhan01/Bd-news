@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T18:41:12.533Z",
-  "summary": "Global tensions are escalating on multiple fronts, with Middle Eastern conflict dominating headlines as Israel continues military operations in the West Bank amid international condemnation, while the US signals a hardline stance toward Iran and allies express concerns about potential military escalation. Pakistan's former Prime Minister Imran Khan faces fresh imprisonment and alleged torture, part of broader political turmoil in the region, while a serious Ebola outbreak in the Democratic Republic of Congo has claimed over 2,500 lives and is spreading rapidly. Economic pressures are mounting in major economies, including rising US borrowing costs and inflation concerns, while trade tensions between the US and Canada add to uncertainty ahead of potential tariff deadlines. Meanwhile, a significant Ebola vaccine trial is beginning and environmental issues from climate change are becoming increasingly apparent, as demonstrated by bodies emerging from melting Swiss glaciers.",
+  "fetchedAt": "2026-08-21T21:28:23.043Z",
+  "summary": "Global tensions are escalating across multiple regions as the Middle East dominates headlines, with escalating Israel-Palestine violence sparking international condemnation of West Bank settlements and leading figures like Turkey's government calling for Netanyahu's arrest on genocide charges. Trade and tariff disputes are intensifying on multiple fronts, including negotiations between the US and Canada racing against Trump's deadline and signs of economic strain emerging in American markets. Health crises are unfolding in Africa, where an Ebola outbreak in the Democratic Republic of Congo is spreading rapidly with deaths exceeding 2,500 and vaccine trials now beginning, while political instability continues in Tunisia and Pakistan with calls for leadership changes. Russia's war in Ukraine persists with limited movement toward resolution, as the Kremlin signals openness to new proposals while Europe and its allies brace for potential military confrontation and economic disruption.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "Tunisian protesters call for President Kais Saied to step down",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+      "desc": "Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.",
+      "pubDate": "Fri, 21 Aug 2026 20:35:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787344461.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Can a humanitarian disaster be averted in Somalia?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+      "desc": "The UN warns of another hunger crisis, with starvation threatening millions.",
+      "pubDate": "Fri, 21 Aug 2026 20:27:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a88ab33a075d-1787341619.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+      "desc": "Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.",
+      "pubDate": "Fri, 21 Aug 2026 20:16:59 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787343401.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+      "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+      "desc": "Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.",
+      "pubDate": "Fri, 21 Aug 2026 20:07:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a88813c8b4f-1787330876.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+      "link": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
+      "desc": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
+      "pubDate": "Fri, 21 Aug 2026 19:42:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a888a96a3abc-1787333270.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+      "link": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+      "desc": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
+      "pubDate": "Fri, 21 Aug 2026 19:20:17 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a879fd3-1787273171.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+      "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
+      "desc": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel&#039;s attacks on Global Sumud Flotilla activists.",
+      "pubDate": "Fri, 21 Aug 2026 19:08:30 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a889d7c-1787338108.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+      "desc": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
+      "pubDate": "Fri, 21 Aug 2026 18:55:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787338404.jpg?resize=1629%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "German army helps Poland construct a defensive barrier against Russia",
+      "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the Ea",
+      "pubDate": "2026-08-21T18:44:00Z",
+      "img": "https://static.dw.com/image/78439558_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
     {
       "title": "Dog warning as suspected palm oil washes up on beach",
       "link": "https://www.bbc.co.uk/news/articles/c0km61yeeero?at_medium=RSS&amp;at_campaign=rss",
@@ -14280,36 +14380,6 @@
       "desc": "Trump administration says &#039;historic&#039; agreement will &#039;reinforce global nonproliferation standards&#039; and create jobs in US.",
       "pubDate": "Wed, 22 Jul 2026 21:30:25 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/2025-11-18T180755Z_1921564841_RC2TYHAN6ZW2_RTRMADP_3_USA-SAUDI-1763490021.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
-      "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
-      "desc": "Russian Foreign Minister Sergei Lavrov is due to meet US counterpart Marco Rubio, but progress towards peace unlikely.",
-      "pubDate": "Wed, 22 Jul 2026 20:34:56 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a60f9fe-1784740350.jpg?resize=1920%2C1365",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN rights chief condemns Nicaragua’s decision to abolish elections",
-      "link": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss",
-      "desc": "UN rights chief condemns worsening repression in Nicaragua, urging the restoration of freedoms and the rule of law.",
-      "pubDate": "Wed, 22 Jul 2026 20:07:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a61199c7e-1784748444.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump: Iran will ‘pay a big price’ for US troop deaths",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
-      "desc": "US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.",
-      "pubDate": "Wed, 22 Jul 2026 20:06:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784750777.jpg?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
