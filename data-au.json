@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T21:31:38.609Z",
-  "summary": "Prime Minister Anthony Albanese has expressed regret over his appearance on the Bush Deep podcast, attributing it to a mistake that led to several public gaffes. A secretive church linked to the Exclusive Brethren secretly funded far-right activists to disrupt the federal election, raising concerns about hidden influence in Australian politics. Key domestic issues include a sharp decline in overseas home purchases, slowing progress toward the government's promise of 1.2 million new homes, and growing demand for electric vehicle charging infrastructure as EV sales surge. Meanwhile, financial markets face headwinds from rising oil prices amid Middle East tensions and concerns over Trump administration policies affecting bond markets.",
+  "fetchedAt": "2026-08-21T01:35:56.723Z",
+  "summary": "Australia's energy and transport sectors face significant disruptions today, with Origin Energy disclosing a customer data breach and Qantas and Virgin forced to source alternative fuel for Fiji flights due to contamination. Prime Minister Albanese has admitted regretting his appearance on the Bush Deep podcast after multiple public gaffes, while a separate controversy involves the Exclusive Brethren church being revealed to have secretly funded far-right activists during the federal election. Elsewhere, multiple incidents are under investigation including Sydney Airport safety concerns, a fashion tech founder's conviction for a $300 million fraud scheme, and allegations against prominent sports figures.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,166 @@
     }
   ],
   "articles": [
+    {
+      "title": "Russian-Australian citizen arrested in Brisbane",
+      "link": "https://www.smh.com.au/national/queensland/russian-australian-citizen-arrested-in-brisbane-20260821-p60qcv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The man has been arrested over allegations he attempted to engage in intentional foreign interference.",
+      "pubDate": "Fri, 21 Aug 2026 11:35:45 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.18133561643835616%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/be0897218ca92ca9a74cd16af09088721cf5e4d9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Breaking: Origin Energy confirms some customers' bank account details accessed in hack",
+      "link": "https://www.abc.net.au/news/2026-08-21/origin-energy-hack-update-60-customers-bank-account-access/107062636",
+      "desc": "Origin Energy has announced as many as 60 customers had their full bank account number accessed by a hacker in July.",
+      "pubDate": "Fri, 21 Aug 2026 01:06:18 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/0fbd167c2979ec5b9ab8f05ae3255ec7?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Fourth Sydney Airport safety incident under investigation in as many weeks",
+      "link": "https://www.smh.com.au/business/companies/fourth-sydney-airport-safety-incident-under-investigation-in-as-many-weeks-20260821-p60qca.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Investigators are examining an incident on Tuesday where two Qantas flights were given clearance to take clashing routes.",
+      "pubDate": "Fri, 21 Aug 2026 11:03:41 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1408%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/q_86%2Cf_auto/f2dd653218a66ea80575a5d32c3e12991d776cc5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Qantas, Virgin forced to BYO fuel to Fiji after 'very rare' contamination issue",
+      "link": "https://www.abc.net.au/news/2026-08-21/fiji-fuel-contamination-impacts-qantas-virgin-flights/107061960",
+      "desc": "In what one pilot described to the ABC as a \"very rare\" situation, airlines are being asked to fuel up at alternative airports and bring in stockpiles of fuel to Fiji's international airport.",
+      "pubDate": "Fri, 21 Aug 2026 00:58:00 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/c1d65ea4bc521fd952c55ce2cfbabea1?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1363&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Revealed: Full cost of Kyle and Jackie-O’s legal battle",
+      "link": "https://www.smh.com.au/business/companies/revealed-full-cost-of-kyle-and-jackie-o-s-legal-battle-20260821-p60qaw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Radio company ARN’s legal bill from its fight with the duo compounds plummeting revenue and profits, and shareholder dissatisfaction.",
+      "pubDate": "Fri, 21 Aug 2026 10:55:38 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3946%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_263%2C$y_484/t_crop_custom/q_86%2Cf_auto/77a2ad947a2358069fec1d01a7d099dc1eb10eeb",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Firmus AI data centre gets tick from planners ahead of council vote",
+      "link": "https://www.abc.net.au/news/2026-08-21/tas-firmus-ai-data-centre-george-town/107062068",
+      "desc": "Council planners have recommended that councillors approve a proposed 288-megawatt AI data centre at the site of the former Gunns Pulp Mill.",
+      "pubDate": "Fri, 21 Aug 2026 00:55:35 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/a3e8c74dba0ee9501c80a770f365d94e?impolicy=wcms_crop_resize&amp;cropH=787&amp;cropW=590&amp;xPos=501&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Brethren Church denies paying influencers to harass election candidates",
+      "link": "https://www.abc.net.au/news/2026-08-21/exclusive-brethren-church-denies-harrasment-federal-election/107061934",
+      "desc": "The Plymouth Brethren Christian Church says it did not pay or coordinate with far-right influencers to harass and intimidate candidates during last year's federal election, following allegations publi",
+      "pubDate": "Fri, 21 Aug 2026 00:36:31 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/80519eab49af680b7366d9366f609332?impolicy=wcms_crop_resize&amp;cropH=2209&amp;cropW=1657&amp;xPos=1134&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Victoria’s Big Build royal commission: do the terms of reference go far enough?",
+      "link": "https://theconversation.com/victorias-big-build-royal-commission-do-the-terms-of-reference-go-far-enough-288947",
+      "desc": "Victorian Premier Ben Carroll says the terms of reference are ‘the broadest, most extensive, wide-ranging powers’. But there’s one key weakness.",
+      "pubDate": "2026-08-21T00:29:48Z",
+      "img": "https://images.theconversation.com/files/755322/original/file-20260820-50-i5d984.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1305%2C8161%2C4080&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "As costs rise and income falls, live music industry hopes to reverse decline",
+      "link": "https://www.abc.net.au/news/2026-08-21/regional-live-music-declining-as-costs-rise-income-falls/107038928",
+      "desc": "Venues are struggling to bring acts and put on gigs as the costs for all aspects of live shows rise.",
+      "pubDate": "Thu, 20 Aug 2026 23:48:22 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/028f6b07ef03806d1fa9459d42b27dae?impolicy=wcms_crop_resize&amp;cropH=2737&amp;cropW=2053&amp;xPos=1110&amp;yPos=335&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "WA news LIVE: Firefighters battle blaze at Perth daycare centre; Ambulance collides with car in northern suburbs crash",
+      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-firefighters-battle-blaze-at-perth-daycare-centre-20260821-p60qar.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Follow our live coverage here.",
+      "pubDate": "Fri, 21 Aug 2026 09:39:08 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.0192%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/fb3b3f42de41cc01b568379914f3e74fd1e40bf53445aeddf088756a1073bccc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Union row with BHP deepens after officials kicked off Port Hedland site",
+      "link": "https://www.abc.net.au/news/2026-08-21/unions-removed-from-bhp-site/107057130",
+      "desc": "The ETU accuses BHP of illegally removing elected representatives at the miner's Port Hedland operations, while the mining giant claims the union's representatives were acting aggressively towards a f",
+      "pubDate": "Thu, 20 Aug 2026 23:32:43 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/b5de22f66f543da0a8fdfae8a166a9f7?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=298&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Zomi Frankcom did not deserve to die. Israel’s refusal to investigate her death and its failure to apologise is despicable | Geoffrey Robertson",
+      "link": "https://www.theguardian.com/world/commentisfree/2026/aug/21/zomi-frankcom-killing-death-israel-idf-ntwnfb",
+      "desc": "<p>The Israeli ambassador has claimed ‘a court came to a decision that there’s no criminal liability’ but there is no evidence that any court has been involved</p><p>Zomi Frankcom did not deserve to d",
+      "pubDate": "Thu, 20 Aug 2026 23:29:35 GMT",
+      "img": "https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0_108_2700_2160/master/2700.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Hotel giant swoops on two popular Sydney pubs in $90m deal",
+      "link": "https://www.smh.com.au/business/small-business/hotel-giant-swoops-on-two-popular-sydney-pubs-in-90m-deal-20260820-p60q4k.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "The Clock in Surry Hills and The Bank in Newtown are now owned by hotel group Australian Venue Co.",
+      "pubDate": "Fri, 21 Aug 2026 09:12:55 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/4b4e1676118bb9369945052fa2c21cd8cd277a35",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Body of bushwalker retrieved from Southern Highlands bushland",
+      "link": "https://www.smh.com.au/national/nsw/body-of-bushwalker-retrieved-from-southern-highlands-bushland-20260821-p60q9n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A body, believed to be that of 18-year-old Lily Hooper, had been recovered from Nattai National Park.",
+      "pubDate": "Fri, 21 Aug 2026 08:47:35 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_4/t_crop_custom/q_86%2Cf_auto/fa448318ef2e02066d188967914aed718345a0121d09524873acbd6746f8a3bc",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Fashion tech founder sentenced to prison for $300m fraud scheme",
+      "link": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
+      "desc": "<p>Christine Hunsicker, former CEO of CaaStle, gave investors falsified documents that overstated profit and cash reserves</p><p>A fashion tech founder was sentenced to five years in federal prison fo",
+      "pubDate": "Thu, 20 Aug 2026 22:27:41 GMT",
+      "img": "https://i.guim.co.uk/img/media/a38bdc49e63e8b3352c34fc3df652d381e6994d5/333_0_3333_2668/master/3333.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Albanese admits podcast error",
+      "link": "https://www.smh.com.au/national/albanese-admits-podcast-error-20260821-p60q9u.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Prime Minister Anthony Albanese says his decision to appear on the Bush Deep podcast was a mistake.",
+      "pubDate": "Fri, 21 Aug 2026 07:56:37 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/aedc847e9d1a037eac35f6bb419606b618eafedf",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Australia news live: PM says he shouldn’t have gone on Bush Deep podcast; home sales to overseas buyers plunge",
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
@@ -37788,196 +37948,6 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Looks like the Opera House’: Why Ray Hadley’s new apartment is a winner",
-      "link": "https://www.smh.com.au/national/nsw/looks-like-the-opera-house-why-ray-hadley-s-new-apartment-is-a-winner-20260710-p60e89.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Legendary radio broadcaster Ray Hadley knows a fair bit about property. And it turns out, he can spot a winner.",
-      "pubDate": "Wed, 22 Jul 2026 11:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.27802572853767393%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_246/t_crop_custom/q_86%2Cf_auto/dc556dd0dae938c06cb59cecd629dc72a78a73f8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Domestiques, sprinters and climbers: who’s who in the Tour de France peloton (and why it matters)",
-      "link": "https://theconversation.com/domestiques-sprinters-and-climbers-whos-who-in-the-tour-de-france-peloton-and-why-it-matters-287782",
-      "desc": "The Tour de France is not simply a battle of who can pedal fastest. It’s also a race made up of politics and priorities.",
-      "pubDate": "2026-07-22T01:17:49Z",
-      "img": "https://images.theconversation.com/files/748743/original/file-20260720-57-m116ip.jpg?ixlib=rb-4.1.1&amp;rect=2003%2C2003%2C3996%2C1998&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Unlawful excavation of river cliff disturbs Aboriginal ancestral remains",
-      "link": "https://www.abc.net.au/news/2026-07-22/unlawful-excavation-ancestral-remains-paringa-arisvi-riverland-/106697244",
-      "desc": "A cliff site in South Australia's Riverland, home to Aboriginal ancestral remains, has been excavated without authorisation.",
-      "pubDate": "Wed, 22 Jul 2026 01:02:53 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/f6d356dd168a8691bd1e0b1057917f60?impolicy=wcms_crop_resize&amp;cropH=2828&amp;cropW=2121&amp;xPos=1519&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Investigation continues into Logan house fire",
-      "link": "https://www.smh.com.au/national/investigation-continues-into-logan-house-fire-20260722-p60hgl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police continue to investigate a deadly house fire in Logan, Queensland, that killed two people.",
-      "pubDate": "Wed, 22 Jul 2026 11:02:47 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/006e7fffee17055f96b60c93b3ffe14ca20a41f0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia just outlined more ‘AI safety’ priorities, but is the plan actually coherent?",
-      "link": "https://theconversation.com/australia-just-outlined-more-ai-safety-priorities-but-is-the-plan-actually-coherent-287882",
-      "desc": "These priorities are mostly old policy initiatives that have until now been de-prioritised for months or even years.",
-      "pubDate": "2026-07-22T00:53:24Z",
-      "img": "https://images.theconversation.com/files/749042/original/file-20260721-83-ltgmg5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C177%2C2121%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "ABC boss says Anthropic wants to pay for decades of content to train its Claude chatbot",
-      "link": "https://www.smh.com.au/business/companies/abc-boss-says-anthropic-wants-to-pay-for-decades-of-content-to-train-its-claude-chatbot-20260722-p60hef.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Hugh Marks said the $1.4 trillion tech giant wants to buy access to the ABC’s archives.",
-      "pubDate": "Wed, 22 Jul 2026 10:36:13 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.26475%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_564/t_crop_custom/q_86%2Cf_auto/9a3b1db9c72b842e8616d590a86aeaeb1c059727",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘My wife didn’t deserve that’: Family devastated after two lives lost in blaze",
-      "link": "https://www.smh.com.au/national/queensland/my-wife-didn-t-deserve-that-family-devastated-after-two-lives-lost-in-blaze-20260722-p60hfb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Leanne Laver was battling stage four lymphoma when she died in a massive house fire with her long-time friend Phillip Gordon.",
-      "pubDate": "Wed, 22 Jul 2026 10:16:15 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.1499184389467592%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_204%2C$y_204/t_crop_custom/q_86%2Cf_auto/b15093db50113bc0d8bb8598ed021be670b5d4ad3941fae324a560c24ff53b5e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Teenager charged with murder over alleged stabbing attack on mum, sister",
-      "link": "https://www.smh.com.au/national/western-australia/teenager-charged-with-murder-over-alleged-stabbing-attack-on-mum-sister-20260722-p60hg0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A 16-year-old boy has been charged with murder after allegedly stabbing his mother to death and seriously injuring his sister in Perth’s south-east.",
-      "pubDate": "Wed, 22 Jul 2026 10:13:57 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5518518518518518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4626d69611223616f6e34b84d52abd8c34a6f03cb3ebecacabcf9c8342729fb6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Unreleased report cites police complaints on domestic violence",
-      "link": "https://www.smh.com.au/national/queensland/unreleased-report-cites-police-complaints-on-domestic-violence-20260722-p60hdp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A working group of victim-survivors was put together by the Queensland government, but their report, which took aim at police, never saw the light of day.",
-      "pubDate": "Wed, 22 Jul 2026 09:52:58 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3208%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/q_86%2Cf_auto/0202be9d54193e276c4acb23d5afe1545e06ef2c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The luxury watches, the 20 flights to China and the Sydney international student",
-      "link": "https://www.smh.com.au/national/the-luxury-watches-the-20-flights-to-china-and-the-sydney-international-student-20260722-p60hes.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Allegations of $5 million worth of false GST refund claims on luxury watches have landed a Sydney international student behind bars on remand.",
-      "pubDate": "Wed, 22 Jul 2026 09:51:57 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2626%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4d2d60096bf7e0e3f72f37ee3eb8026c18a5d0511881863e675da5d958b0fce2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Inside One Nation’s deserted Victorian headquarters",
-      "link": "https://www.smh.com.au/national/inside-one-nation-s-deserted-victorian-headquarters-20260722-p60hfk.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Months out from an election that Pauline Hanson has promised would be a turning point for her party, One Nation’s headquarters in Victoria are a deserted ghost town.",
-      "pubDate": "Wed, 22 Jul 2026 09:36:36 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/87f9e58815772f992b80e144fb829808c70546cd",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "'Massive' drop in tourists this winter hits WA's south",
-      "link": "https://www.abc.net.au/news/2026-07-22/low-tourism-numbers-in-southern-wa/106936732",
-      "desc": "Despite being an idyllic location for a winter getaway, businesses in WA's Great Southern have recorded a decline in tourists this season.",
-      "pubDate": "Tue, 21 Jul 2026 23:25:47 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/fec2ed5a829eb479c8f87bcf0a0fc0d0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=2110&amp;xPos=2062&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "WA news LIVE: ‘Rot in jail’: Minister responds to reports Perth-born IS doctor is alive in Iraq",
-      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-teenager-charged-over-alleged-stabbing-attack-on-mum-sister-20260722-p60heq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow our live coverage of the day’s news here.",
-      "pubDate": "Wed, 22 Jul 2026 09:11:05 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.0868148721476893%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/84ab08c5ffa1db6ef29503f75a0401733b4ab98f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "$30m biochar facility could help replace coal at Rio Tinto refineries",
-      "link": "https://www.abc.net.au/news/2026-07-22/biochar-coal-superchar-rio-tinto-central-qld/106897034",
-      "desc": "Rio Tinto has signed an agreement with an Australian company for a biochar product that could help replace coal used in its emissions-intensive Queensland refineries.",
-      "pubDate": "Tue, 21 Jul 2026 23:00:59 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/461724e4bd42685846be2cdffb616d31?impolicy=wcms_crop_resize&amp;cropH=2691&amp;cropW=2018&amp;xPos=1403&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Atlassian’s new headquarters hits new heights",
-      "link": "https://www.smh.com.au/national/nsw/atlassian-s-new-headquarters-hits-new-heights-20260722-p60her.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Atlassian Central tower has structurally topped out. The core of what will be the world’s tallest hybrid timber building now stands at its highest point on the city skyline.",
-      "pubDate": "Wed, 22 Jul 2026 08:54:23 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4631c2d4f7be595dce61b176d54ea707298e7ea3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Could Secret Harbour set the stage for Hanson’s greater ambitions?",
-      "link": "https://www.smh.com.au/national/western-australia/could-secret-harbour-set-the-stage-for-hanson-s-greater-ambitions-20260722-p60he3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "In Perth, Pauline Hanson declared her interest in the top job and backed it up with a surprising restrained performance.",
-      "pubDate": "Wed, 22 Jul 2026 08:46:47 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.26475%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_44/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/15163a3f07804775be8f0c2d782c4e826118fa95",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australian ISIS doctor found alive",
-      "link": "https://www.smh.com.au/national/australian-isis-doctor-found-alive-20260722-p60he5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An Australian-trained doctor who fled to Syria to become a prominent Islamic State member has been found alive nearly a decade after his reported death.",
-      "pubDate": "Wed, 22 Jul 2026 08:16:18 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/348226562cb84b04c7d725471a60d921e785284f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Australia news live: Wong pushes Chinese counterpart on submarine missile launch in face-to-face Manila meeting",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
-      "desc": "<p>Australia’s foreign affairs minister discussed the importance of peace in the Pacific at her meeting with Wang Yi in the wings of Asean. Follow today’s news live</p><ul><li><p>Get our <a href=\"http",
-      "pubDate": "Tue, 21 Jul 2026 22:05:18 GMT",
-      "img": "https://i.guim.co.uk/img/media/c91c74a82c58b63ad3b69bb56d9d230d6e184da9/305_0_4424_3539/master/4424.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Domino's Pizza shares fall after Federal Court underpayment case loss — as it happened",
-      "link": "https://www.abc.net.au/news/2026-07-22/asx-markets-business-live-news-july-22/106942906",
-      "desc": "Domino's Pizza shares fell after it lost a wage underpayment case in the Federal Court. The ASX gained ground. See how the day's business and economics news unfolded on the live blog.",
-      "pubDate": "Tue, 21 Jul 2026 21:54:55 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/5a481cff02c4c9ef0bdc25c79314c1f3?impolicy=wcms_crop_resize&amp;cropH=2000&amp;cropW=1500&amp;xPos=750&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
     }
   ]
 }

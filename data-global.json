@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T21:31:49.850Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Trump administration pursues aggressive economic isolation of Iran while tightening pressure on Cuba, while Israel-Palestine conflict continues to dominate Middle Eastern affairs with international condemnation of West Bank settlements and ongoing civilian casualties in Gaza. Syria's political transition is advancing with the detention of Assad-era officials on war crimes charges, though regional stability remains fragile with concerns about Turkish military involvement. Humanitarian crises are worsening in Sudan, Myanmar, and the Democratic Republic of Congo, with displacement and disease outbreaks affecting hundreds of thousands. Domestic pressures mount in the US with major debt reaching 40 trillion dollars and deportation operations ramping up, while Bangladesh faces political upheaval amid youth demands for economic opportunity.",
+  "fetchedAt": "2026-08-21T01:36:10.517Z",
+  "summary": "The Middle East dominates global headlines as tensions escalate across multiple fronts, with the Trump administration vowing sweeping sanctions on Iran while the USS Washington enters the region, the war in Yemen intensifies, and Israel faces international condemnation over West Bank settlements and Gaza operations. In Asia, Myanmar's military intensifies diplomacy as the Rohingya crisis deepens, while Pakistan's Imran Khan faces legal troubles and China faces rare Tibetan protests against ethnic policies. The US economy shows signs of weakness with consumer spending retreating and debt hitting forty trillion dollars, mirroring concerns in other Western economies, while multiple corruption and misconduct investigations create political turbulence domestically. Regional conflicts from Syria's transitional justice process to Colombia's illegal mining deaths underscore broader instability across developing nations.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Taliban release two detained UN staff members in Afghanistan",
+      "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+      "desc": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+      "pubDate": "Fri, 21 Aug 2026 00:44:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-15T113231Z_2045240706_RC2TYMA9JXPO_RTRMADP_3_AFGHANISTAN-TALIBAN-ANNIVERSARY-1787268670.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "desc": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+      "pubDate": "Fri, 21 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-17T150046Z_1653681071_RC2B0NA41SJO_RTRMADP_3_IRAN-CRISIS-ECONOMY-1787264605.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "desc": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
+      "pubDate": "Thu, 20 Aug 2026 23:19:56 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a878090-1787265168.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why the US economy is ringing alarm bells",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "pubDate": "Thu, 20 Aug 2026 23:15:15 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+      "link": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+      "desc": "New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.",
+      "pubDate": "Thu, 20 Aug 2026 22:45:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a875f0310464-1787256579.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "pubDate": "Thu, 20 Aug 2026 22:01:26 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
+      "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "desc": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years.",
+      "pubDate": "Thu, 20 Aug 2026 21:18:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87676218f1-1787258722.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
       "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&amp;at_campaign=rss",
@@ -14333,86 +14403,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
-      "desc": "Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain &#039;very heavily&#039;.",
-      "pubDate": "Wed, 22 Jul 2026 00:00:15 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-21T025023Z_442280093_RC21IMAX8080_RTRMADP_3_IRAN-CRISIS-USA-1784677943.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
-      "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "As Andy Burnham promises “breathing space” for households, millions are unable to buy items such as clothing, heating and food.",
-      "pubDate": "Tue, 21 Jul 2026 23:57:49 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a42d/live/6ae98c00-8529-11f1-8e99-5b188ca4e1b3.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Great Apes kiss and cuddle to keep the peace, says study",
-      "link": "https://www.bbc.co.uk/news/articles/c5y045vprg5o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes.",
-      "pubDate": "Tue, 21 Jul 2026 23:48:38 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e13/live/bc1c77b0-8531-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
-      "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
-      "pubDate": "Tue, 21 Jul 2026 23:17:58 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b5/live/4a93adc0-8531-11f1-8767-6996ba4bb968.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Will AI help you do your job or replace you?",
-      "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
-      "pubDate": "Tue, 21 Jul 2026 23:04:42 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
-      "link": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
-      "desc": "US report says the beleaguered government in Havana is the &#039;connective tissue&#039; of a global &#039;anti-American coalition&#039;.",
-      "pubDate": "Tue, 21 Jul 2026 22:55:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26196112436693-1784669577.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Moldova chooses new prime minister as it pushes for EU membership",
-      "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
-      "desc": "Political newcomer Vasile Tofan inherits Moldova&#039;s push to join the European Union by 2030.",
-      "pubDate": "Tue, 21 Jul 2026 22:53:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5ff2d7a6735-1784672983.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Zelenskyy replaces Ukraine military chief after protests",
-      "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-      "desc": "Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests.",
-      "pubDate": "Tue, 21 Jul 2026 21:58:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5fe73235d8f-1784670002.jpg?resize=1920%2C1333",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
