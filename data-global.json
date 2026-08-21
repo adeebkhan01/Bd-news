@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T06:53:40.633Z",
-  "summary": "Global tensions are escalating across multiple fronts, with the Middle East witnessing intensified conflict as the US pursues aggressive sanctions against Iran while Houthis and Yemen's government slide toward renewed full-scale war, and as Israel faces international condemnation over West Bank settlements alongside continued military operations in Gaza. Climate and environmental crises are mounting, from record heat driving extinction efforts to pollution decimating fisheries, while economic pressures are mounting in major economies including the US, which is grappling with consumer spending retreats and ballooning national debt. Political instability and judicial action are reshaping key nations, notably Pakistan where former PM Imran Khan has been hospitalized following a Supreme Court order, Hong Kong where Tiananmen activists have been convicted under national security law, and Syria where war crimes prosecutions are advancing. China and Russia continue strategic maneuvering to counter Western influence, with Beijing and Moscow potentially working to undermine US efforts to isolate Iran while Myanmar's military pursues diplomatic rehabilitation.",
+  "fetchedAt": "2026-08-21T09:40:35.429Z",
+  "summary": "Global tensions are escalating across multiple fronts, with escalating Middle East conflict dominating headlines as Israel advances West Bank settlement plans despite condemnation from the US, Europe and Canada, while Iran faces new American sanctions and regional conflicts intensify in Yemen. Security crises are rippling through Asia, where Hong Kong's Tiananmen activists face convictions under national security law, Pakistan's Imran Khan has been moved to hospital, and Tibetans are protesting Chinese ethnic policies. Economic pressures are mounting in Western economies with the US consumer spending retreating, the UK borrowing more than expected ahead of a new budget, and Brazil positioning itself between US and Chinese technological influence. Spillover humanitarian crises continue from active conflicts, including Ebola resurgence in the DR Congo and documented casualties from Israel's Gaza operations, while international figures face serious allegations from espionage charges in Australia to sexual misconduct investigations in the US.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,11 +25,71 @@
   ],
   "articles": [
     {
+      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
+      "pubDate": "Fri, 21 Aug 2026 08:48:25 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5711/live/12719030-9d21-11f1-ab6e-831b967255ae.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Australia charges man for passing Ukrainian military intel to Russia",
+      "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+      "desc": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
+      "pubDate": "Fri, 21 Aug 2026 08:42:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/02/2025-02-24T172903Z_1007990546_RC2Y0DAE02ME_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-EAST-SOLDIERS-1740471780.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+      "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+      "desc": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.",
+      "pubDate": "Fri, 21 Aug 2026 07:56:21 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260312__A2ZG4BN__v2__HighRes__PalestinianIsraelConflict-1773665285.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+      "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+      "desc": "Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.",
+      "pubDate": "Fri, 21 Aug 2026 06:56:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Palestine_Action_Burnley_Aug2024_1-1787295034.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Experts battling extinctions after record heat",
       "link": "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Scientists are studying the plight of six species of butterfly and plant affected by the heatwaves.",
       "pubDate": "Fri, 21 Aug 2026 05:24:23 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c09/live/0f3c3df0-9ca1-11f1-a5a0-114ca9d4a1bc.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+      "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
+      "pubDate": "Fri, 21 Aug 2026 05:02:39 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4589/live/23d5b5c0-9c24-11f1-8f4f-835961d63624.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -110,6 +170,16 @@
       "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
       "pubDate": "Thu, 20 Aug 2026 23:15:15 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "The teen entrepreneur transforming farm management",
+      "link": "https://www.bbc.co.uk/news/articles/cx2r9gxp3xgo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The app was designed to give farmers more time with their families by making the business more manageable.",
+      "pubDate": "Thu, 20 Aug 2026 23:01:01 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f6/live/d6ed93b0-9c8a-11f1-8d19-93d7082c5662.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -14253,86 +14323,6 @@
       "sourceId": "dwnews",
       "sourceName": "DW News",
       "sourceColor": "#002B55"
-    },
-    {
-      "title": "Ossoff challenges Hegseth on cost and duration of Iran war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss",
-      "desc": "Ossoff challenges Hegseth on cost and duration of Iran war",
-      "pubDate": "Wed, 22 Jul 2026 09:30:08 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784712585.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Al Jazeera reports from anti-US protest outside ASEAN summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss",
-      "desc": "Al Jazeera reports from anti-US protest outside ASEAN summit",
-      "pubDate": "Wed, 22 Jul 2026 08:59:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/LO-1784710783.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
-      "link": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss",
-      "desc": "Defense Secretary Pete Hegseth tells US senators that the war has cost the US $37.5bn so far.",
-      "pubDate": "Wed, 22 Jul 2026 08:43:26 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/14166504-1784710881.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Mexico goalkeeper Guillermo Ochoa retires after 22-year career",
-      "link": "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career?traffic_source=rss",
-      "desc": "The 41-year-old, who played in six FIFA World Cups, announces he will retire from both club and country.",
-      "pubDate": "Wed, 22 Jul 2026 08:38:59 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T035841Z_715892276_UP1EM760B1SMZ_RTRMADP_3_SOCCER-WORLDCUP-MEX-ENG-1784706675.jpg?resize=1657%2C1080",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
-      "pubDate": "Wed, 22 Jul 2026 08:02:04 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5f/live/ef78f7e0-85a0-11f1-bee8-53ce494e1abc.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Rabat demands answers after Moroccan man dies during arrest in Italy",
-      "link": "https://www.aljazeera.com/news/2026/7/22/rabat-demands-answers-after-moroccan-man-dies-during-arrest-in-italy?traffic_source=rss",
-      "desc": "Italian Prime Minister Meloni says truth must be &#039;pursued to the very end&#039; after death of Abderrahim Fakir in Bologna.",
-      "pubDate": "Wed, 22 Jul 2026 08:01:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a606c85-1784704133.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Food prices rise at slowest rate in nearly two years",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
-      "pubDate": "Wed, 22 Jul 2026 07:27:04 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fc/live/b4c56850-859a-11f1-a6e0-e3aa80f742c2.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Algeria: Toxic colonisation",
-      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/7/22/algeria-toxic-colonisation?traffic_source=rss",
-      "desc": "The French army’s illegal use of chemical weapons in Algeria’s war of independence, as revealed by testimony and documents.",
-      "pubDate": "Wed, 22 Jul 2026 07:23:42 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784704997.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
