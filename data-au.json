@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T21:28:09.971Z",
-  "summary": "Australian news today reflects political turbulence, with Labor navigating One Nation's unpredictability and tensions emerging within the Coalition over how to handle the minor party, while the nation braces for an unusually severe storm season. Major stories include a Perth rape retrial for UK rapper Yung Filly, a potential breakthrough in aggressive breast cancer treatment, and investigations into a Perth father's death in Bali and an alleged assault on a Sydney Swans player. Business news highlights the significant impact of skilled visa pauses on Australian companies and renewed interest in critical minerals development from Western Australian firms. Crime and safety concerns dominate with reports of violence in Melbourne and Altona North, while cultural commentary explores workplace gender dynamics and institutional accountability in schools.",
+  "fetchedAt": "2026-08-22T01:24:47.717Z",
+  "summary": "Australia's major cities are dealing with serious crime incidents, including a second shooting in Altona North within a week and a man charged over a missing father of three. The political sphere faces scrutiny with ICAC's Operation Rosny investigation and ongoing tensions over One Nation's influence on Labor policy. Major stories also cover economic pressures on Australian businesses through skilled visa pauses and rising battery-driven power costs, while cultural and social commentary pieces examine workplace misogyny, education institutions, and shifting attitudes toward anger and authenticity.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,96 @@
     }
   ],
   "articles": [
+    {
+      "title": "Altona North shooting",
+      "link": "https://www.smh.com.au/national/altona-north-shooting-20260822-p60qkx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man was shot at a known organised crime hangout in Altona North",
+      "pubDate": "Sat, 22 Aug 2026 11:21:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8cc34c6a429474b224c0f4203b561d27f09f2c21",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Incredibly traumatic experience’: Woman plans legal action after Swans late-night party",
+      "link": "https://www.smh.com.au/national/victoria/incredibly-traumatic-experience-woman-plans-legal-action-after-swans-late-night-party-20260822-p60qkf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A Slater and Gordon lawyer said on Saturday morning that he was investigating a potential civil claim on behalf of the woman.",
+      "pubDate": "Sat, 22 Aug 2026 10:54:49 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/effd893e975e2f40e646b50371f4082c16be8d29",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Starc shreds Bangladeshi top order",
+      "link": "https://www.smh.com.au/national/starc-shreds-bangladeshi-top-order-20260822-p60qkp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Mitchell Starc takes quick wickets in Mackay.",
+      "pubDate": "Sat, 22 Aug 2026 10:51:02 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/14a4d549cd7a4cd36abb1a946ca55b9d9d8921c8",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "What we learnt from ICAC’s Operation Rosny this week",
+      "link": "https://www.smh.com.au/national/nsw/what-we-learnt-from-icac-s-operation-rosny-this-week-20260822-p60qke.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The ICAC’s Operation Rosny is examining sections of the NSW Liberal Party, Catholic Schools NSW and business figures in Sydney. Jessica McSweeney explains what we learnt in week four.",
+      "pubDate": "Sat, 22 Aug 2026 10:00:56 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/87cfd33925f822c36c5205650e5855725b6d88c6",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘It was a shock to them’: The families who turned their backs on Sydney and embraced the bush",
+      "link": "https://www.smh.com.au/national/nsw/it-was-a-shock-to-them-the-families-who-turned-their-backs-on-sydney-and-embraced-the-bush-20260818-p60pcc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two families say they don’t regret leaving Sydney at the height of the COVID lockdowns in western Sydney, leaving the city for sleepy Young.",
+      "pubDate": "Sat, 22 Aug 2026 09:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4431%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1118%2C$y_285/t_crop_custom/q_86%2Cf_auto/85f6a9cbece3e2311aa5329ce67043018a42b8ab",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "From Nhulunbuy to New York, the rare politician torn between two worlds",
+      "link": "https://www.abc.net.au/news/2026-08-22/analysis-yingiya-guyula-entered-nt-parliament-an-outlier/107063254",
+      "desc": "From Arnhem Land to Northern Territory parliament, independent MLA Yiŋiya Guyula resigned from politics this week after taking his people's fight to the world.",
+      "pubDate": "Fri, 21 Aug 2026 22:49:03 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/3456c2d59ea8048d0e7fa19a512b7939?impolicy=wcms_crop_resize&amp;cropH=3072&amp;cropW=2304&amp;xPos=1370&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "‘They burned my child alive’: Survivors remember horrors of Myanmar nine years on",
+      "link": "https://www.smh.com.au/national/queensland/they-burned-my-child-alive-survivors-remember-horrors-of-myanmar-nine-years-on-20260818-p60pdj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Two refugees who escaped the military’s “clearance operations” recount their stories after moving to Brisbane.",
+      "pubDate": "Sat, 22 Aug 2026 08:02:34 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.12732378508351688%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_62/t_crop_custom/q_86%2Cf_auto/f08e19349ed6fe4c4c96b9dce30a3b60bca317f4",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man charged over alleged shooting of missing father of three",
+      "link": "https://www.smh.com.au/national/man-charged-over-alleged-shooting-of-missing-father-of-three-20260822-p60qju.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A man has been charged over shooting another man, who is missing and feared dead.",
+      "pubDate": "Sat, 22 Aug 2026 07:46:12 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e9bbe83ac753164e5620b6f327cbd8ccd13cc2ca",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Retired Sydney Swans player reportedly linked to Melbourne hotel incident",
+      "link": "https://www.smh.com.au/national/retired-sydney-swans-player-reportedly-linked-to-melbourne-hotel-incident-20260822-p60qjt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A retired Sydney Swans player has reportedly been linked to the Melbourne hotel at the centre of troubling claims.",
+      "pubDate": "Sat, 22 Aug 2026 07:45:31 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e0d2e5d542bfb58d5aadae16e37f27ae30aa234c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Residents gear up to keep McDonald's out of 'slow' town",
       "link": "https://www.abc.net.au/news/2026-08-22/goolwa-versus-mcdonalds-under-contract-cittaslow-town/107064832",
@@ -37315,146 +37405,6 @@
       "desc": "<p>Taiwanese people look on with concern at fate of Hong Kong’s independent booksellers, after series of arrests in recent months</p><p>Walking out of one of Hong Kong’s last remaining independent boo",
       "pubDate": "Thu, 23 Jul 2026 01:36:07 GMT",
       "img": "https://i.guim.co.uk/img/media/263ad565bd4c56623e5764cda8ab87cf2b11060f/1010_683_2632_2106/master/2632.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Serious corruption findings against senior ACT public servants",
-      "link": "https://www.abc.net.au/news/2026-07-23/act-integrity-commission-campbell-primary-contract/106804766",
-      "desc": "The commission investigated whether officials were impartial and honest in awarding an $18.8 million refurbishment contract at Campbell Primary School to Lendlease, despite a bid by local firm Manteen",
-      "pubDate": "Thu, 23 Jul 2026 01:09:56 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/b0928ec431175f63f8c3e071b43533f6?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=1080&amp;xPos=420&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Will there be space for disagreement at the ALP conference? | Fiona Katauskas",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/23/will-there-be-space-for-disagreement-at-the-alp-conference",
-      "desc": "<p>Imagine being a fly on the wall</p><ul><li><p>See more of <a href=\"https://www.theguardian.com/profile/fiona-katauskas\">Fiona Katauskas’s cartoons here</a></p></li></ul> <a href=\"https://www.thegua",
-      "pubDate": "Thu, 23 Jul 2026 01:00:29 GMT",
-      "img": "https://i.guim.co.uk/img/media/57a8fd5a03c2a1f157c22f1de3f00f6d452291cf/0_1_1181_945/master/1181.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘Suddenly, I was his boss’: How Brian and Wendy navigate work and marriage",
-      "link": "https://www.smh.com.au/national/suddenly-i-was-his-boss-how-brian-and-wendy-navigate-work-and-marriage-20260714-p60f5n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "They were friends who hooked up one night on a couch. Now they’re equally passionate about their businesses and their daughter.",
-      "pubDate": "Thu, 23 Jul 2026 11:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3021%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_142%2C$y_195/t_crop_custom/q_86%2Cf_auto/a366626ee816d783fca0f7edb77142be1d1fb7df",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "As a psychologist, I’ve seen the real reason why women ‘don’t just leave’",
-      "link": "https://www.smh.com.au/national/as-a-psychologist-i-ve-seen-the-real-reason-why-women-don-t-just-leave-20260723-p60hs6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Women being harmed or threatened by their partners follow Pauline Hanson’s advice all the time, but it’s not so simple. In many cases, it’s the last decision they make.",
-      "pubDate": "Thu, 23 Jul 2026 11:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/4445349992faad88e4b575b38f8b4e264c351f73",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Politics with Michelle Grattan: Paul Kelly on why Albanese is ‘misunderstood’ and Taylor needs to stay",
-      "link": "https://theconversation.com/politics-with-michelle-grattan-paul-kelly-on-why-albanese-is-misunderstood-and-taylor-needs-to-stay-288077",
-      "desc": "In more than 50 years of covering federal politics, The Australian’s editor-at-large says he has ‘never seen a crisis’ like the one facing the Liberal Party today.",
-      "pubDate": "2026-07-23T00:57:00Z",
-      "img": "https://images.theconversation.com/files/749368/original/file-20260722-105-kurztj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C118%2C5959%2C2979&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "New ferry names: Winston calls it woke, but debating Cook’s legacy is nothing new",
-      "link": "https://theconversation.com/new-ferry-names-winston-calls-it-woke-but-debating-cooks-legacy-is-nothing-new-288067",
-      "desc": "Christening the new interisland ferries Kupe and Cook is a reminder that what we name things matters, shaping our sense of ourselves over time.",
-      "pubDate": "2026-07-23T00:31:52Z",
-      "img": "https://images.theconversation.com/files/749380/original/file-20260722-85-5nvcdm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C663%2C5530%2C2765&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Stefanie Catalano prepares complaint against police over probe into domestic assault",
-      "link": "https://www.smh.com.au/national/victoria/stefanie-catalano-prepares-complaint-against-police-over-probe-into-domestic-assault-20260723-p60hsp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The wife of media mogul Antony Catalano has filed a statement of no complaint with police about the alleged assault that left her with a broken tailbone, and is now accusing them of mistreating her.",
-      "pubDate": "Thu, 23 Jul 2026 09:59:56 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/dcd61303f05dd2486c7fdca465962e1425a0db73",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "The Commonwealth Games are here, with fewer sports, more nations and an uncertain future",
-      "link": "https://theconversation.com/the-commonwealth-games-are-here-with-fewer-sports-more-nations-and-an-uncertain-future-287484",
-      "desc": "The Commonwealth Games’ future will depend on affordable hosting, strong stories and benefits that remain after the podiums are packed away.",
-      "pubDate": "2026-07-22T23:55:28Z",
-      "img": "https://images.theconversation.com/files/749373/original/file-20260722-63-5kvipj.jpg?ixlib=rb-4.1.1&amp;rect=238%2C412%2C3982%2C1991&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Tourism body criticises 'disgusting price gouging' for beef expo beds",
-      "link": "https://www.abc.net.au/news/2026-07-23/charter-flights-to-major-beef-expo-amid-accommodation-shortfall/106939912",
-      "desc": "Beef Australia is exploring new ways to get visitors to travel to Rockhampton, amid a scarcity of hotel rooms and some accommodation advertised for $24,000 for the week of the event in May 2027.",
-      "pubDate": "Wed, 22 Jul 2026 23:52:14 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/676343c95e107a9deec9bdcfb928953d?impolicy=wcms_crop_resize&amp;cropH=3335&amp;cropW=2501&amp;xPos=1249&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "WA news LIVE: NRL premiership star drawn west to sign with Perth Bears",
-      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-nrl-premiership-star-drawn-west-to-sign-with-perth-bears-20260723-p60hsu.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow our live coverage of the day’s news here.",
-      "pubDate": "Thu, 23 Jul 2026 09:47:51 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.192%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/539b4955b766aa631d75e2684d2681dd98a28961",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Tesla’s profits slide despite growing revenue as it pivots to robotics and AI",
-      "link": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
-      "desc": "<p>Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations</p><p>Tesla reported its second-quarter earnings on Wednesday, disclosing far lo",
-      "pubDate": "Wed, 22 Jul 2026 23:00:17 GMT",
-      "img": "https://i.guim.co.uk/img/media/9ff1c5663562bdf5c5a9588945247b638c9529f9/565_0_3504_2806/master/3504.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Higher planning hurdles needed for coal mines and data centres: watchdog",
-      "link": "https://www.smh.com.au/environment/climate-change/higher-planning-hurdles-needed-for-coal-mines-and-data-centres-watchdog-20260722-p60hmh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
-      "desc": "NSW is falling further behind its legislated targets to cut climate pollution by 50 cent by 2030 and 70 per cent by 2035.",
-      "pubDate": "Thu, 23 Jul 2026 08:42:53 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1576%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/ea9bea05b53c8ef165f5acd57029a09ede527a43",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Victorian teachers 'need relief' as thousands take to the streets",
-      "link": "https://www.abc.net.au/news/2026-07-23/victorian-teachers-on-strike-today-as-offer-is-rejected/106946678",
-      "desc": "State school teachers and support staff are rallying in Melbourne's CBD and in regions around Victoria after walking off the job following the rejection of a government pay increase of 28 per cent.",
-      "pubDate": "Wed, 22 Jul 2026 22:22:12 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/7ef49dada8a40cb6515122bd9267b091?impolicy=wcms_crop_resize&amp;cropH=3072&amp;cropW=2304&amp;xPos=888&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia news live: China hits back at Penny Wong’s comments; Victorian teachers due to begin strike",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
-      "desc": "<p>China’s foreign ministry says ‘relevant countries’ should ‘stop stirring up tension’. Follow live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking",
-      "pubDate": "Wed, 22 Jul 2026 22:02:35 GMT",
-      "img": "https://i.guim.co.uk/img/media/2117b45f6b1dfb423c8b9658c3644cf330e0c385/964_0_4731_3787/master/4731.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
