@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T15:25:31.564Z",
-  "summary": "Global tensions escalated sharply today as trade wars intensified between North America and military conflicts deepened across multiple regions. The US imposed fifty percent tariffs on Canadian goods after negotiations collapsed, while Iran's president signaled willingness to end hostilities with Washington though Trump claimed dominion over the Strait of Hormuz, raising stakes in the Persian Gulf. The humanitarian crises in Gaza and Ukraine continued claiming civilian lives, with reports of Israeli settlement expansion in the West Bank and Russian drone strikes on Ukrainian targets, as the UN and international bodies struggled to coordinate responses. Economic instability compounded these geopolitical pressures, with Lebanon's economy projected to contract sharply due to war, US debt surpassing forty trillion dollars, and developing nations from Libya to Tunisia grappling with internal unrest and capital flight.",
+  "fetchedAt": "2026-08-22T18:35:47.687Z",
+  "summary": "Trade tensions are escalating rapidly after negotiations between the US and Canada collapsed, prompting tit-for-tat tariff impositions and warnings from economists like Mark Carney that the strategy represents a strategic miscalculation. The Middle East remains a flashpoint with multiple developments including Israeli military operations in the West Bank and Syria, reports of Palestinian casualties, diplomatic pressure from ex-officials urging sanctions, and escalating rhetoric between the US and Iran over the Strait of Hormuz. Humanitarian crises are unfolding across multiple regions, from mounting civilian casualties in Gaza where burial capacity is exhausted, to severe flooding in India's Assam, economic contraction in war-affected Lebanon, and reports of atrocities in Ukraine and Myanmar. Domestic political turbulence in various nations including Tunisia and Bolivia contrasts with US political activity as Vice President Vance rallies support, while governance questions persist at major institutions like FIFA and the UN.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "pubDate": "Sat, 22 Aug 2026 18:20:36 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+      "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+      "desc": "While lawyers for the US president argue the subpoenas are &#039;cynical&#039;, the BBC says they could help shine light on case.",
+      "pubDate": "Sat, 22 Aug 2026 17:52:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a89dc7b0a-1787419771.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "pubDate": "Sat, 22 Aug 2026 16:57:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "How is the pro-Israel lobby influencing US elections?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
+      "desc": "As the 2026 US midterms approach, millions of dollars are pouring into races involving candidates who challenge Israel.",
+      "pubDate": "Sat, 22 Aug 2026 16:17:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787415071.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+      "desc": "Designed to stop heatstroke in its tracks, the \"Do Hiemon Box\" delivers rapid, targeted cooling during extreme weather.",
+      "pubDate": "Sat, 22 Aug 2026 15:48:27 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787413630.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+      "desc": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
+      "pubDate": "Sat, 22 Aug 2026 15:45:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787413495.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+      "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+      "desc": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+      "pubDate": "Sat, 22 Aug 2026 15:30:49 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26213324967077-1787000120.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Carney faces crucial test after walking away from Trump's deal",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
@@ -363,6 +433,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "German army helps Poland protect itself against Russia",
+      "link": "https://www.dw.com/en/german-army-helps-poland-protect-itself-against-russia/a-78464726?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisting their NATO ally with the construction of the Ea",
+      "pubDate": "2026-08-21T18:44:00Z",
+      "img": "https://static.dw.com/image/78439558_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "German army helps Poland construct a defensive barrier against Russia",
@@ -14080,146 +14160,6 @@
       "desc": "Report says 47 percent of physical damage from pair of earthquakes impacted residential buildings.",
       "pubDate": "Thu, 23 Jul 2026 18:41:22 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a62468552ef-1784825477.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Sweden eases mining permits to cut China minerals reliance",
-      "link": "https://www.dw.com/en/sweden-eases-mining-permits-to-cut-china-minerals-reliance/a-78087394?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Sweden has declared the mining of critical minerals and rare earths a national security interest. This will ease and expedite the permit process. The government said the step was needed to counter dep",
-      "pubDate": "2026-07-23T18:08:00Z",
-      "img": "https://static.dw.com/image/78091102_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "UK’s Burnham tells Scotland new independence vote is off limits",
-      "link": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
-      "desc": "Visiting Scotland, Burnham says a new referendum would detract from efforts to grow the economy.",
-      "pubDate": "Thu, 23 Jul 2026 18:07:09 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a624fcb29931-1784827851.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-      "pubDate": "Thu, 23 Jul 2026 17:37:59 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "What are the security implications of the US-Saudi nuclear deal?",
-      "link": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss",
-      "desc": "Concerns are growing over a nuclear arms race in the Middle East.",
-      "pubDate": "Thu, 23 Jul 2026 17:27:57 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25133356513338-1767755161.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
-      "pubDate": "Thu, 23 Jul 2026 17:06:08 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c0/live/60bb5b90-86b5-11f1-bb58-d3ffca85db6d.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss",
-      "desc": "The US and Saudi Arabia have reached a civilian nuclear cooperation deal.",
-      "pubDate": "Thu, 23 Jul 2026 16:58:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/WIDE-THUMB-1784825864.png?resize=1876%2C1080",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah?traffic_source=rss",
-      "desc": "Al Jazeera’s Zeina Khodr brings you the latest from Beirut.",
-      "pubDate": "Thu, 23 Jul 2026 16:53:21 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/with-Title-1-1784825523.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss",
-      "desc": "Al Jazeera’s Zeina Khodr brings you the latest from Beirut after Lebanon’s President meets with Donald Trump.",
-      "pubDate": "Thu, 23 Jul 2026 16:48:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-lebanon-wrap-2307-1784825304.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Yemen faces a new challenge amid prospects of confrontation",
-      "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss",
-      "desc": "What is the military balance of power in Yemen and the likelihood of confrontation between the government and Houthis?",
-      "pubDate": "Thu, 23 Jul 2026 16:17:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6237e0da28-1784821728.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
-      "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
-      "desc": "The Senate was also expected to vote on War Powers resolution, in largely symbolic move attempting to reign in Trump.",
-      "pubDate": "Thu, 23 Jul 2026 16:12:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a622fc75194-1784819655.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
-      "pubDate": "Thu, 23 Jul 2026 16:07:24 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5251/live/b2a36110-86aa-11f1-926f-c90d1bcfbc84.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Nicaragua's legislature debates barring opposition from elections",
-      "link": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
-      "pubDate": "Thu, 23 Jul 2026 15:54:41 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1879/live/f0465e80-86a7-11f1-9191-f734856583ed.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Two Palestinians shot dead by Israeli forces as West Bank fields set ablaze",
-      "link": "https://www.aljazeera.com/news/2026/7/23/two-palestinians-shot-dead-by-israeli-forces-as-west-bank-fields-set-ablaze?traffic_source=rss",
-      "desc": "Two men were killed in the town of Beit Furik, east of Nablus. An Israeli settler was also reportedly stabbed.",
-      "pubDate": "Thu, 23 Jul 2026 15:52:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260723__C2XR988__v2__HighRes__PalestinianIsraelConflictWestbankSettlers-1784806820.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "More than 100 UK millionaires ask new PM Andy Burnham to tax them more",
-      "link": "https://www.aljazeera.com/news/2026/7/23/more-than-100-uk-millionaires-ask-new-pm-andy-burnham-to-tax-them-more?traffic_source=rss",
-      "desc": "The &#039;Patriotic Millionaires&#039; say &#039;wealth and power have been concentrated in a small group for too long&#039;.",
-      "pubDate": "Thu, 23 Jul 2026 15:28:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-12T135648Z_1231344805_RC2CSZ9XLH3J_RTRMADP_3_BRITAIN-BBC-LINEKER.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
