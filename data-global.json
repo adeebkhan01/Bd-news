@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T18:35:47.687Z",
-  "summary": "Trade tensions are escalating rapidly after negotiations between the US and Canada collapsed, prompting tit-for-tat tariff impositions and warnings from economists like Mark Carney that the strategy represents a strategic miscalculation. The Middle East remains a flashpoint with multiple developments including Israeli military operations in the West Bank and Syria, reports of Palestinian casualties, diplomatic pressure from ex-officials urging sanctions, and escalating rhetoric between the US and Iran over the Strait of Hormuz. Humanitarian crises are unfolding across multiple regions, from mounting civilian casualties in Gaza where burial capacity is exhausted, to severe flooding in India's Assam, economic contraction in war-affected Lebanon, and reports of atrocities in Ukraine and Myanmar. Domestic political turbulence in various nations including Tunisia and Bolivia contrasts with US political activity as Vice President Vance rallies support, while governance questions persist at major institutions like FIFA and the UN.",
+  "fetchedAt": "2026-08-22T21:25:41.740Z",
+  "summary": "Trade tensions between North America have escalated sharply, with Canada announcing dollar-for-dollar retaliatory tariffs after talks with the Trump administration collapsed, while the US imposed 50 percent tariffs on $20 billion in Canadian goods. The Middle East remains volatile, with Iran's leadership suggesting readiness to end conflict with the US from a position of strength, though Iran has granted some Iraqi oil tankers passage through the Strait of Hormuz as Trump claims American territorial authority over the waterway. Violence in the Palestinian territories continues unabated, with Israeli forces and settlers injuring and killing Palestinians, while over 100 former diplomats are calling for France and the UK to sanction Israel over its treatment of Palestinians. Global crises persist elsewhere, including deadly Russian drone strikes on Ukraine, devastating floods in India's Assam region, and warnings of humanitarian disaster in Somalia.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Israeli army and settlers injure several Palestinians across West Bank",
+      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+      "desc": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
+      "pubDate": "Sat, 22 Aug 2026 21:02:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8a02f5-1787429621.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+      "desc": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
+      "pubDate": "Sat, 22 Aug 2026 20:49:17 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26209687195824-1787430318.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+      "desc": "Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.",
+      "pubDate": "Sat, 22 Aug 2026 20:05:52 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a83dd487a-1787026760.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why is Israel building new illegal settlements?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+      "desc": "Israel opens construction bids for new illegal housing units in the occupied West Bank.",
+      "pubDate": "Sat, 22 Aug 2026 19:40:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7809456ab1-1786251589.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
+      "desc": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.\"",
+      "pubDate": "Sat, 22 Aug 2026 19:13:02 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787425920.jpg?resize=1628%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+      "link": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+      "desc": "The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.",
+      "pubDate": "Sat, 22 Aug 2026 19:00:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a89dcf9d5e1-1787419897.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
@@ -14100,66 +14160,6 @@
       "desc": "President Trump said a proposed US-Saudi civilian nuclear deal is subject to Saudi Arabia joining the Abraham Accords",
       "pubDate": "Thu, 23 Jul 2026 21:41:25 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784842844.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Rally attendee steals the show by mimicking Trump’s gestures",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss",
-      "desc": "A rally attendee seated directly behind Trump drew attention by mimicking the president.",
-      "pubDate": "Thu, 23 Jul 2026 21:08:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-22.02.04-1784840684.png?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A new bill would let the US government order the shutdown AI models that pose a major public threat.",
-      "pubDate": "Thu, 23 Jul 2026 20:58:35 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "How Sudan war is putting cancer patients at risk",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-sudan-war-is-putting-cancer-patients-at-risk?traffic_source=rss",
-      "desc": "How Sudan war is putting cancer patients at risk",
-      "pubDate": "Thu, 23 Jul 2026 20:46:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-sudan-cancer-1784839523.png?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
-      "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
-      "desc": "Judge says that long sentence is merited for slaying of state Democratic lawmaker Melissa Hortman and her husband Mark.",
-      "pubDate": "Thu, 23 Jul 2026 19:50:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6265ae-1784833454.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
-      "link": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
-      "desc": "Yemen has proven oil reserves estimated at three billion barrels, but the security environment hinders its export.",
-      "pubDate": "Thu, 23 Jul 2026 19:28:24 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2020-10-05T060326Z_785026071_RC26CJ9IU1P1_RTRMADP_3_YEMEN-SECURITY-MARIB-1784817158.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
-      "link": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
-      "desc": "Report says 47 percent of physical damage from pair of earthquakes impacted residential buildings.",
-      "pubDate": "Thu, 23 Jul 2026 18:41:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a62468552ef-1784825477.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
