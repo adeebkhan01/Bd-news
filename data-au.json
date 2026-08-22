@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T09:30:26.370Z",
-  "summary": "Australia faces ongoing crime and safety concerns with a gunman still at large in Melbourne following a café shooting, a stabbing on the Central Coast, and a shooting in Altona North, while a separate incident involving a mother of three found dead in her Melbourne home has prompted legal action considerations. The Sydney Swans are dealing with a hotel scandal involving multiple women considering legal action, overshadowing the club's upcoming finals campaign. Cricket takes centre stage with Australia's Test team in action, featuring performances from Starc and notable innings from Marnus Labuschagne and Steve Smith. In broader news, political tensions continue with Pauline Hanson reigniting free speech debates, while international issues including the US-Canada trade war and Myanmar's humanitarian crisis feature prominently.",
+  "fetchedAt": "2026-08-22T12:46:19.035Z",
+  "summary": "Australia's news today is dominated by violent crime and tragedy, with multiple deaths under investigation including a Perth girl whose alleged killer faces trial, a Melbourne woman found dead in her home, and a shooting outside a Melbourne café leaving a gunman at large. Interstate incidents involving police are also prominent, from a high-speed chase to a stabbing on the Central Coast where a Good Samaritan intervened. The sports section highlights cricket performances with notable contributions from Starc and mixed results for Australian teams, while water-related stories span from infrastructure failures to natural hazards. Several stories also touch on social and political issues, including free speech debates and corporate accountability, though international news about trade tensions and environmental crises round out the coverage.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Water, everywhere. What are we to think?",
+      "link": "https://www.smh.com.au/national/nsw/water-everywhere-what-are-we-to-think-20260816-p60oq2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Climate science unequivocally indicates that burning fossil fuels adds carbon dioxide to the atmosphere, leading to global warming and sea level rise.",
+      "pubDate": "Sat, 22 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9413%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/ec9e75fccabd5abb06ca25d42740eb9608951218f391ccb4f01981c8e01a169c",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Pakistani police officer to face trial over Perth girl's murder",
+      "link": "https://www.smh.com.au/national/pakistani-police-officer-to-face-trial-over-perth-girls-murder-20260822-p60qmx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An inquiry into a 9-year-old Perth girl's death in Pakistan has rejected a police officer's claims he was acting in self-defence at the time of the shooting.",
+      "pubDate": "Sat, 22 Aug 2026 20:54:09 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2e246d8e9817972bd6b9fc0add4a75ea2baa4de5",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Indonesian police want Australian assistance in case of Perth father's Bali death",
+      "link": "https://www.smh.com.au/national/indonesian-police-want-australian-assistance-in-case-of-perth-fathers-bali-death-20260822-p60qmw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Bali police are hoping to work with Australian authorities to get four suspects in Victoria to return to Indonesia following a Perth father's death in Kuta.",
+      "pubDate": "Sat, 22 Aug 2026 20:50:21 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/e3e2a029b3cc07b86a44cb4a20d2504c244aa64e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Its pretty much a guarantee you’ll get stung’: jellyfish keep swimmers out of Delaware beaches",
+      "link": "https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches",
+      "desc": "<p>Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfish</p><p>An unusually high number of jellyfish are crowding Delaware’s beaches this",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 GMT",
+      "img": "https://i.guim.co.uk/img/media/1e2efb5ad77ec68e1d4778ce0444eea85a712e03/4_742_3759_3006/master/3759.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Everyone knew water was leaking on this road. But no one did a thing until someone died",
+      "link": "https://www.smh.com.au/national/victoria/everyone-knew-water-was-leaking-on-this-road-but-no-one-did-a-thing-until-someone-died-20260820-p60pz8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "After an eight-year wait, Bina Rajthala was devastated to learn about the “missed opportunities” that may have prevented her husband’s death.",
+      "pubDate": "Sat, 22 Aug 2026 19:50:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.18536670750918957%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/12c46c619612416ef7fc1ef101eab5bce2e9c4de",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Third woman in Swans hotel scandal considering legal action",
       "link": "https://www.smh.com.au/national/third-woman-in-swans-hotel-scandal-considering-legal-action-20260822-p60qml.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36788,146 +36838,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Billions in new funding for AUKUS shipyards in Adelaide",
-      "link": "https://www.abc.net.au/news/2026-07-23/adelaide-aukus-shipyards-new-funding/106951802",
-      "desc": "The billions of dollars in additional funding is another step towards making Australia's nuclear submarine program \"a reality\".",
-      "pubDate": "Thu, 23 Jul 2026 12:30:35 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/c4f22c5f4e856525b9c7fd72a75b42ee?impolicy=wcms_crop_resize&amp;cropH=3160&amp;cropW=2370&amp;xPos=1623&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "‘Why do I feel crappy?’: women are learning about their luteal phases - and Maha is weaponizing it",
-      "link": "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha",
-      "desc": "<p>People have found language for moodiest part of their menstrual cycles, and the right has seized on it</p><p>Emily Rae Detrick, a health coach, wants women to be more in touch with their menstrual ",
-      "pubDate": "Thu, 23 Jul 2026 12:00:44 GMT",
-      "img": "https://i.guim.co.uk/img/media/29f32dc531796fb9cd1b46b4a9c3ec9514e47e99/0_0_3000_2400/master/3000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Woman almost dies during attack on Perth street",
-      "link": "https://www.smh.com.au/national/woman-almost-dies-during-attack-on-perth-street-20260723-p60i3n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A woman has almost died on a Perth street, saved only by bystanders as a man launched a brutal assault.",
-      "pubDate": "Thu, 23 Jul 2026 21:18:01 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3b331fdec1231c70fb4a6b8fe3a82bae310817dd",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Google hit with €890 million EU fine over app store, search breaches",
-      "link": "https://www.smh.com.au/business/companies/google-hit-with-890-million-eu-fine-over-app-store-search-breaches-20260723-p60i3j.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The tech giant has been slapped with two fines for favouring its own services in search results and restricting app developers from steering users to cheaper offers.",
-      "pubDate": "Thu, 23 Jul 2026 21:04:16 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.537%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f1a369d898a526b656c96fd7a339e563093bb341",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
-      "link": "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin",
-      "desc": "<p>New US petition demands review of plans from tech companies amid fears of environmental destruction</p><p>Space datacenters proposed by <a href=\"https://www.theguardian.com/science/spacex\">SpaceX</",
-      "pubDate": "Thu, 23 Jul 2026 11:00:43 GMT",
-      "img": "https://i.guim.co.uk/img/media/80af939f5e1931085758a84567eb8b3f21c460db/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Appliances with a high ceiling",
-      "link": "https://www.smh.com.au/national/nsw/appliances-with-a-high-ceiling-20260723-p60hsm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "And puck-pushers get shaken, not stirred.",
-      "pubDate": "Thu, 23 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – business live",
-      "link": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-      "desc": "<p>Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’</p><p>The <strong>Houthi attacks</strong> off the c",
-      "pubDate": "Thu, 23 Jul 2026 10:42:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/7d2276eeb9597ba5d8a81bd9488eae350dcf4ffc/125_0_3750_3000/master/3750.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "US senator accuses Barclays of ‘failure’ to investigate ex-CEO’s ties to Epstein",
-      "link": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren",
-      "desc": "<p>Exclusive: Elizabeth Warren claims bank did not ‘meaningfully investigate’ Jes Staley’s links with sex offender</p><p>The leading US senator Elizabeth Warren has called for urgent answers from Barc",
-      "pubDate": "Thu, 23 Jul 2026 10:22:15 GMT",
-      "img": "https://i.guim.co.uk/img/media/2b9a42ad12e63ca0840d6464623cea6d33e2f87c/762_0_3234_2587/master/3234.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Legal logging and soaring saplings: the ‘green islands’ bucking the deforestation trend in central America",
-      "link": "https://www.theguardian.com/environment/2026/jul/23/guatemala-small-communities-restorative-forestation-aoe",
-      "desc": "<p>In Guatemala’s Maya biosphere reserve local people are making a living from trees at the same time as increasing forest cover, showing nature is best protected by those who depend on it</p><p>The l",
-      "pubDate": "Thu, 23 Jul 2026 10:00:41 GMT",
-      "img": "https://i.guim.co.uk/img/media/9077f518cdc2d9d04a49629810f4f29af97aab01/190_0_5005_4005/master/5005.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "I am used to hot days now. But the warm wind has really panicked me | Adrian Chiles",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/23/i-am-used-to-hot-days-now-but-the-warm-wind-has-really-panicked-me",
-      "desc": "<p>I first noticed it a couple of weeks ago on the streets of Cardiff – and it felt alarmingly wrong</p><p>When the wind is warm, you know something is up. Naturally, I have been well aware of the awf",
-      "pubDate": "Thu, 23 Jul 2026 10:00:41 GMT",
-      "img": "https://i.guim.co.uk/img/media/4f12340d3b52e13984b266e37203e87158e4db35/885_0_5600_4480/master/5600.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Setka to be sacked: Threats, abuse behind push to remove former CFMEU boss",
-      "link": "https://www.smh.com.au/national/victoria/setka-to-be-sacked-threats-abuse-behind-push-to-remove-former-cfmeu-boss-20260723-p60hrf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The volatile former construction union boss is set to have his membership cancelled for an organisation he dominated for 12 years.",
-      "pubDate": "Thu, 23 Jul 2026 20:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.415%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_217%2C$y_0/t_crop_custom/q_86%2Cf_auto/2faa4d11d2f83edaea853fcb19cd8899384615c1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "What was the nickname of the late Derryn Hinch? Take the Brisbane Times Quiz",
-      "link": "https://www.smh.com.au/national/queensland/what-was-the-nickname-of-the-late-derryn-hinch-take-the-brisbane-times-quiz-20260723-p60hua.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Smart on current affairs? Test yourself with the weekly local, national and international news challenge.",
-      "pubDate": "Thu, 23 Jul 2026 20:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.22428057992202727%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_84%2C$y_70/t_crop_custom/q_86%2Cf_auto/75cc7a5b4ee574a799963893599eefbf6226a9af",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Unused spaces transformed, 50,000 homes built: City’s wishlist for Olympic legacy",
-      "link": "https://www.smh.com.au/national/queensland/unused-spaces-transformed-50-000-homes-built-city-s-wishlist-for-olympic-legacy-20260723-p60i0n.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Private water taxis, a web of shaded pathways across the city, 24-hour precincts and expanded public transport services were also part of the council’s new vision.",
-      "pubDate": "Thu, 23 Jul 2026 20:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2275%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_188/t_crop_custom/q_86%2Cf_auto/3997d1bac5b9afb767087b75e13313ab02f1fed590c58aa464d29c5151612fbe",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Want to volunteer at the 2032 Brisbane Games? Lord mayor announces ‘passport’ plan",
-      "link": "https://www.smh.com.au/national/queensland/want-to-volunteer-at-the-2032-brisbane-games-lord-mayor-announces-passport-plan-20260723-p60i27.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The application process to volunteer at the Olympic and Paralympic Games is hugely competitive, with just a small percentage of applications being accepted.",
-      "pubDate": "Thu, 23 Jul 2026 20:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5348%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/db7870bd8bf4161bdd241c3ce75d4cf3e4efc198",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
