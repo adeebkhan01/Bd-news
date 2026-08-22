@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T03:44:45.964Z",
-  "summary": "Australia's news cycle today is dominated by sports controversy and legal matters, with the Sydney Swans facing fresh allegations involving late-night parties and a retired player reportedly linked to a Melbourne hotel incident, while a separate story examines inheritance disputes over a father's charitable bequest. Crime remains a significant focus, with shooting incidents in Altona North creating community concern and a Perth case involving UK rapper Yung Filly proceeding to retrial on rape charges. Political scrutiny continues through ICAC investigations and Labor's navigation of One Nation's unpredictability in parliament. Beyond these major themes, stories range from environmental features and restaurant accolades to cost-of-living concerns about coffee prices and battery charging mysteries.",
+  "fetchedAt": "2026-08-22T06:46:03.473Z",
+  "summary": "Australia's news landscape today is dominated by sports coverage, with cricket dominating headlines around Test matches and player performances, alongside significant Sydney Swans stories. Several serious crime and legal matters feature prominently, including an alleged shooting of a missing father, an ICAC operation investigation, and various civil disputes. Political content focuses on government challenges including One Nation's influence and skilled visa pauses affecting business, while cultural and lifestyle pieces range from nature poetry movements to workplace issues around artificial intelligence adoption. The stories reflect a typical news cycle balancing crime, politics, sports, and human interest narratives across the country.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show",
+      "link": "https://www.theguardian.com/environment/2026/aug/22/lithium-battery-fires-waste-recycling-centres-vapes-uk",
+      "desc": "<p>Experts say fires caused by wrongly discarded lithium batteries, such as those in vapes, are putting lives at risk</p><p>Fires at recycling centres caused by wrongly discarded lithium batteries suc",
+      "pubDate": "Sat, 22 Aug 2026 06:00:57 GMT",
+      "img": "https://i.guim.co.uk/img/media/2058df30df69be6092ae9b64b2aa939286c42c4d/604_0_5600_4480/master/5600.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "For years, one man spearheaded a Nigerian government agency that didn't exist",
+      "link": "https://www.abc.net.au/news/2026-08-22/fake-government-agencies-nigeria-pfipc-adeniyi-adeyemi/107067044",
+      "desc": "The Nigerian government has opened investigations into two government agencies after they were both found to be fake.",
+      "pubDate": "Sat, 22 Aug 2026 05:13:06 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/6afe792db869e97ae833fa3fa3bf7792?impolicy=wcms_crop_resize&amp;cropH=1061&amp;cropW=795&amp;xPos=499&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "‘We are in the inferno’: diaspora writers lead new movement of nature poetry",
+      "link": "https://www.theguardian.com/books/2026/aug/22/nature-matters-eco-poetry",
+      "desc": "<p>UK anthology inspired by question: ‘Where are our black and Asian nature writers?’ has boosted interest in genre</p><p>A new movement of eco poets from black and brown communities in the UK is chal",
+      "pubDate": "Sat, 22 Aug 2026 05:00:55 GMT",
+      "img": "https://i.guim.co.uk/img/media/fb9c1e4770a30fc81001eb82dbf407100d3c4636/900_0_2817_2254/master/2817.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "'Your luck is out': Marnus is sent packing",
+      "link": "https://www.smh.com.au/national/your-luck-is-out-marnus-is-sent-packing-20260822-p60qlm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Marnus Labuschange is left in disbelief as he is dismissed by Bangladesh bowler Shoriful Islam.",
+      "pubDate": "Sat, 22 Aug 2026 14:55:04 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1247670e8d5a0c4ff5e336555e139dff596af440",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The Age photos of the week, August 22, 2026",
+      "link": "https://www.smh.com.au/national/victoria/the-age-photos-of-the-week-august-22-2026-20260822-p60qld.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The week in photos from our award-winning staff photographers and regular contributors at The Age.",
+      "pubDate": "Sat, 22 Aug 2026 14:46:36 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/43cf0662f32b8bd1d7aad21cd0c66188b9c08b1b",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Renshaw's Test comeback ends swiftly",
+      "link": "https://www.smh.com.au/national/renshaws-test-comeback-ends-swiftly-20260822-p60qlh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Matt Renshaw's comeback has ended swiftly making just eight runs.",
+      "pubDate": "Sat, 22 Aug 2026 14:24:55 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ecbfcc7fc01b987d688efb92dabd51e72fd65fa9",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Scorched earth for satire’: How this former ambassador’s show was scuppered by Trump",
+      "link": "https://www.smh.com.au/national/scorched-earth-for-satire-how-this-former-ambassador-s-show-was-scuppered-by-trump-20260819-p60pst.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Brendan Berne once stood shoulder to shoulder with President Macron. Now he has entered his creative era.",
+      "pubDate": "Sat, 22 Aug 2026 13:50:12 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.1031%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f1031ce1e2190e4c3425fb4a716140db44d6e61e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "The Swans are nothing without the W: Why I’ll be at the SCG on Sunday",
       "link": "https://www.smh.com.au/national/the-swans-are-nothing-without-the-w-why-i-ll-be-at-the-scg-on-sunday-20260821-p60qek.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -37038,236 +37108,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Inside Melissa Caddick's Edgecliff penthouse when fraudster's apartment hit the market",
-      "link": "https://www.smh.com.au/national/inside-melissa-caddicks-edgecliff-penthouse-when-fraudsters-apartment-hit-the-market-20230911-p5e3t2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The three-bedroom Edgecliff apartment sold for $4 million.",
-      "pubDate": "Thu, 23 Jul 2026 16:34:01 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/b4bc80f43956b0f5e78bfddcc3331841cd5b1fe3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Revealed: How much Melissa Caddick’s victims will get back from $23m scam",
-      "link": "https://www.smh.com.au/national/nsw/revealed-how-much-melissa-caddick-s-victims-will-get-back-from-23m-scam-20260723-p60i07.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Almost six years since her mysterious disappearance and 56 court mentions later, the estate of fraudster Melissa Caddick has finally been wound up.",
-      "pubDate": "Thu, 23 Jul 2026 16:21:36 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/8dff836fe5ba25a9cbf39eb05cc7926d9fb4f077",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Origin Energy confirms data breach has exposed customer information",
-      "link": "https://www.smh.com.au/business/consumer-affairs/origin-energy-confirms-data-breach-has-exposed-customer-information-20260723-p60i0c.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "The nation’s largest power and gas company has confirmed that a hacker has gained unauthorised access to some customers’ private information, including names, addresses and some financial details.",
-      "pubDate": "Thu, 23 Jul 2026 16:14:31 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6806%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_961%2C$y_244/t_crop_custom/q_86%2Cf_auto/fdbacf00c55db55f9799161ff413cbcce377fb81",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Origin Energy confirms breach of customer data",
-      "link": "https://www.abc.net.au/news/2026-07-23/origin-energy-confirms-unauthorised-access-customer-data/106948052",
-      "desc": "Energy company Origin confirms there has been unauthorised access to and disclosure of some customers' data, a day after it announced it was investigating a \"potential\" breach.",
-      "pubDate": "Thu, 23 Jul 2026 05:49:16 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/0fbd167c2979ec5b9ab8f05ae3255ec7?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=882&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Domestic violence isn’t a ‘two-way street’. The evidence shows it’s gendered and often deadly",
-      "link": "https://theconversation.com/domestic-violence-isnt-a-two-way-street-the-evidence-shows-its-gendered-and-often-deadly-288186",
-      "desc": "Pauline Hanson’s comments amount to misinformation that risks stopping people from seeking help. Here are some of the facts.",
-      "pubDate": "2026-07-23T05:38:21Z",
-      "img": "https://images.theconversation.com/files/749697/original/file-20260723-57-v47dkj.jpg?ixlib=rb-4.1.1&amp;rect=1119%2C1710%2C7136%2C3568&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "'I don't want a circus': ACT Education Minister resigns from cabinet",
-      "link": "https://www.abc.net.au/news/2026-07-23/act-yvette-berry-resigns-finding-corrupt-conduct-in-office/106950132",
-      "desc": "ACT Education Minister Yvette Berry resigns after the Integrity Commission made \"serious corrupt conduct\" findings against two senior public servants in her portfolio.",
-      "pubDate": "Thu, 23 Jul 2026 05:29:12 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/8d8b8efcc476fe9a3eafd1fb2f8a76af?impolicy=wcms_crop_resize&amp;cropH=1716&amp;cropW=1287&amp;xPos=444&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "The telltale signs you’re working for a ‘ChatGPT Boss’",
-      "link": "https://www.smh.com.au/business/workplace/the-telltale-signs-you-re-working-for-a-chatgpt-boss-20260723-p60hyz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Using too much AI to communicate is a shortcut to people questioning the leadership abilities you’ve spent your career trying to build.",
-      "pubDate": "Thu, 23 Jul 2026 15:27:56 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2441%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/47f1aa11e039db83bf9bdbe22f43d293a6cfc6f8",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "At a time of harder borders and ‘ruthless’ rhetoric, the Refugee Convention is more important than ever",
-      "link": "https://theconversation.com/at-a-time-of-harder-borders-and-ruthless-rhetoric-the-refugee-convention-is-more-important-than-ever-287478",
-      "desc": "Critics claim the groundbreaking treaty, which turns 75 this month, is no longer fit for purpose. Without it, however, there would be chaos.",
-      "pubDate": "2026-07-23T05:08:21Z",
-      "img": "https://images.theconversation.com/files/749353/original/file-20260722-63-oau3t8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C125%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Eat what you kill: Macquarie’s first-ever female CEO is a tough act to follow",
-      "link": "https://www.smh.com.au/business/banking-and-finance/eat-what-you-kill-macquarie-s-first-ever-female-ceo-is-a-tough-act-to-follow-20260723-p60hxe.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Incoming chief executive Greg Ward’s pay package hinges entirely on the future success of the millionaires’ factory. He needs to stack up against a formidable line-up of former CEOs.",
-      "pubDate": "Thu, 23 Jul 2026 15:06:46 +1000",
-      "img": "https://static.ffx.io/images/$zoom_2.2966904207872796%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_636%2C$y_155/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/52a6d468dac1639063a6e7dbe57574db5e0d7662",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "PLC Resources lights up big new WA Murchison gold system",
-      "link": "https://www.smh.com.au/business/companies/plc-resources-lights-up-big-new-wa-murchison-gold-system-20260723-p60hzf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "PLC Resources has unveiled a new, untested regional gold corridor in the Murchison, with recent drilling at its Rochefort prospect returning geochemical smoke for a nearby gold system.",
-      "pubDate": "Thu, 23 Jul 2026 15:06:46 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/12dc26ecd97f216d8a7877bd84b016e021a3c4d2d76e02c51b2088503c0ea813",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Alarm over hospital lung admissions for children in England’s poorest postcodes",
-      "link": "https://www.theguardian.com/society/2026/jul/23/alarm-hospital-lung-admissions-children-england-poorest",
-      "desc": "<p>Exclusive: Analysis of NHS England data reveals stark impact of air pollution in deprived areas</p><p>Children living in the poorest areas across England are 40% more likely to be admitted to hospi",
-      "pubDate": "Thu, 23 Jul 2026 05:00:36 GMT",
-      "img": "https://i.guim.co.uk/img/media/1255ecb854673b15bea0df6d0a85baa7dd7e2ee9/0_854_3600_2879/master/3600.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Besieged by lobbyists, will UK ministers protect our ecosystems? No, they’ll chicken out | George Monbiot",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/23/lobbyists-uk-environment-ministers-ecosystems-chicken-poultry-faming",
-      "desc": "<p>Industrial poultry farming is killing our rivers. But rather than stop it, the government has been facilitating it. Will Andy Burnham end this ecocide?</p><p>There’s a slightly mean question I ofte",
-      "pubDate": "Thu, 23 Jul 2026 05:00:35 GMT",
-      "img": "https://i.guim.co.uk/img/media/f19affd74178a1c46f5efc8a91c5067f8de655d0/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Total solar eclipse books out hotels two years in advance in New Zealand city",
-      "link": "https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin",
-      "desc": "<p>Dunedin will be the focal point, having last experienced such an eclipse in 1163 – before any humans reached New Zealand</p><p>Hotels are booking out two years in advance in the New Zealand city of",
-      "pubDate": "Thu, 23 Jul 2026 04:59:08 GMT",
-      "img": "https://i.guim.co.uk/img/media/6769c7785343079520cd02954390c5c1e3ec442e/808_185_4596_3677/master/4596.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "How retirees, beachcombers and communities help scientists track everything from threatened species to algal blooms",
-      "link": "https://theconversation.com/how-retirees-beachcombers-and-communities-help-scientists-track-everything-from-threatened-species-to-algal-blooms-268199",
-      "desc": "Scientists and authorities are increasingly calling for help from citizen scientists to track species and changes.",
-      "pubDate": "2026-07-23T04:53:05Z",
-      "img": "https://images.theconversation.com/files/699084/original/file-20251029-56-vq42fz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C459%2C5499%2C2749&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Employment surges in June, leaving the door open to further interest rate rises",
-      "link": "https://theconversation.com/employment-surges-in-june-leaving-the-door-open-to-further-interest-rate-rises-288094",
-      "desc": "The Reserve Bank will be closely watching these job trends, along with upcoming inflation data, ahead of its August rate announcement.",
-      "pubDate": "2026-07-23T04:52:11Z",
-      "img": "https://images.theconversation.com/files/749695/original/file-20260723-57-3sgm5g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C921%2C6720%2C3360&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Pacgold hits copper-gold jackpot under existing SA gold system",
-      "link": "https://www.smh.com.au/business/companies/pacgold-hits-copper-gold-jackpot-under-existing-sa-gold-system-20260723-p60hyo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Pacgold has unearthed a significant high-grade gold and copper discovery at its White Dam North project in SA, with drilling hitting a 20m zone of sulphide mineralisation.",
-      "pubDate": "Thu, 23 Jul 2026 14:24:41 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/4027e15d8ced1766f8053a6a95f1d536a1bde468bce33f41f695136f9c6c8e19",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Proposed $200m timber hub promises jobs and building materials boost",
-      "link": "https://www.abc.net.au/news/2026-07-23/forestry-hub-boost-for-south-west-victoria-industry/106946618",
-      "desc": "The timber manufacturing hub would transform blue gum wood chips into timber beams for construction.",
-      "pubDate": "Thu, 23 Jul 2026 04:03:52 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/de0472fe2d5411a2eae8deae4230b21e?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=1620&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "‘People are scared their neighbours will call the police on them’: how the hosepipe ban got caught up in the culture wars",
-      "link": "https://www.theguardian.com/environment/2026/jul/23/how-hosepipe-ban-got-caught-up-in-culture-war",
-      "desc": "<p>While many people in the UK recognise the need to preserve water, others are furious and planning to flout the ban in their area. The target of their anger? Failing water companies and frighteningl",
-      "pubDate": "Thu, 23 Jul 2026 04:00:36 GMT",
-      "img": "https://i.guim.co.uk/img/media/4622845f5f691deaa1b29147e5049250f2a1465a/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Revisited: A Scottish tea mystery, episode three – a bag for life",
-      "link": "https://www.theguardian.com/science/audio/2026/jul/23/revisited-a-scottish-tea-mystery-episode-three-a-bag-for-life",
-      "desc": "<p>Science correspondent Nicola Davis investigates the strange story of Tam O’Braan and his attempts to grow tea in Scotland.</p><p>In episode three of this mini-series first broadcast in October 2025",
-      "pubDate": "Thu, 23 Jul 2026 04:00:35 GMT",
-      "img": "https://i.guim.co.uk/img/media/b8aed8fe0a4a868810215edfccd20fc066ee458e/432_0_4320_3456/master/4320.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Orcas seen ramming prey so hard it explodes may be playing game",
-      "link": "https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game",
-      "desc": "<p>Scientists believe sunfish-smashing behaviour could be form of entertainment or to help younger whales feed</p><p>Orcas have been observed ramming into giant fish so hard that the prey explode, pos",
-      "pubDate": "Thu, 23 Jul 2026 04:00:34 GMT",
-      "img": "https://i.guim.co.uk/img/media/d416e37861f66d650a0cb57dd96bc62ad21bc51c/487_0_4392_3514/master/4392.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘Like someone whacking a piñata’: orcas explode sunfish by ramming them at high speed",
-      "link": "https://theconversation.com/like-someone-whacking-a-pinata-orcas-explode-sunfish-by-ramming-them-at-high-speed-287776",
-      "desc": "This never-before observed behaviour can tell us a lot about whale intelligence.",
-      "pubDate": "2026-07-23T04:00:21Z",
-      "img": "https://images.theconversation.com/files/749418/original/file-20260722-63-9279jj.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C342%2C2048%2C1024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "'Fibro dog box' social house gets so hot the TV breaks down",
-      "link": "https://www.abc.net.au/news/2026-07-23/sydney-social-housing-extreme-heat/106943406",
-      "desc": "A new study led by Western Sydney University researchers has found a lack of thermal safety standards in social housing is leading to tenants being exposed to unsafe extreme heat events.",
-      "pubDate": "Thu, 23 Jul 2026 03:58:50 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/41b1d5d5b3f84c730622b1c8266b3b9a?impolicy=wcms_crop_resize&amp;cropH=3456&amp;cropW=2592&amp;xPos=1427&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Great Southern, Gold Fields drill monster QLD copper-gold target",
-      "link": "https://www.smh.com.au/business/companies/great-southern-gold-fields-drill-monster-qld-copper-gold-target-20260723-p60hy0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Great Southern Mining has begun drilling its big Mt Dillon copper-gold porphyry target in Queensland, with global major Gold Fields funding the campaign.",
-      "pubDate": "Thu, 23 Jul 2026 13:56:47 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/6d6c402ed99a48b4cb5fc03de755b1a44db6152511e7b7882bc260f08fe05d4f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
