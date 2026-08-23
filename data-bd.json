@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T12:46:49.802Z",
-  "summary": "Bangladesh faces internal security challenges as police investigate the brutal killing of a family of four in Rangpur allegedly over resistance to drug use, with two suspects detained. The country's institutional changes continue with a new president taking office at Bangabhaban and a cabinet reshuffle drawing mixed reactions, while an ex-NBR chief has been appointed as Bangladesh's alternate executive director at the World Bank. The economy shows mixed signals with Alibaba's major AI investment plans and the launch of Invest Bangladesh merging three investment bodies, offset by manufacturing challenges as Fu-wang Foods closes its factory for six months due to the gas crisis. Cricket provides some distraction as Bangladesh's Test ranking reached a historic high of sixth place, though they face a tough challenge against Australia.",
+  "fetchedAt": "2026-08-23T15:26:20.292Z",
+  "summary": "Bangladesh is navigating significant economic and administrative transitions, with digital payment systems gaining traction following mandatory QR rollout that pushed transactions past Tk 110 crore, while investment infrastructure consolidates under the new Invest Bangladesh authority. The country faces pressing challenges including fertiliser shortages driving farmer warehouse raids in Kurigram, energy constraints forcing factory shutdowns, and a violent crime wave that left four family members dead in Rangpur, prompting police arrests. On the positive front, Bangladesh continues expanding technical education capacity and achieved its highest Test cricket ranking, while international players like BYD and Alibaba signal confidence in the economy despite headwinds. Political transitions are underway with a new presidential administration taking office and cabinet reshuffles signalling ongoing governance adjustments.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,114 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bangla QR transactions exceed Tk 110cr after mandatory rollout",
+      "link": "https://www.thedailystar.net/business/news/bangla-qr-transactions-exceed-tk-110cr-after-mandatory-rollout-4254976",
+      "desc": "Transactions through Bangla QR -- the country’s interoperable national payment standard -- have nearly doubled since the system became mandatory for merchants on July 1, Bangladesh Bank (BB) said.",
+      "pubDate": "Sun, 23 Aug 26 21:18:27 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Bangla%20QR_0.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "বাধ্যতামূলক বাস্তবায়নের পর বাংলা কিউআর লেনদেন ১১০ কোটি টাকা অতিক্রম করেছে",
+      "descBn": "দেশের আন্তঃসংযোগযোগ্য জাতীয় পেমেন্ট মান বাংলা কিউআরের মাধ্যমে লেনদেন জুলাই ১ থেকে বণিকদের জন্য সিস্টেমটি বাধ্যতামূলক হওয়ার পর থেকে প্রায় দ্বিগুণ হয়েছে, বাংলাদেশ ব্যাংক (বিবি) জানিয়েছে।"
+    },
+    {
+      "title": "Dhaka airport launches 24-hour immigration hotline",
+      "link": "https://www.thedailystar.net/business/economy/aviation/travel/news/dhaka-airport-launches-24-hour-immigration-hotline-4254971",
+      "desc": "Passengers can now access round-the-clock information on any immigration-related query",
+      "pubDate": "Sun, 23 Aug 26 21:13:01 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/dhaka-airport-queue-immigration-baggage.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "ঢাকা বিমানবন্দর ২৪ ঘণ্টা ইমিগ্রেশন হটলাইন চালু করেছে",
+      "descBn": "যাত্রীরা এখন যেকোনো ইমিগ্রেশন সম্পর্কিত প্রশ্নের জন্য সারাদিন সাপোর্ট পেতে পারেন"
+    },
+    {
+      "title": "Farmers break into Kurigram fertiliser warehouse, take 197 urea sacks",
+      "link": "https://www.thedailystar.net/business/agriculture/news/farmers-break-kurigram-fertiliser-warehouse-take-197-urea-sacks-4254966",
+      "desc": "Police recover 33 sacks as shortage and delayed distribution fuel anger in Bhurungamari",
+      "pubDate": "Sun, 23 Aug 26 21:10:53 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/urea-web.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "কুড়িগ্রামের সার গোডাউনে কৃষকদের অনুপ্রবেশ, ১৯৭ বস্তা ইউরিয়া নিয়ে যাওয়া হয়",
+      "descBn": "পুলিশ ৩৩ বস্তা উদ্ধার করে, ভুরুঙ্গামারিতে ঘাটতি এবং বিলম্বিত বিতরণ ক্রোধ বৃদ্ধি করে"
+    },
+    {
+      "title": "Runner set to manufacture BYD cars in Bangladesh",
+      "link": "https://www.thedailystar.net/business/news/runner-set-manufacture-byd-cars-bangladesh-4254926",
+      "desc": "Runner has completed a technical agreement with BYD following a feasibility study, paving the way for local production of BYD electric cars",
+      "pubDate": "Sun, 23 Aug 26 20:30:36 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Runner%20BYD.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "রানার বাংলাদেশে বিওয়াইডি গাড়ি উৎপাদন করতে প্রস্তুত",
+      "descBn": "রানার একটি সম্ভাব্যতা অধ্যয়নের পরে বিওয়াইডির সাথে একটি প্রযুক্তিগত চুক্তি সম্পন্ন করেছে, যা বিওয়াইডি ইলেকট্রিক গাড়ির স্থানীয় উৎপাদনের পথ প্রশস্ত করেছে"
+    },
+    {
+      "title": "No-frill account deposits rise 24% in Apr-Jun",
+      "link": "https://www.thedailystar.net/business/news/no-frill-account-deposits-rise-24-apr-jun-4254911",
+      "desc": "No-frill accounts are low-cost accounts opened with initial deposits of Tk 10, Tk 50 or Tk 100 for low-income people, students aged up to 25, street children and working children",
+      "pubDate": "Sun, 23 Aug 26 20:14:36 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/No-frill%20accounts.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "এপ্রিল-জুন মাসে নো-ফ্রিল অ্যাকাউন্ট জমা ২৪% বৃদ্ধি পেয়েছে",
+      "descBn": "নো-ফ্রিল অ্যাকাউন্ট হল কম খরচের অ্যাকাউন্ট যা কম আয়ের মানুষ, ২৫ বছর পর্যন্ত বয়সী শিক্ষার্থী, রাস্তার শিশু এবং কাজ করা শিশুদের জন্য ১০ টাকা, ৫০ টাকা বা ১০০ টাকার প্রাথমিক জমা দিয়ে খোলা হয়"
+    },
+    {
+      "title": "Expanding TVET can turn huge population into a resource: Education Minister",
+      "link": "https://en.prothomalo.com/youth/education/q4ntg9biae",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 14:01:58 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/x1pndstu/TVET.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "টিভিইটি সম্প্রসারণ বিশাল জনসংখ্যাকে সম্পদে রূপান্তরিত করতে পারে: শিক্ষামন্ত্রী",
+      "descBn": ""
+    },
+    {
+      "title": "REDX Trucks partners with Popular Pharmaceuticals to strengthen B2B logistics",
+      "link": "https://www.thedailystar.net/business/news/redx-trucks-partners-popular-pharmaceuticals-strengthen-b2b-logistics-4254871",
+      "desc": "REDX Trucks, the trucking business of B2B commerce platform ShopUp, has signed an agreement with Popular Pharmaceuticals Limited to transport the drug maker’s imported raw materials.",
+      "pubDate": "Sun, 23 Aug 26 18:53:49 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/REDX%20Trucks.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "REDX Trucks জনপ্রিয় ফার্মাসিউটিক্যালের সাথে অংশীদারিত্ব করে B2B লজিস্টিক্স শক্তিশালী করছে",
+      "descBn": "B2B কমার্স প্ল্যাটফর্ম ShopUp এর ট্রাকিং ব্যবসা REDX Trucks, জনপ্রিয় ফার্মাসিউটিক্যালস লিমিটেডের সাথে একটি চুক্তি স্বাক্ষর করেছে যাতে ওষুধ নির্মাতার আমদানিকৃত কাঁচামাল পরিবহন করা যায়।"
+    },
+    {
+      "title": "Actress, director Mohsina gets married",
+      "link": "https://en.prothomalo.com/entertainment/rh28648kdd",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 12:53:05 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/tjwczx9g/prothomalo-bangla2026-08-23dzcnlovq78325608711131242147018172868829231424154043n-1.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "অভিনেত্রী, পরিচালক মোহসিনা বিয়ে করেছেন",
+      "descBn": ""
+    },
+    {
+      "title": "Farmers break open dealer’s warehouse in Kurigram, take away 197 sacks of fertiliser",
+      "link": "https://en.prothomalo.com/bangladesh/local-news/p7hw35xax5",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 12:43:26 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/sd1u89ei/kurigram.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "কুড়িগ্রামে কৃষকরা ডিলারের গুদাম ভেঙে ১৯৭ বস্তা সার নিয়ে গেছেন",
+      "descBn": ""
+    },
     {
       "title": "Alibaba plans $10.2bn share placement to fund global AI expansion",
       "link": "https://www.thedailystar.net/news/technology/news/alibaba-plans-102bn-share-placement-fund-global-ai-expansion-4254851",
@@ -18176,78 +18284,6 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "মোতিঝিল মেট্রো স্টেশনের নিচে বোমা উদ্ধার করা হয়েছে",
-      "descBn": ""
-    },
-    {
-      "title": "Speaker Hafiz Uddin takes charge as Acting President",
-      "link": "https://en.prothomalo.com/bangladesh/mkd0lroj6h",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 14:42:31 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/9zhig3ar/prothomalo-bangla2026-07-24jyv3ziijWhatsApp-Image-2026-07-24-at-7.17.16-PM.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "স্পিকার হাফিজ উদ্দিন অভিনয় রাষ্ট্রপতি হিসেবে দায়িত্ব নিয়েছেন",
-      "descBn": ""
-    },
-    {
-      "title": "‘Although elected during mafia regime, he supported people’s govt’",
-      "link": "https://en.prothomalo.com/bangladesh/27ca3ac80m",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 14:34:08 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/ri1bk7p7/Speaker-Hafiz-Uddin-Ahmad.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "'যদিও মাফিয়া শাসনকালে নির্বাচিত হয়েছিলেন, তবুও তিনি জনগণের সরকারকে সমর্থন করেছিলেন'",
-      "descBn": ""
-    },
-    {
-      "title": "Indian govt seeks time on youth protesters’ minister resignation demand",
-      "link": "https://en.prothomalo.com/international/india/2xuqf18rey",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 13:35:22 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/tc33dc77/INDIA-POLITICS-1.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "যুব প্রতিবাদকারীদের মন্ত্রীর পদত্যাগের দাবিতে ভারতীয় সরকার সময় চাইছে",
-      "descBn": ""
-    },
-    {
-      "title": "How new US tariff will affect Bangladesh’s trade",
-      "link": "https://en.prothomalo.com/business/local/bmn7iaxc77",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 13:32:00 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/ol0ymdm4/prothomalo-bangla2025-05-03tvdl6gx3Trump-Tax.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "নতুন মার্কিন ট্যারিফ বাংলাদেশের বাণিজ্যকে কীভাবে প্রভাবিত করবে",
-      "descBn": ""
-    },
-    {
-      "title": "Fields medal awarded to 4 young mathematicians",
-      "link": "https://en.prothomalo.com/science-technology/science/5h9j6r2rgz",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 13:24:16 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/k3grxctr/168536-01-04.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "৪ জন তরুণ গণিতবিদকে ফিল্ডস মেডেল প্রদান করা হয়েছে",
-      "descBn": ""
-    },
-    {
-      "title": "Reasons cited for President Shahabuddin’s resignation",
-      "link": "https://en.prothomalo.com/bangladesh/0zr3l9y267",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 12:49:47 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/ri1bk7p7/Speaker-Hafiz-Uddin-Ahmad.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "রাষ্ট্রপতি শাহাবুদ্দিনের পদত্যাগের কারণসমূহ",
       "descBn": ""
     }
   ]

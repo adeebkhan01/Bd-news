@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T12:47:06.556Z",
-  "summary": "Australia faces mounting health and safety concerns today, with the first confirmed bird flu case in a mainland mammal raising alarm about potential pandemic risks, while allegations of sexual assault involving the Sydney Swans continue to dominate sports and cultural headlines. The news cycle reflects broader domestic pressures including housing affordability issues affecting renters, industrial disputes in prisons and potentially at the Demons AFL club over wage theft claims, and several serious criminal incidents across major cities. International stories touching Australian interests include cyber-attacks blamed on Iran and ongoing trade tensions involving the US and allies. The headlines underscore persistent challenges in public safety, workplace protections, and the cost-of-living pressures facing ordinary Australians.",
+  "fetchedAt": "2026-08-23T15:26:30.050Z",
+  "summary": "Australia faces mounting social and regulatory challenges this week, with a rare bird flu case confirmed in a South Australian mammal marking a significant health concern, while sporting integrity issues dominate the headlines following fresh allegations against Sydney Swans players and wage theft accusations against Melbourne Demons officials. On the policy front, labor's push to reserve more domestic gas and contentious moves to allow gambling logos on sports jerseys until 2032 have sparked fierce criticism from health advocates and former politicians. International developments include escalating US-Canada trade tensions and cyber-attacks blamed on Iran, while domestic crime reports reveal ongoing community safety concerns across multiple cities.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
+      "link": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "desc": "<p>Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsl",
+      "pubDate": "Sun, 23 Aug 2026 15:00:36 GMT",
+      "img": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "desc": "<p>Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters",
+      "pubDate": "Sun, 23 Aug 2026 15:00:35 GMT",
+      "img": "https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
+      "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+      "desc": "<p>Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable</p><p>Some experts are warning of a looming “debt bomb” crisis because ",
+      "pubDate": "Sun, 23 Aug 2026 14:00:34 GMT",
+      "img": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Labor’s plan to reserve more domestic gas stirs hopes of a revival",
+      "link": "https://www.smh.com.au/business/companies/labor-s-plan-to-reserve-more-domestic-gas-stirs-hopes-of-a-revival-20260823-p60qos.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Manufacturers say diverting exports to local buyers could restart idled factories and bring back jobs, starting with a long-shuttered petrochemical plant.",
+      "pubDate": "Mon, 24 Aug 2026 00:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5501%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_740%2C$y_1139/t_crop_custom/q_86%2Cf_auto/e6ecf255e825f27bdf575ce03f810dcbc808b625",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Superquiz, Monday, August 24",
+      "link": "https://www.smh.com.au/national/superquiz-monday-august-24-20260820-p60q7s.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "pubDate": "Sun, 23 Aug 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_234/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "First case of bird flu in mammal confirmed in SA",
       "link": "https://www.smh.com.au/national/first-case-of-bird-flu-in-mammal-confirmed-in-sa-20260823-p60qsl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -65,6 +115,16 @@
       "desc": "<p>An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno</p><p>The ruinous fires that overran pa",
       "pubDate": "Sun, 23 Aug 2026 11:00:32 GMT",
       "img": "https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "desc": "<p>PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors</p><p>Donald Trump has hit back at Canada after a breakdown in negotiations <a href",
+      "pubDate": "Sun, 23 Aug 2026 11:00:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -1385,6 +1445,16 @@
       "desc": "<p>Many Australians now have the option to work from home. But is it better or worse for the environment?</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/series/change-by-degrees\">Ch",
       "pubDate": "Sat, 22 Aug 2026 00:00:48 GMT",
       "img": "https://i.guim.co.uk/img/media/4ea1564c268641a565637a8fe5559813e9f91ef2/547_0_4750_3800/master/4750.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Tesla recalls nearly 3m vehicles in China over door handle safety risks",
+      "link": "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
+      "desc": "<p>Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models</p><p>Tesla and other carmakers are making a major recall of more than 4m vehicles in ",
+      "pubDate": "Fri, 21 Aug 2026 23:48:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/eef966c87a2b81da8bc545e8e962ec875af8451d/821_0_4815_3854/master/4815.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
@@ -36145,106 +36215,6 @@
       "desc": "<p>Streaming pioneer that transformed TV faces slowing growth and battle for viewers’ attention from YouTube</p><p>When Netflix offered viewers the chance to binge on an entire season of House of Card",
       "pubDate": "Fri, 24 Jul 2026 16:00:11 GMT",
       "img": "https://i.guim.co.uk/img/media/ede3e3ae9bce543bdd02d79d0ac8921922d4b8df/479_0_4680_3744/master/4680.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
-      "link": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
-      "desc": "<p>Lib Dems call on PM to push for suspension of ‘bungled, malfunctioning’ system as overseas holiday travel peaks</p><p>Andy Burnham has been urged to lobby EU leaders directly to suspend the new ent",
-      "pubDate": "Fri, 24 Jul 2026 15:03:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/368df0fb7c9576ae386d17f06056205debf2181c/554_81_4609_3687/master/4609.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Back to Back Barries: Barnaby bends the media cycle - podcast",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/jul/25/back-to-back-barries-podcast-barnaby-bends-the-media-cycle",
-      "desc": "<p><strong>Tony Barry</strong> and <strong>George Megalogenis</strong> (filling in for Barrie Cassidy) give their view on One Nation MP Barnaby Joyce’s viral moment this week and why they think it pla",
-      "pubDate": "Fri, 24 Jul 2026 15:00:20 GMT",
-      "img": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3750_3000/master/3750.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "A global threat for millennia: experts warn Australia’s nuclear submarine legacy will be weapons-usable uranium cache",
-      "link": "https://www.theguardian.com/world/2026/jul/25/aukus-nuclear-submarines-danger-weapons-grade-uranium",
-      "desc": "<p>Exclusive: Uranium waste from Aukus submarines will be enriched to an estimated 80%: the same level as the bomb dropped on Hiroshima</p><p>Australia’s proposed nuclear submarine fleet will leave be",
-      "pubDate": "Fri, 24 Jul 2026 15:00:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/fbbd97368366d30ca9e63236955b4e9ab359c2dc/895_712_5935_4751/master/5935.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Albanese is fond of saying people underestimate him. He should be careful not to do the same with Pauline Hanson",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/24/albanese-should-not-underestimate-pauline-hanson-one-nation-ntwnfb",
-      "desc": "<p>No politician is as good at evading scrutiny as the One Nation leader, whose actions this week would be disqualifying if she represented any other party</p><ul><li><p>Get our <a href=\"https://www.t",
-      "pubDate": "Fri, 24 Jul 2026 15:00:18 GMT",
-      "img": "https://i.guim.co.uk/img/media/00644e34cfc8197693b4097393cc88c994eccfd9/0_0_5000_4000/master/5000.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Barnaby bends the media cycle – Back to Back Barries podcast",
-      "link": "https://www.theguardian.com/australia-news/video/2026/jul/25/barnaby-bends-the-media-cycle-back-to-back-barries-podcast",
-      "desc": "<p><strong>Tony Barry</strong> and <strong>George Megalogenis</strong> (filling in for Barrie Cassidy) give their view on One Nation MP Barnaby Joyce’s viral moment this week and why they think it pla",
-      "pubDate": "Fri, 24 Jul 2026 15:00:17 GMT",
-      "img": "https://i.guim.co.uk/img/media/462d0140fde7a584a07952ea60e033ec7bd7b49a/298_0_1349_1080/master/1349.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Pauline Hanson’s domestic violence comments were no stumble",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-domestic-violence-comments-mra-mens-rights-activists-ntwnfb",
-      "desc": "<p>The One Nation leader has allied herself with men’s rights activists for years, consistently suggesting women routinely make false allegations of violence </p><ul><li><p><a href=\"https://www.thegua",
-      "pubDate": "Fri, 24 Jul 2026 15:00:16 GMT",
-      "img": "https://i.guim.co.uk/img/media/46324a5862f97a25e115901275920f186a946a57/329_0_3288_2631/master/3288.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "How dangerous are wildfires and how can we stop them from getting worse?",
-      "link": "https://www.theguardian.com/environment/2025/aug/13/how-dangerous-wildfires-stop-them-getting-worse",
-      "desc": "<p>The conditions for ferocious fires are expected to worsen as the planet heats up, putting more people at risk</p><p>Fierce wildfires after back-to-back heatwaves have forced tens of thousands of pe",
-      "pubDate": "Fri, 24 Jul 2026 14:47:43 GMT",
-      "img": "https://i.guim.co.uk/img/media/306c469bee45f0f2fc2b8c49842176af37f57971/283_0_4583_3667/master/4583.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Test your general knowledge with the Good Weekend quiz",
-      "link": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20260721-p60h4t.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
-      "pubDate": "Fri, 24 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.103125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/297b54b43fec49dc75ceb1969fd1a88bc723fd9a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun",
-      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "desc": "<p>If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful it is. And who benefits from that?</p><p>On 14 February 2019, OpenAI announced a language model called GPT-2, the pr",
-      "pubDate": "Fri, 24 Jul 2026 13:00:14 GMT",
-      "img": "https://i.guim.co.uk/img/media/e3c91fad3c0af25a6cbbd44c6b091bdfdfdd270d/952_0_4448_3558/master/4448.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Burnham urged to award £2.4bn military satellite contract to Airbus over US rival",
-      "link": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-award-military-satellite-contract-skynet-airbus-unite-union",
-      "desc": "<p>Unite union leader says giving Skynet 6 WSS contract to Lockheed Martin would be a ‘massive mistake’</p><p></p><p>One of the Labour party’s biggest union backers has called for Andy Burnham to awar",
-      "pubDate": "Fri, 24 Jul 2026 13:00:13 GMT",
-      "img": "https://i.guim.co.uk/img/media/7fd0b458346e3c38dfd4ae6bb7a73f717a08225f/219_0_2977_2382/master/2977.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"

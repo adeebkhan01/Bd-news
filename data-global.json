@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T12:47:18.317Z",
-  "summary": "Global tensions are escalating on multiple fronts as trade disputes intensify between North America and Asia, with Canada announcing retaliatory tariffs against the US and Iran warning neighbouring countries against joining American economic pressure campaigns. The Israeli-Palestinian conflict remains a focal point of international concern, with ongoing violence in Gaza and the West Bank drawing criticism from ex-diplomats and human rights advocates, while settlement expansion and military operations continue to generate international law violation accusations. Domestic political crises are emerging in several countries, including Canada's new government facing immediate trade challenges and Israel grappling with spiralling debt amid security concerns. Secondary stories range from infrastructure challenges in conflict zones to climate and governance issues, with incidents in Thailand, Germany and South Africa rounding out a notably turbulent news cycle.",
+  "fetchedAt": "2026-08-23T15:26:45.493Z",
+  "summary": "Global tensions are escalating across multiple fronts as the North American trade war intensifies, with Canada matching US tariffs dollar-for-dollar starting September 8 under new PM Carney, while Iran warns neighboring nations against joining what it calls an American \"economic D-Day\" and reportedly grants Iraqi oil tankers passage through the Strait of Hormuz. The Middle East remains volatile with continued Israeli military operations in Gaza and the West Bank drawing international condemnation, including calls from over 100 ex-diplomats for European sanctions, while Syria accuses Israel of violating international law following strikes near Damascus. Ukraine faces internal political pressure as Zelenskyy rejects wartime elections despite earlier suggesting they could \"destroy\" the country, and the DR Congo and M23 rebels agreed to peace talks signaling potential de-escalation in Central Africa. Domestic challenges including AI-driven fraud costing millions, energy affordability crises in struggling households, and coordinated arson attacks in Thailand round out a picture of security threats spanning cybercrime to organized violence.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,46 @@
   ],
   "articles": [
     {
+      "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
+      "desc": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
+      "pubDate": "Sun, 23 Aug 2026 13:37:50 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787492198.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "AI fraud costing victims millions of dollars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
+      "desc": "Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.",
+      "pubDate": "Sun, 23 Aug 2026 13:08:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787490426.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+      "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
+      "desc": "The embattled Ukrainian president slams Mykhailo Fedorov&#039;s idea as a &#039;tsunami&#039; that would &#039;split&#039; the country.",
+      "pubDate": "Sun, 23 Aug 2026 12:19:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8acc62-1787481186.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
       "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&amp;at_campaign=rss",
       "desc": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
@@ -43,6 +83,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukraine: Zelenskyy rejects wartime elections",
+      "link": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-eu-2092-rdf",
+      "desc": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after Sept",
+      "pubDate": "2026-08-23T10:23:00Z",
+      "img": "https://static.dw.com/image/78472521_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Israeli wounded in occupied West Bank stabbing",
@@ -13880,46 +13930,6 @@
       "desc": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
       "pubDate": "Fri, 24 Jul 2026 16:01:18 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T091420Z_516337771_RC2XNCAHOZDD_RTRMADP_3_USA-ISRAEL-VANCE-IRAN-1784905472.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Nigeria's president approves largest military expansion in recent times",
-      "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
-      "pubDate": "Fri, 24 Jul 2026 15:22:56 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf4/live/f2b56070-875c-11f1-b2ab-0dd01740f9f6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "‘I lost my home twice’: Sudanese mothers caught between two wars",
-      "link": "https://www.aljazeera.com/features/longform/2026/7/24/i-lost-my-home-twice-sudanese-mothers-caught-between-two-wars?traffic_source=rss",
-      "desc": "Sudanese mothers who fled one war now face another, struggling to rebuild their lives after displacement in Lebanon.",
-      "pubDate": "Fri, 24 Jul 2026 15:16:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image1-1784723756.jpg?resize=1620%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-      "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-      "pubDate": "Fri, 24 Jul 2026 14:02:26 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Five killed in occupied West Bank after Israeli settlers attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
-      "desc": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till",
-      "pubDate": "Fri, 24 Jul 2026 13:19:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784899143.jpg?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
