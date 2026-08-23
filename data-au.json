@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T09:31:29.799Z",
-  "summary": "Australia's news agenda today is dominated by serious crime and safety concerns, with multiple reports of alleged sexual assaults triggering community rallies in Sydney and Brisbane, a fatal hit-run in Sydney's north-west, and a murder charge in Melbourne. Major policy stories include the Victorian government's promise of free dental care ahead of elections, concerns over prison overcrowding in Queensland, and questions about universities adopting AI for lectures. International developments affecting Australia include the bird flu situation escalating with the first confirmed death in an Australian mainland mammal, while broader global tensions continue with Trump's tariff disputes and Iran's diplomatic warnings. The news mix reflects typical Australian concerns spanning public safety, healthcare access, and emerging security threats.",
+  "fetchedAt": "2026-08-23T12:47:06.556Z",
+  "summary": "Australia faces mounting health and safety concerns today, with the first confirmed bird flu case in a mainland mammal raising alarm about potential pandemic risks, while allegations of sexual assault involving the Sydney Swans continue to dominate sports and cultural headlines. The news cycle reflects broader domestic pressures including housing affordability issues affecting renters, industrial disputes in prisons and potentially at the Demons AFL club over wage theft claims, and several serious criminal incidents across major cities. International stories touching Australian interests include cyber-attacks blamed on Iran and ongoing trade tensions involving the US and allies. The headlines underscore persistent challenges in public safety, workplace protections, and the cost-of-living pressures facing ordinary Australians.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,136 @@
     }
   ],
   "articles": [
+    {
+      "title": "First case of bird flu in mammal confirmed in SA",
+      "link": "https://www.smh.com.au/national/first-case-of-bird-flu-in-mammal-confirmed-in-sa-20260823-p60qsl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australia has recorded its first case of bird flu in a mammal after a fur seal tested positive in South Australia.",
+      "pubDate": "Sun, 23 Aug 2026 22:20:40 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/fa2a11aed6b3acaf0230f09ff4a88b640f954c93",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Swans crisis deepens as fresh allegations of ‘multiple sexual assaults’ emerge",
+      "link": "https://www.smh.com.au/national/victoria/swans-crisis-deepens-as-fresh-allegations-of-multiple-sexual-assaults-emerge-20260823-p60qro.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Lawyers for one of three women involved in the case say their client alleges she was the victim of “multiple sexual assaults”.",
+      "pubDate": "Sun, 23 Aug 2026 21:06:46 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/effd893e975e2f40e646b50371f4082c16be8d29",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Stores are selling Halloween stuff in August. Time has lost all meaning | Dave Schilling",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/23/halloween-capitalism-climate-change",
+      "desc": "<p>Capitalism and the climate crisis are conspiring to destroy the concept of seasons. I’ll take solace in my pumpkin spice</p><p>Happy spooky season, everyone! Get those jack-o’-lanterns out, because",
+      "pubDate": "Sun, 23 Aug 2026 11:00:33 GMT",
+      "img": "https://i.guim.co.uk/img/media/da9c7786873e7bfbcaa9d07af23daee9515fc3d4/0_0_3000_2399/master/3000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
+      "link": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
+      "desc": "<p>An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno</p><p>The ruinous fires that overran pa",
+      "pubDate": "Sun, 23 Aug 2026 11:00:32 GMT",
+      "img": "https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Boning up on geography",
+      "link": "https://www.smh.com.au/national/nsw/boning-up-on-geography-20260821-p60q9p.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "And getting in to one’s cuckoo-work.",
+      "pubDate": "Sun, 23 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
+      "link": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
+      "desc": "<p>More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, s",
+      "pubDate": "Sun, 23 Aug 2026 10:50:36 GMT",
+      "img": "https://i.guim.co.uk/img/media/53743bfe70e7d0212a7daae5a50111e26b0da385/299_0_4585_3667/master/4585.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Man with dementia vanishes in WA town",
+      "link": "https://www.smh.com.au/national/man-with-dementia-vanishes-in-wa-town-20260823-p60qsv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "An 87-year-old man has vanished after going for a walk in the rural WA town of Wagin.",
+      "pubDate": "Sun, 23 Aug 2026 20:41:42 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/188ddefcb2b8767aaa03b4a120db2f666fb4c133",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Artemis II crew to receive top US space medal for historic lunar journey",
+      "link": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
+      "desc": "<p>Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from Earth</p><p>The crew of the historic <a href=\"https://www.theguardian.com/science/arte",
+      "pubDate": "Sun, 23 Aug 2026 10:00:30 GMT",
+      "img": "https://i.guim.co.uk/img/media/204f54fe96b9a20b5ff2ec283d776a874493da9e/490_0_4892_3915/master/4892.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
+      "link": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+      "desc": "<p>Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality</p><p>Ryan McElroen had spent years repairing the New York City subway underground w",
+      "pubDate": "Sun, 23 Aug 2026 10:00:30 GMT",
+      "img": "https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/900_0_6880_5504/master/6880.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Demons accused of wage theft and probity breaches by former CEO",
+      "link": "https://www.smh.com.au/national/victoria/demons-accused-of-wage-theft-and-probity-breaches-by-former-ceo-20260823-p60qqs.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The former chief executive of the Melbourne Football Club has claimed he was dismissed after raising concerns about widespread underpayment of administrative staff.",
+      "pubDate": "Sun, 23 Aug 2026 20:00:03 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3165%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_62%2C$y_13/t_crop_custom/q_86%2Cf_auto/febceed90dfaae799b45d4fcdb6b5a9511d405ba",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Big banks respond to impending surcharge ban",
+      "link": "https://www.smh.com.au/national/big-banks-respond-to-impending-surcharge-ban-20260823-p60qsm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australia’s big banks are rolling out fee changes in response to the Reserve Bank’s credit card surcharge ban in October.",
+      "pubDate": "Sun, 23 Aug 2026 19:36:04 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8443b8cfb709ced5b999b629b3b8ea94b9b42b5d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Frontline workers locked out of rentals",
+      "link": "https://www.smh.com.au/national/frontline-workers-locked-out-of-rentals-20260823-p60qsn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Skyrocketing rents are forcing essential workers out of major cities, leaving vital local services without staff.",
+      "pubDate": "Sun, 23 Aug 2026 19:36:02 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/00221c9799cf0800fe6be008873a65160ad1c05e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Teenager charged over Central Coast stabbing",
+      "link": "https://www.smh.com.au/national/teenager-charged-over-central-coast-stabbing-20260823-p60qso.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 15-year-old boy has been charged over an alleged stabbing that left another teenager critical in Terrigal on the NSW Central Coast.",
+      "pubDate": "Sun, 23 Aug 2026 19:35:22 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6909e8335db09e342f7f5f5890ca1f75bface829",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "After four decades, Sascha and Kate are still singing each other’s praises",
       "link": "https://www.smh.com.au/national/victoria/after-four-decades-sascha-and-kate-are-still-singing-each-other-s-praises-20260813-p60o41.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36118,186 +36248,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Nutrients in our food are declining. Can regenerative agriculture save it?",
-      "link": "https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it",
-      "desc": "<p>Approach focuses on rebuilding soil health, increasing biodiversity and restoring natural ecosystems</p><p>For the last few decades, the nutrient content of our crops has been declining. In the lat",
-      "pubDate": "Fri, 24 Jul 2026 12:34:46 GMT",
-      "img": "https://i.guim.co.uk/img/media/e7ce6591a7b0a1f15b55ddd9f8f8d4394a607c5f/711_0_7110_5688/master/7110.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "When is an apology not an apology? When it comes from an AI boss with an out-of-control chatbot | Marina Hyde",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/apology-ai-boss-sam-altman-rogue-openai-startup-pentagon",
-      "desc": "<p>An incident in which an autonomous OpenAI agent hacked a startup either confirms that the end is nigh – or that the product is just amazingly sophisticated</p><p>Throughout history, many things hav",
-      "pubDate": "Fri, 24 Jul 2026 12:32:58 GMT",
-      "img": "https://i.guim.co.uk/img/media/0d953b984072dcea5d71a87cf73f141c7a4b2fc9/0_817_2729_2182/master/2729.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "New York Chinatown fears impact of $8bn casino development, calling it ‘predatory project’",
-      "link": "https://www.theguardian.com/us-news/2026/jul/24/new-yorks-chinatown-casino-fears",
-      "desc": "<p>Residents warn project could worsen gambling addiction and raise rents, while developers promise jobs</p><p>On Main Street in Flushing’s Chinatown, shoppers weave between fruit stands, restaurants ",
-      "pubDate": "Fri, 24 Jul 2026 12:00:14 GMT",
-      "img": "https://i.guim.co.uk/img/media/dacc613f040ee54328cc7ce2b0688b634816b10b/254_0_2481_1984/master/2481.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Trump’s latest tariffs put UK at disadvantage to EU, say experts",
-      "link": "https://www.theguardian.com/business/2026/jul/24/trump-tariffs-uk-disadvantage-eu-turnberry-competition",
-      "desc": "<p>While overall levy for UK is unchanged, sectors not covered by Turnberry deal face tougher competition</p><p></p><p>Donald Trump’s latest round of tariffs has put UK businesses at a disadvantage ag",
-      "pubDate": "Fri, 24 Jul 2026 11:52:30 GMT",
-      "img": "https://i.guim.co.uk/img/media/12ca8023c72a2cc67fdc8331ea39cc87e4b34056/373_0_2873_2299/master/2873.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Man arrested after two women sexually assaulted in Hoppers Crossing attacks",
-      "link": "https://www.smh.com.au/national/man-arrested-after-two-women-sexually-assaulted-in-hoppers-crossing-attacks-20260724-p60iej.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A 39-year-old has been taken into custody following two frightening sexual assaults in Melbourne's west.",
-      "pubDate": "Fri, 24 Jul 2026 21:42:57 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/98cae7c038273093baa148c94035b5caa4b7b9ad",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Police officer shot, rushed to hospital as suburb locked down",
-      "link": "https://www.smh.com.au/national/queensland/police-officer-shot-rushed-to-hospital-as-suburb-locked-down-20260724-p60if0.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "As of 9pm, police remain on the scene and are attempting to engage with the man.",
-      "pubDate": "Fri, 24 Jul 2026 21:10:28 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7931504147770104%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/b596cb51e0deb2f7af375649f31df3a0cd281005",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Total chaos’: the biological wonderland threatened by Trump’s border wall",
-      "link": "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species",
-      "desc": "<p>Environmental groups are sounding the alarm over plans that threaten a desert spring that’s home to rare fish and turtles and sacred to the O’odham people</p><p>Quitobaquito Springs in south-west A",
-      "pubDate": "Fri, 24 Jul 2026 11:00:13 GMT",
-      "img": "https://i.guim.co.uk/img/media/6ee6ebc8f0a9c8839bdbf729960f24a949fc93d8/422_0_4259_3407/master/4259.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
-      "link": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
-      "desc": "<p>Carmaker expects to sell 3% fewer vehicles this year as it pushes through a programme that could eliminate 100,000 roles</p><p></p><p>Volkswagen has reported a steep fall in profits and cut its rev",
-      "pubDate": "Fri, 24 Jul 2026 10:34:14 GMT",
-      "img": "https://i.guim.co.uk/img/media/d51f976f35ecc9fe707796fddf85fbd81ea449d3/375_0_4080_3264/master/4080.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "France orders total evacuation of Cap Ferret peninsula as wildfire spreads",
-      "link": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
-      "desc": "<p>‘Intense and highly unpredictable’ blaze forces more than 40,000 people to flee popular holiday spot</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires",
-      "pubDate": "Fri, 24 Jul 2026 10:32:16 GMT",
-      "img": "https://i.guim.co.uk/img/media/af325e74f881f3c3e6347f7d5b7755ce1d5fa1de/461_0_4583_3667/master/4583.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "40-storey office tower to be built next to Brisbane’s GPO",
-      "link": "https://www.smh.com.au/national/queensland/40-storey-office-tower-to-be-built-next-to-brisbane-s-gpo-20260724-p60idr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The building will include an unusual public “city room” on the ground floor, and replace the existing Edison Exchange.",
-      "pubDate": "Fri, 24 Jul 2026 20:16:50 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5456%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_124/t_crop_custom/q_86%2Cf_auto/815791de570918137dc67a114f539433ef88f94ad7be50a1853c2fe52201db2a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Transgender Perth prisoner at the centre of legal showdown",
-      "link": "https://www.smh.com.au/national/transgender-perth-prisoner-at-the-centre-of-legal-showdown-20260724-p60ies.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Western Australia’s gender laws are being tested through the courts after a male criminal who transitioned behind bars fights to be moved to a women’s prison.",
-      "pubDate": "Fri, 24 Jul 2026 20:10:52 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/9f1798aae88acda9aba4dddbe4fced7eadf008ec",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘The captain told me to wear a nappy on board’ – why is air travel so humiliating for disabled passengers?",
-      "link": "https://www.theguardian.com/world/2026/jul/24/the-captain-told-me-to-wear-a-nappy-on-board-why-is-air-travel-so-humiliating-for-disabled-passengers",
-      "desc": "<p>From being abused by staff and other travellers to being denied access to toilets, flying is an increasingly distressing and frustrating experience for many wheelchair users. Here, they share their",
-      "pubDate": "Fri, 24 Jul 2026 10:04:05 GMT",
-      "img": "https://i.guim.co.uk/img/media/ad1a4b7d4d407c4766b9e7cad50a64b5e6a8b315/408_61_4509_3607/master/4509.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "So many British people have it better than they think – it’s up to Burnham to make them see that | Polly Toynbee",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/british-people-andy-burnham-goodwill-gestures",
-      "desc": "<p>A new survey suggests voters are becoming more cynical and pessimistic. A few goodwill gestures from No 10 won’t change all that – but it’s a start</p><p>Who are we, the people Andy Burnham now gov",
-      "pubDate": "Fri, 24 Jul 2026 10:00:10 GMT",
-      "img": "https://i.guim.co.uk/img/media/ca18455c37f81dcfb341c652646f5a6a7742a96f/125_0_5283_4226/master/5283.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Scientists decry Trump’s ‘blame game’ after he claims Canada ‘poisoning’ US air",
-      "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-canada-wildfires-smoke-scientists",
-      "desc": "<p>Trump told Mark Carney ‘you got to stop these fires from coming in’ as experts say wildfires symptom of climate crisis</p><p></p><p>Scientists have reacted with incredulity after Donald Trump accus",
-      "pubDate": "Fri, 24 Jul 2026 10:00:10 GMT",
-      "img": "https://i.guim.co.uk/img/media/cefd856e3cbab32f03889df894b913c1c3b2de5f/305_0_6405_5124/master/6405.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Footy star's message to HSC Class of 2026",
-      "link": "https://www.smh.com.au/national/nsw/footy-stars-message-to-hsc-class-of-2026-20260624-p609s8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Tiana Penitani Gray is the Sharks NRLW captain and national representative player. Her HSC advice to students is to look after yourself and not overthink it.",
-      "pubDate": "Fri, 24 Jul 2026 20:00:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/34fbe883db069222ce6b6d3a62d58759f89354c7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Staffer told not to take notes during ‘unorthodox’ meeting about toxic soil",
-      "link": "https://www.smh.com.au/national/western-australia/staffer-told-not-to-take-notes-during-unorthodox-meeting-about-toxic-soil-20260723-p60hxd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The first week of a defamation trial more than seven years in the making that has embroiled politicians, journalists and a Perth property developer has concluded.",
-      "pubDate": "Fri, 24 Jul 2026 19:55:19 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.4199048374306106%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_90/t_crop_custom/q_86%2Cf_auto/7f6f80c0d56d246f56750413d289fdf119bb660300cd8527e33e692bf92b3b9d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Record heat sends online retail sales to five-year high in Great Britain",
-      "link": "https://www.theguardian.com/business/2026/jul/24/heatwave-and-online-shopping-drive-up-retail-sales-in-great-britain",
-      "desc": "<p>Soaring temperatures fuel demand for air conditioners and outdoor goods, helping retailers beat expectations in June</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/24/asi",
-      "pubDate": "Fri, 24 Jul 2026 09:54:34 GMT",
-      "img": "https://i.guim.co.uk/img/media/9179743e31066ae0eeb7bba9b64209b7be7b1cc1/1223_0_6829_5464/master/6829.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Police investigate after APY Lands man, 23, dies during Adelaide arrest",
-      "link": "https://www.smh.com.au/national/police-investigate-after-apy-lands-man-23-dies-during-adelaide-arrest-20260724-p60iem.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An investigation is under way after a 23-year-old man died during his arrest on West Terrace.",
-      "pubDate": "Fri, 24 Jul 2026 19:32:46 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4398992c751eec5d3c6da86810def0f9146328fa",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
