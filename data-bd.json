@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T06:46:49.945Z",
-  "summary": "Bangladesh is undergoing significant institutional changes, with the new president set to move into Bangabhaban today while a former NBR chief assumes the role of alternate executive director at the World Bank, and a newly merged investment body called Invest Bangladesh has begun operations. On the economic front, the government is offering tax breaks on server imports and working to boost gas supply with new LNG cargo arrivals, though energy security concerns persist. The country faces ongoing challenges including mobile phone loan schemes posing financial risks to consumers and a troubling incident in Rangpur involving the death of a former school teacher and his family. Cricket remains a point of interest with Australia thrashing Bangladesh in their ongoing Test series, while various regional events and cultural activities continue across the country.",
+  "fetchedAt": "2026-08-23T09:31:10.518Z",
+  "summary": "Bangladesh today shows activity across governance, economics, and sports. The country is navigating institutional changes with a new president taking office and cabinet reshuffles underway, while investment reforms consolidate three bodies into Invest Bangladesh to streamline business operations. Economic concerns dominate with energy security remaining fragile despite new LNG arrivals, agricultural productivity hampered by market access issues for women farmers, and emerging threats like mobile phone loan traps. On the sporting front, Bangladesh's cricket team has reached a historic high in Test rankings but suffered a heavy defeat to Australia, while also marking progress with the third terminal opening planned for Dhaka's airport.",
   "sources": [
     {
       "id": "dailystar",
@@ -35,6 +35,102 @@
   ],
   "articles": [
     {
+      "title": "Women key to agriculture but cut off from markets: FAO specialist",
+      "link": "https://www.thedailystar.net/business/news/women-key-agriculture-cut-markets-fao-specialist-4254741",
+      "desc": "Beyond field crops, women also manage poultry and livestock, and lead home-based agricultural production",
+      "pubDate": "Sun, 23 Aug 26 15:27:09 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/FAO%20event.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "কৃষিতে নারী গুরুত্বপূর্ণ কিন্তু বাজার থেকে বিচ্ছিন্ন: এফএও বিশেষজ্ঞ",
+      "descBn": "শস্য চাষের বাইরে নারীরা পোল্ট্রি এবং পশুপালনও পরিচালনা করে এবং গৃহভিত্তিক কৃষি উৎপাদনে নেতৃত্ব দেয়"
+    },
+    {
+      "title": "Criminal gang would collect specialists' details for extortion: DB",
+      "link": "https://en.prothomalo.com/bangladesh/52rzlppmrk",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 09:24:54 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/p9jrdzr3/info.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "অপরাধী দল বিশেষজ্ঞদের তথ্য সংগ্রহ করে চাঁদাবাজির জন্য: ডিবি",
+      "descBn": ""
+    },
+    {
+      "title": "Zonta club launches sustainable initiative for mother and child welfare",
+      "link": "https://en.prothomalo.com/corporate/uzyc53npo7",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 08:35:20 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/cejqmixc/Image-1.jpeg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "জন্তা ক্লাব মা ও শিশু কল্যাণের জন্য টেকসই উদ্যোগ চালু করেছে",
+      "descBn": ""
+    },
+    {
+      "title": "Bangladesh signed up for AI-enabled healthcare, what should that actually mean?",
+      "link": "https://en.prothomalo.com/opinion/op-ed/4t91vc8hz9",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 08:20:45 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2025-11-06/nxn3ev3r/AI.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বাংলাদেশ কৃত্রিম বুদ্ধিমত্তা সক্ষম স্বাস্থ্যসেবার জন্য সাইন আপ করেছে, এটি প্রকৃতপক্ষে কী অর্থ বহন করে?",
+      "descBn": ""
+    },
+    {
+      "title": "Third terminal soft opening planned for Dec 16: Civil aviation minister",
+      "link": "https://www.thedailystar.net/business/economy/aviation/news/third-terminal-soft-opening-planned-dec-16-civil-aviation-minister-4254681",
+      "desc": "Millat says Dhaka-New York flights planned next year; govt eyes leasing 10 aircraft for Biman, reviving Ishwardi flights",
+      "pubDate": "Sun, 23 Aug 26 14:02:44 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Civil%20aviation%20minister.png",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "তৃতীয় টার্মিনালের নরম উদ্বোধন ১৬ ডিসেম্বরে পরিকল্পিত: বেসামরিক বিমান চলাচল মন্ত্রী",
+      "descBn": "মিল্লাত বলেছেন ঢাকা-নিউইয়র্ক ফ্লাইট পরবর্তী বছর পরিকল্পিত; সরকার বিমান বাংলাদেশের জন্য ১০টি বিমান ভাড়া নেওয়ার লক্ষ্য রাখছে, ইশ্বরদী ফ্লাইট পুনরুজ্জীবনের চেষ্টা করছে"
+    },
+    {
+      "title": "Bangladesh climb to 6 in Test rankings for the first time",
+      "link": "https://en.prothomalo.com/sports/cricket/izhe758czm",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 07:56:13 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/syxmq1a6/prothomalo-bangla2026-08-23qg24gr1aWhatsApp-Image-2026-08-23-at-6.53.29-AM.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বাংলাদেশ প্রথমবারের মতো টেস্ট র‍্যাঙ্কিংয়ে ৬ নম্বরে উঠেছে",
+      "descBn": ""
+    },
+    {
+      "title": "Has the state minister for foreign affairs renounced his British citizenship?",
+      "link": "https://en.prothomalo.com/bangladesh/0kktkhvfnn",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 07:22:15 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-02/vd5uyf1y/Humaiun-Kobir.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বিদেশ বিষয়ক রাষ্ট্রমন্ত্রী কি তার ব্রিটিশ নাগরিকত্ব পরিত্যাগ করেছেন?",
+      "descBn": ""
+    },
+    {
+      "title": "Iran warns any country joining US sanctions considered “enemy”",
+      "link": "https://en.prothomalo.com/international/middle-east/v8m7vnvnp6",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 07:18:36 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/2hzn74lr/image-417166-1787453800.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ইরান সতর্ক করে যে যে কোনও দেশ যুক্তরাষ্ট্রের নিষেধাজ্ঞায় যোগ দিলে তাকে 'শত্রু' হিসেবে বিবেচনা করা হবে",
+      "descBn": ""
+    },
+    {
       "title": "Invest Bangladesh begins operations, merging three investment bodies",
       "link": "https://www.thedailystar.net/business/news/invest-bangladesh-begins-operations-merging-three-investment-bodies-4254651",
       "desc": "The creation of the unified authority responds to a longstanding call from investors for a simpler way to engage with the government",
@@ -45,6 +141,30 @@
       "sourceColor": "#1a7a4a",
       "titleBn": "ইনভেস্ট বাংলাদেশ কার্যক্রম শুরু করেছে, তিনটি বিনিয়োগ সংস্থা একীভূত করেছে",
       "descBn": "একীভূত কর্তৃপক্ষের সৃষ্টি বিনিয়োগকারীদের দীর্ঘস্থায়ী দাবির প্রতিক্রিয়া করে যারা সরকারের সাথে জড়িত থাকার একটি সহজ উপায় চায়"
+    },
+    {
+      "title": "'Who killed my sister, brother-in-law and their children?",
+      "link": "https://en.prothomalo.com/bangladesh/local-news/mwksyws5yw",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 06:39:29 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/k809g3mo/prothomalo-bangla2026-08-23r7zsxy5qrangpur1.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "আমার বোন, ভাই এবং তাদের সন্তানদের কে মেরেছে?",
+      "descBn": ""
+    },
+    {
+      "title": "Cabinet reshuffle draws mixed reactions, more changes may be coming",
+      "link": "https://en.prothomalo.com/bangladesh/zx47srzdhi",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 06:28:29 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-23/vu9xpgui/info.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "মন্ত্রিসভা পুনর্গঠন মিশ্র প্রতিক্রিয়া আঁকে, আরও পরিবর্তন আসতে পারে",
+      "descBn": ""
     },
     {
       "title": "Ex-NBR chief made Bangladesh's alternate executive director at World Bank",
@@ -18164,138 +18284,6 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "বাংলাদেশ, ভারত, পাকিস্তান এশিয়ান গেমস পুরুষ ক্রিকেট নকআউট পর্বে সরাসরি বার্থ পেয়েছে",
-      "descBn": ""
-    },
-    {
-      "title": "You will find out: Mirza Fakhrul on speculations of President’s resignation",
-      "link": "https://en.prothomalo.com/bangladesh/wkr7qumjon",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 09:13:40 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/moi6xbx7/prothomalo-bangla2026-07-24rmvmov3gMirza-Fakhrul.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "আপনি জানতে পারবেন: রাষ্ট্রপতির পদত্যাগের অনুমানে মিরজা ফখরুল",
-      "descBn": ""
-    },
-    {
-      "title": "Iran military says attacked US bases in Bahrain, Jordan, Kuwait",
-      "link": "https://en.prothomalo.com/international/middle-east/aokn9ekiij",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 08:48:19 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/jciob2po/778844-01-02.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ইরান সামরিক বাহিনী বাহরাইন, জর্ডান এবং কুয়েতে মার্কিন ঘাঁটিতে আক্রমণের দাবি করেছে",
-      "descBn": ""
-    },
-    {
-      "title": "Surovi's Sundarbans: From Tiger Widows to Bonbibi",
-      "link": "https://en.prothomalo.com/entertainment/nbfxkt2jde",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 08:40:27 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/b4cwgwwl/surovi-7.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "সুরোভির সুন্দরবন: বাঘের বিধবা থেকে বনবিবি",
-      "descBn": ""
-    },
-    {
-      "title": "Govt bets on investment-led growth to create jobs",
-      "link": "https://www.thedailystar.net/business/economy/news/govt-bets-investment-led-growth-create-jobs-4231401",
-      "desc": "Unveils growth model centred on investment, employment, and stronger public services",
-      "pubDate": "Fri, 24 Jul 26 14:20:58 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/Rashed%20Al%20Mahmud%20Titumir.png",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "সরকার চাকরি সৃষ্টির জন্য বিনিয়োগ-চালিত বৃদ্ধিতে বাজি রাখছে",
-      "descBn": "বিনিয়োগ, কর্মসংস্থান এবং শক্তিশালী জনসেবার উপর কেন্দ্রীভূত বৃদ্ধির মডেল উন্মোচন করে"
-    },
-    {
-      "title": "Speaker returns, says he is unaware of what the president will do",
-      "link": "https://en.prothomalo.com/bangladesh/xf1drr9jdw",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 08:07:55 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/71q8ycpe/prothomalo-bangla2026-07-240xuzris1speaker-1.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "স্পিকার ফিরে এসে বলেন, রাষ্ট্রপতি কী করবেন তা তিনি জানেন না",
-      "descBn": ""
-    },
-    {
-      "title": "Bangladeshi woman, two children killed in Saudi road crash while travelling for Umrah",
-      "link": "https://en.prothomalo.com/bangladesh/zutzu442qy",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 07:58:21 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/txrdt1mi/info.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ওমরাহের জন্য যাত্রাকালে সৌদি আরবে সড়ক দুর্ঘটনায় বাংলাদেশি নারী ও দুই শিশু নিহত",
-      "descBn": ""
-    },
-    {
-      "title": "10,000 evacuated as France battles raging wildfires, Macron requests EU support",
-      "link": "https://en.prothomalo.com/environment/nysdjoz52f",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 07:40:13 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/vtd8errr/5720.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ফ্রান্স ভয়াবহ দাবানলের বিরুদ্ধে লড়াই করছে, ১০,০০০ জন সরিয়ে নেওয়া হয়েছে, ম্যাক্রোন ইউরোপীয় ইউনিয়নের সহায়তা চেয়েছেন",
-      "descBn": ""
-    },
-    {
-      "title": "Is India’s ‘Cockroach’ movement spreading across the country?",
-      "link": "https://en.prothomalo.com/video/2uqeomlnxa",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 07:24:26 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/leuhvhb4/prothomalo-bangla2026-07-23dgzrub8w%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF-viory.mp4.00001720.Still002.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ভারতের 'তিলাপোকা' আন্দোলন কি সারাদেশে ছড়িয়ে পড়ছে?",
-      "descBn": ""
-    },
-    {
-      "title": "Argentina defender Otamendi retires from international football",
-      "link": "https://en.prothomalo.com/sports/football/w3leyattfo",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 07:19:51 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/o1ahy7kj/2026-07-07T181205Z937609107UP1EM771EK414RTRMADP3SOCCER-WORLDCUP-ARG-EGY.JPG",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "আর্জেন্টিনার ডিফেন্ডার ওতামেন্দি আন্তর্জাতিক ফুটবল থেকে অবসর নেন",
-      "descBn": ""
-    },
-    {
-      "title": "Speaker returns 2 days early as speculation grows over president’s resignation",
-      "link": "https://en.prothomalo.com/bangladesh/e5sg4zua5f",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 07:10:26 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-03-12/1y53sbtp/Hafiz.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "রাষ্ট্রপতির পদত্যাগের অনুমান বাড়ার মধ্যে স্পিকার ২ দিন আগে ফিরে এলেন",
-      "descBn": ""
-    },
-    {
-      "title": "Debate erupts over launch of ‘Female Zone’ at DU’s TSC cafeteria",
-      "link": "https://en.prothomalo.com/bangladesh/hrlyz7lmma",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 06:50:44 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-24/sfsozum1/info.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ঢাকা বিশ্ববিদ্যালয়ের টিএসসি ক্যাফেটেরিয়ায় 'মহিলা অঞ্চল' চালু নিয়ে বিতর্ক",
       "descBn": ""
     }
   ]
