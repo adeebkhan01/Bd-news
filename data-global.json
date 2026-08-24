@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T21:25:15.844Z",
-  "summary": "Global tensions are escalating across multiple fronts as trade disputes intensify between North America and the Middle East dominates headlines. The US-Canada tariff standoff is deepening with retaliatory measures set to take effect, while Iran is warning neighboring countries against joining American economic pressure campaigns following escalating rhetoric around regional shipping routes. The Israeli-Palestinian conflict remains a major flashpoint, with reports of settlement expansion, military operations in the West Bank, and deteriorating humanitarian conditions in Gaza. Political upheaval is also evident in Ukraine, where President Zelenskyy opposes wartime elections, while broader geopolitical realignments are underway including French engagement with Saudi Arabia and peace efforts in the Democratic Republic of Congo.",
+  "fetchedAt": "2026-08-24T01:36:55.008Z",
+  "summary": "Global tensions are escalating across multiple fronts, with Iran defying US sanctions through threats against neighboring countries joining an economic embargo and attempts to impose fees on Hormuz Strait shipping, while the Israeli-Palestinian conflict continues to intensify amid ongoing military operations in Gaza and the West Bank. Economic pressures are mounting elsewhere, including a trade war between the US and Canada with tit-for-tat tariffs, concerns about household energy costs in Britain, and Nigeria considering how to capitalize on regional instability. Meanwhile, Chinese e-commerce platform Shein prepares for a major stock market listing valuing it at nearly $27 billion, and diplomatic tensions persist on secondary fronts including Russia's military campaign in Ukraine and complex negotiations in Sudan and the Democratic Republic of Congo. Technology threats are also emerging, with reports of Iranian-linked hackers targeting critical infrastructure and AI-based fraud costing victims millions globally.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,56 @@
     }
   ],
   "articles": [
+    {
+      "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
+      "pubDate": "Mon, 24 Aug 2026 01:23:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2280/live/ffbe0af0-9f54-11f1-9eef-7971e1b6f541.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+      "desc": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran&#039;s services.",
+      "pubDate": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2289908029-1787521444.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Review launched into how pub and hotel business rates calculated",
+      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+      "pubDate": "Sun, 23 Aug 2026 23:26:15 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "desc": "The US president says he will impose &#039;crushing measures&#039; on Tehran.",
+      "pubDate": "Sun, 23 Aug 2026 21:34:53 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787519794.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "link": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+      "desc": "Ambassador to Turkiye says US policy of recognising Israel&#039;s claimed sovereignty over Syrian territory is &#039;unchanged&#039;.",
+      "pubDate": "Sun, 23 Aug 2026 21:23:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26235661703789-1787516112.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Is Israel about to split the occupied West Bank in half?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
@@ -13790,86 +13840,6 @@
       "desc": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
       "pubDate": "Sat, 25 Jul 2026 02:23:09 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
-      "desc": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
-      "pubDate": "Sat, 25 Jul 2026 01:09:01 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T185745Z_338274370_RC235MAACO0U_RTRMADP_3_ALPHABET-AI-1784941927.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
-      "desc": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
-      "pubDate": "Sat, 25 Jul 2026 00:31:16 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784939401.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
-      "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
-      "desc": "Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
-      "pubDate": "Sat, 25 Jul 2026 00:16:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a63edfa6f-1784933882.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
-      "desc": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C34N9PK__v6__HighRes__PalestinianIsraelConflictWestBank-1784931808.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-      "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
-      "desc": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
-      "pubDate": "Fri, 24 Jul 2026 23:53:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a63ef31aea1-1784934193.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "pubDate": "Fri, 24 Jul 2026 23:11:13 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
-      "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
-      "pubDate": "Fri, 24 Jul 2026 23:01:10 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/413b/live/d2c64430-876d-11f1-b430-afa19a42b819.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Paramount and Warner Bros pause $110bn merger amid legal challenge",
-      "link": "https://www.bbc.co.uk/news/articles/c8en74yz5e7o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Until a judge reaches a final verdict – or until 1 June 2027 – the Hollywood studios will remain completely separate, competing operations.",
-      "pubDate": "Fri, 24 Jul 2026 21:49:25 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d86/live/eb4a5a10-87a8-11f1-b4f4-2f10373ed74c.jpg",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
