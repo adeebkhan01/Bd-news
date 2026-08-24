@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T15:43:02.276Z",
-  "summary": "Global tensions are escalating across multiple fronts as geopolitical rivalries intensify. The US-Iran conflict dominates headlines with concerns about potential strikes on shipping routes like the Hormuz Strait and mounting sanctions, while the Ukraine war continues to reshape energy markets and defense strategies in Europe. Meanwhile, the Middle East remains volatile with Palestinian casualties mounting in Gaza and the West Bank amid international scrutiny, while regional powers like Saudi Arabia engage in high-level diplomacy with Western nations. Climate change reached a critical milestone with record ocean temperatures, and trade tensions between Canada and the US threaten economic disruption in North America, underscoring how global crises are interconnected and reverberating across continents.",
+  "fetchedAt": "2026-08-24T18:46:11.394Z",
+  "summary": "The Trump administration is intensifying economic and military pressure on Iran, with new sanctions announced as the country braces for escalating measures amid broader regional tensions that have prompted South Korea to cancel joint exercises with the US. The Middle East conflict continues to deepen, with Israeli operations in Gaza and the occupied West Bank claiming additional casualties while the UK strengthens Ukraine's military capabilities through Storm Shadow missile production assistance. Global instability is marked by trade war threats between the US and Canada, wildfires requiring international coordination in the Balkans, and ongoing conflicts in Sudan and Ukraine that are displacing thousands. Environmental concerns are mounting as oceans hit record temperatures amid El Niño conditions, while technological developments like humanoid robots raise new questions about future warfare.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,66 @@
   ],
   "articles": [
     {
+      "title": "Trump administration announces global economic war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+      "desc": "The US says it is targeting all of Iran’s sources of revenue, including oil.",
+      "pubDate": "Mon, 24 Aug 2026 17:53:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-18.48.34-1787593857.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli strike on Gaza shelter extends casualty list",
+      "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+      "desc": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
+      "pubDate": "Mon, 24 Aug 2026 16:27:36 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-24T085226Z_623610532_RC2T4NAOCMVU_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1787573870.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Nathan Cofnas on whether he feels responsible for Jason Arday’s death",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss",
+      "desc": "Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.",
+      "pubDate": "Mon, 24 Aug 2026 16:21:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787588502.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What to expect as Iran braces for new US economic measures amid war",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
+      "desc": "Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.",
+      "pubDate": "Mon, 24 Aug 2026 16:02:50 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-03-24T104633Z_1108166207_RC2WAKAUCR1X_RTRMADP_3_IRAN-CRISIS-1787216955.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Are humanoid robots the future of warfare?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
+      "desc": "Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.",
+      "pubDate": "Mon, 24 Aug 2026 15:30:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/humanoid-1787585290.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Video: Russia launches rocket into space with military satellite",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
+      "desc": "Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.",
+      "pubDate": "Mon, 24 Aug 2026 15:29:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787585320.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "World's oceans hit highest temperature on record as El Niño grows",
       "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&amp;at_campaign=rss",
       "desc": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
@@ -33,6 +93,26 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
+      "desc": "The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.",
+      "pubDate": "Mon, 24 Aug 2026 15:17:36 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8c449e56bec-1787577502_8f6cf9-1787581201.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
+      "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "desc": "Former star striker, now head of Cameroon&#039;s FA, backs Infantino despite mounting pressure on him to resign.",
+      "pubDate": "Mon, 24 Aug 2026 15:15:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8c58adb7-1787582637.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
     },
     {
       "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
@@ -13913,46 +13993,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
-      "link": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting marginalized people.",
-      "pubDate": "2026-07-25T17:32:00Z",
-      "img": "https://static.dw.com/image/78114462_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Iran’s government spars with state TV as mediators push talks with US",
-      "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-      "desc": "Gov&#039;t accuses IRIB of &#039;censorship&#039; after parts of president&#039;s speech not aired; station rejects &#039;improper attributions&#039;.",
-      "pubDate": "Sat, 25 Jul 2026 16:39:16 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2276393300-1779779817.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
-      "desc": "Barcelona offer condolences to family of a 54-year-old man who died during Camp Nou redevelopment after blow to head.",
-      "pubDate": "Sat, 25 Jul 2026 16:36:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-04-07T155254Z_15942970_RC2YSDA7QOUL_RTRMADP_3_SOCCER-SPAIN-CAMP-NOU-1784995171.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
-      "desc": "Syrian Foreign Minister Asaad al-Shaibani called for Israel to withdraw immediately and unconditionally from Syria",
-      "pubDate": "Sat, 25 Jul 2026 15:52:19 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784994696.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
