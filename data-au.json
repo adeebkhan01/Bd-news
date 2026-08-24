@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T09:52:15.279Z",
-  "summary": "Australia faces mounting pressures across multiple fronts today. A cluster of serious stories dominate: youth mental health concerns intensify following ten deaths in Sydney's eastern suburbs, a major police corruption probe targets CFMEU officials, and critical infrastructure debates continue around gas pipelines and data centres in regional areas. High-profile legal matters loom large with the Alan Jones trial progressing, while policy tensions simmer between federal and state governments over GST distribution and immigration details. The headlines reflect broader anxieties around public safety, governance integrity, and the nation's economic direction.",
+  "fetchedAt": "2026-08-24T12:57:07.351Z",
+  "summary": "Prime Minister Albanese is pushing for national cooperation on data centre development but faces resistance from Queensland, while his government holds firm on GST revenue splits despite pressure from state premiers. Several significant law enforcement actions unfolded across the country, including a police raid on CFMEU headquarters in Victoria leading to five arrests in a corruption probe, youth detention workers striking over bail law changes in Queensland, and investigations into violence against retail workers. A number of concerning social issues emerged in the headlines, including deaths of ten young people in Sydney's eastern suburbs prompting mental health alerts and a fatal car incident at a Melbourne shopping centre. International stories included Prince Harry and Meghan being tipped for a potential move to Australia, while a specialist ship arrived at Christmas Island to remove a SpaceX rocket.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Albanese to seek state cooperation on data centres but faces fight with Queensland",
+      "link": "https://theconversation.com/albanese-to-seek-state-cooperation-on-data-centres-but-faces-fight-with-queensland-289894",
+      "desc": "The federal government will push for new national laws with rules for where data centres can go, how they must be powered and where their water comes from.",
+      "pubDate": "2026-08-24T12:31:25Z",
+      "img": "https://images.theconversation.com/files/755641/original/file-20260824-50-rfo23q.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4418%2C2209&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "A piece o’ cord for bouncers",
+      "link": "https://www.smh.com.au/national/nsw/a-piece-o-cord-for-bouncers-20260824-p60qun.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "While members keep it magisterial.",
+      "pubDate": "Mon, 24 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Thames Water creditors accused of ‘shuffling deckchairs’ with plan for new board",
+      "link": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
+      "desc": "<p>Campaigners say proposal for £10bn rescue deal in bid to avoid nationalisation is a ‘cosy stitch-up’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dip",
+      "pubDate": "Mon, 24 Aug 2026 10:38:07 GMT",
+      "img": "https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Queensland to introduce new youth bail laws amid detention strike",
+      "link": "https://www.smh.com.au/national/queensland-to-introduce-new-youth-bail-laws-amid-detention-strike-20260824-p60r5q.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The crackdown comes as striking youth detention workers warn state facilities are already at breaking point.",
+      "pubDate": "Mon, 24 Aug 2026 20:13:49 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0a386182b26fa6334a3303ad20ba32022df28ef8",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Unleashed | Barnaby Joyce",
+      "link": "https://www.abc.net.au/news/2026-08-24/unleashed-barnaby-joyce/107072664",
+      "desc": "Barnaby Joyce's defection to One Nation struck some as opportunism, others as evidence of an unrivalled political radar. But is the party big enough for him and Pauline Hanson?",
+      "pubDate": "Mon, 24 Aug 2026 10:01:52 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/ef08e1ab56fb1e21c544bfb29a526d1d?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=1519&amp;xPos=1232&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Devastation, doubt and blame: Hurricane Helene looms over North Carolina’s US Senate race",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/24/north-carolina-senate-race-hurricane-helene",
+      "desc": "<p>The Democratic and the Republican candidate each blame the other for the bungled recovery effort after storm struck region</p><p>Two years after <a href=\"https://www.theguardian.com/us-news/northca",
+      "pubDate": "Mon, 24 Aug 2026 10:00:30 GMT",
+      "img": "https://i.guim.co.uk/img/media/aa2d648008f26d0adcb1569700ca4030ae953c22/0_0_2250_1800/master/2250.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The bayside council, a missing recording, and closed-door vote notes",
+      "link": "https://www.smh.com.au/national/queensland/the-bayside-council-a-missing-recording-and-closed-door-vote-notes-20260803-p60l2v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "This week in our Queensland public sector column, Public Circus returns to the Redlands, tunes into an informative watchdog hearing, and catches news of plum gigs.",
+      "pubDate": "Mon, 24 Aug 2026 19:54:19 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4704575744113727%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/15618cf1ebb047e03dd6f02733fb41c0209a1af1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Who is at fault when a self-driving car makes a dangerous mistake?",
       "link": "https://www.smh.com.au/national/who-is-at-fault-when-a-self-driving-car-makes-a-dangerous-mistake-20260824-p60r5o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -36858,26 +36928,6 @@
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
-    },
-    {
-      "title": "Lack of solar panel recycling is hardly enlightened",
-      "link": "https://www.smh.com.au/national/nsw/lack-of-solar-panel-recycling-is-hardly-enlightened-20260719-p60gkr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A proper recycling industry would let Australia turn waste into winnings and finally compete for gold off the field as well as on it.",
-      "pubDate": "Sat, 25 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6595caaf8cb42101141b9e5b616e24334361e0cb",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Indian education minister resigns after Cockroach movement protests",
-      "link": "https://www.abc.net.au/news/2026-07-25/indian-education-minister-resigns-after-protests/106958482",
-      "desc": "Protesters had been calling for Dharmandra Pradhan's resignation amid ongoing exam paper leaks, which the education minister claims he \"took responsibility\" for.",
-      "pubDate": "Sat, 25 Jul 2026 10:28:09 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/52d2fe2c5c9642385a6f83e9f44e0f17?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
     }
   ]
 }

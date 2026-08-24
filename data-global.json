@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T09:52:20.275Z",
-  "summary": "Global tensions remain elevated across multiple regions, with the Iran conflict dominating headlines as lawmakers discuss sanctions and potential economic impacts on energy markets and international trade. The Middle East continues to experience significant humanitarian crises, particularly in Gaza where civilians face deteriorating conditions and ongoing Israeli military operations in the occupied territories. Ukraine's security needs are being addressed through diplomatic efforts as allies convene in Kyiv, while geopolitical shifts are reshaping trade relationships between major powers including new US-Canada tariff disputes. Regional conflicts from Sudan to the Democratic Republic of Congo are driving mass displacement and humanitarian concerns, while several governments including Kazakhstan's are consolidating political control through electoral processes.",
+  "fetchedAt": "2026-08-24T12:57:22.052Z",
+  "summary": "A military escalation with Iran dominates global headlines, with the US cancelling joint exercises with South Korea and facing potential disruptions to Middle East shipping through the Strait of Hormuz, while lawmakers debate economic impacts and diplomatic solutions. The Canada-US trade tensions threaten significant economic disruption on both sides of the border, with tariff threats destabilizing business confidence. Ukraine's security situation remains precarious despite international support, with Zelenskyy seeking enhanced air defenses and warning that wartime elections could destabilize the country. Elsewhere, Sudan's North Kordofan region is experiencing mass displacement, the Palestinian-Israeli conflict continues with civilian casualties in the West Bank and Gaza, and several countries pursue governance or domestic policy changes from Kazakhstan's new parliament to New Zealand's proposed social media restrictions for minors.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
+      "desc": "The cancellation follows Trump&#039;s surprise order last week to scale back a separate annual joint military drill.",
+      "pubDate": "Mon, 24 Aug 2026 12:28:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-24T055101Z_1827342676_RC25S9ADUPWQ_RTRMADP_3_SOUTHKOREA-USA-DRILLS-1787569469.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "pubDate": "Mon, 24 Aug 2026 12:17:34 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Activists occupy UK aircraft parts factory over Israel links",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
+      "desc": "Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.",
+      "pubDate": "Mon, 24 Aug 2026 12:07:44 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787573151.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "pubDate": "Mon, 24 Aug 2026 11:17:28 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef6d/live/b2d751d0-9fa2-11f1-a83c-33ebef033ca4.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+      "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
+      "desc": "War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.",
+      "pubDate": "Mon, 24 Aug 2026 10:11:19 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-09T160426Z_980197730_RC2K9MAN3GRW_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-FUEL-ANAPA-1787563712.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US military says strike on alleged drug-smuggling boat kills two",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
+      "desc": "US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.",
+      "pubDate": "Mon, 24 Aug 2026 09:58:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-07T200426Z_666177120_RC2TTMASVNBN_RTRMADP_3_PANAMA-USA-CANAL-1787559950.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "pubDate": "Mon, 24 Aug 2026 09:47:22 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d4/live/a9cd8c00-9fa0-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
       "link": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
@@ -113,6 +183,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What do locals think of IndyCar in Washington DC?",
+      "link": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
+      "pubDate": "Mon, 24 Aug 2026 04:51:49 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf3/live/67723010-9f76-11f1-aed2-8d6da8d75094.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
@@ -13840,36 +13920,6 @@
       "desc": "Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.",
       "pubDate": "Sat, 25 Jul 2026 13:03:52 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-19T095707Z_1172626816_UP1EM7J0RN5TX_RTRMADP_3_MOTOR-F1-BELGIUM-1784982628.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
-      "desc": "A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.",
-      "pubDate": "Sat, 25 Jul 2026 12:41:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784983260.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump faces backlash for using ‘Palestinian’ as an insult",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
-      "desc": "US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.",
-      "pubDate": "Sat, 25 Jul 2026 12:11:33 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784981475.jpg?resize=1918%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
-      "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
-      "desc": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
-      "pubDate": "Sat, 25 Jul 2026 09:54:44 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a64768bf27fb-1784968844.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
