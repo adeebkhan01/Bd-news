@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T12:53:38.616Z",
-  "summary": "Global tensions are escalating on multiple fronts as the US intensifies economic warfare against Iran through expanded sanctions, prompting concerns about ripple effects through global markets while Pakistan attempts to broker talks between Tehran and Washington. The Russia-Ukraine conflict deepens with the UK backing Ukraine through missile blueprints and warnings that Russian forces may target British drone factories, while reports suggest Moscow is deploying intimidating mobilization tactics. In the Middle East, the Gaza conflict intensifies following Jared Kushner's departure, Syria is removed from the US terrorism list after normalizing ties, and both Israeli-Palestinian tensions and Iran-US military escalation pose risks of wider regional conflict. Trade tensions between the US and Canada are mounting as Trump threatens auto tariffs, Australia is restricting AI-generated music, and climate concerns persist as ocean temperatures hit record highs amid El Nino intensification.",
+  "fetchedAt": "2026-08-25T15:46:55.874Z",
+  "summary": "Global tensions are sharply escalating across multiple fronts as the Trump administration pursues aggressive economic and diplomatic policies. The most significant developments involve intensifying US sanctions against Iran, with CIA leadership reportedly in Moscow for high-level talks while the US also threatens Canada with escalating tariffs in an ongoing trade dispute. The Middle East remains volatile with continued Israeli military operations in Gaza and the occupied West Bank, while Russia faces ongoing drone attacks and growing mobilization concerns amid the Ukraine conflict. These intersecting crises span economic warfare, military escalation, and diplomatic maneuvering, with implications rippling across international trade, security alliances, and regional conflicts.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,136 @@
     }
   ],
   "articles": [
+    {
+      "title": "CIA chief in Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "pubDate": "Tue, 25 Aug 2026 15:43:50 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US launches Economic war on Iran",
+      "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
+      "desc": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
+      "pubDate": "Tue, 25 Aug 2026 15:12:00 +0000",
+      "img": null,
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "pubDate": "Tue, 25 Aug 2026 15:04:52 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/248a/live/bbe12ce0-a08f-11f1-84af-1fbec28b23b2.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Trump floats renaming Lake Ontario to Lake America during Canada trade war",
+      "link": "https://www.aljazeera.com/news/2026/8/25/trump-floats-renaming-lake-ontario-to-lake-america-during-canada-trade-war?traffic_source=rss",
+      "desc": "Lake Ontario borders both the Canadian province of Ontario and the US state of New York.",
+      "pubDate": "Tue, 25 Aug 2026 14:53:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8da5c0-1787667904.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "China says will safeguard its own interests as US expands Iran sanctions",
+      "link": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
+      "desc": "China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.",
+      "pubDate": "Tue, 25 Aug 2026 14:43:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a050f91-1778716561.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US military transport plane arrives in Moscow in rare occurrence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
+      "desc": "A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia",
+      "pubDate": "Tue, 25 Aug 2026 14:16:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-5.09.34-pm-1787667359.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How can a heavily indebted football club afford Mo Salah?",
+      "link": "https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss",
+      "desc": "How do football clubs in debt afford star players?",
+      "pubDate": "Tue, 25 Aug 2026 14:14:39 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/16x9-1-1787666485.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump plans largest mass visa cancellation in history: Who will it affect?",
+      "link": "https://www.aljazeera.com/features/2026/8/25/trump-plans-largest-mass-visa-cancellation-in-history-who-will-it-affect?traffic_source=rss",
+      "desc": "The policy could affect up to 200,000 people and deter many more from filing an asylum claim once in the US.",
+      "pubDate": "Tue, 25 Aug 2026 14:04:44 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26133517067853-1787655684_21cef6-1787657208.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
+      "link": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
+      "desc": "Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.",
+      "pubDate": "Tue, 25 Aug 2026 13:26:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4d3484b1dd-1783444612.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+      "link": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
+      "desc": "A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.",
+      "pubDate": "Tue, 25 Aug 2026 13:25:21 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/IMG_5675-1787592760.jpeg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trust launches 'first-of-its-kind' nature survey",
+      "link": "https://www.bbc.co.uk/news/articles/c9qrgrx4zpeo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A wildlife group says \"everyone can get involved with protecting nature\" by taking part in research.",
+      "pubDate": "Tue, 25 Aug 2026 13:17:40 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a61/live/c4ce56e0-a079-11f1-bfeb-dfb02ea642ef.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+      "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
+      "desc": "Ukraine hits Moscow&#039;s Afipsky oil refinery and Russian-controlled Zaporizhzhia nuclear power plant",
+      "pubDate": "Tue, 25 Aug 2026 13:10:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T082846Z_660942604_RC26WLAKM19S_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN-1783598211.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+      "link": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
+      "desc": "Israeli forces raid and seize the Qalandiya Training Centre, a key UNRWA facility, in the Kafr Aqab neighbourhood.",
+      "pubDate": "Tue, 25 Aug 2026 12:59:32 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8dadf99e77-1787670009.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
@@ -53,6 +183,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+      "pubDate": "Tue, 25 Aug 2026 11:54:40 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/549e/live/2fb714c0-a088-11f1-bfeb-dfb02ea642ef.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "China warns it will protect its interests after US widens sanctions against Iran",
@@ -14040,56 +14180,6 @@
       "desc": "Joshi has been a member of the cabinet since 2019 and is seen as close to powerful PM Modi.",
       "pubDate": "Sun, 26 Jul 2026 16:18:03 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-10-28T093438Z_866604098_RC2VKHA4XJZT_RTRMADP_3_INDIA-RENEWABLES-SOLAR-1785061066.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
-      "link": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-      "desc": "Tunisians protest five years of President Kais Saied&#039;s rule amid economic crisis and political arrests.",
-      "pubDate": "Sun, 26 Jul 2026 14:39:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a657d9303e8-1785036179.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
-      "link": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
-      "desc": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal&#039;s political landscape.",
-      "pubDate": "Sun, 26 Jul 2026 14:22:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2024/07/AP24172516538977-1720009968.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israel and the cost paradox of the Iran war",
-      "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
-      "desc": "Israel instigated the war on Iran and yet it has borne few of its costs.",
-      "pubDate": "Sun, 26 Jul 2026 14:04:39 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2020-11-05T101443Z_53853412_RC2YWJ9GVQDI_RTRMADP_3_HEALTH-CORONAVIRUS-ISRAEL-BOURSE-1785072462.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why are Israeli settlers on a rampage in the occupied West Bank?",
-      "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
-      "desc": "Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens &#039;more broad action&#039;.",
-      "pubDate": "Sun, 26 Jul 2026 13:31:04 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-25T145945Z_1836731780_RC21LMAKKUX6_RTRMADP_3_ISRAEL-PALESTINIANS-HEBRON-SETTLERS-1785069560.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "‘New education minister can’t bring my dead daughter back’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/new-education-minister-cant-bring-my-dead-daughter?traffic_source=rss",
-      "desc": "Parents of students who died by suicide following a paper leak in India say nothing can bring their loved ones back.",
-      "pubDate": "Sun, 26 Jul 2026 13:26:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-neet-victim-family-1785072276.png?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
