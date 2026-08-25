@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T21:33:28.260Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Trump administration escalates economic pressure on Iran while Israel intensifies military operations in Gaza and the West Bank, where international observers describe settler violence as pogrom-like. Ukraine continues seeking advanced Western military support to counter Russian forces, with the UK pledging help to manufacture Storm Shadow missiles, while ceasefire monitoring efforts begin in the Democratic Republic of Congo. Energy security is reshaping geopolitics, with Norway expanding Arctic drilling amid EU concerns and Central Asian fuel shortages emerging from Ukraine's offensive, while ocean temperatures hit record highs amid El Niño conditions. Trade tensions are mounting between North America and other partners, with the US-Canada trade war threatening businesses on both sides, as Pakistan's military leadership engages diplomatically to ease regional conflict.",
+  "fetchedAt": "2026-08-25T01:26:41.801Z",
+  "summary": "The United States is intensifying economic pressure on multiple fronts, revoking visas for asylum seekers, escalating tariffs on Canada over trade disputes, and imposing sweeping sanctions on Iran while removing Syria from terrorism sponsor lists. Canada and Mexico are preparing retaliatory measures as the prospect of a US trade war threatens businesses on both sides of North American borders. The Middle East remains volatile, with Israeli operations in Gaza and the West Bank drawing international condemnation, while Ukraine continues its offensive against Russia and seeks advanced Western weaponry like Storm Shadow missiles. Global economic instability is mounting amid trade tensions, Iran sanctions ripple effects, and record ocean temperatures signaling climate pressures.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,106 @@
     }
   ],
   "articles": [
+    {
+      "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+      "link": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+      "desc": "If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.",
+      "pubDate": "Tue, 25 Aug 2026 01:01:44 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-31T214547Z_529360593_RC2JKLAU3YWB_RTRMADP_3_USA-IMMIGRATION-1787620739.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "pubDate": "Tue, 25 Aug 2026 00:40:06 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "DRC’s constitutional battle: The fight over the 2028 vote",
+      "link": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
+      "desc": "President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.",
+      "pubDate": "Tue, 25 Aug 2026 00:34:29 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Demonstrators-in-Kinshasa-on-12-June-2026-1787578110.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "pubDate": "Tue, 25 Aug 2026 00:25:52 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "pubDate": "Tue, 25 Aug 2026 00:17:25 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+      "desc": "US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260824__C6D24VG__v2__HighRes__TopshotIranUsIsraelWarEconomy-1787611015.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How US sanctions on Iran ripple through global markets and consumers",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "desc": "New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
+      "pubDate": "Mon, 24 Aug 2026 22:46:02 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8ca0bf-1787601087.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+      "desc": "Mail balloting has long been a favourite target of US President Donald Trump.",
+      "pubDate": "Mon, 24 Aug 2026 22:40:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a43ed6e-1782836590.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "desc": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.",
+      "pubDate": "Mon, 24 Aug 2026 22:32:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4eb0a820-1783541928.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+      "desc": "Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.",
+      "pubDate": "Mon, 24 Aug 2026 21:35:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8cac1f388a-1787603999.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "What’s behind domestic political pressure on Ukraine’s president?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
@@ -14003,56 +14103,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
-      "pubDate": "Sun, 26 Jul 2026 00:17:50 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a888/live/501dd8b0-86b2-11f1-8c61-e72dd81a46e3.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Rental searches for pet friendly properties drop after law change",
-      "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
-      "pubDate": "Sun, 26 Jul 2026 00:00:49 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
-      "desc": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
-      "pubDate": "Sun, 26 Jul 2026 00:00:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C32P8HW__v3__HighRes__IranUsIsraelWar-1785023867.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
-      "desc": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
-      "pubDate": "Sat, 25 Jul 2026 23:30:45 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785010296.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
-      "pubDate": "Sat, 25 Jul 2026 23:30:07 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c2c/live/178edaf0-8769-11f1-a7ab-8b30adf0800a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
