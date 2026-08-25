@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T09:39:11.128Z",
-  "summary": "Australia's political and judicial systems face scrutiny today as Queensland moves on new bail laws while a federal MP faces bail breach charges, and a former 2GB host denies tailoring evidence in the Alan Jones case. Public safety concerns dominate the news cycle, with reports of a violent random attack on a mother and child outside a Melbourne police headquarters, ongoing investigations into a man who threw hot coffee on a baby, and questions over police accountability following a man's death during a traffic arrest. The government continues balancing competing pressures, with the PM attending corporate dinners while dodging questions on the Western Australian byelection, and backlash growing over free dental care promises as dentists question staffing capacity. Social issues ranging from mental health system failures exposed by teen deaths to concerns about AI-generated abuse material and facial recognition in gaming venues round out a day reflecting Australia's grappling with security, justice and social policy challenges.",
+  "fetchedAt": "2026-08-25T12:53:23.733Z",
+  "summary": "Young Australians face a housing crisis with home ownership at an 80-year low, while regulatory pressures mount on the tech sector as datacentres come under scrutiny for their environmental and air pollution impacts. The financial sector shows signs of stress with gold prices rising on US inflation concerns, and some Australian businesses struggling with the Brisbane sushi chain and Sydney developer Bathla Group both in trouble. On the domestic front, Queensland is tightening bail laws following a Federal MP's bail breach, NSW is introducing facial recognition in gaming venues, and mental health system failures are again exposed following teen deaths. Crime and safety concerns dominate with a stabbing attack near police headquarters in Melbourne and an ongoing manhunt after a baby was burned with hot coffee.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,126 @@
     }
   ],
   "articles": [
+    {
+      "title": "Young Australians' home ownership rate at an 80-year low, report shows",
+      "link": "https://www.abc.net.au/news/2026-08-25/first-generation-in-australia-to-fall-behind/107077612",
+      "desc": "A new report shows generational inequality is pushing young Australians out of the housing market.",
+      "pubDate": "Tue, 25 Aug 2026 12:05:39 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/d76c498cb993b0770cab1a0b9169ad8b?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1423&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "US fossil fuel lobbyists also represent hundreds of cities fighting for climate damages",
+      "link": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
+      "desc": "<p>Local governments working with firms also linked to fossil fuel giants, analysis of federal lobbying disclosures shows</p><p>Congressional lobbyists working for fossil fuel firms that are exacerbat",
+      "pubDate": "Tue, 25 Aug 2026 12:00:35 GMT",
+      "img": "https://i.guim.co.uk/img/media/9378353e75bad5029b7512f5ef66e32b1594c137/2112_1298_2554_2045/master/2554.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Gawn honours vice captain in touching gesture",
+      "link": "https://www.smh.com.au/national/gawn-honours-vice-captain-in-touching-gesture-20260825-p60rj8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Max Gawn points to his vice captain Jordan Dawson as the man of the night in the All-Australian Awards for 2026.",
+      "pubDate": "Tue, 25 Aug 2026 21:43:52 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/32ab76384a7ec0c84370132e500760422569703d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – business live",
+      "link": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
+      "desc": "<p>Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it</p><p>The US car parts company <",
+      "pubDate": "Tue, 25 Aug 2026 11:29:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/46bc14451df7401398eda6a20ea0f540a20381f6/458_0_4583_3667/master/4583.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
+      "desc": "<p>Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully running</p><p>The carbon emissions from just two planned datacentres in England will exceed all of ",
+      "pubDate": "Tue, 25 Aug 2026 11:04:56 GMT",
+      "img": "https://i.guim.co.uk/img/media/36a4b90f9a4465a18f043950e76975b2ce51a409/293_0_2090_1672/master/2090.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘The day I disclose, my career is over’: the journalist facing an $800 daily fine to keep her sources secret",
+      "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
+      "desc": "<p>If Catherine Herridge’s petition to the US supreme court fails, she’ll be on the hook for a daily fine until she discloses her sources – a case unsettling press freedom organizations</p><p>For 18 d",
+      "pubDate": "Tue, 25 Aug 2026 11:00:35 GMT",
+      "img": "https://i.guim.co.uk/img/media/3dcb6d986bfc898b26d1cd3d068799013d75078a/534_501_2451_1961/master/2451.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Trump EPA aims to exempt datacenters from disclosing air pollution, advocates warn",
+      "link": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
+      "desc": "<p>Trump administration proposes new rule to dismantle requirement for datacenters to publicly report air pollution</p><p>A new rule proposed by the Trump administration aims to kill public notificati",
+      "pubDate": "Tue, 25 Aug 2026 11:00:34 GMT",
+      "img": "https://i.guim.co.uk/img/media/6dc6477a6aef9030110753e8936419ff3ea2ab58/159_0_3332_2666/master/3332.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Popular Brisbane sushi chain in financial trouble",
+      "link": "https://www.smh.com.au/national/queensland/popular-brisbane-sushi-chain-in-financial-trouble-20260825-p60ri6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Administrators have been appointed to a series of companies that operate four city sushi outlets and a Fortitude Valley restaurant.",
+      "pubDate": "Tue, 25 Aug 2026 20:13:16 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.779861673559901%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_212%2C$y_167/t_crop_custom/q_86%2Cf_auto/4b4b33b6c365116c1b7a3004e8c051549587d330",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Fewer construction projects leads to collapse in developer payments to council",
+      "link": "https://www.smh.com.au/national/queensland/fewer-construction-projects-leads-to-collapse-in-developer-payments-to-council-20260825-p60rh7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Property developers contributed significantly less than expected to city coffers in the past year, while council expenditure also slumped.",
+      "pubDate": "Tue, 25 Aug 2026 20:11:45 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2043%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/9d994fe9eba973fb9a4ac590b3cdac6258fb72f809548444f028fdcfb8c07af2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
+      "link": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
+      "desc": "<p>There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacenters</p><p>The US has surged ahead of China in the building of new gas-fired power generati",
+      "pubDate": "Tue, 25 Aug 2026 10:00:34 GMT",
+      "img": "https://i.guim.co.uk/img/media/eefa8d1f22850faaa1e33b76f97897de676682e5/333_0_3333_2667/master/3333.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
+      "link": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
+      "desc": "<p>Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller</p><p>Scott Bessent’s attempt to calm the bond markets and push down America’s c",
+      "pubDate": "Tue, 25 Aug 2026 09:59:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/be918940d30a02e65544b700c175128ac8cf0775/586_0_4175_3340/master/4175.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Tripping in an MRI: What our brains look like on magic mushrooms",
+      "link": "https://www.smh.com.au/national/tripping-in-an-mri-what-our-brains-look-like-on-magic-mushrooms-20260821-p60qd1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "This natural substance promises to alleviate everything from anxiety to Alzheimer’s – but one graph reveals the reality beyond the hype.",
+      "pubDate": "Tue, 25 Aug 2026 19:45:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/fee2dfae063c7e720bd69eb4a7b9e5c6eae59fd1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "PM, corporate titans flock to Sofitel for Business Council dinner",
       "link": "https://www.smh.com.au/cbd/pm-corporate-titans-flock-to-sofitel-for-business-council-dinner-20260825-p60rhw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -37755,56 +37875,6 @@
       "desc": "<p>Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditions</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jul/26/europe-wi",
       "pubDate": "Sun, 26 Jul 2026 12:56:30 GMT",
       "img": "https://i.guim.co.uk/img/media/14a92955b0ddb84523f4f694fb76473d080a714a/1236_0_6827_5464/master/6827.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them | Gene Marks",
-      "link": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
-      "desc": "<p>Reports of wide-scale replacement of workers by AI are overblown. Small businesses use it to help workers</p><p>I recently met the owner of a company that sells windows and doors. He told me he inv",
-      "pubDate": "Sun, 26 Jul 2026 12:00:11 GMT",
-      "img": "https://i.guim.co.uk/img/media/9a98471b495c85fe1620d9a0ac85b9c877d4562d/287_0_4321_3456/master/4321.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Things are hotting up in the pool",
-      "link": "https://www.smh.com.au/national/nsw/things-are-hotting-up-in-the-pool-20260724-p60i6d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "While Barnaby channels his inner Stanley Kowalski.",
-      "pubDate": "Sun, 26 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Alan Joyce: Qantas survived COVID because of my decisions",
-      "link": "https://www.smh.com.au/business/companies/alan-joyce-qantas-survived-covid-because-of-my-decisions-20260725-p60ih9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Taking the blame for a chaotic post-COVID era, Joyce conceded that the airline struggled with soaring airfares and illegal job cuts, in comments made to media.",
-      "pubDate": "Sun, 26 Jul 2026 20:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/5c945438438925dcdeb2ba4666cd65061a5d7a47",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Mother killed in Perth crash, driver charged from hospital bed",
-      "link": "https://www.smh.com.au/national/mother-killed-in-perth-crash-driver-charged-from-hospital-bed-20260726-p60ip7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A driver accused of evading police minutes before a deadly crash killed a mother has fronted court from his hospital bed.",
-      "pubDate": "Sun, 26 Jul 2026 20:17:24 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a98cd6913a416a5a6e730587463f97aed8348373",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘We’re human beings’: Haitians in the US fear family separation and deportation to violence",
-      "link": "https://www.theguardian.com/us-news/2026/jul/26/haitians-temporary-protected-status",
-      "desc": "<p>More than 330,000 Haitian immigrants in limbo as Trump administration seeks to end temporary protected status</p><p><a href=\"https://www.americanimmigrationcouncil.org/blog/trump-administration-end",
-      "pubDate": "Sun, 26 Jul 2026 10:00:08 GMT",
-      "img": "https://i.guim.co.uk/img/media/f851b74ddebdebaaff883b92a713e859453dae90/1168_0_5840_4672/master/5840.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
