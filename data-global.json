@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T15:46:55.874Z",
-  "summary": "Global tensions are sharply escalating across multiple fronts as the Trump administration pursues aggressive economic and diplomatic policies. The most significant developments involve intensifying US sanctions against Iran, with CIA leadership reportedly in Moscow for high-level talks while the US also threatens Canada with escalating tariffs in an ongoing trade dispute. The Middle East remains volatile with continued Israeli military operations in Gaza and the occupied West Bank, while Russia faces ongoing drone attacks and growing mobilization concerns amid the Ukraine conflict. These intersecting crises span economic warfare, military escalation, and diplomatic maneuvering, with implications rippling across international trade, security alliances, and regional conflicts.",
+  "fetchedAt": "2026-08-25T18:43:50.879Z",
+  "summary": "Major powers are escalating economic warfare, with the US imposing sweeping sanctions on Iran while Canada retaliates with tariffs on over 700 American products in response to Trump's trade threats. Diplomatic tensions are intensifying across multiple fronts, including rare CIA talks in Moscow, Pakistan's mediation efforts between Iran and the US, and attempts at Palestinian reconciliation. Regional conflicts are deepening, with Israeli forces raiding UNRWA facilities as Gaza faces continued violence, Russia suffering drone attacks on infrastructure amid mobilization concerns, and Sweden moving to seize a Russian estate. The broader geopolitical picture reflects a period of heightened strategic competition, with military posturing and economic coercion becoming primary tools between rival powers.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,11 +25,71 @@
   ],
   "articles": [
     {
+      "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+      "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+      "desc": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
+      "pubDate": "Tue, 25 Aug 2026 18:13:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-26-at-1.48.05-PM-1-1-1785063086.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "pubDate": "Tue, 25 Aug 2026 17:54:03 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+      "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+      "desc": "Fatah and Dahlan&#039;s Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.",
+      "pubDate": "Tue, 25 Aug 2026 17:39:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP166943980957-1787654685.jpg?resize=1920%2C1371",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+      "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
+      "desc": "European Commission says it is &#039;assessing&#039; Spain&#039;s request after some 70,000 migrants surged into North African enclave.",
+      "pubDate": "Tue, 25 Aug 2026 17:31:09 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a80b1ace52b-1786818988.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Canada hits US with counter-tariffs on more than 700 products",
+      "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+      "desc": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
+      "pubDate": "Tue, 25 Aug 2026 17:08:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8dbb75-1787673461.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "CIA chief in Moscow for unannounced talks, US media reports",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
       "desc": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "pubDate": "Tue, 25 Aug 2026 15:43:50 GMT",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
+      "pubDate": "Tue, 25 Aug 2026 15:18:50 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0f2/live/291ba820-a08c-11f1-84af-1fbec28b23b2.png",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
@@ -14120,66 +14180,6 @@
       "desc": "Israeli settlers set fire to two mosques in separate attacks across the occupied West Bank, causing significant damage.",
       "pubDate": "Sun, 26 Jul 2026 18:51:34 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785091874.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-      "desc": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
-      "pubDate": "Sun, 26 Jul 2026 18:17:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a663b095f671-1785084681.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israel launches military incursion into Syria amid UN condemnation",
-      "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
-      "desc": "The UN&#039;s Guterres condemned violations of Syria&#039;s sovereignty as he visited and called for sanctions to be lifted.",
-      "pubDate": "Sun, 26 Jul 2026 17:40:15 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a64925f5b97-1784975967.jpg?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-      "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
-      "desc": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
-      "pubDate": "Sun, 26 Jul 2026 17:13:55 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2017-10-12T112527Z_1201155321_RC18CAC35D90_RTRMADP_3_CPC-PIPELINE-1785084392.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-      "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
-      "desc": "Israel is violating agreements by shelling &#039;pilot villages&#039;, Lebanon&#039;s army asserts.",
-      "pubDate": "Sun, 26 Jul 2026 16:49:59 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26207507156321-1785077600.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Darfur: Weaponising Identity",
-      "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
-      "desc": "How land conflict, state neglect and racist ideology have driven Darfur towards alleged genocide.",
-      "pubDate": "Sun, 26 Jul 2026 16:20:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AJU-THUMB-WAR-ON-DARFUR-1785082605.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Who is India’s new education minister Pralhad Joshi?",
-      "link": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
-      "desc": "Joshi has been a member of the cabinet since 2019 and is seen as close to powerful PM Modi.",
-      "pubDate": "Sun, 26 Jul 2026 16:18:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-10-28T093438Z_866604098_RC2VKHA4XJZT_RTRMADP_3_INDIA-RENEWABLES-SOLAR-1785061066.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
