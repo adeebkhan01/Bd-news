@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T03:51:52.165Z",
-  "summary": "The global agenda is dominated by escalating US-Iran tensions, with the Trump administration imposing fresh sanctions and warning trading partners while public support for military action declines. Trade conflicts are intensifying on multiple fronts, particularly between the US and Canada over tariffs and visa policies affecting asylum seekers, with businesses warning of severe economic damage. The Middle East faces compounding crises as Israel intensifies operations in Gaza and the occupied West Bank while Syria's removal from terrorism lists signals shifting geopolitical alignments. Domestically, several countries grapple with political challenges including potential UK tax increases, Ukraine's internal pressures, and contested elections in the DRC and Zambia.",
+  "fetchedAt": "2026-08-25T06:54:26.385Z",
+  "summary": "Global tensions are intensifying across multiple fronts as the Trump administration escalates economic pressure on Iran with new sanctions while simultaneously threatening trade wars with Canada and Mexico over tariffs and migration. The Middle East remains volatile with Syria's removal from the US terrorism list signaling shifting geopolitical realignments, while Israeli operations in Gaza and the West Bank continue to draw international criticism. Domestically, several countries are grappling with significant policy shifts: Australia is banning AI-generated music from its charts, the UK is strengthening Ukraine's military capabilities through missile production support, and New Zealand is moving toward social media restrictions for minors. Climate concerns mount as global ocean temperatures hit record highs while energy security debates persist, with Norway advancing Arctic drilling despite EU concerns and Saudi Arabia deepening investments in European infrastructure.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover",
+      "link": "https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss",
+      "desc": "Tracks that use AI in a &#039;supporting role&#039; will still be eligible for inclusion in the official charts.",
+      "pubDate": "Tue, 25 Aug 2026 06:00:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AI-1787623060_86237f-1787634065.jpeg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+      "desc": "France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris, including one based on Japanese manga.",
+      "pubDate": "Tue, 25 Aug 2026 05:09:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787634489.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Songs created by AI banned from Australia's music charts",
+      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Syrian president thanks nation for getting off US state terror list",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+      "desc": "Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.",
+      "pubDate": "Tue, 25 Aug 2026 04:38:24 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-1syria-1787632640.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+      "link": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+      "desc": "Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.",
+      "pubDate": "Tue, 25 Aug 2026 04:38:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8cdbfb3113-1787616251_d75e22-1787627505.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "pubDate": "Tue, 25 Aug 2026 04:06:34 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/46b9e240-a049-11f1-aed2-8d6da8d75094.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Burnham refuses to rule out tax rises in autumn Budget",
       "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&amp;at_campaign=rss",
@@ -14040,56 +14100,6 @@
       "desc": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
       "pubDate": "Sun, 26 Jul 2026 07:12:26 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785049897.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
-      "link": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
-      "desc": "Documentary follows children under occupation and the couple who run a holistic primary school as Israel&#039;s war persists.",
-      "pubDate": "Sun, 26 Jul 2026 05:29:49 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/House-of-Hope-3-1784125139.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Nasa boss praises rise of women in science",
-      "link": "https://www.bbc.co.uk/news/articles/c62vq0pg6yvo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Dr Nicola Fox says she was one of four women on her science course at university in the 1991.",
-      "pubDate": "Sun, 26 Jul 2026 05:17:13 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed0/live/f9bb8f40-8778-11f1-b430-afa19a42b819.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-      "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-      "desc": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
-      "pubDate": "Sun, 26 Jul 2026 04:40:17 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a64aaf4-1784982260.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US military disables tanker accused of breaking the Iran blockade",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
-      "desc": "The US military has released footage it says shows forces boarding one tanker.",
-      "pubDate": "Sun, 26 Jul 2026 04:33:16 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785040309.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
-      "link": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
-      "desc": "Thousands rally in Tunis calling for &#039;fall of the regime&#039; five years since President Kais Saied suspended parliament.",
-      "pubDate": "Sun, 26 Jul 2026 04:14:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a657f19780a-1785036569.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"

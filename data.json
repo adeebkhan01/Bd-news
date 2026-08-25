@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T03:51:18.915Z",
-  "summary": "Bangladesh is grappling with a deteriorating economic outlook as nineteen key indicators have worsened, with particular strain visible in agriculture where jute farmers face collapsing prices and the government struggles with zero development spending by some ministries in July. The Rohingya repatriation impasse continues to mount pressure on the country, while energy costs are spiking with September LNG shipments now double pre-war rates, complicating recovery efforts further. A government panel has been tasked with shifting the fiscal year to April-March, and officials are pursuing trade negotiations with India on yarn imports as manufacturing sectors seek relief. Meanwhile, governance concerns persist with human rights organizations urging Bangladesh to end prolonged detentions of political opponents and critics raising questions about institutional reform and administrative competence.",
+  "fetchedAt": "2026-08-25T06:53:57.951Z",
+  "summary": "Bangladesh faces mounting economic challenges as energy costs surge due to global conflicts, with September LNG imports now double pre-war prices while jute farmers struggle with tumbling prices and nineteen economic indicators show deterioration. The government grapples with distribution inefficiencies despite adequate fertilizer stocks, and disagreements persist with India over yarn import restrictions while considering fiscal year restructuring. Security concerns escalate with five killings reported in Sylhet in just 27 days, and the Rohingya crisis deepens as repatriation efforts remain stalled with mounting pressure on Bangladesh to accommodate increasing numbers of arrivals. Meanwhile, governance issues surface as opposition figures criticize government mismanagement while human rights groups raise alarms over prolonged pretrial detention of political opponents.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,138 @@
     }
   ],
   "articles": [
+    {
+      "title": "Six months into Iran war, almost half of global oil flows from war zones",
+      "link": "https://www.thedailystar.net/business/news/six-months-iran-war-almost-half-global-oil-flows-war-zones-4256346",
+      "desc": "Ongoing conflict in Libya and US restrictions on Venezuelan oil exports at the start of the year have added further strain",
+      "pubDate": "Tue, 25 Aug 26 12:23:35 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/crude-oil.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "ইরান যুদ্ধের ছয় মাস পর পরে, বৈশ্বিক তেলের প্রায় অর্ধেক যুদ্ধক্ষেত্র থেকে প্রবাহিত হচ্ছে",
+      "descBn": "লিবিয়ায় চলমান সংঘাত এবং বছরের শুরুতে ভেনেজুয়েলার তেল রপ্তানিতে যুক্তরাষ্ট্রের নিষেধাজ্ঞা আরও চাপ যোগ করেছে"
+    },
+    {
+      "title": "No profit haircut for Sammilito Islami Bank depositors: BB governor",
+      "link": "https://www.thedailystar.net/business/news/no-profit-haircut-sammilito-islami-bank-depositors-bb-governor-4256336",
+      "desc": "He directed the bank's leadership to address this immediately through clear communication",
+      "pubDate": "Tue, 25 Aug 26 12:18:52 +0600",
+      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/11/09/bank_merger_2.jpg",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "sourceColor": "#1a7a4a",
+      "titleBn": "সমন্বিত ইসলামি ব্যাংক জমাকারীদের জন্য মুনাফা হ্রাস নেই: বিবি গভর্নর",
+      "descBn": "তিনি ব্যাংকের নেতৃত্বকে স্পষ্ট যোগাযোগের মাধ্যমে এটি অবিলম্বে সমাধান করার নির্দেশ দিয়েছেন"
+    },
+    {
+      "title": "Five killed in Sylhet in 27 days, raising security concerns",
+      "link": "https://en.prothomalo.com/bangladesh/local-news/5rtoy703lf",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 06:11:46 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-25/cg38ha1r/info.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "সিলেটে ২৭ দিনে পাঁচজন নিহত, নিরাপত্তা নিয়ে উদ্বেগ",
+      "descBn": ""
+    },
+    {
+      "title": "17 diplomatic missions, EU say Rohingya repatriation conditions remain unsafe",
+      "link": "https://en.prothomalo.com/bangladesh/p8v6cqfqus",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 06:01:26 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2022-08/ee5b27de-9a63-4bb1-b52f-9e5506493fe4/rohingya.webp",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "১৭টি কূটনৈতিক মিশন, ইউরোপীয় ইউনিয়ন বলেছে রোহিঙ্গা প্রত্যাবাসনের পরিস্থিতি এখনও নিরাপদ নয়",
+      "descBn": ""
+    },
+    {
+      "title": "So many infections, deaths despite vaccination ‘unusual’",
+      "link": "https://en.prothomalo.com/bangladesh/td02y8wv2b",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 05:39:26 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-05-30/pecw5cs7/measles.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "টিকাকরণ সত্ত্বেও এত বেশি সংক্রমণ, মৃত্যু 'অস্বাভাবিক'",
+      "descBn": ""
+    },
+    {
+      "title": "Trawler Sinks in Bay of Bengal: 8 rescued while floating, 5 missing",
+      "link": "https://en.prothomalo.com/bangladesh/eb5hcc5so6",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 05:15:23 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-25/7agl4y96/prothomalo-bangla2021-0924dc6925-2c7a-4e55-8b84-16a2b2c4e90cweather.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বঙ্গোপসাগরে ট্রলার ডুবে গেছে: ভাসমান অবস্থায় ৮ জন উদ্ধার, ৫ জন নিরুদ্দেশ",
+      "descBn": ""
+    },
+    {
+      "title": "Fleeting market for fresh fish from Jamuna",
+      "link": "https://en.prothomalo.com/photo/bangladesh/nsawczv6j4",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 04:54:48 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-25/ptkv1whg/4.-Bogra-river-fish-trade-24.08.2026.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "যমুনা থেকে তাজা মাছের ক্ষণস্থায়ী বাজার",
+      "descBn": ""
+    },
+    {
+      "title": "DNA test links accused to baby born to 11-year-old rape victim",
+      "link": "https://en.prothomalo.com/bangladesh/local-news/ng6h2qxmtw",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 04:36:30 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2021-01/5caabf67-1f78-4c2b-936d-dae7c5690b57/child_abuse.png",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ডিএনএ পরীক্ষা ১১ বছর বয়সী ধর্ষণ শিকারের জন্মদানকৃত শিশুর সাথে অভিযুক্তকে সংযুক্ত করে",
+      "descBn": ""
+    },
+    {
+      "title": "US plans to revoke up to 200,000 visas of foreigners seeking asylum",
+      "link": "https://en.prothomalo.com/international/06qquvi6gk",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 03:49:10 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-25/oisp795j/info.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "আশ্রয় খোঁজা বিদেশীদের ২ লক্ষ পর্যন্ত ভিসা বাতিল করার পরিকল্পনা করছে যুক্তরাষ্ট্র",
+      "descBn": ""
+    },
+    {
+      "title": "Govt warehouses have fertiliser, problem lies in distribution",
+      "link": "https://en.prothomalo.com/bangladesh/government/e1sbmsjoeo",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 03:24:04 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-07/i5eb7a7e/3prothomalo-bangla2026-08-0705lldafa3.-FaridpurDH129220260807IMG0854.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "সরকারি গুদামে সার রয়েছে, সমস্যা বিতরণে",
+      "descBn": ""
+    },
+    {
+      "title": "None of the Rohingyas return, rather more arrive",
+      "link": "https://en.prothomalo.com/bangladesh/si0uooixbc",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 02:49:06 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2022-01/fb2d522f-4b42-48c0-88f4-7046c904eea4/prothomalo_bangla_2022_01_86408fe1_0461_4461_b3fa_76496cbd3cab_0D7A9181_01080424.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "রোহিঙ্গারা ফিরছে না, বরং আরও আসছে",
+      "descBn": ""
+    },
     {
       "title": "Failure of repatriation affects Rohingyas, and increases pressure on Bangladesh",
       "link": "https://en.prothomalo.com/opinion/op-ed/tp3rqu11iv",
@@ -18320,102 +18452,6 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "দক্ষিণ চীন সাগরে ভিয়েতনামী জাহাজ ডুবে যাওয়ার পর ২৩ জন নিখোঁজ: চীনা সরকারি মিডিয়া",
-      "descBn": ""
-    },
-    {
-      "title": "Shahjalal Airport: 'Irregularities' of Tk 45 billion found in Tk 210 billion project",
-      "link": "https://en.prothomalo.com/bangladesh/crime-and-law/ehgw0h4kz4",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 06:46:04 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/75grttwx/prothomalo-bangla2026-07-25fjg146fl1-third-terminal-project-at-shahjalal-airport-palo-file-25072026.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "শাহজালাল বিমানবন্দর: ২১০ বিলিয়ন টাকার প্রকল্পে ৪৫ বিলিয়ন টাকার 'অনিয়ম' পাওয়া গেছে",
-      "descBn": ""
-    },
-    {
-      "title": "HSC: Registration reopened for postponed exams",
-      "link": "https://en.prothomalo.com/youth/education/2yd3zppnih",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 06:43:45 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/sthglqap/prothomalo-bangla2026-07-13h28hva37WhatsApp-Image-2026-07-13-at-2.05.43-PM.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "এইচএসসি: স্থগিত পরীক্ষার নিবন্ধন পুনরায় চালু করা হয়েছে",
-      "descBn": ""
-    },
-    {
-      "title": "BTRC fines four mobile operators Tk 8.68cr over illegal VoIP SIMs",
-      "link": "https://www.thedailystar.net/business/news/btrc-fines-four-mobile-operators-tk-868cr-over-illegal-voip-sims-4232781",
-      "desc": "The penalties were imposed on Robi Axiata, Banglalink, Teletalk and Grameenphone at Tk 10,000 per SIM",
-      "pubDate": "Sun, 26 Jul 26 12:42:01 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/BTRC%20fine.jpg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "অবৈধ ভয়েওআইপি সিমের জন্য বিটিআরসি চারটি মোবাইল অপারেটরকে ৮.৬৮ কোটি টাকা জরিমানা করেছে",
-      "descBn": "রোবি অ্যাক্সিয়াটা, বাংলালিংক, টেলিটক এবং গ্রামীণফোনের উপর প্রতিটি সিমের জন্য ১০,০০০ টাকা হারে জরিমানা আরোপ করা হয়েছে"
-    },
-    {
-      "title": "Bangladeshis lured to Russia by fake job offers end up in Ukrainian prison",
-      "link": "https://en.prothomalo.com/video/suvykuf69b",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 06:33:58 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/70hoh9c9/prothomalo-bangla2026-07-25m80xiqjeWEB.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "নকল চাকরির প্রস্তাবে রাশিয়ায় প্রলুব্ধ বাংলাদেশীরা ইউক্রেনীয় কারাগারে শেষ পর্যন্ত",
-      "descBn": ""
-    },
-    {
-      "title": "How to start filing income tax return online",
-      "link": "https://en.prothomalo.com/business/local/fr963kt9lm",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 06:10:15 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-05/8kwewm6c/prothomalo-bangla2025-09-29jqlmk5u022825d5a-703d-444d-ae22-5919cc117974.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "অনলাইনে আয়কর রিটার্ন ফাইল করা কীভাবে শুরু করবেন",
-      "descBn": ""
-    },
-    {
-      "title": "This wave of Trump tariffs is likely here to stay; more are coming",
-      "link": "https://www.thedailystar.net/business/news/wave-trump-tariffs-likely-here-stay-more-are-coming-4232766",
-      "desc": "Trump's new anti-forced labor duties imposed almost directly replace a global 10 percent temporary tariff that expired on Friday",
-      "pubDate": "Sun, 26 Jul 26 11:56:19 +0600",
-      "img": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/04/19/ed_2_economics_101.jpg",
-      "sourceId": "dailystar",
-      "sourceName": "The Daily Star",
-      "sourceColor": "#1a7a4a",
-      "titleBn": "ট্রাম্পের এই শুল্ক ঢেউ সম্ভবত দীর্ঘস্থায়ী হবে; আরও আসছে",
-      "descBn": "ট্রাম্পের নতুন জোরপূর্বক শ্রম বিরোধী শুল্ক প্রায় সরাসরি বিশ্বব্যাপী ১০ শতাংশ অস্থায়ী শুল্কের স্থান নেয় যা শুক্রবার মেয়াদ উত্তীর্ণ হয়েছে"
-    },
-    {
-      "title": "Gas shortage unlikely to ease right away",
-      "link": "https://en.prothomalo.com/bangladesh/cdfkf9o83o",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 04:54:53 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-26/rvfiupsq/prothomalo-bangla2026-07-25xrjqmozaGAS-CRISISTANVIR25072623051547.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "গ্যাসের সংকট খুব শীঘ্রই সমাধান হওয়ার সম্ভাবনা নেই",
-      "descBn": ""
-    },
-    {
-      "title": "Government not rushing to pick next president, whose name being discussed most?",
-      "link": "https://en.prothomalo.com/bangladesh/uslwdioz9x",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 04:51:20 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-02-16/0f405d8n/prothomalo-bangla2023-040c0e290a-6398-4241-87ee-1e6ca824f48eUntitled2.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "সরকার পরবর্তী রাষ্ট্রপতি নির্বাচনে তাড়াহুড়ো করছে না, কার নাম সবচেয়ে বেশি আলোচিত হচ্ছে?",
       "descBn": ""
     }
   ]
