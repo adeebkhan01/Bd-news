@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T01:26:29.947Z",
-  "summary": "Western Australia's push to eliminate character references from court sentencings has drawn mixed reactions as part of a broader criminal justice reform. Major corporate developments dominated the agenda, with Sydney's Bathla Group developer collapsing and leaving buyers in limbo, while Coles posted a $1.1 billion annual profit but set aside $235 million to address wage underpayment scandal fallout. Transport disruptions affected commuters in Sydney, where train line failures caused cancellations and delays due to wiring issues, whilst state school teachers in New South Wales secured an interim pay rise. Migration policy remains a contentious issue, with the Coalition indicating its target could fall \"well below\" 200,000 amid One Nation voters listing it as their top concern.",
+  "fetchedAt": "2026-08-25T03:51:37.434Z",
+  "summary": "A major Sydney property developer has collapsed, leaving buyers in limbo as the construction sector faces ongoing instability. Western Australia is moving to scrap character references in criminal sentencing, marking a shift in how courts approach sentencing decisions. Coles has posted a $1.1 billion annual profit while setting aside $235 million for worker underpayments, highlighting ongoing wage compliance issues in the retail sector. Meanwhile, transport disruptions have hit Sydney commuters with train line delays caused by wiring issues, and several high-profile criminal cases continue to move through courts including sexual assault charges against Scots College boys and a rape case for former actor Ralph Carr.",
   "sources": [
     {
       "id": "abcnews",
@@ -30,6 +30,86 @@
   ],
   "articles": [
     {
+      "title": "NZ election poll watch: right still leads left, but Opportunity could deny it a majority",
+      "link": "https://theconversation.com/nz-election-poll-watch-right-still-leads-left-but-opportunity-could-deny-it-a-majority-290340",
+      "desc": "With just over two months until the election, polls have settled into a new normal, with no clear frontrunner evident.",
+      "pubDate": "2026-08-25T03:21:33Z",
+      "img": "https://images.theconversation.com/files/755885/original/file-20260825-60-t4ds0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C346%2C3849%2C1924&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Aureka hits bonanza gold beneath historic Victorian pit",
+      "link": "https://www.smh.com.au/business/companies/aureka-hits-bonanza-gold-beneath-historic-victorian-pit-20260825-p60re2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Aureka hits high-grade gold in Victoria with a 4.4m intercept grading 8.9g/t gold, including a bonanza 0.3m at 65.3g/t, extending its St Arnaud project south.",
+      "pubDate": "Tue, 25 Aug 2026 12:54:31 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/4e2a0c92ff0da0a5a15a75e8e603b78d990541ca74e20bfc57f1dfba907faf39",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Major NSW property developer enters administration",
+      "link": "https://www.abc.net.au/news/2026-08-25/major-developer-bathla-group-administration/107074304",
+      "desc": "Bathla Group says tax changes, softening sales and construction costs have led to its plight.",
+      "pubDate": "Tue, 25 Aug 2026 02:37:53 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/96e855627274eed399f04467077dbb47?impolicy=wcms_crop_resize&amp;cropH=950&amp;cropW=713&amp;xPos=62&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Former prime minister unveiled as Brisbane Writers Festival headliner",
+      "link": "https://www.smh.com.au/national/queensland/former-prime-minister-unveiled-as-brisbane-writers-festival-headliner-20260825-p60ra4.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "The former New Zealand prime minister will appear at Brisbane City Hall in conversation with Trent Dalton.",
+      "pubDate": "Tue, 25 Aug 2026 12:30:03 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2792538587505662%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_128%2C$y_75/t_crop_custom/q_86%2Cf_auto/9a22a5c0f50fc6c0cb332044c57c61d6de1a46bb",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Driver seriously injured after bus slams into rail bridge",
+      "link": "https://www.smh.com.au/national/driver-seriously-injured-after-bus-slams-into-rail-bridge-20260825-p60rdr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A bus driver has been seriously injured after his bus ploughed into a bridge pylon in Port Adelaide during heavy rain.",
+      "pubDate": "Tue, 25 Aug 2026 12:24:04 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/dda1025d93da3fd62cb782311656362ad1842dad",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Fortescue stands down executive at centre of harassment probe",
+      "link": "https://www.smh.com.au/business/companies/fortescue-stands-down-executive-at-the-centre-of-harassment-probe-20260825-p60rc8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Mining giant Fortescue has moved to suspend a senior executive from working for the company while allegations of sexual harassment and bullying are being investigated by law firm MinterEllison.",
+      "pubDate": "Tue, 25 Aug 2026 11:40:40 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3438%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/14ed77c2f21e9f09a6e2497710adb33fc8a505b1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Energy efficiency business accused of fraud by Victorian authorities",
+      "link": "https://www.abc.net.au/news/2026-08-25/vic-energy-efficiency-scheme-suspension-royal-one/107074834",
+      "desc": "The Essential Services Commission says the company submitted digitally altered photos and falsified customers to claim energy efficiency certificates.",
+      "pubDate": "Tue, 25 Aug 2026 01:38:43 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/26bfd697034d18a382606c594dc8509f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=403&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "This Sydney wedding venue wanted the pontoon. The locals weren’t having it",
+      "link": "https://www.smh.com.au/national/nsw/this-sydney-wedding-venue-wanted-the-pontoon-the-locals-weren-t-having-it-20260818-p60pcw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A dispute over a pontoon has pitted residents, rowers and a school against a high-end wedding venue.",
+      "pubDate": "Tue, 25 Aug 2026 11:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4236%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_83/t_crop_custom/q_86%2Cf_auto/afaf8e915fcd2476fe36c8ff0ad255caa96ebd1f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
       "title": "End of the ‘good bloke’ defence? WA’s plan to ban character references draws mixed response",
       "link": "https://www.smh.com.au/national/western-australia/end-of-the-good-bloke-defence-wa-s-plan-to-ban-character-references-draws-mixed-response-20260825-p60rbx.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
       "desc": "The move comes after Western Power stood down three employees who provided character references for a colleague convicted of rape.",
@@ -38,6 +118,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Good character references to be scrapped in all WA criminal cases",
+      "link": "https://www.abc.net.au/news/2026-08-25/wa-government-to-ban-character-references-for-all-criminals/107074518",
+      "desc": "The WA government will scrap the use of good character references in court cases, which allow convicted criminals to receive reduced sentences.",
+      "pubDate": "Tue, 25 Aug 2026 01:24:56 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/a486e13526e2e7b6f5021d8411e273ba?impolicy=wcms_crop_resize&amp;cropH=609&amp;cropW=457&amp;xPos=218&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
     },
     {
       "title": "Body of dead man found on Brighton street corner",
@@ -68,6 +158,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Aussie players are smashing transfer records. Does this benefit or harm Australian soccer?",
+      "link": "https://theconversation.com/aussie-players-are-smashing-transfer-records-does-this-benefit-or-harm-australian-soccer-290321",
+      "desc": "Several Socceroos have earned huge new deals at European clubs. These moves can both boost, and harm, Australian soccer as a whole.",
+      "pubDate": "2026-08-25T01:15:14Z",
+      "img": "https://images.theconversation.com/files/755575/original/file-20260824-50-dvfh9p.jpg?ixlib=rb-4.1.1&amp;rect=0%2C307%2C3680%2C1840&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
     },
     {
       "title": "Big Hits: Sun Silver, Manhattan Gold Corporation and QMines Ltd",
@@ -37425,146 +37525,6 @@
       "desc": "You might think that missiles flying over the Strait of Hormuz are a world away from your closet. You’d be wrong.",
       "pubDate": "Sun, 26 Jul 2026 14:07:08 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.8307920370370371%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_234/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/c41bfe58a019d5eaa2d6b17bb5983c4a8371e23e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Playing one of the hardest pieces of music, this 13-year-old took the music world by storm",
-      "link": "https://www.smh.com.au/national/victoria/playing-one-of-the-hardest-pieces-of-music-this-13-year-old-took-the-music-world-by-storm-20260625-p60a6m.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "While other kids rode bikes and played video games over the holidays, Charlie travelled to the other side of the world to compete in one of the world’s top junior piano competitions – and won.",
-      "pubDate": "Sun, 26 Jul 2026 13:45:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3191%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_331/t_crop_custom/q_86%2Cf_auto/1890ac8f4d7d78c6d391f0795d926f2b265efe7f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Albanese grilled on attendance at Point Piper dinner",
-      "link": "https://www.abc.net.au/news/2026-07-26/albanese-grilled-on-attendance-at-point-piper-dinner/106959586",
-      "desc": "Prime Minister Anthony Albanese denies knowing ATO allegations of deceit against the father of controversial entrepreneur Felix Lee, with whom he attended a private dinner.",
-      "pubDate": "Sun, 26 Jul 2026 03:34:35 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/5e07e425eaf6aab8360a1f3c31d43226?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Albanese evasive over Point Piper dinner attendance",
-      "link": "https://www.abc.net.au/news/2026-07-26/albanese-questioned-over-point-piper-dinner/106959648",
-      "desc": "Prime Minister Anthony Albanese attempts to skirt questions about his attendance at a dinner hosted by a billionaire family accused of funnelling money from China, saying he attends \"a lot of dinners\"",
-      "pubDate": "Sun, 26 Jul 2026 03:34:35 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/248b7c18f078ac0f97575b9a25cfc9de?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=864&amp;xPos=865&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "NSW man sentenced over ‘depraved’ abuse of stepdaughter",
-      "link": "https://www.smh.com.au/national/nsw/nsw-man-sentenced-over-depraved-abuse-of-stepdaughter-20260722-p60hg2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A 45-year-old man showed his victim a spreadsheet of the sexual abuse he had perpetrated against the teenager.",
-      "pubDate": "Sun, 26 Jul 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/f1d8ca8f5f90ea1aa7f86b9afa3d1adf34dadfc601e1b8d46feedd2fdb874144",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Surprised and overjoyed’: Coastal community beats corporate giant to protect their beloved river",
-      "link": "https://www.smh.com.au/national/victoria/surprised-and-overjoyed-coastal-community-beats-corporate-giant-to-protect-their-beloved-river-20260722-p60hkh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "It was the fight they never expected to win. Now comes the question of how to fill the void left behind by a metals giant.",
-      "pubDate": "Sun, 26 Jul 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1938%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/1fff885a0e8f6e79e1f0e75312acdd0dc64f19a0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "This Christian church has banned women elders. It’s a dangerous move",
-      "link": "https://www.smh.com.au/national/this-christian-church-has-banned-women-elders-it-s-a-dangerous-move-20260723-p60hwd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Presbyterian leaders in NSW and the ACT say the women in their fold are equal, but not as equal – it seems – as the men.",
-      "pubDate": "Sun, 26 Jul 2026 13:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.44020898233594336%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_132%2C$y_182/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/e41a59e06b351234ed07421a4de00e0b396b8add",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Former chief of collapsed Grocon building empire declares bankruptcy",
-      "link": "https://www.smh.com.au/national/victoria/former-chief-of-collapsed-grocon-building-empire-declares-bankruptcy-20260726-p60ily.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Daniel Grollo, the former chief executive of the collapsed Melbourne building company behind iconic buildings like the Eureka Tower, has declared bankruptcy.",
-      "pubDate": "Sun, 26 Jul 2026 13:00:23 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_524%2C$y_0/t_crop_custom/q_86%2Cf_auto/5ee95b38ebe758ecd2dfaee178b5a1a9bce58eae",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Brown reacts to fiery exchange between Suns duo",
-      "link": "https://www.smh.com.au/national/brown-reacts-to-fiery-exchange-between-suns-duo-20260726-p60in3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Nathan Brown gives his thoughts on the fiery spray captured by cameras between Suns duo Leo Lombard and Christian Petracca.",
-      "pubDate": "Sun, 26 Jul 2026 12:52:06 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/ed24de861ba8aa37b50fd7be817b3ce887ae6a35",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Music Review: Laufey proves jazz music can be cool among Gen Z",
-      "link": "https://www.smh.com.au/national/western-australia/music-review-laufey-proves-jazz-music-can-be-cool-among-gen-z-20260726-p60imw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Laufey performed to a sold-out crowd at RAC Arena on Saturday night and showed why jazz music isn’t going anywhere.",
-      "pubDate": "Sun, 26 Jul 2026 12:39:56 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.706%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/b10ab73eb1b5a87276843ed620010540a45f3eeb6d19b275c396a7f9f861bf8d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "AI-powered ‘vibe-coding’ is filling our app stores with garbage",
-      "link": "https://www.smh.com.au/technology/ai-powered-vibe-coding-is-filling-our-app-stores-with-garbage-20260723-p60hxb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_technology",
-      "desc": "In the first half of 2026, there were as many new apps launched onto the App Store as there were in the entirety of 2025. Many are AI-made slop.",
-      "pubDate": "Sun, 26 Jul 2026 12:06:42 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.1724%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/23c36fd2109d30f4f70974e42e2ded210b3851b8434f5c04709a8723b6c64698",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘The new LA’: How capital of K-pop catapulted Queensland dancers to stardom",
-      "link": "https://www.smh.com.au/national/queensland/the-new-la-how-capital-of-k-pop-catapulted-queensland-dancers-to-stardom-20260528-p601o9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "She’s starred in a Justin Bieber music video and danced alongside J-Lo at the Super Bowl. But it took a Korean reality show to give this Gold Coast performer a true feeling of fame.",
-      "pubDate": "Sun, 26 Jul 2026 12:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.1414672364672365%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_147%2C$y_109/t_crop_custom/q_86%2Cf_auto/10677fc57bf03a3b31a63359e48ec18a97600c9aaa514ed8f2c66c82df535de6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Surcharge ban could end popular free travel insurance perk",
-      "link": "https://www.smh.com.au/business/consumer-affairs/surcharge-ban-could-end-popular-free-travel-insurance-perk-20260724-p60iao.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Two in five travellers rely on free travel insurance offered by their credit cards, but travel agents say the surcharge ban threatens their ability to accept such payments.",
-      "pubDate": "Sun, 26 Jul 2026 11:55:07 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d7b1229cd4a7fc8823ab7253f8e89c3e47ecaf90",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Two dead after motorcycle hits pedestrian",
-      "link": "https://www.smh.com.au/national/two-dead-after-motorcycle-hits-pedestrian-20260726-p60imj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two people have died after a motorcycle hit a pedestrian on the Queensland Sunshine Coast.",
-      "pubDate": "Sun, 26 Jul 2026 11:41:29 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f7eb5ad4817263a055780412f23ce99c57c15df3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Broncos’ finals hopes dashed as Cowboys overpower rivals",
-      "link": "https://www.smh.com.au/national/queensland/broncos-finals-hopes-dashed-as-cowboys-overpower-rivals-20260726-p60ilz.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Brisbane’s premiership defence is done and dusted after North Queensland kept their own finals hopes on track with a derby win in Townsville.",
-      "pubDate": "Sun, 26 Jul 2026 11:30:13 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.47488789237668155%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_126/t_crop_custom/q_86%2Cf_auto/4134e6199f5ed53a782fd4a2a252365673bc824e",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
