@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T09:46:57.110Z",
-  "summary": "Global tensions escalated sharply across multiple fronts today, with humanitarian crises deepening in Haiti, Sudan, Gaza, and Myanmar as death tolls and displacement figures mounted. The US-led economic confrontation with Iran expanded while trade tensions flared between Washington and Canada, with tit-for-tat tariffs now affecting hundreds of products and prompting rare diplomatic moves including an unannounced CIA visit to Moscow. Israel's military operations in Gaza drew international condemnation from the UN over civilian casualties and alleged violations at humanitarian facilities, while Syria's removal from the US terror list marked a significant geopolitical shift. Domestically in the US, the Trump administration pursued aggressive policy moves including visa cancellations and military charges against a dissenting soldier, while infrastructure and voting disputes emerged in separate legal and political battles.",
+  "fetchedAt": "2026-08-26T12:59:43.253Z",
+  "summary": "Global tensions are escalating across multiple fronts as trade friction between the US and Canada intensifies with reciprocal tariffs, while Middle Eastern instability deepens with Iran's currency collapse and disputes over shipping routes despite claimed mine clearances. Humanitarian crises are worsening in several regions, particularly Gaza and Sudan where civilian casualties mount amid conflict and resource scarcity, while Pakistan and Haiti face separate disaster situations claiming dozens of lives. Political upheaval continues in Syria following the removal of its terror designation, and internal Israeli politics remain fractious over settlement and military conduct in Palestinian territories. Energy costs are set to rise across developed economies, compounding existing cost-of-living pressures for households.",
   "sources": [
     {
       "id": "bbcnews",
@@ -25,6 +25,66 @@
   ],
   "articles": [
     {
+      "title": "Reform proposes £30 tax rebate for HMRC phone delays",
+      "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "People on hold to HMRC for more than 30 minutes would get a tax credit under plans announced by Robert Jenrick.",
+      "pubDate": "Wed, 26 Aug 2026 12:39:37 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5b/live/551fe6a0-a147-11f1-a291-b542ee92de7c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Why India is sharing missile secrets with its private sector",
+      "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
+      "desc": "New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.",
+      "pubDate": "Wed, 26 Aug 2026 11:32:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26026330876122-1787731821.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Infantino has no future at FIFA, says European Leagues chief",
+      "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
+      "desc": "Claudius Schaefer insists the influence of the FIFA president has &#039;grown from year to year&#039;.",
+      "pubDate": "Wed, 26 Aug 2026 10:42:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26164041610742-1787739395.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "China’s Xi to visit Kyrgyzstan, Egypt",
+      "link": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+      "desc": "The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.",
+      "pubDate": "Wed, 26 Aug 2026 10:29:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-31T052804Z_1847139487_RC2R4MAKU4PF_RTRMADP_3_CHINA-DEFENCE-XI-1787733678.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Why high energy bills look like they are here to stay",
+      "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The government is under pressure to support billpayers when domestic energy prices predicted to rise further.",
+      "pubDate": "Wed, 26 Aug 2026 10:10:33 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28bb/live/486f7610-a13c-11f1-a291-b542ee92de7c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+      "desc": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
+      "pubDate": "Wed, 26 Aug 2026 10:00:05 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Interactive_Iran_cost_of_living_Aug25_2026-03-1787732049.jpg?resize=1200%2C630",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
       "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
       "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
       "desc": "UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.",
@@ -33,6 +93,36 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Canada's retaliation tests the limit of American power under Trump",
+      "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
+      "pubDate": "Wed, 26 Aug 2026 08:47:18 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239d/live/98ae3c90-a12a-11f1-8c37-3f30331ac537.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+      "pubDate": "Wed, 26 Aug 2026 08:17:45 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9048/live/7c17f4d0-a126-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+      "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba0/live/fcd691c0-a11d-11f1-92eb-a9b3bbcf6f4a.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
@@ -73,6 +163,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "India's sugar squeeze threatens its biggest season for sweets",
+      "link": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
+      "pubDate": "Wed, 26 Aug 2026 06:30:24 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/6e249110-a128-11f1-8c37-3f30331ac537.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
@@ -183,6 +283,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "pubDate": "Tue, 25 Aug 2026 21:23:41 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e344/live/b6975340-a0a3-11f1-84a9-276d1a8e5a22.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
     },
     {
       "title": "US soldier who called for Trump impeachment facing military charges",
@@ -393,6 +503,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "VW's future could shape Germany's car industry",
+      "link": "https://www.dw.com/en/vw-s-future-could-shape-germany-s-car-industry/a-78483715?maca=en-rss-en-bus-2091-rdf",
+      "desc": "Volkswagen bosses face angry workers this week over restructuring plans that could eliminate up to 100,000 jobs and threaten several German plants. DW examines the pressure on Europe's biggest automak",
+      "pubDate": "2026-08-25T13:57:00Z",
+      "img": "https://static.dw.com/image/77888402_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
@@ -14053,66 +14173,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Gaza student tops national exams despite war and displacement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
-      "desc": "Gaza’s Saba Rabah ranked first in Palestine&#039;s national high school exams amid Israel’s genocidal war.",
-      "pubDate": "Mon, 27 Jul 2026 12:41:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785155993.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Students and staff work to bring Islamic University of Gaza back to life",
-      "link": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
-      "desc": "The university is looking to continue educating Palestinians amid Israel&#039;s genocidal war on Gaza.",
-      "pubDate": "Mon, 27 Jul 2026 12:26:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/d26da8367fdcf6895abc6a1ab492a3ce-1785144858.jpeg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
-      "pubDate": "Mon, 27 Jul 2026 11:50:13 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ff/live/6961bcf0-892e-11f1-b684-d3f861a1f4cf.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
-      "link": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\".",
-      "pubDate": "Mon, 27 Jul 2026 11:11:07 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af41/live/297ba580-89ae-11f1-a7ab-8b30adf0800a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
-      "pubDate": "Mon, 27 Jul 2026 10:59:13 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb3/live/ca0001c0-89b5-11f1-b2ab-0dd01740f9f6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-      "link": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
-      "desc": "At least 20 West Bank towns and villages have been raided, with homes demolished and dozens of Palestinians arrested.",
-      "pubDate": "Mon, 27 Jul 2026 10:41:01 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a66fbc0573b-1785134016.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
