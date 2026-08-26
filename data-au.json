@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T01:36:53.556Z",
-  "summary": "Australia's news cycle is dominated by domestic political tensions and infrastructure debates, particularly surrounding Western Australia's grievances over GST distribution and the prime minister's involvement in a data centre dispute that's dividing the national cabinet. In the criminal justice sphere, a Sydney woman has escaped murder conviction after admitting to killing and dismembering her husband, while multiple incidents of violence across Melbourne and Sydney feature prominently. The economic agenda includes Woolworths capitalising on the Ooshies promotional effect, media company Nine signalling a shift away from traditional television, and growing concerns about supply chain disruptions potentially raising grocery prices in remote areas. Climate and environment stories round out the coverage, with encouraging developments on Great Barrier Reef water quality contrasted against warnings of dangerous heat in the US south-west and discussions about whether earthquake frequency is genuinely increasing.",
+  "fetchedAt": "2026-08-26T03:55:54.077Z",
+  "summary": "Australia faces mounting concerns across child safety, with ministers defending reforms following allegations of rape in residential care and police preparing arrests linked to paedophile facilitators. Economic pressures dominate the policy agenda as inflation data disappoints and the Productivity Commission clashes with Western Australia's premier over GST recommendations, while a major gold discovery in WA stretches to 4.5 kilometres. Criminal investigations capture headlines from Perth to Sydney, ranging from alleged random attacks to a woman admitted killing her husband, alongside international incidents including calls for a probe into the death of Australian Zomi Frankcom. Energy policy moves forward with Victoria's offshore wind auction opening to power 1.5 million homes, as the nation braces for severe weather across multiple regions.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,176 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
+      "link": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "desc": "<p>Seals and sea lions often communicate by touch and share spaces with wild birds, placing them at risk of infection from H5N1 virus</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/",
+      "pubDate": "Wed, 26 Aug 2026 03:31:54 GMT",
+      "img": "https://i.guim.co.uk/img/media/05ebf585f519f35661c068c72c735cdcf688c0e4/136_0_1333_1066/master/1333.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Arrests to come for those who helped ‘alleged paedophile’ Dezi Freeman: police",
+      "link": "https://www.smh.com.au/national/victoria/arrests-to-come-for-those-who-helped-alleged-paedophile-dezi-freeman-police-20260826-p60rq1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Victoria Police Chief Commissioner Mike Bush says the original investigation that took police to Dezi Freeman’s remote hideaway in the state’s high country remains active.",
+      "pubDate": "Wed, 26 Aug 2026 13:30:04 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2296%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/121b54bc86c5a485604213425e6692b583d0b971",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Heinous’: Ministers defend reforms after revelation of alleged rape of girl in residential care",
+      "link": "https://www.smh.com.au/national/queensland/heinous-ministers-defend-reforms-after-revelation-of-alleged-rape-of-girl-in-residential-care-20260826-p60row.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Queensland’s child safety minister said the government was streamlining its reforms to address the abuse and exploitation of children in state care.",
+      "pubDate": "Wed, 26 Aug 2026 13:25:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2921%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_118%2C$y_144/t_crop_custom/q_86%2Cf_auto/98d07dd835e773b9af03115001517d1c58e6c17e279e41f32a6872a86f21ddd1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "It shouldn’t be a secret who the prime minister has dinner with, and what was discussed. Australians deserve to know | Geoffrey Watson",
+      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/aug/26/it-shouldnt-be-a-secret-who-the-prime-minister-has-dinner-with-and-what-was-discussed-australians-deserve-to-know-ntwnfb",
+      "desc": "<p>Any money being paid to dine with Anthony Albanese should be a matter of public record</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentre",
+      "pubDate": "Wed, 26 Aug 2026 03:24:28 GMT",
+      "img": "https://i.guim.co.uk/img/media/46799d5f3c1071e829610a0634cf393dfc735c81/872_0_3728_2983/master/3728.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Gateway stretches WA gold discovery to whopping 4.5km",
+      "link": "https://www.smh.com.au/business/companies/gateway-stretches-wa-gold-discovery-to-whopping-4-5km-20260826-p60rqr.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Gateway Mining has extended its new Cowza gold discovery near Wiluna in WA to 4.5km of strike and hit a high-grade 4m intercept grading 9.7g/t gold at its nearby Celia South prospect.",
+      "pubDate": "Wed, 26 Aug 2026 12:42:57 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/0afdb47b82affb6f2825f568ad2c5b35af9dd321f230482b2aefab94df57760d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "'Cheap and attractive' lights sold online fail Australian compliance tests",
+      "link": "https://www.abc.net.au/news/2026-08-26/lighting-products-sold-online-fail-safety-testing/107077554",
+      "desc": "Testing of more than 130 lighting products available online found most failed to meet Australian standards.",
+      "pubDate": "Wed, 26 Aug 2026 02:42:33 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/811e9a62c46eaee5d3992bd63092e7fe?impolicy=wcms_crop_resize&amp;cropH=459&amp;cropW=344&amp;xPos=162&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Court rules tropical island owner can be stripped of lease",
+      "link": "https://www.abc.net.au/news/2026-08-26/brampton-island-developer-fights-plan-to-cancel-tourism-lease/107078658",
+      "desc": "Despite plans to build new facilities, the Queensland Land Court finds Brampton Island resort is \"dilapidated to the point of falling down\" with the owners in breach of lease conditions.",
+      "pubDate": "Wed, 26 Aug 2026 02:35:09 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/f36a601cc9360986c8b0e47fe58f4fcc?impolicy=wcms_crop_resize&amp;cropH=1256&amp;cropW=942&amp;xPos=193&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Nasty shock in new inflation data",
+      "link": "https://www.smh.com.au/national/nasty-shock-in-new-inflation-data-20260826-p60rqg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Fresh inflation figures have come in higher than economists had expected in a potential blow for borrowers.",
+      "pubDate": "Wed, 26 Aug 2026 12:23:40 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f09c2ef43911a98cc68154a3bf12e07e51e4f458",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Productivity Commission slams 'clowns' comments after GST report",
+      "link": "https://www.abc.net.au/news/2026-08-26/productivity-commission-hits-back-criticism-over-gst/107078924",
+      "desc": "The Productivity Commission says the WA premier \"crossed a line\" with his criticisms of the body's interim report on GST, adding that political commentary from federal government ministers undermines ",
+      "pubDate": "Wed, 26 Aug 2026 02:18:43 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/3d60431297962b4bd973b7c520eec525?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=2108&amp;xPos=1433&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Ex-CFMEU administrator defends keeping controversial ‘Youth Crew’",
+      "link": "https://www.smh.com.au/national/queensland/ex-cfmeu-administrator-defends-keeping-controversial-youth-crew-20260826-p60rnq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Former union administrator Mark Irving has told an inquiry young CFMEU activists can be a “vehicle for change”, ruling out any future role for Jade Ingham.",
+      "pubDate": "Wed, 26 Aug 2026 12:18:24 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4539%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_222%2C$y_0/t_crop_custom/q_86%2Cf_auto/d66125668a49576fd8425d34b64e9ce901cabecb",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Mixed results for One Nation and the Coalition in latest federal polls",
+      "link": "https://theconversation.com/mixed-results-for-one-nation-and-the-coalition-in-latest-federal-polls-290299",
+      "desc": "A DemosAU poll has the Coalition up and One Nation down, while two other polls show Pauline Hanson’s party is still on the rise.",
+      "pubDate": "2026-08-26T02:06:01Z",
+      "img": "https://images.theconversation.com/files/756140/original/file-20260826-60-sd3peb.jpg?ixlib=rb-4.1.1&amp;rect=0%2C93%2C3000%2C1500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Historic sulphur emissions the likely cause of damage to Murujuga rock art: new research",
+      "link": "https://theconversation.com/historic-sulphur-emissions-the-likely-cause-of-damage-to-murujuga-rock-art-new-research-286244",
+      "desc": "Murujuga has been cared for by Ngarda-Ngarli for more than 50,000 years. We’re studying how the extraordinary rock art it contains can be protected in the future.",
+      "pubDate": "2026-08-26T02:00:32Z",
+      "img": "https://images.theconversation.com/files/755619/original/file-20260824-50-o3cozu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C249%2C1170%2C585&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Commissioner seeks extension for Bondi report, confronts Jewish frustration over probe",
+      "link": "https://www.smh.com.au/national/nsw/commissioner-seeks-extension-for-bondi-report-confronts-jewish-frustration-over-probe-20260826-p60rof.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Virginia Bell issued the remarks on the final day of the antisemitism royal commission, which will call on the father-in-law of a Bondi victim as its final witness.",
+      "pubDate": "Wed, 26 Aug 2026 12:00:25 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9567%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_97%2C$y_0/t_crop_custom/q_86%2Cf_auto/6473955477d45c92765454624ee71c25627df229",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Gunning for common sense",
+      "link": "https://www.smh.com.au/national/nsw/gunning-for-common-sense-20260825-p60r83.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "And skanking with the hash slingers.",
+      "pubDate": "Wed, 26 Aug 2026 11:55:48 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Perth council blocks CEO return as investigation continues",
+      "link": "https://www.smh.com.au/national/western-australia/perth-council-blocks-ceo-return-as-investigation-continues-20260826-p60rpa.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "City of Perth councillor Catherine Lezer made the motion to bring Michelle Reynolds back from suspension “effective immediately”.",
+      "pubDate": "Wed, 26 Aug 2026 11:52:42 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.2667%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_99/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/46fcb24c401821bf1c0127e873f853875910e132",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Luke Gosling stands aside as special envoy for defence and veterans' affairs",
+      "link": "https://www.abc.net.au/news/2026-08-26/luke-gosling-stands-aside-as-special-envoy-defence-veterans/107079660",
+      "desc": "Federal MP Luke Gosling announces he will step aside from his role as special envoy for defence, veterans' affairs and Northern Australia after he was charged with a breach of his bail conditions.",
+      "pubDate": "Wed, 26 Aug 2026 01:50:18 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/a888967c5c84c9b1b0a7238857f45d22?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=835&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Axed by Abbott, backed by crowdfunders: How Amanda McKenzie keeps finding hope in a crisis",
+      "link": "https://www.smh.com.au/environment/climate-change/axed-by-abbott-backed-by-crowdfunders-how-amanda-mckenzie-keeps-finding-hope-in-a-crisis-20260416-p5zodl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
+      "desc": "From tech-platform shutdowns to defining national moments, the climate chief shares how public anger outpaced government policy – and the enormous power in telling better stories.",
+      "pubDate": "Wed, 26 Aug 2026 11:40:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.5632265644419587%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_18/t_crop_custom/q_86%2Cf_auto/aa6388e3c04da71dad5159ec72165434d9c9b144097bbd38727604d5dbf5429e",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Trump is clutching at straws and the world knows it",
       "link": "https://www.smh.com.au/business/the-economy/trump-is-clutching-at-straws-and-the-world-knows-it-20260826-p60rk3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
@@ -37658,96 +37828,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Barkly samples hit lab in resource expansion push",
-      "link": "https://www.smh.com.au/business/companies/barkly-samples-hit-lab-in-resource-expansion-push-20260727-p60iwd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Barkly Rare Earths has sent first samples from its 10,000m drill drive to labs, aiming to grow its 40Mt NT rare earths resource. An update is slated for later this year.",
-      "pubDate": "Mon, 27 Jul 2026 13:13:32 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354166666666667%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/7ab94518369a999c56c0c1693d6291e82b34e708e817d182650bab6881039700",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Small businesses in Australia have a hard time getting finance. Other countries offer a different solution",
-      "link": "https://theconversation.com/small-businesses-in-australia-have-a-hard-time-getting-finance-other-countries-offer-a-different-solution-287971",
-      "desc": "Half of small business loans in Australia involve putting the family home on the line. But in the US, UK and Germany, governments do more to help.",
-      "pubDate": "2026-07-27T03:08:41Z",
-      "img": "https://images.theconversation.com/files/750147/original/file-20260726-57-p446kt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C517%2C5560%2C2780&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Gateway extends WA gold strike to 3.5km",
-      "link": "https://www.smh.com.au/business/companies/gateway-extends-wa-gold-strike-to-3-5km-20260727-p60ivj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Gateway Mining has extended its Cowza gold discovery by another kilometre to 3.5km in WA, with high-grade assays, a second RC rig arriving and more results pending.",
-      "pubDate": "Mon, 27 Jul 2026 12:32:41 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/dfaa9ffcc56694010e008f374611eb233c47c8cfa6383165d8e6756587c54b50",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Gateway grows WA gold discovery another kilometre to 3.5km",
-      "link": "https://www.smh.com.au/business/companies/gateway-grows-wa-gold-discovery-another-kilometre-to-3-5km-20260727-p60ivj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Gateway Mining has extended its Cowza gold discovery by another kilometre to 3.5km in WA, with high-grade assays, a second RC rig arriving and more results pending.",
-      "pubDate": "Mon, 27 Jul 2026 12:32:41 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.7354%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/dfaa9ffcc56694010e008f374611eb233c47c8cfa6383165d8e6756587c54b50",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Special DemosAU poll has Labor well short of a parliamentary majority",
-      "link": "https://theconversation.com/special-demosau-poll-has-labor-well-short-of-a-parliamentary-majority-287867",
-      "desc": "If this poll’s results were reflected at an election, Labor would lose its majority, with One Nation and the Coalition combined leading Labor in seats by 73–68.",
-      "pubDate": "2026-07-27T02:27:40Z",
-      "img": "https://images.theconversation.com/files/750164/original/file-20260727-69-37n0hx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1288%2C7717%2C3858&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
-    },
-    {
-      "title": "Chinese man charged after $20k allegedly found in tea gifted to public official",
-      "link": "https://www.smh.com.au/national/queensland/chinese-man-charged-after-20k-allegedly-found-in-tea-gifted-to-public-official-20260727-p60iur.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The 39-year-old was arrested when he allegedly tried to board an international flight last week.",
-      "pubDate": "Mon, 27 Jul 2026 11:59:25 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6999%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/q_86%2Cf_auto/01c327f0464fb289e0939be4a908b703a53a84f0f631a7bd7c31a2bb00b6176e",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Trump’s America is sinking as his war on the world sputters",
-      "link": "https://www.smh.com.au/business/the-economy/trump-is-making-america-s-money-problem-worse-20260727-p60irj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "America’s finances are already parlous, and they are deteriorating. Donald Trump’s ever-changing trade war is not helping matters.",
-      "pubDate": "Mon, 27 Jul 2026 11:59:09 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2862%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/df64bf5a0ab241f30196cc1140063c6496291f5f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Victorian premier to fight for job as MPs plan leadership spill",
-      "link": "https://www.smh.com.au/national/victorian-premier-to-fight-for-job-as-mps-plan-leadership-spill-20260727-p60iv2.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Victorian Premier Jacinta Allan has insisted she will fight for the leadership of the state Labor Party, despite several of her colleagues telling her she no longer has the confidence of caucus.",
-      "pubDate": "Mon, 27 Jul 2026 11:48:06 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/44f73f208493f399001abbe1b3b3d41f463859d7",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "I cried when the council cut down my tree. I did not see that coming",
-      "link": "https://www.smh.com.au/national/i-cried-when-the-council-cut-down-my-tree-i-did-not-see-that-coming-20260727-p60it1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "That tree witnessed 27 years of my life – the comings and goings, the baby, the teenager and every version since.",
-      "pubDate": "Mon, 27 Jul 2026 11:45:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2655%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_296%2C$y_12/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/854a5b0f36f68834e1ef6a2ac423b28408bbb60f",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
