@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T16:21:27.265Z",
-  "summary": "The Middle East dominates today's news as tensions escalate across multiple fronts: Israel intensifies operations against UNRWA and Palestinian territories while facing international pushback, including ICC pressure and UN objections to forced relocations, while Iran's currency crisis deepens amid regional standoffs over the Strait of Hormuz. Humanitarian crises are mounting in Gaza, Sudan, Haiti, and Pakistan, with casualty reports and mass kidnappings underscoring the scale of global instability. Political upheaval continues in Syria following the SDFs' dissolution announcement and al-Sharaa's claims of reform, while Guinea's military leadership fractures over desertion charges. Domestically, the Trump administration signals significant policy shifts on election laws and infrastructure, SpaceX announces a major Louisiana facility expansion, and energy price pressures persist across multiple economies.",
+  "fetchedAt": "2026-08-26T19:52:14.310Z",
+  "summary": "Global tensions escalated across multiple flashpoints today as Israel intensified operations in Palestinian territories while pursuing military coordination changes with Syria, Iran ramped up rhetoric against American sanctions, and the US navigated trade disputes with Canada amid domestic economic pressures. Key stories included Israeli gate installation isolating a Palestinian village, threat to expel Gaza residents over kites, and a Palestinian boy shot during an UNRWA raid, alongside a top ICC official urging Japan to resist US pressure on the court and the Kremlin claiming CIA leadership met Russian officials. The economic agenda featured US inflation holding above the Federal Reserve target at 3.7 percent, Iran's currency plummeting to new lows against the dollar, and predictions of sustained high energy costs through winter. Meanwhile, Syria proceeded with military restructuring following the Kurdish-led SDF's dissolution, China's Xi prepared regional visits, and humanitarian crises deepened across Gaza, Sudan, and Haiti as gang violence and conflict continued to displace populations.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Israeli forces install new gate, isolating Palestinian village",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss",
+      "desc": "Israeli forces installed gates around the home of Palestinian American Lou Ridi in Qusra, in the occupied West Bank.",
+      "pubDate": "Wed, 26 Aug 2026 19:09:38 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-20.03.59-1787771166.png?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+      "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
+      "desc": "SDF&#039;s dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.",
+      "pubDate": "Wed, 26 Aug 2026 18:19:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8f28d00fb33-1787766992.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump says Iran war will continue for as long as necessary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
+      "desc": "Trump says Iran war will continue for as long as necessary",
+      "pubDate": "Wed, 26 Aug 2026 18:07:37 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787767646.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US inflation holds at 3.7 percent in July, above Fed target",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
+      "desc": "Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.",
+      "pubDate": "Wed, 26 Aug 2026 17:28:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260824__C6DX7BT__v1__HighRes__SixMonthsSinceStartOfIranWar-1787595307.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran emphasises self-sufficiency in battle against US economic war",
+      "link": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss",
+      "desc": "Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead.",
+      "pubDate": "Wed, 26 Aug 2026 16:53:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8f0b3831d79-1787759416.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
+      "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss",
+      "desc": "Syria has been in talks on the fate of Khmeimim and Tartous bases, which Russia used to support ousted Assad regime.",
+      "pubDate": "Wed, 26 Aug 2026 16:27:42 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-28T105706Z_331303779_RC2BCHAREIC0_RTRMADP_3_RUSSIA-SYRIA-1769602008.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
       "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
@@ -14043,96 +14103,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN eyeing potential Israeli war crimes in Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
-      "desc": "High Commissioner Turk discusses displacement and trauma in Lebanon, asserting Israel is violating international law.",
-      "pubDate": "Mon, 27 Jul 2026 19:32:53 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a679dee-1785175534.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
-      "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat.",
-      "pubDate": "Mon, 27 Jul 2026 19:30:25 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/cbefd4f0-89e3-11f1-b2ab-0dd01740f9f6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Are the US and Iran heading towards a forever war?",
-      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
-      "desc": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
-      "pubDate": "Mon, 27 Jul 2026 18:40:34 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785177620.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
-      "desc": "UN High Commissioner for Human Rights Volker said that Lebanon&#039;s displaced endure ‘exhaustion and despair’.",
-      "pubDate": "Mon, 27 Jul 2026 18:28:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-27-at-19.23.27-1785176798.png?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "War on Iran: Phase II: Day 16",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
-      "desc": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
-      "pubDate": "Mon, 27 Jul 2026 17:57:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/clean-1-1785175020.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Burnham welcomes Zelenskyy as first international guest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
-      "desc": "Andy Burnham, Britain’s new prime minister, welcomed Ukrainian President Volodymyr Zelenskyy to the United Kingdom.",
-      "pubDate": "Mon, 27 Jul 2026 17:55:38 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785174890.jpg?resize=1748%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
-      "link": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
-      "desc": "Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.",
-      "pubDate": "Mon, 27 Jul 2026 17:41:46 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-09-11T141418Z_116592378_RC2EY9A8R8P4_RTRMADP_3_UKRAINE-CRISIS-USA-BLINKEN-1785162199.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
-      "link": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss",
-      "desc": "Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions.",
-      "pubDate": "Mon, 27 Jul 2026 17:36:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25324610594752-1763707825.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Shots fired at US consulate in Toronto for a second time this year",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-      "pubDate": "Mon, 27 Jul 2026 16:56:57 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bb/live/b02f9420-89da-11f1-a7ab-8b30adf0800a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
