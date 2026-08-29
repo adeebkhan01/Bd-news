@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T20:42:03.451Z",
-  "summary": "Australia's political landscape shifted Friday with One Nation securing a historic victory in the Western Australian Secret Harbour by-election, signalling a significant swing in voter sentiment. The nation's healthcare system remained under scrutiny, with multiple reports highlighting emergency department crises in Sydney where patients are enduring dangerous wait times and leaving without treatment. Environmental concerns dominated other coverage, from coastal erosion threatening popular beaches to experts warning that bird flu poses an unaddressed catastrophe for Australian wildlife. Economic pressures also featured prominently, with a major Sydney developer's $3.3 billion collapse sparking contagion fears across the housing sector and dairy farmers unable to find markets for their milk.",
+  "fetchedAt": "2026-08-29T23:07:28.978Z",
+  "summary": "One Nation has secured a historic victory in the Secret Harbour by-election in Western Australia, marking a significant political upset against Labor. Major domestic concerns dominating the news include Australia's stretched emergency department system, with reports highlighting three-night waits and patients leaving without finishing treatment, plus growing infrastructure challenges including runway incursions at airports and predicted beach erosion from rising tides. Several Australians remain missing in Nepal following a disaster in the Himalayan region, though one missing hiker has been found safe. The housing sector faces uncertainty following a major developer's $3.3 billion collapse, with experts warning of potential contagion effects across the industry.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Labor makes case for ‘big workforce’ at Brisbane City Council",
+      "link": "https://www.smh.com.au/national/queensland/labor-makes-case-for-big-workforce-at-brisbane-city-council-20260829-p60sni.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Leader Jared Cassidy has vowed to ditch the contractors and bring grass cutting, road repairs, and services back in-house if elected in 2028.",
+      "pubDate": "Sun, 30 Aug 2026 09:06:37 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.23492476851851848%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_158%2C$y_125/t_crop_custom/q_86%2Cf_auto/a885e0bfc02cf67be5528f19071099c33a26a0f3a7aba5ceda50272e1e1203ff",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘You can’t be what you can’t see’: Neha is putting NRLW on the map, one post at a time",
+      "link": "https://www.smh.com.au/business/small-business/you-can-t-be-what-you-can-t-see-neha-is-putting-nrlw-on-the-map-one-post-at-a-time-20260807-p60mb9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
+      "desc": "Female athletes are often sidelined in terms of media coverage, but 26-year-old Neha Kumar is determined to change that narrative.",
+      "pubDate": "Sun, 30 Aug 2026 09:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.242343460648148%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_281%2C$y_614/t_crop_custom/q_86%2Cf_auto/bcb030e702965c98ef72e50ee620b804f3749b54a9986db7e053f6613d195231",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
+      "desc": "<p>One Nation candidate Luke Herdegen secures 57% of the vote after preferences as party’s WA leader says result will send shock waves across the country</p><p>One Nation has claimed victory in the Se",
+      "pubDate": "Sat, 29 Aug 2026 22:29:43 GMT",
+      "img": "https://i.guim.co.uk/img/media/3e3cf0448660f5e084369101cb80369f69c1e465/0_0_6563_5253/master/6563.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Residents prepare to fight AI data centre approval",
+      "link": "https://www.abc.net.au/news/2026-08-30/ai-data-centre-tasmania-firmus-technology-george-town/107089468",
+      "desc": "A newly-formed group is preparing to lodge an appeal against a recent AI data centre approval, arguing the planning laws used to assess it are not fit for purpose.",
+      "pubDate": "Sat, 29 Aug 2026 22:24:50 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/841720787e116319fcac0b5f655cca57?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1299&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "One Nation thumps Labor to gain WA state seat of Secret Harbour at byelection",
+      "link": "https://theconversation.com/one-nation-thumps-labor-to-gain-wa-state-seat-of-secret-harbour-at-byelection-290620",
+      "desc": "Pauline Hanson’s party takes the outer-Perth seat from Labor in a win that will have the major parties worried.",
+      "pubDate": "2026-08-29T22:15:54Z",
+      "img": "https://images.theconversation.com/files/756842/original/file-20260829-50-wtvs0e.jpg?ixlib=rb-4.1.1&amp;rect=0%2C12%2C800%2C400&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "One Nation claims historic by-election win",
+      "link": "https://www.smh.com.au/national/one-nation-claims-historic-by-election-win-20260830-p60spw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "One Nation claims to have won the Western Australian seat of Secret Harbour, taking the seat off Labor in a massive swing.",
+      "pubDate": "Sun, 30 Aug 2026 07:48:47 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/f441d7361386ff97b0511b1ad96387916b27c662",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Police chase ends in crash",
+      "link": "https://www.smh.com.au/national/police-chase-ends-in-crash-20260830-p60spt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A police chase in Sydney’s north-west has ended when a Jeep allegedly speeding crashed into another car.",
+      "pubDate": "Sun, 30 Aug 2026 07:28:43 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/07e369c8c0416c71b6bee9a1df53782cae3ceee1",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Runway incursions on the rise across Australian airports, says expert",
+      "link": "https://www.abc.net.au/news/2026-08-30/runway-incursions-rise-across-australia-amid-sydney-airport-saga/107081170",
+      "desc": "An aviation researcher has identified a broader pattern of safety incidents increasing across Australian airports.",
+      "pubDate": "Sat, 29 Aug 2026 21:12:19 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/84adb552364794584ca2c19cb317fd8e?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=1613&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "Popular beach predicted to shrink by 12 metres as tides rise",
       "link": "https://www.abc.net.au/news/2026-08-30/horsehoe-bay-erosion-to-shrink-port-elliot-beach-sa/106995272",
@@ -36328,136 +36408,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "WA news LIVE: BHP workers set for new strike action as negotiations falter",
-      "link": "https://www.smh.com.au/national/western-australia/wa-news-live-bhp-workers-set-for-new-strike-action-as-negotiations-falter-20260731-p60k87.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Follow our live coverage of the day’s news here.",
-      "pubDate": "Fri, 31 Jul 2026 08:54:32 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.3539%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/fa58d01c345b3ccfac7fe8d4c96f02e7557a3fa0ada7da6b207b4f09bbccbd99",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Burst water main causes power outages and disruptions in Adelaide CBD",
-      "link": "https://www.abc.net.au/news/2026-07-31/burst-water-main-causes-disruptions-adelaide-cbd/106980254",
-      "desc": "A burst water main that flooded an electrical substation has caused power outages across the Adelaide CBD, affecting businesses, a hospital and a school.",
-      "pubDate": "Thu, 30 Jul 2026 22:40:30 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/51c6b138b36cb15038d188a45991dbc8?impolicy=wcms_crop_resize&amp;cropH=1536&amp;cropW=1152&amp;xPos=448&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Group of five armed with gun, baseball bats invade home in Brisbane’s west",
-      "link": "https://www.smh.com.au/national/queensland/group-of-five-armed-with-gun-baseball-bats-invade-inner-west-home-20260731-p60k88.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two people remain on the run after the home invaders struck just before 4am.",
-      "pubDate": "Fri, 31 Jul 2026 08:29:40 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.1561%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d65848be0a3c59084384bcae2df03c2f8750f243",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Months after $3.6b power line finished, NSW funds $225m upgrade",
-      "link": "https://www.abc.net.au/news/2026-07-31/south-west-rez-upgrade-underway/106961958",
-      "desc": "Just three months after Project EnergyConnect was completed $1.3 billion over budget, its builder Transgrid has been awarded a contract to upgrade the line.",
-      "pubDate": "Thu, 30 Jul 2026 22:12:42 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/47c01f3c43b5a3790c180942e592ed28?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=1701&amp;xPos=1681&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Paper mill cuts 84 jobs, blaming Victorian government for lack of timber",
-      "link": "https://www.abc.net.au/news/2026-07-31/maryvale-opal-australian-maryvale-paper-mill-job-cuts-84-timber/106980230",
-      "desc": "Opal Australian Paper has blamed the Victorian government for failing to secure timber supply to keep its Maryvale paper mill operating at full capacity.",
-      "pubDate": "Thu, 30 Jul 2026 22:04:55 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/35d7f215355eaab16ff510b255da9aae?impolicy=wcms_crop_resize&amp;cropH=3024&amp;cropW=2268&amp;xPos=440&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Australia news live: attorneys general meet to reform working with children checks; leaders gather for Garma festival",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-      "desc": "<p>Attorneys general meet in Darwin to work on nationalising the working with children check after serious allegations of safety breaches in childcare sector. Follow live</p><ul><li><p>Get our <a href",
-      "pubDate": "Thu, 30 Jul 2026 21:54:32 GMT",
-      "img": "https://i.guim.co.uk/img/media/736759d8e8c67b2ab7a990b70f96b917334b9785/273_0_3981_3187/master/3981.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Driver on the run after Sydney pursuit",
-      "link": "https://www.smh.com.au/national/driver-on-the-run-after-sydney-pursuit-20260731-p60k7g.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A driver is on the run after a police pursuit ended in a backyard in Sydney's north-west.",
-      "pubDate": "Fri, 31 Jul 2026 07:53:59 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8b0225126a4218a952ecb559870deedce4eb01d2",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Unions confirm new 24-hour strike against BHP",
-      "link": "https://www.abc.net.au/news/2026-07-31/ports-unions-give-bhp-notice-of-24-hour-strike-in-port-hedland/106977222",
-      "desc": "BHP is facing renewed industrial action at its Port Hedland operations in Western Australia, with unions planning a 24-hour strike against the mining giant on August 9.",
-      "pubDate": "Thu, 30 Jul 2026 21:45:55 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/7904731fc2f1a7e8b3d964c74d0fb24f?impolicy=wcms_crop_resize&amp;cropH=2851&amp;cropW=2138&amp;xPos=1068&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "ASX200 closes higher, ASIC sues auditors after First Guardian collapse — as it happened",
-      "link": "https://www.abc.net.au/news/2026-07-31/asx-markets-business-live-news-31-july-2026/104556762",
-      "desc": "Australian shares rose for a fourth consecutive month on Friday, and corporate regulator ASIC announced it is suing auditors linked to the collapsed First Guardian Master Fund.",
-      "pubDate": "Thu, 30 Jul 2026 21:45:50 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=724&amp;cropW=543&amp;xPos=32&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Luke Gosling facing growing calls to stand down after assault charges",
-      "link": "https://www.abc.net.au/news/2026-07-31/labor-luke-gosling-envoy-political-future-assault-charges/106977892",
-      "desc": "Labor's political opponents have lined up to call for the prime minister to force Solomon MP Luke Gosling to stand aside from his special envoy role after he was charged with assaulting the NT adminis",
-      "pubDate": "Thu, 30 Jul 2026 21:21:53 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/272b5cbad69348225b70b9d994022334?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=447&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Council charges couples 'Noosa tax' to marry by the beach",
-      "link": "https://www.abc.net.au/news/2026-07-31/couples-claim-council-charging-noosa-tax-for-beach-weddings/106948582",
-      "desc": "Wedding permit fees at Queensland's holiday hotspot have increased fivefold in just 12 years.",
-      "pubDate": "Thu, 30 Jul 2026 21:15:58 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/b944811b9520875fe3f5c36a8199e39b?impolicy=wcms_crop_resize&amp;cropH=1573&amp;cropW=1180&amp;xPos=590&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Live: Labor to crack down on NDIS providers claiming banned services",
-      "link": "https://www.abc.net.au/news/2026-07-31/federal-politics-live-blog-ndis-july-31/106980178",
-      "desc": "The federal government will crack down on dodgy NDIS providers claiming for banned services under the \"Other Professional\" support item. Follow live.",
-      "pubDate": "Thu, 30 Jul 2026 21:07:44 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/d34aca389ec3a33c602b22a47d682d44?impolicy=wcms_crop_resize&amp;cropH=3304&amp;cropW=2478&amp;xPos=1555&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "Wetlands are crucial food baskets for NZ’s native eels – new research",
-      "link": "https://theconversation.com/wetlands-are-crucial-food-baskets-for-nzs-native-eels-new-research-286126",
-      "desc": "Wetlands are increasingly appreciated for their role in flood prevention and as carbon sinks. But they also act as a crucial food source for the wider catchment.",
-      "pubDate": "2026-07-30T21:03:50Z",
-      "img": "https://images.theconversation.com/files/750132/original/file-20260726-57-xfralz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C313%2C3750%2C1875&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "sourceId": "conversationau",
-      "sourceName": "The Conversation AU",
-      "sourceColor": "#D8352A"
     }
   ]
 }
