@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T16:28:52.522Z",
-  "summary": "Global tensions are escalating on multiple fronts, with the US-Iran conflict intensifying maritime disputes and triggering secondary crises like Somali piracy, while Trump administration policies are reshaping international dynamics through oil deals with Venezuela and reported military aid cuts to Middle East partners. The Israeli-Palestinian conflict continues with documented settler violence and institutional actions against refugee assistance, as Ukraine absorbs fresh Russian strikes killing dozens near Kyiv. Environmental and domestic policy challenges are mounting across continents, from climate adaptation efforts to migration crises in Europe and trade tensions between North America, alongside political transitions in Iceland and Norway and judicial developments in US electoral politics.",
+  "fetchedAt": "2026-08-29T20:42:17.053Z",
+  "summary": "Global tensions remain elevated across multiple regions as geopolitical conflicts intensify. The Israel-Palestine situation dominates headlines with reported settler violence, military raids on refugee services, and casualties mounting in the West Bank and Gaza, while Ukraine faces sustained Russian attacks killing dozens near Kyiv and Turkey expresses concern over Black Sea operations. Significant political developments include Ecuador's sentencing of former presidents for corruption, Iceland's referendum on potential EU membership, and Trump administration policies reshaping international relations from Venezuela's oil reserves to military aid decisions in the Middle East. These concurrent crises underscore broader instability spanning Latin America, the Middle East, Eastern Europe, and North Africa, with economic and humanitarian consequences rippling globally.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "pubDate": "Sat, 29 Aug 2026 19:44:54 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/e3ac7010-a3d0-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+      "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+      "desc": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
+      "pubDate": "Sat, 29 Aug 2026 17:41:57 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T095622Z_1318981240_RC2X6NANNQAY_RTRMADP_3_BULGARIA-NATO-BLACK-SEA-1788024186_5d0d27-1788024278.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+      "desc": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+      "pubDate": "Sat, 29 Aug 2026 17:09:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-2808qusra-1788023283.png?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Niger military says it is regaining control after attempted mutiny",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+      "desc": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.",
+      "pubDate": "Sat, 29 Aug 2026 17:03:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788022898.jpg?resize=1920%2C1077&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
       "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
@@ -93,6 +133,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Serbia keeps EU, Russia in play ahead of key election",
+      "link": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-eu-2092-rdf",
+      "desc": "As Serbia heads toward an uncertain election, President Aleksandar Vucic is balancing ties with Russia and EU ambitions. But growing geopolitical tensions and pressure at home are narrowing his room t",
+      "pubDate": "2026-08-29T07:19:00Z",
+      "img": "https://static.dw.com/image/77740450_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
@@ -713,6 +763,16 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Ratko Mladic, the man behind Srebrenica massacre, dies at 84",
+      "link": "https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-eu-2092-rdf",
+      "desc": "For many, Ratko Mladic represented the horrors of the Bosnian war. He was convicted of genocide for the Srebrenica massacre and other war crimes. On Thursday, he died in detention at The Hague.",
+      "pubDate": "2026-08-27T19:28:00Z",
+      "img": "https://static.dw.com/image/78543935_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "The man behind Srebrenica: Ratko Mladic dies at 84",
@@ -13380,146 +13440,6 @@
       "desc": "Antonio Guterres’s successor will be tasked with revitalising an organisation in crisis and facing pressure to reform.",
       "pubDate": "Thu, 30 Jul 2026 20:54:48 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6bab686acd-1785441128.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Security camera shows ‘Russian missile’ exploding in Poland",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
-      "desc": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
-      "pubDate": "Thu, 30 Jul 2026 20:39:38 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Sequence-84.00_02_39_10.Still001-1785443910.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Pakistan coal mine explosion kills at least 11, traps dozens",
-      "link": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
-      "desc": "Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.",
-      "pubDate": "Thu, 30 Jul 2026 20:07:56 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6b9575150c-1785435509.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
-      "link": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss",
-      "desc": "Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.",
-      "pubDate": "Thu, 30 Jul 2026 19:57:43 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6b916180ac-1785434465.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "UN demands end of Ugandan clampdown on dissent",
-      "link": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
-      "desc": "Pervasive climate of fear condemned amid human rights violations and crackdowns on opposition.",
-      "pubDate": "Thu, 30 Jul 2026 18:52:34 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b85c7-1785431495.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "ABC News says FCC is carrying out intimidation campaign to shape coverage",
-      "link": "https://www.aljazeera.com/news/2026/7/30/abc-news-says-fcc-is-carrying-out-intimidation-campaign-to-shape-coverage?traffic_source=rss",
-      "desc": "Trump administration has frequently sought to pressure companies over coverage critical of the president and his allies.",
-      "pubDate": "Thu, 30 Jul 2026 18:51:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3bf74f8ec8-1782314831.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Turtle rescued from rubble a month after Venezuela earthquake",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss",
-      "desc": "A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued",
-      "pubDate": "Thu, 30 Jul 2026 18:15:11 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785435283.jpg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Spain will send troops to Ceuta to help with border security",
-      "link": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Authorities in the Spanish city of Ceuta asked Madrid to declare a national emergency and send military assistance. Crowds of people breached the border of the territory next to Morocco as police lost",
-      "pubDate": "2026-07-30T18:13:00Z",
-      "img": "https://static.dw.com/image/78183048_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
-      "link": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
-      "desc": "Climate change has helped southern Europe&#039;s likelihood of wildfires double since 1981, say researchers.",
-      "pubDate": "Thu, 30 Jul 2026 17:58:14 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b785d-1785428061.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-      "pubDate": "Thu, 30 Jul 2026 17:55:24 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Father of teen school shooter sentenced to 15 years in prison",
-      "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
-      "pubDate": "Thu, 30 Jul 2026 17:33:41 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af0/live/c2d87530-8c3f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-      "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac59/live/96fbf5d0-8c3b-11f1-89bb-9b3e3c6f25f4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal",
-      "pubDate": "Thu, 30 Jul 2026 16:47:40 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aae/live/be7e8ec0-8c30-11f1-89bb-9b3e3c6f25f4.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "In Their Own Hands: Ghana’s Drug Vigilantes",
-      "link": "https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss",
-      "desc": "Citizen vigilantes patrol Ghana&#039;s streets, fighting an opioid crisis. We meet those taking the law into their own hands.",
-      "pubDate": "Thu, 30 Jul 2026 16:30:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785412707.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "NATO jets scramble as Russian missile detonates in Poland",
-      "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
-      "desc": "The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.",
-      "pubDate": "Thu, 30 Jul 2026 16:28:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6b658beb08-1785423243.jpg?resize=1920%2C1440",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
