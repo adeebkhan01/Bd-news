@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T09:51:58.065Z",
-  "summary": "Western Australia's Secret Harbour byelection dominates political coverage, with Labor facing a significant challenge from One Nation following Paul Papalia's resignation, while Queensland politics sees the Coalition increasingly aligned with One Nation. Domestically, major stories include dairy farming families struggling to find markets for their milk, the release of Kathleen Folbigg who recently married after her exoneration, and serious concerns emerging at The Star casino following leaked documents. International developments include hundreds of deaths from Nepal's flash floods and the arrest of a man over a Brisbane shooting, alongside the usual mix of sports news, crime reports, and human interest stories.",
+  "fetchedAt": "2026-08-29T16:28:37.288Z",
+  "summary": "Australia's political landscape is in flux with One Nation securing a historic victory in the Western Australian by-election for Secret Harbour, a traditionally safe Labor seat that marks a significant shift in the state's electoral dynamics. Internationally, a devastating flash flood disaster in Nepal has killed hundreds with nearly two thousand missing, while four Victorians remain unaccounted for and a missing Australian hiker has been found safe. Domestically, other major stories include Kathleen Folbigg marrying her childhood friend following her release from jail, growing concerns over Australia's cost of living with dairy farmers struggling to find homes for their milk and chicken prices set to rise, and ongoing investigations into corporate misconduct with allegations against a former KPMG partner. The combination of One Nation's unexpected electoral breakthrough and the mounting humanitarian crisis in Nepal dominates the national conversation.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,116 @@
     }
   ],
   "articles": [
+    {
+      "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
+      "link": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
+      "desc": "<p>Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen received the Congressional Space Medal of Honor</p><p>The <a href=\"https://www.theguardian.com/science/artemis-ii\">Artemis II</a> astro",
+      "pubDate": "Sat, 29 Aug 2026 16:03:37 GMT",
+      "img": "https://i.guim.co.uk/img/media/019f4167d3d66d36a454b92c2a3b2d4d40c64dc7/1_1_6879_5503/master/6879.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "One Nation secures historic victory in Secret Harbour by-election",
+      "link": "https://www.abc.net.au/news/2026-08-30/one-nation-claims-win-secret-harbour-by-election/107094074",
+      "desc": "One Nation scores a historic win in Western Australia, securing its first lower house seat in the state.",
+      "pubDate": "Sat, 29 Aug 2026 14:20:20 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/1e6c31501e6b8982a4c1b0bfceccde7a?impolicy=wcms_crop_resize&amp;cropH=2000&amp;cropW=1500&amp;xPos=750&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Superquiz, Sunday, August 30",
+      "link": "https://www.smh.com.au/national/superquiz-sunday-august-30-20260828-p60sgb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "pubDate": "Sat, 29 Aug 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_285/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York respond to the Himalayan disaster",
+      "link": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
+      "desc": "<p>Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countries</p><p>Geeta Tamang was getting ready for bed when her aunts shared news that upende",
+      "pubDate": "Sat, 29 Aug 2026 13:43:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/02353dc915b654c004a1aa413898c0e0fccd91b3/0_0_3749_3000/master/3749.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
+      "link": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
+      "desc": "<p>Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living</p><p>For William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadi",
+      "pubDate": "Sat, 29 Aug 2026 12:02:55 GMT",
+      "img": "https://i.guim.co.uk/img/media/4cc7c8307861063f6bc1febda59dae2738baa58f/344_0_4700_3760/master/4700.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "US officials urge swimmers to be cautious amid surge in drowning deaths",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/us-swimmers-drowning-deaths-heatwave",
+      "desc": "<p>Recent deadly water-related incidents amid heatwave leads National Park Service to issue water-safety reminders</p><p>As a heatwave continues to bake the western and central US, officials are urgin",
+      "pubDate": "Sat, 29 Aug 2026 12:00:28 GMT",
+      "img": "https://i.guim.co.uk/img/media/f60eb6ce957614453856486dc51296a8e9083d69/193_0_3308_2646/master/3308.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
+      "link": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+      "desc": "<p>There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt</p><p>History remembers <a href=\"https://www.archives.gov/education/lessons",
+      "pubDate": "Sat, 29 Aug 2026 12:00:27 GMT",
+      "img": "https://i.guim.co.uk/img/media/9b895201b43db2d3264aa974f5b4d6794d283d75/0_0_2301_1842/master/2301.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Missing Aussie hiker found safe in Nepal",
+      "link": "https://www.smh.com.au/national/missing-aussie-hiker-found-safe-in-nepal-20260829-p60sol.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australian hiker Cara Severino, who was missing after the devastating flash flooding and landslides in Nepal, has been found safe and is being taken to Kathmandu.",
+      "pubDate": "Sat, 29 Aug 2026 21:10:12 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/290bd95b1600b550cb67718ebb508db4a4b21d29",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Counting begins in crucial by-election the whole country is watching",
+      "link": "https://www.smh.com.au/national/counting-begins-in-crucial-by-election-the-whole-country-is-watching-20260829-p60sok.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Labor fighting to hold onto Secret Harbour seat as One Nation hopes to pull off stunning upset that will make waves in Canberra.",
+      "pubDate": "Sat, 29 Aug 2026 21:06:54 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/45982dc163383fcd1d8495de15490255976e9727",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Family’s anxious wait for answers",
+      "link": "https://www.smh.com.au/national/family-s-anxious-wait-for-answers-20260829-p60soi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A Brisbane mother has shared her anguish as she anxiously waits to hear where her husband may be in the aftermath of the devastating flash flooding in Nepal.",
+      "pubDate": "Sat, 29 Aug 2026 21:00:22 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/fe35be0497b2bc556d8ba77e0e63920fa485f8b2",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Power, privilege, protection: Society has come to this",
+      "link": "https://www.smh.com.au/national/nsw/power-privilege-protection-society-has-come-to-this-20260823-p60qp1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Jacqueline Maley powerfully analyses the world of privilege and its impact on the attitudes that males emerging from that world have towards women.",
+      "pubDate": "Sat, 29 Aug 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.33110092592592594%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_444%2C$y_174/t_crop_custom/q_86%2Cf_auto/31457712402aabfcfaab6e3a0bb6f1d481f8278f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
     {
       "title": "Fourth-generation dairy farming family can’t find home for their milk",
       "link": "https://www.smh.com.au/national/fourth-generation-dairy-farming-family-can-t-find-home-for-their-milk-20260829-p60so1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -158,6 +268,16 @@
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
+      "link": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
+      "desc": "<p>As one of Europe’s biggest consumers of gas the UK may be particularly exposed to heightened price volatility</p><p>Europe is on course to enter the cooler months with gas stores at their lowest le",
+      "pubDate": "Sat, 29 Aug 2026 05:00:19 GMT",
+      "img": "https://i.guim.co.uk/img/media/c5ebfab77c83c07b4de057c1add8490c44148f59/122_0_3612_2891/master/3612.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Game, set, match: Players face eviction in north shore tennis stoush",
@@ -36445,206 +36565,6 @@
       "desc": "Former WA Regional Development Minister Alannah MacTiernan and former Fisheries Minister Dave Kelly have appeared in court.",
       "pubDate": "Fri, 31 Jul 2026 03:00:00 +1000",
       "img": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/q_86%2Cf_auto/916b7e4372e02309b6f23a267152a8b102f43229884e1dede507185e67e1ff25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Governor general warns of ‘growing catastrophe’ that threatens to undermine democracy in Australia",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/31/governor-general-warns-of-growing-catastrophe-that-threatens-to-undermine-democracy-in-australia-ntwnfb",
-      "desc": "<p>Sam Mostyn says there is a widespread ‘failure to understand and engage with and feel proud of the very civic underpinnings of our democracy’</p><ul><li><p>Get our <a href=\"https://www.theguardian.",
-      "pubDate": "Thu, 30 Jul 2026 15:00:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/6b5cec8ed4c21aa5b9f7d75e22ce9cfa7bcbe877/830_133_6660_5331/master/6660.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Icac revelations have left Angus Taylor’s colleagues anxious – and his factional enemies angry",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/31/icac-revelations-have-left-angus-taylors-colleagues-anxious-and-his-factional-enemies-angry",
-      "desc": "<p>The opposition leader is the highest-profile person mentioned so far at the NSW anti-corruption commission – and the political figure with the most to lose</p><ul><li><p>Get our <a href=\"https://ww",
-      "pubDate": "Thu, 30 Jul 2026 15:00:17 GMT",
-      "img": "https://i.guim.co.uk/img/media/ff9fbf4f443c163677a7b472f25f29b9efd19554/399_0_4195_3356/master/4195.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Superquiz, Friday, July 31",
-      "link": "https://www.smh.com.au/national/superquiz-friday-july-31-20260730-p60jyq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
-      "pubDate": "Thu, 30 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_285/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
-      "link": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
-      "desc": "<p>Consumer spending remained resilient even as policymakers kept interest rates on hold</p><p>The <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> expanded at a sluggish 1.5% p",
-      "pubDate": "Thu, 30 Jul 2026 13:21:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/488d1c23f97481827763e23677a9db062505ac56/586_0_5861_4691/master/5861.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Europe burns: a visual guide to the wildfires",
-      "link": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
-      "desc": "<p>Ferocious flames continue to rage in parts of France and Spain, with no sign of abating. We chart the destruction in graphics and pictures</p><p>The hellish infernos that have torn through parts of",
-      "pubDate": "Thu, 30 Jul 2026 13:00:15 GMT",
-      "img": "https://i.guim.co.uk/img/media/d4ea3c0184899653b60050ef9031da256e9cc70d/479_0_5565_4453/master/5565.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "link": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "desc": "<p>Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service</p><p>The recent deaths of 15 elephants near a park in southern Kenya in the past m",
-      "pubDate": "Thu, 30 Jul 2026 12:46:50 GMT",
-      "img": "https://i.guim.co.uk/img/media/8a229e914e527ca2c03aa7e248aa1ddf24ea0d3e/278_50_4532_3627/master/4532.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Families to be moved out of billionaire-owned tower after suffering without air con",
-      "link": "https://www.theguardian.com/uk-news/2026/jul/30/families-in-london-fighting-to-keep-cool-amid-air-con-dispute-with-local-councils",
-      "desc": "<p>Several councils to stop housing tenants in glass-fronted Britannia Point in London, where tenants were earlier told they could not use air con</p><p>As the <a href=\"https://www.theguardian.com/uk-",
-      "pubDate": "Thu, 30 Jul 2026 12:39:45 GMT",
-      "img": "https://i.guim.co.uk/img/media/c9999b22ea77f646d53c7bb2a914270bfb9f7a55/657_0_6545_5239/master/6545.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Film favourite The Castle is returning as what? Take the Brisbane Times Quiz",
-      "link": "https://www.smh.com.au/national/queensland/film-favourite-the-castle-is-returning-as-what-take-the-brisbane-times-quiz-20260730-p60jyb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Get into the vibe of the week’s big stories with a quick current affairs catch-up.",
-      "pubDate": "Thu, 30 Jul 2026 21:25:33 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.6814743296334439%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_115%2C$y_76/t_crop_custom/q_86%2Cf_auto/9d5bb423dfda0aedf2806ac72784046b1f949694",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
-      "link": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
-      "desc": "<p>Split vote comes as Iran war is rekindled and oil price climbs back above $90 a barrel</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-h",
-      "pubDate": "Thu, 30 Jul 2026 11:00:52 GMT",
-      "img": "https://i.guim.co.uk/img/media/53cf458a65df5b5937800d8d1b053a84f8abfbbf/698_0_6432_5147/master/6432.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Let them eat SUVs: Trump White House orders fleet of luxury cars as Americans struggle",
-      "link": "https://www.theguardian.com/us-news/2026/jul/29/trump-general-motors-escalades",
-      "desc": "<p>Americans are facing a deepening affordability crisis but at least Trump and co have ... 250 new Cadillac Escalades</p><ul><li><p>This was originally published in This Week in Trumpland. <a href=\"h",
-      "pubDate": "Thu, 30 Jul 2026 11:00:13 GMT",
-      "img": "https://i.guim.co.uk/img/media/16d8beffb7358d0bf623e554a1b6b9abcaa5c37e/586_0_6889_5510/master/6889.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Europe is burning – and if Trump’s war on the climate is not met with sanctions, things will only get worse | Alexander Hurst",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house",
-      "desc": "<p>The White House seems committed to ecocide. The EU should harness the power of the single market to force it to change course</p><p>Are we understanding it yet? As Europe burns in the west, the sou",
-      "pubDate": "Thu, 30 Jul 2026 11:00:12 GMT",
-      "img": "https://i.guim.co.uk/img/media/8308ebbe0e5aed3eabcc5662010311f58f6283bc/668_0_6683_5346/master/6683.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Launching a myth",
-      "link": "https://www.smh.com.au/national/nsw/launching-a-myth-20260730-p60jw1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Helen’s PR spin sinks the real numbers.",
-      "pubDate": "Thu, 30 Jul 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_51/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Man stabbed, critically injured in suburban fight",
-      "link": "https://www.smh.com.au/national/queensland/man-stabbed-critically-injured-in-suburban-fight-20260730-p60k5i.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Police were called to the disturbance involving a group of people at a Jindalee address before 4pm.",
-      "pubDate": "Thu, 30 Jul 2026 20:51:52 +1000",
-      "img": "https://static.ffx.io/images/$zoom_2.1061488122512424%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_20/t_crop_custom/q_86%2Cf_auto/68983f3245a642ffad941f246a64e40c55ef5916c666ea7b1abbbac98241248d",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Substantial’ evidence against man who allegedly murdered Kumanjayi Little Baby",
-      "link": "https://www.smh.com.au/national/substantial-evidence-against-man-who-allegedly-murdered-kumanjayi-little-baby-20260730-p60k60.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Prosecutors are continuing to build what they say is a substantial brief of evidence against the man accused of murdering five-year-old Kumanjayi Little Baby.",
-      "pubDate": "Thu, 30 Jul 2026 20:38:58 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/0a6f5172798d5fb2506add6e51d522005db9537c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "England on track for record heat-related deaths this summer, official data shows",
-      "link": "https://www.theguardian.com/environment/2026/jul/30/excess-deaths-caused-by-heatwaves-in-england-almost-double-so-far-this-year",
-      "desc": "<p>UKHSA estimates 2,877 fatalities during heatwaves in May and June, almost twice that recorded in 2025 season</p><p>England is on track to record its highest ever number of heat-related deaths this ",
-      "pubDate": "Thu, 30 Jul 2026 10:33:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/1ad57c198136179ec0f8ff7e899a87cfca3ff20a/331_0_4242_3394/master/4242.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Boy facing charges after allegedly tearing through the streets of Perth",
-      "link": "https://www.smh.com.au/national/boy-facing-charges-after-allegedly-tearing-through-the-streets-of-perth-20260730-p60k67.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A 16-year-old boy is facing serious charges after a wild night allegedly tearing through the streets of Perth.",
-      "pubDate": "Thu, 30 Jul 2026 20:24:13 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2ba6c57405eeb043446a5ccf6501470e015f2ace",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Inside police operation to halt stolen car chase",
-      "link": "https://www.smh.com.au/national/inside-police-operation-to-halt-stolen-car-chase-20260730-p60k65.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "It was a reckless pursuit through the streets of Perth ending with pedestrians fleeing as a stolen car was driven onto Scarborough Beach.",
-      "pubDate": "Thu, 30 Jul 2026 20:19:39 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3703350ed8966d218df3c1976630f86a7e98426a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "WA's worst paedophile to be given taxpayer-funded housing",
-      "link": "https://www.smh.com.au/national/was-worst-paedophile-to-be-given-taxpayer-funded-housing-20260730-p60k66.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The WA premier says his hands are tied over the decision to provide taxpayer-funded housing to the state’s worst paedophile upon his release.&#xA;",
-      "pubDate": "Thu, 30 Jul 2026 20:18:32 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/3d46619d9d316f515f1a8a4697e7c0b8cec1751c",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "'Take them seriously': CFMEU administrator on Setka threats",
-      "link": "https://www.abc.net.au/news/2026-07-30/cfmeu-adminstrator-on-setka-threats-royal-commission/106979150",
-      "desc": "CFMEU administrator Michael Crosby has opened up on threats from John Setka, cast doubt on a statement made by former Victorian premier Jacinta Allan and questioned the value of royal commissions,",
-      "pubDate": "Thu, 30 Jul 2026 10:10:09 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/4f1fb19baee063d6a872241ddda1a44b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=810&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "The image problem facing zip-off trousers and other university research",
-      "link": "https://www.smh.com.au/national/the-image-problem-facing-zip-off-trousers-and-other-university-research-20260722-p60hhp.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Analysis shows Australian research has grown by 579 per cent since 2000, with a quarter of papers being cited three times over a five-year period.",
-      "pubDate": "Thu, 30 Jul 2026 19:56:55 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/df46be33016eaedc87d5b7d39d42b9a074043bef7df2faa246c1161507140ae6",
       "sourceId": "smh",
       "sourceName": "Sydney Morning Herald",
       "sourceColor": "#0A5CA8"
