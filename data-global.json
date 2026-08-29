@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T01:34:27.569Z",
-  "summary": "Major geopolitical tensions are escalating as a US-Iran conflict enters its seventh month, with disputes over Middle Eastern oil and strait control intensifying, while Trump's administration pursues aggressive domestic and trade policies including a deal to control Venezuelan oil reserves and tariffs against Canada that risk triggering recession. Regional crises are mounting across multiple fronts, from the Israeli-Palestinian conflict claiming civilian lives in Jenin and the West Bank to migration pressures in Spain's Ceuta enclave and Somalia seeing a resurgence in piracy amid broader instability. On the home front, Trump faces legal challenges over his hush-money case and alleged retaliation against Anthropic, while domestic issues from water shortages in England to trade wars with key allies demand attention. Norway's King Harald V died at 89, marking the end of a significant reign during a period of family turbulence, though this represents a more measured transition compared to the volatility dominating international affairs.",
+  "fetchedAt": "2026-08-29T09:52:12.404Z",
+  "summary": "Global tensions remain elevated as military conflicts intensify across multiple regions, with strikes near Kyiv killing at least 27 people and US-Iran hostilities continuing to destabilize shipping routes and the Middle East. The Trump administration is making aggressive moves on multiple fronts, including announcing a major oil deal with Venezuela, signing orders to establish a Space Academy, and facing legal challenges over various policy decisions. Several countries are holding or preparing for significant political votes, including Iceland on EU membership and Guinea-Bissau on presidential powers, while migration crises are triggering civil unrest in Spain and Europe. Economic concerns are mounting with trade tensions between the US and Canada threatening recession, energy prices rising across Europe, and multiple governments grappling with inflation and resource challenges.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+      "pubDate": "Sat, 29 Aug 2026 09:38:07 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b158/live/7c1ad170-a38b-11f1-9e7c-cb942f2e97d9.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a5/live/93e36020-a371-11f1-8aa3-a98eb3d25957.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
+      "link": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
+      "desc": "Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.",
+      "pubDate": "Sat, 29 Aug 2026 05:18:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T203844Z_416666622_RC247NA0CW9I_RTRMADP_3_ICELAND-EU-1787945315.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
+      "desc": "US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.",
+      "pubDate": "Sat, 29 Aug 2026 04:16:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787976936.jpg?resize=1920%2C1079&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ecuador sentences ex-president Moreno to five years in jail in bribery case",
+      "link": "https://www.aljazeera.com/news/2026/8/29/ecuador-sentences-ex-president-moreno-to-five-years-in-jail-in-bribery-case?traffic_source=rss",
+      "desc": "Lenin Moreno, 73, has also been permanently barred from holding any public office in the future.",
+      "pubDate": "Sat, 29 Aug 2026 03:48:25 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a92426c2c46-1787970156.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Guinea-Bissau votes on a stronger presidency: What’s at stake?",
+      "link": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
+      "desc": "The proposed constitution would give the president more power and reshape parliament and elections.",
+      "pubDate": "Sat, 29 Aug 2026 02:38:27 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp_69230701ae69-1763903233.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+      "link": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
+      "desc": "US president says deal secures majority control of more than 65 billion barrels of proven oil reserves in Venezuela.",
+      "pubDate": "Sat, 29 Aug 2026 02:32:51 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/12/getty_6955860136-1767212545.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
@@ -13543,156 +13613,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Virtual interviews don't show bosses your personality, says Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
-      "pubDate": "Thu, 30 Jul 2026 09:48:21 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/ef68bc30-8beb-11f1-9127-6b0fc0b6fa67.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Apartheid wealth cannot buy silence on Gaza",
-      "link": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
-      "desc": "South African universities must resist donors who use financial power to impose political obedience.",
-      "pubDate": "Thu, 30 Jul 2026 09:24:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b17e2-1785403362.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
-      "link": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
-      "pubDate": "Thu, 30 Jul 2026 09:17:18 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91c/live/b9fc7600-8b54-11f1-8322-5bf52455cf04.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
-      "link": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
-      "desc": "US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.",
-      "pubDate": "Thu, 30 Jul 2026 09:17:06 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6b0ab9-1785399993.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-      "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
-      "desc": "Rights group says India continues to support the Israeli military despite genocide &#039;broadcast worldwide on daily basis&#039;.",
-      "pubDate": "Thu, 30 Jul 2026 07:13:24 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20180115__WO7WH__v1__HighRes__IndiaIsraelPoliticsDiplomacy-1-1771837604.jpg?resize=1833%2C1080",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Shell profits double as oil prices rise due to Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
-      "pubDate": "Thu, 30 Jul 2026 07:11:44 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd5/live/6ade7670-8be2-11f1-9d57-5bf4695bf6fa.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Can the UN’s Refugee Convention survive?",
-      "link": "https://www.aljazeera.com/features/2026/7/30/can-the-uns-refugee-convention?traffic_source=rss",
-      "desc": "The 1951 UN Refugee Convention marks its 75th anniversary this week but is facing anti-migration sentiment in the West.",
-      "pubDate": "Thu, 30 Jul 2026 07:06:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP123635777841-1785400002.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The US military says it launched a \"heavy\" attack on Iran in retaliation for attempted Iranian ballistic missile strikes on American forces.",
-      "pubDate": "Thu, 30 Jul 2026 05:36:27 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "War and shortages push Gaza hospitals to breaking point",
-      "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
-      "desc": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
-      "pubDate": "Thu, 30 Jul 2026 05:21:15 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-01T100015Z_2032851731_RC2WCJA3KVLF_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1784803297.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Butterflies thrive in micro-reserve garden",
-      "link": "https://www.bbc.co.uk/news/articles/cy45ng9352xo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Typical gardens would only have between five and 10 different species of butterfly.",
-      "pubDate": "Thu, 30 Jul 2026 05:00:28 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec7/live/c4c6bb10-8b57-11f1-8322-5bf52455cf04.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Evo Morales defiant after new Bolivia arrest warrant",
-      "link": "https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss",
-      "desc": "Bolivia&#039;s former president is being investigated &#039;for armed uprising&#039; against the state, among other things.",
-      "pubDate": "Thu, 30 Jul 2026 04:27:22 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6a983ee44c-1785370686.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss",
-      "desc": "Southern Lebanon’s Mansouri village is divided by Israel&#039;s Yellow Line, a military boundary separating area it occupies.",
-      "pubDate": "Thu, 30 Jul 2026 02:45:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785379506.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-      "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
-      "pubDate": "Thu, 30 Jul 2026 02:36:53 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c653/live/f6fd7a60-8b8e-11f1-9432-3dcf466331f0.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "The once-destroyed community that's now a global energy giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "A US county wiped out by a hurricane is now the world's largest exporter of liquified natural gas.",
-      "pubDate": "Thu, 30 Jul 2026 02:08:24 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5640/live/ba845670-8a5e-11f1-b6c7-397f42881d1e.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
-      "link": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
-      "desc": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada&#039;s TMX crude oil.",
-      "pubDate": "Thu, 30 Jul 2026 01:42:30 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a6aa3b9-1785373625.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
