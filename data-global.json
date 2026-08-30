@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T23:07:45.341Z",
-  "summary": "Global tensions are escalating across multiple regions as conflicts intensify and economic pressures mount. Russia's continued strikes on Ukraine have killed dozens near Kyiv while Iran acknowledges the economic strain of regional conflict, and the US-Venezuela oil deal signals major geopolitical shifts with implications for energy markets and international relations. In the Middle East, escalating violence between Israeli forces and Palestinians in the West Bank continues alongside maritime tensions in the Persian Gulf, where Somali piracy is surging amid US-Iran confrontations. Meanwhile, political transitions are underway in Iceland over EU membership prospects and Norway following King Harald's death, while trade friction between the US and Canada threatens economic stability and has prompted Canadian universities to recruit American researchers.",
+  "fetchedAt": "2026-08-30T04:37:02.737Z",
+  "summary": "Global tensions are escalating across multiple fronts as geopolitical fractures widen. The Middle East remains the flashpoint, with escalating Iran-US confrontation over the Strait of Hormuz, intensifying Israeli-Palestinian violence in the occupied West Bank, and attacks on Ukrainian infrastructure reaching civilian areas near Kyiv that killed dozens. Iceland faces a pivotal referendum on EU membership talks while Myanmar's military gains ground through air raids and forced conscription, and the Trump administration announced a massive oil deal with Venezuela while deporting an Afghan ally and facing legal challenges at home. Economic and environmental pressures are mounting globally, from water scarcity in England to climate threats to coral reefs, alongside migration crises in Spain and instability in West Africa.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
+      "link": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
+      "desc": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
+      "pubDate": "Sun, 30 Aug 2026 04:28:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-13T160233Z_1326698443_RC2QGJA8IX43_RTRMADP_3_MYANMAR-CONFLICT-1788064239_efe15f-1788064283.jpg?resize=1200%2C630&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "pubDate": "Sun, 30 Aug 2026 03:57:01 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
+      "link": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
+      "desc": "Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.",
+      "pubDate": "Sun, 30 Aug 2026 03:51:26 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a939c5058-1788058704.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US deports relative of Afghans who aided military to Africa",
+      "link": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
+      "desc": "Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.",
+      "pubDate": "Sun, 30 Aug 2026 03:10:06 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a230ef0a9b19-1780682480.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+      "desc": "Deputy foreign minister says Iranian forces have &#039;full oversight&#039; of movements in the strait.",
+      "pubDate": "Sun, 30 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-26T175531Z_522263067_RC2E6NAZZC5E_RTRMADP_3_IRAN-CRISIS-HORMUZ-1-1787809828.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israeli settlers attack international news team in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+      "desc": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+      "pubDate": "Sat, 29 Aug 2026 23:48:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788053321.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Voting closes in Iceland’s knife-edge EU referendum",
+      "link": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
+      "desc": "Iceland&#039;s leadership has promised to honour whatever the country&#039;s people decide.",
+      "pubDate": "Sat, 29 Aug 2026 23:33:03 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a9362a636f2-1788043942.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Ukrainian nuclear power plant without external power for over a week",
+      "link": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
+      "desc": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
+      "pubDate": "Sat, 29 Aug 2026 23:25:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a935868db-1788041320.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
       "link": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
@@ -13293,126 +13373,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
-      "pubDate": "Fri, 31 Jul 2026 04:25:49 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db1/live/201701f0-8c7f-11f1-8972-83c327826a89.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems",
-      "link": "https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss",
-      "desc": "The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.",
-      "pubDate": "Fri, 31 Jul 2026 04:02:03 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-30T232533Z_1680869369_RC2UNLA4ZYRG_RTRMADP_3_ANTHROPIC-CYBERSECURITY-1785469171.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israeli blockades seal off village in the occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
-      "desc": "Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances",
-      "pubDate": "Fri, 31 Jul 2026 03:35:52 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-04.31.10-1785468820.png?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why a MAGA influencer’s shift to support Ukraine war is good for Trump",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-a-maga-influencers-shift-to-support-ukraine-war-is-good-for-trump?traffic_source=rss",
-      "desc": "One of the most prominent pro-Trump influencers, Laura Loomer, just made a major shift in her stance on Ukraine.",
-      "pubDate": "Fri, 31 Jul 2026 03:08:59 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785467303.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israeli soldiers mutiny at notorious Sde Teiman base",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss",
-      "desc": "Dozens of Israeli soldiers have abandoned their weapons and walked out of the Sde Teiman military base.",
-      "pubDate": "Fri, 31 Jul 2026 01:43:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785462208.jpg?resize=1918%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Three things we learned about AI from Big Tech earnings",
-      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-      "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Anthropic says Claude AI hacked three firms during cyber tests",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-      "pubDate": "Fri, 31 Jul 2026 01:31:14 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Spain deploys military to Ceuta after deadly migrant surge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss",
-      "desc": "Spain has deployed its military to Ceuta after thousands of migrants overwhelmed police barricades.",
-      "pubDate": "Fri, 31 Jul 2026 01:29:12 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-02.23.59-1785461168.png?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
-      "desc": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
-      "pubDate": "Fri, 31 Jul 2026 00:03:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-29T073301Z_1360096356_RC2INMA7BR39_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1785392659.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
-      "desc": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
-      "pubDate": "Thu, 30 Jul 2026 23:51:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-00.45.14-1785455315.png?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
-      "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Shares of Apple plunged on a warning of slower sales in the coming months.",
-      "pubDate": "Thu, 30 Jul 2026 23:25:42 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a0d/live/81d2aa70-8c52-11f1-ba3e-21e9a16dd8e9.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "US appeals court rejects Trump expansion of mandatory migrant detention",
-      "link": "https://www.aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention?traffic_source=rss",
-      "desc": "Appeals court rules that the Trump administration cannot deny detained migrants the chance for release on bond.",
-      "pubDate": "Thu, 30 Jul 2026 23:24:10 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2022/09/AP22270000869079.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
