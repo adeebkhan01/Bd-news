@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T20:47:56.805Z",
-  "summary": "Global tensions are escalating across multiple fronts as Venezuela faces pressure from a US oil deal amid claims it retains sovereignty, while the Middle East remains volatile with Iran acknowledging economic strain from conflict and Israeli settler violence intensifying in the occupied West Bank. Ukraine continues absorbing devastating Russian strikes, including a warehouse attack near Kyiv that killed at least 37 people, while a nuclear power plant operates without external power. Iceland held a closely contested referendum on EU accession, and Libya's rival factions agreed to hold elections within two years, signaling potential political progress in one conflict zone. Meanwhile, diplomatic initiatives continue elsewhere as Turkish and Saudi officials prepare talks, and NASA's launch of the Roman Telescope reflects ongoing scientific ambitions despite broader geopolitical turbulence.",
+  "fetchedAt": "2026-08-30T23:18:40.365Z",
+  "summary": "Global tensions are intensifying across multiple regions, with Venezuela's government asserting sovereignty despite a new US oil deal while Iran and its allies escalate military posturing in the Gulf. Political instability remains acute from West Africa to the Middle East, where Guinea-Bissau holds a presidential powers referendum, Libya's rival factions seek reconciliation through elections, Niger's military repelled an attempted coup, and Israeli settlers continue violent confrontations with Palestinians in the occupied West Bank amid broader regional conflict. Scientific advancement continues with NASA launching its 4.3 billion dollar Roman Telescope to explore deep space mysteries, though environmental crises persist as climate-driven heatwaves threaten ecosystems and a ferry capsizing near Cyprus killed at least seven people. Domestically, Iceland's EU referendum vote remains exceptionally tight as counting proceeds, while the Trump administration reshuffles oil reserves strategy and renames geographic features through executive action.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
+      "desc": "Ten months after a coup, military leaders say the referendum is designed to stabilise future civilian governments.",
+      "pubDate": "Sun, 30 Aug 2026 23:08:01 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a94abe22940-1788128226.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "pubDate": "Sun, 30 Aug 2026 22:14:37 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
     {
       "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
@@ -13263,26 +13283,6 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
-      "desc": "Israeli settlers vandalise Palestinian cemetery in West Bank",
-      "pubDate": "Fri, 31 Jul 2026 22:12:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785535958.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-      "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-      "pubDate": "Fri, 31 Jul 2026 21:57:59 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
     }
   ]
 }
