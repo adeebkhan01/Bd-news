@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T11:34:53.477Z",
-  "summary": "Major geopolitical tensions are escalating across multiple regions as Israel-Iran hostilities intensify, with strikes affecting Gulf energy infrastructure and raising global oil concerns, while settler violence against Palestinians continues in the occupied West Bank. The Trump administration is making bold diplomatic moves, announcing a major oil deal with Venezuela and deporting individuals deemed security risks, signaling a more assertive foreign policy posture. European politics is in flux with Iceland holding a closely contested referendum on EU accession talks and Serbia balancing relationships between Brussels and Moscow ahead of elections. Humanitarian crises are worsening in conflict zones from Gaza to Ukraine, where fresh Russian attacks near Kyiv killed dozens and a nuclear facility lost external power, while Myanmar's military is consolidating control through intensified operations.",
+  "fetchedAt": "2026-08-30T16:22:08.823Z",
+  "summary": "Global energy politics dominated headlines as the Trump administration announced plans to refill US petroleum reserves using Venezuelan oil despite ongoing tensions, while Iran's military strikes on regional energy infrastructure threatened Gulf oil supplies and prompted broader Middle East instability. In Europe, Iceland rejected EU accession talks in a closely contested referendum, marking a significant political shift, while NATO-adjacent nations like Ukraine faced escalating Russian attacks with at least 37 killed in a strike near Kyiv and ongoing power infrastructure threats. Governance crises emerged across multiple regions including Niger's military containing a mutiny attempt, FIFA ordering leadership transitions by 2027, and Ecuador imprisoning a former president on corruption charges. Humanitarian concerns mounted with a ferry capsizing off Northern Cyprus killing at least seven people and Israeli-Palestinian tensions intensifying through settler violence and military operations affecting civilian populations.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
+      "link": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
+      "desc": "President Donald Trump says in a post that the &#039;topping out&#039; process will ‌begin shortly.",
+      "pubDate": "Sun, 30 Aug 2026 15:50:45 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a944fd53d194-1788104661.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "pubDate": "Sun, 30 Aug 2026 15:28:08 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "EU wants drones to spray pesticides — but it could backfire",
+      "link": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss_en_science-22531-xml-mrss",
+      "desc": "The EU wants to lift a decades-old ban on spraying pesticides from the air, allowing drones to be used for greater precision. But experts warn the plan could lead to even more pesticides being used in",
+      "pubDate": "Sun, 30 Aug 2026 15:11:00 GMT",
+      "img": "https://static.dw.com/image/78493355_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
+      "title": "Iceland votes to reject EU accession talks: What happens next?",
+      "link": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
+      "desc": "The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
+      "pubDate": "Sun, 30 Aug 2026 13:37:54 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26241525119272-1788096865.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Niger’s military-led government says it contained mutiny: What next?",
+      "link": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss",
+      "desc": "Mutiny began at a military base in Niamey and spread to area near the presidential palace and state broadcaster.",
+      "pubDate": "Sun, 30 Aug 2026 13:01:20 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a94293e-1788094782.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Infantino must go by 2027 in FIFA overhaul, Dutch football body says",
+      "link": "https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss",
+      "desc": "KNVB invites associations and confederations to a summit to discuss the overhaul of FIFA and how it runs football.",
+      "pubDate": "Sun, 30 Aug 2026 12:06:57 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-07-13T170951Z_2080277770_UP1EL7D1BOE6A_RTRMADP_3_SOCCER-CLUB-CHE-PSG-1788089564.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "At least seven people dead after ferry capsizes off Northern Cyprus",
+      "link": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
+      "desc": "Northern Cyprus Prime Minister Unal Ustel says 237 people rescued and 23 people remain missing.",
+      "pubDate": "Sun, 30 Aug 2026 11:52:12 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-30T115323Z_77463365_RC2Z8NA97JB2_RTRMADP_3_CYPRUS-VESSEL-CAPSIZE-1788091597.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
       "link": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss",
@@ -13220,86 +13290,6 @@
       "desc": "Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.",
       "pubDate": "Fri, 31 Jul 2026 16:52:04 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-31T085504Z_1086036890_RC2EQLA5ZO6Q_RTRMADP_3_HEALTH-EBOLA-1785508479.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss",
-      "desc": "Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation.\"",
-      "pubDate": "Fri, 31 Jul 2026 16:17:59 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785514645.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Budget to be held in October, Healey announces",
-      "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
-      "pubDate": "Fri, 31 Jul 2026 15:58:42 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Russia and Ukraine report casualties as they continue to trade attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss",
-      "desc": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
-      "pubDate": "Fri, 31 Jul 2026 14:22:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6c9fb414d4-1785503668.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
-      "pubDate": "Fri, 31 Jul 2026 14:20:18 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/3f125d00-8cea-11f1-b1ae-d9d901a2754c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Spain deploys military to Ceuta after migrant surge: What we know",
-      "link": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know?traffic_source=rss",
-      "desc": "At least 34 people reported killed trying to cross into the Spanish enclave bordering Morocco.",
-      "pubDate": "Fri, 31 Jul 2026 13:52:05 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6c964699fa-1785501254.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "FIFA World Cup plan: Infantino tackles UEFA and global game – all to know",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss",
-      "desc": "Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino&#039;s private investment plan.",
-      "pubDate": "Fri, 31 Jul 2026 13:06:07 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26211607511071-1785483714.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Humanoid robots: Trump's latest China trade battle?",
-      "link": "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-bus-2091-rdf",
-      "desc": "The US has banned foreign-made humanoid robots, a market Chinese tech firms dominate. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers ",
-      "pubDate": "2026-07-31T13:06:00Z",
-      "img": "https://static.dw.com/image/78184502_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "Palestinians in Gaza react to latest ceasefire deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
-      "desc": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
-      "pubDate": "Fri, 31 Jul 2026 12:59:48 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785502725.jpg?resize=1630%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"

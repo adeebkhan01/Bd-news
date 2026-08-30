@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T11:34:40.103Z",
-  "summary": "One Nation has secured its first parliamentary seat in Western Australia after winning a byelection in Secret Harbour, a result that has alarmed the Prime Minister and prompted both major parties to examine how they lost voters to the far-right party. A shark attack victim, Leah Stewart, survived a harrowing incident with help from strangers, highlighting a remarkable story of community heroism amid the tragedy. Meanwhile, Australia faces mounting economic pressures with record numbers of small businesses drowning in debt and Catholic schools warning of significant fee increases as teachers demand better pay. Teachers and doctors are also expressing concerns about being pushed out by systemic failings, while broader issues from housing density in Perth to environmental regulations in Queensland reflect widespread anxiety about cost of living and quality of life.",
+  "fetchedAt": "2026-08-30T16:21:52.737Z",
+  "summary": "One Nation has secured its first seat in Western Australian parliament in a historic byelection result that has alarmed the Prime Minister and sparked reflection across Labor and Liberal ranks about voter discontent. The surge in far-right support reflects a political moment where anger over issues like datacenters and cost of living has fragmented traditional voting patterns. Major domestic stories also include negotiations over Catholic school fee increases, a shark attack survivor's dramatic rescue in South Australia, and ongoing concerns about small business debt levels. International coverage includes continuing consequences from devastating Nepal floods and environmental crises in Britain.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "The datacenter backlash is bringing the entire political spectrum together – against Big Tech billionaires",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
+      "desc": "<p>The movement against datacenters is uniting Americans because they perfectly illustrate how a few individuals hold all the power to control decisions that impact our lives</p><p>Bryce Gustafson has",
+      "pubDate": "Sun, 30 Aug 2026 16:08:17 GMT",
+      "img": "https://i.guim.co.uk/img/media/13dbd123e3b27da04d0db84e9c31f9872aa74f8c/47_576_2951_2361/master/2951.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Nicola Jennings on Donald Trump, fossil fuels and climate disaster – cartoon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/30/nicola-jennings-donald-trump-fossil-fuels-climate-disaster-cartoon",
+      "desc": "<a href=\"https://www.theguardian.com/commentisfree/picture/2026/aug/30/nicola-jennings-donald-trump-fossil-fuels-climate-disaster-cartoon\">Continue reading...</a>",
+      "pubDate": "Sun, 30 Aug 2026 15:36:06 GMT",
+      "img": "https://i.guim.co.uk/img/media/6505f0b82ecfe5dfc0dfc1c2bc9cbb5225844689/0_0_5000_4000/master/5000.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The American painting that sparked an Australian culture war - podcast",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/aug/31/blue-poles-jackson-pollock-the-american-painting-that-sparked-an-australian-culture-war-full-story-podcast",
+      "desc": "<p>When Jackson Pollock painted Blue Poles, his masterpiece of American abstract expressionism, little did he know it would become one of Australia’s most fascinating political controversies. The piec",
+      "pubDate": "Sun, 30 Aug 2026 15:00:02 GMT",
+      "img": "https://i.guim.co.uk/img/media/2193fc1f243c4b58184090adca89fd57cdf1f341/313_0_1875_1500/master/1875.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Barack Obama, JFK and … Josh Frydenberg: what can a memoir do for an ambitious politician?",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/31/obama-jfk-and-josh-frydenberg-australian-treasurer-political-memoir",
+      "desc": "<p>The former treasurer’s new book will hit shelves soon, but he may learn that memoirs can be blunt instruments for political renewal. Just ask Peter Costello</p><p>Former treasurer Josh Frydenberg’s",
+      "pubDate": "Sun, 30 Aug 2026 15:00:02 GMT",
+      "img": "https://i.guim.co.uk/img/media/3a2b057c77e2b582d425a1e1ae92acfad3ba3564/0_0_2450_1960/master/2450.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks",
+      "link": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
+      "desc": "<p>Small business owners have watched large companies fumble – and sometimes succeed – with AI, and then use what works</p><p>One thing I’ve learned about corporate America is that what it succeeds at",
+      "pubDate": "Sun, 30 Aug 2026 14:00:57 GMT",
+      "img": "https://i.guim.co.uk/img/media/2dc7f310974510f7f96949e206423eea743f9e99/433_0_4330_3464/master/4330.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Superquiz, Monday, August 31",
+      "link": "https://www.smh.com.au/national/superquiz-monday-august-31-20260828-p60sgg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "pubDate": "Sun, 30 Aug 2026 23:59:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.9805555555555555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_234/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Flooding devastated swathes of Indiana but response is hampered by politics",
+      "link": "https://www.theguardian.com/us-news/2026/aug/30/indiana-flooding-emergency-response",
+      "desc": "<p>Record inundations wrecked homes and took seven lives but Trump has not approved emergency aid and the state has cut funds for environmental agencies</p><p>It’s been 10 days since the floodwater re",
+      "pubDate": "Sun, 30 Aug 2026 12:00:55 GMT",
+      "img": "https://i.guim.co.uk/img/media/8e219044cc26c03a8378fffa7042b4183db9a571/429_0_4294_3434/master/4294.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Meet the gen Zers finding job opportunities teaching English abroad",
+      "link": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
+      "desc": "<p>Some young people are teaching in countries like South Korea as education funding is gutted and recent grads face a tough job market in their own countries</p><p>A year ago, Arianna Marie, 25, was ",
+      "pubDate": "Sun, 30 Aug 2026 11:00:56 GMT",
+      "img": "https://i.guim.co.uk/img/media/62c9085e0b58df8084d60d5662939a7d0ae0245f/0_0_1599_1280/master/1599.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "The plastic pushing people",
       "link": "https://www.smh.com.au/national/nsw/the-plastic-pushing-people-20260828-p60sbh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
@@ -35975,86 +36055,6 @@
       "desc": "<p>El Niño forecast to strengthen from August to October, resulting in higher temperatures and more extreme weather</p><p>India’s monsoon is in danger and hotter, drier conditions are forecast across ",
       "pubDate": "Fri, 31 Jul 2026 16:24:34 GMT",
       "img": "https://i.guim.co.uk/img/media/c5b1cc1462cc86809cff68ca965e87234fcec1ac/963_383_6479_5183/master/6479.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Back to Back Barries podcast: what the Vic spill means for federal politics",
-      "link": "https://www.theguardian.com/australia-news/video/2026/aug/01/back-to-back-barries-podcast-what-the-vic-spill-means-for-federal-politics",
-      "desc": "<p><strong>Tony Barry </strong>and<strong> Jon Faine </strong>(sitting in for Barrie Cassidy) examine the ousting of Jacinta Allan and the election of Ben Carroll as the new premier of Victoria. What ",
-      "pubDate": "Fri, 31 Jul 2026 15:00:19 GMT",
-      "img": "https://i.guim.co.uk/img/media/557b5e1a2cb2e6d231830fa7325d8b20b3e306ad/243_0_1349_1080/master/1349.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Where is the money coming from? Albanese, Taylor and Hanson don’t want to talk about it – and that’s a problem | Tom McIlroy",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/01/where-is-the-money-coming-from-albanese-taylor-and-hanson-dont-want-to-talk-about-it-and-thats-a-problem-ntwnfb",
-      "desc": "<p>As leaders dodged questions about fundraising activities this week, is it any wonder faith in politics is so low?</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cv",
-      "pubDate": "Fri, 31 Jul 2026 15:00:18 GMT",
-      "img": "https://i.guim.co.uk/img/media/ef6960904b5a4e0e73a781bc8c41540f955b13ce/248_0_2665_2133/master/2665.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Is One Nation big enough for Barnaby Joyce and Pauline Hanson? Rumours of internal ructions abound",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/01/is-one-nation-big-enough-for-barnaby-joyce-and-pauline-hanson-rumours-of-internal-ructions-abound",
-      "desc": "<p>Some National MPs even believe former deputy PM could return, as Hanson’s leadership succession plan does not include the New England MP</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/e",
-      "pubDate": "Fri, 31 Jul 2026 15:00:16 GMT",
-      "img": "https://i.guim.co.uk/img/media/3a202d68cdc95cf72fc68179eb0d2393a1eca92c/653_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Test your general knowledge with the Good Weekend quiz",
-      "link": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20260728-p60j5v.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
-      "pubDate": "Fri, 31 Jul 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.103125%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/297b54b43fec49dc75ceb1969fd1a88bc723fd9a",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
-      "link": "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
-      "desc": "<p>Exclusive: Danielle Kirton calls on Ed Miliband to help her get answers about why evacuation order came too late</p><p>The bereaved daughter of a British couple who died in a Spanish wildfire is ca",
-      "pubDate": "Fri, 31 Jul 2026 13:39:03 GMT",
-      "img": "https://i.guim.co.uk/img/media/80a30316ffa7cc788d1f2f3cf313cee84d8dd033/100_50_504_403/master/504.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Drifting SpaceX rocket heading for accidental collision with moon",
-      "link": "https://www.theguardian.com/science/2026/jul/31/spacex-rocket-moon-collision",
-      "desc": "<p>Scientists and sky gazers will watch intently as rocket’s upper stage slams into lunar surface on Wednesday</p><p>A drifting <a href=\"https://www.theguardian.com/science/spacex\">SpaceX</a> rocket i",
-      "pubDate": "Fri, 31 Jul 2026 13:05:10 GMT",
-      "img": "https://i.guim.co.uk/img/media/b1d119d6fd50bb3005dfcab156bbd65e7c20f847/418_0_4164_3333/master/4164.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Huge great white spotted traveling up US and Canada as shark sightings surge",
-      "link": "https://www.theguardian.com/us-news/2026/jul/31/great-white-shark-us-canada-coasts",
-      "desc": "<p>Contender, largest tagged male great white, heading north as overheating oceans alter range of several shark species</p><p>The largest tagged male great white shark in the Atlantic Ocean has been i",
-      "pubDate": "Fri, 31 Jul 2026 12:00:14 GMT",
-      "img": "https://i.guim.co.uk/img/media/218f277461b03c6288cf73acf3dedc25fa831e63/161_0_759_607/master/759.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "BTS are back: return of K-pop superstars sparks US economic boom",
-      "link": "https://www.theguardian.com/music/2026/jul/31/bts-k-pop-economic-boom",
-      "desc": "<p>Cities in North America hosting 14 concerts in August and September – and economic impact is set to be significant</p><p>BTS’s “Army” fanbase is descending on New York this weekend as the K-pop sup",
-      "pubDate": "Fri, 31 Jul 2026 12:00:12 GMT",
-      "img": "https://i.guim.co.uk/img/media/837705464645dc19a1b13a12a020b3b6bfdcd997/662_0_4583_3668/master/4583.jpg",
       "sourceId": "guardianau",
       "sourceName": "The Guardian AU",
       "sourceColor": "#052962"
