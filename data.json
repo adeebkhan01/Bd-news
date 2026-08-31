@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T23:18:04.832Z",
-  "summary": "Bangladesh faces mounting economic pressures as foreign debt repayments exceeded receipts by three times in July, prompting the central bank to establish a two thousand crore taka fund to support frozen food exports. Major infrastructure projects are advancing with APM Terminals beginning construction of the 550 million dollar Laldia terminal, while Bangladesh Bank reported over 26,000 crore taka profit in the fiscal year. Diplomatically, Dhaka is strengthening ties with Beijing through planned defence and diplomacy dialogues, and regional tensions simmer as Delhi denied permission for a seminar linked to Awami League figures. Domestically, the government moves toward new pay scales for employees and faces scrutiny over governance issues including the arrest of army chief Shafiuddin Ahmed by the anti-corruption commission.",
+  "fetchedAt": "2026-08-31T04:40:31.813Z",
+  "summary": "Bangladesh is navigating significant economic and institutional challenges as foreign debt repayments exceed new borrowing, the central bank profit reaches over 26,000 crore taka, and authorities establish a 2,000 crore taka fund to support frozen food exports amid trade pressures. The country faces infrastructure strains including power crises affecting healthcare, with officials urging focus on energy supply for existing industries rather than expansion. Notable developments include activist Runa Khan receiving the Ramon Magsaysay Award for social work and discussions around judicial independence, while concerns linger over governance issues including an ACC summons to former army chief Shafiuddin Ahmed and questions surrounding recent arrests. Regional geopolitics show Bangladesh strengthening ties with China through planned diplomacy and defence dialogues as international attention focuses on broader challenges including neighbouring Nepal's flood recovery needs.",
   "sources": [
     {
       "id": "dailystar",
@@ -34,6 +34,78 @@
     }
   ],
   "articles": [
+    {
+      "title": "The fragrance of ripe Palm in Bhadra",
+      "link": "https://en.prothomalo.com/photo/bangladesh/wdocnlfwy5",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 04:22:59 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-31/l1f6cj4g/8.-Sylhetpalmmarketseasonal-fruitsAnis-Mahamud31082026.jpeg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "ভদ্রায় পাকা তাল ফলের সুগন্ধ",
+      "descBn": ""
+    },
+    {
+      "title": "Bangladesh’s Runa Khan receives Ramon Magsaysay Award",
+      "link": "https://en.prothomalo.com/bangladesh/28q7udezij",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 04:03:39 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-31/w5ik5wz0/info.avif?w=280",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বাংলাদেশের রুনা খান রামন ম্যাগসাইসাই পুরস্কার পেয়েছেন",
+      "descBn": ""
+    },
+    {
+      "title": "Power crisis disrupts healthcare across the country",
+      "link": "https://en.prothomalo.com/bangladesh/9mutm1d1nd",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 03:23:43 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2024-09-12/5il0hj8v/prothomalo-bangla_2023-05_ef30ee8e-1c54-4ece-8193-d79ad8516d45_load_shedding_3.webp",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "দেশজুড়ে বিদ্যুৎ সংকট স্বাস্থ্যসেবায় বিঘ্ন ঘটাচ্ছে",
+      "descBn": ""
+    },
+    {
+      "title": "Judicial independence: Now is the time to choose the right path",
+      "link": "https://en.prothomalo.com/opinion/mjuvq9wcnj",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 02:42:46 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/import/media/2014/02/11/52fa28f1f1eb5-Hfn..High-court-rule-on-Lakshimpur-4-election.jpeg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বিচারিক স্বাধীনতা: এখনই সঠিক পথ বেছে নেওয়ার সময়",
+      "descBn": ""
+    },
+    {
+      "title": "How universities can embed community engagement into learning",
+      "link": "https://en.prothomalo.com/opinion/op-ed/0r6dyjqfbd",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 02:42:27 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/import/media/2018/05/11/793857a9964058383f57883add358562-1.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "বিশ্ববিদ্যালয়গুলি কীভাবে শিক্ষায় সম্প্রদায় সম্পৃক্ততা অন্তর্ভুক্ত করতে পারে",
+      "descBn": ""
+    },
+    {
+      "title": "How qualitative changes can be brought about in education",
+      "link": "https://en.prothomalo.com/opinion/op-ed/l710pk47fc",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 02:41:37 +0000",
+      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-30/25z6ciu1/MasukArtImage-2026-08-28-at-4.21.46-PMcolor.jpg",
+      "sourceId": "prothomalo",
+      "sourceName": "Prothom Alo",
+      "sourceColor": "#c0392b",
+      "titleBn": "শিক্ষায় গুণগত পরিবর্তন কীভাবে আনা যায়",
+      "descBn": ""
+    },
     {
       "title": "Laldia terminal construction begins",
       "link": "https://www.thedailystar.net/business/economy/news/laldia-terminal-construction-begins-4260631",
@@ -17480,66 +17552,6 @@
       "sourceName": "Prothom Alo",
       "sourceColor": "#c0392b",
       "titleBn": "স্পেনের উত্তর আফ্রিকা অঞ্চলে অভিবাসী সংকট নিয়ে ইউরোপীয় ইউনিয়ন সংগ্রাম করছে",
-      "descBn": ""
-    },
-    {
-      "title": "3 members of a family killed in Khulna road crash",
-      "link": "https://en.prothomalo.com/bangladesh/x1dpyxgwzx",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 04:31:29 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-01/ql824509/8100293.webp",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "খুলনায় সড়ক দুর্ঘটনায় পরিবারের ৩ সদস্য নিহত",
-      "descBn": ""
-    },
-    {
-      "title": "Dhaka's air quality remains 'moderate'",
-      "link": "https://en.prothomalo.com/environment/pollution/p2ljui31x6",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 04:23:03 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-08-01/12sdb22e/6550065.webp",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "ঢাকার বায়ুর গুণমান 'মধ্যম' রয়েছে",
-      "descBn": ""
-    },
-    {
-      "title": "Solo Travelling: A beginner's guide",
-      "link": "https://en.prothomalo.com/lifestyle/travel/1r2kbudvpi",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 04:12:51 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2026-07-31/p9m8s806/prothomalo-bangla2026-07-29w51kaw8eWhatsApp-Image-2026-07-29-at-6.14.58-PM.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "একা ভ্রমণ: শিক্ষানবিসদের জন্য একটি গাইড",
-      "descBn": ""
-    },
-    {
-      "title": "BNP meeting today, presidential election may be the main agenda",
-      "link": "https://en.prothomalo.com/bangladesh/flr3fex7zy",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 04:10:49 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/2025-11-15/xx1lxc0g/prothomalo-bangla2020-092be4a6df-b82a-4cc6-abf6-f9d73cb6a839frame1600X1067.avif?w=280",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "আজ বিএনপি সভা, রাষ্ট্রপতি নির্বাচন হতে পারে মূল এজেন্ডা",
-      "descBn": ""
-    },
-    {
-      "title": "How does the 'Female Zone' serve females?",
-      "link": "https://en.prothomalo.com/opinion/op-ed/ms4s8evx2n",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 03:06:28 +0000",
-      "img": "https://media.prothomalo.com/prothomalo-english/import/media/2017/10/21/99dc9502d2c08e5840f9648aab1d6966-TSC-1.jpg",
-      "sourceId": "prothomalo",
-      "sourceName": "Prothom Alo",
-      "sourceColor": "#c0392b",
-      "titleBn": "'মহিলা অঞ্চল' মহিলাদের কীভাবে সেবা প্রদান করে?",
       "descBn": ""
     }
   ]

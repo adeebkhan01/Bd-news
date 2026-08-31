@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T23:18:40.365Z",
-  "summary": "Global tensions are intensifying across multiple regions, with Venezuela's government asserting sovereignty despite a new US oil deal while Iran and its allies escalate military posturing in the Gulf. Political instability remains acute from West Africa to the Middle East, where Guinea-Bissau holds a presidential powers referendum, Libya's rival factions seek reconciliation through elections, Niger's military repelled an attempted coup, and Israeli settlers continue violent confrontations with Palestinians in the occupied West Bank amid broader regional conflict. Scientific advancement continues with NASA launching its 4.3 billion dollar Roman Telescope to explore deep space mysteries, though environmental crises persist as climate-driven heatwaves threaten ecosystems and a ferry capsizing near Cyprus killed at least seven people. Domestically, Iceland's EU referendum vote remains exceptionally tight as counting proceeds, while the Trump administration reshuffles oil reserves strategy and renames geographic features through executive action.",
+  "fetchedAt": "2026-08-31T04:41:01.075Z",
+  "summary": "Global tensions escalated across multiple fronts today as Iran conducted drone and missile strikes on US bases in Jordan and the UAE following American military action, while Russia and China prepare to strengthen ties at a Shanghai Cooperation Organisation summit amid Moscow's efforts to expand influence in Africa following Niger's military mutiny. The Middle East conflict intensified with new Israeli operations in Nablus and settler violence against Palestinians and journalists, as Venezuela's government claimed it retained sovereignty despite agreeing to supply the US with oil following reports that Nicolas Maduro is in US custody. Natural disasters struck hard with flash flooding in the Grand Canyon leaving over twenty people missing, while a ferry capsized off Northern Cyprus killing at least seven, and Iceland voted narrowly against resuming EU accession talks in a closely contested referendum. Space exploration advanced with NASA launching its powerful Roman Telescope to investigate cosmic mysteries, offering a counterpoint to geopolitical turbulence defining the broader news cycle.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+      "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+      "desc": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
+      "pubDate": "Mon, 31 Aug 2026 04:18:23 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a94ee56ea47-1788145238.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+      "desc": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+      "pubDate": "Mon, 31 Aug 2026 03:08:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788145682.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Niger mutiny puts Russia’s expanding role in the Sahel to the test",
+      "link": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss",
+      "desc": "Failed uprising in Niamey exposed tensions in Niger’s military, and the role of the Africa Corps in suppressing unrest.",
+      "pubDate": "Mon, 31 Aug 2026 02:15:35 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2023/09/33U94LZ-highres-1693718660.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US plans to sanction another bank to keep economic pressure on Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+      "desc": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
+      "pubDate": "Mon, 31 Aug 2026 02:08:46 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26242764454014-1788139016.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Venezuela’s Maduro shares first photos from US detention",
+      "link": "https://www.aljazeera.com/news/2026/8/31/venezuelas-maduro-shares-first-photos-from-us-detention?traffic_source=rss",
+      "desc": "Abducted Venezuelan leader&#039;s post appears to show him in US detention, published two days after US-Venezuela oil deal.",
+      "pubDate": "Mon, 31 Aug 2026 01:54:58 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.37.39-AM-1788137191.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss",
+      "desc": "A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.",
+      "pubDate": "Mon, 31 Aug 2026 00:19:04 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788135474.jpg?resize=1439%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The US-Canada trade war is being felt on both sides of the border.",
+      "pubDate": "Mon, 31 Aug 2026 00:05:22 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Iran war live: Tehran says attacked bases in Jordan and UAE after US strike",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "desc": "US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260721__C2QD8WF__v1__HighRes__IranUsIsraelWar-1-1784626905.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
       "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
@@ -13183,106 +13263,6 @@
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
       "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Peru’s ex-president Humala released after conviction overturned",
-      "link": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
-      "desc": "Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.",
-      "pubDate": "Sat, 01 Aug 2026 03:52:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-01T022111Z_246013989_RC2CPMANN6EO_RTRMADP_3_PERU-POLITICS-HUMALA-1785551514.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
-      "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
-      "desc": "As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.",
-      "pubDate": "Sat, 01 Aug 2026 03:18:29 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/preview-1-1785512765.webp?resize=1200%2C630",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russian missile attack kills three in Ukraine’s Kyiv",
-      "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
-      "desc": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
-      "pubDate": "Sat, 01 Aug 2026 02:06:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a6d3fd2-1785544658.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
-      "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
-      "desc": "The jet went down on Friday near the Miramar airbase in San Diego.",
-      "pubDate": "Sat, 01 Aug 2026 01:55:27 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/14188135-1785542872.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
-      "link": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
-      "desc": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
-      "pubDate": "Sat, 01 Aug 2026 01:10:58 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T174452Z_495035235_RC2HOMAHO1HM_RTRMADP_3_SOCCER-FIFA-STAKE-1785546163.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-      "pubDate": "Sat, 01 Aug 2026 00:20:43 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Infantino on the brink? Who might replace him if he goes?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
-      "pubDate": "Sat, 01 Aug 2026 00:04:26 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-      "desc": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
-      "pubDate": "Fri, 31 Jul 2026 23:59:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-30T093156Z_1005172950_RC26OMA4U719_RTRMADP_3_IRAN-CRISIS-1785404749.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "FIFA’s Infantino scraps controversial World Cup private investment plan",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
-      "desc": "FIFA and its president Infantino faced fierce backlash across football world over plans to sell stake in World Cup.",
-      "pubDate": "Fri, 31 Jul 2026 23:47:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-30T191416Z_1451887255_UP1EM7U1HFRW7_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1785541600.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Analyst: the US faces a strategic ‘dead end’ in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
-      "desc": "Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.",
-      "pubDate": "Fri, 31 Jul 2026 23:30:54 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785540613.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
     }
   ]
 }
