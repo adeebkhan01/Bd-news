@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T08:27:19.814Z",
-  "summary": "Global tensions are escalating across multiple fronts as the Trump administration intensifies confrontation with Iran while pursuing controversial deals in Venezuela and attempting to reshape US-Russia relations despite European opposition. The Middle East remains a flashpoint with Israeli military operations in the West Bank and occupied Jerusalem provoking international scrutiny, while separate humanitarian crises demand attention, including a catastrophic flood on the Nepal-China border and a severe Ebola outbreak in the Democratic Republic of Congo claiming nearly 3,000 lives. Economic concerns are mounting as major technology firms face antitrust challenges and regulatory scrutiny over AI development and data practices, while geopolitical realignment accelerates with Japan diversifying investments away from China and Russia reinforcing ties with Beijing. Regional instability spreads from Tunisia to Tunisia to the Western Balkans, where disputed elections and trade disputes threaten broader stability.",
+  "fetchedAt": "2026-09-01T14:01:31.808Z",
+  "summary": "Global tensions are escalating across multiple fronts, with Iran conflict dominating headlines as the SCO condemns attacks and sanctions while the US contemplates further strikes, compounded by energy cost concerns for Western allies. The Middle East conflict continues spreading through Israeli operations in Gaza and the West Bank, Palestinian settlements disputes with the EU, and potential military interventions in Lebanon, while Ukraine faces relentless Russian bombardment of civilian areas. Economic pressures mount worldwide as UK borrowing costs hit their highest level since 1998 ahead of budget announcements and cost-of-living crises persist, prompting retailers to cut prices and businesses to warn of tax burdens. Geopolitical realignment accelerates with Russia-China ties strengthening, Japan pivoting toward India as alternatives to China, and the US managing fractious relations with European allies over diplomatic engagement with Russia.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,156 @@
     }
   ],
   "articles": [
+    {
+      "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+      "link": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
+      "desc": "The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.",
+      "pubDate": "Tue, 01 Sep 2026 13:32:33 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9668f52ad5-1788242165.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Irish minister calls for EU action in banning Israeli settlement trade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss",
+      "desc": "Ireland’s defence minister has called on EU member states to take more action to ban trade with Israeli settlements.",
+      "pubDate": "Tue, 01 Sep 2026 13:32:13 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788269480.jpg?resize=1620%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+      "pubDate": "Tue, 01 Sep 2026 13:31:06 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b72/live/3d5d23f0-a5f9-11f1-8348-fb0cb1cd9761.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
+      "desc": "Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.",
+      "pubDate": "Tue, 01 Sep 2026 13:27:39 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788269065.jpg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
+      "desc": "The UN has raised fresh alarm over the climate crisis at the Pacific Islands Forum in Palau, amid China-Taiwan tensions.",
+      "pubDate": "Tue, 01 Sep 2026 13:13:55 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788268423.jpg?resize=1918%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Qatar planning to host Formula One, MotoGP despite Middle East conflict",
+      "link": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss",
+      "desc": "The Qatar Grand Prix and MotoGP races scheduled for November are expected to go ahead, local organisers say.",
+      "pubDate": "Tue, 01 Sep 2026 13:03:10 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2025/12/SOR03534-1764576322.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+      "pubDate": "Tue, 01 Sep 2026 12:58:44 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
+      "link": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss",
+      "desc": "The Permanent Court of Arbitration says the treaty remains binding. But India has rejected the findings.",
+      "pubDate": "Tue, 01 Sep 2026 12:25:28 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-05-06T064134Z_1109423457_RC24CEAYAORZ_RTRMADP_3_INDIA-PAKISTAN-WATER-1788257018.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Norway's new King Haakon VIII takes oath in parliament",
+      "link": "https://www.dw.com/en/norway-s-new-king-haakon-viii-takes-oath-in-parliament/a-78606923?maca=en-rss-en-eu-2092-rdf",
+      "desc": "The new king swore to uphold the constitution in parliament in Oslo, the first major institutional step of his reign. Haakon VIII's wife Queen Mette-Marit had to skip the event in the aftermath of her",
+      "pubDate": "2026-09-01T12:23:00Z",
+      "img": "https://static.dw.com/image/78608530_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
+      "title": "Ikea cuts prices as customers struggle with rising cost of living",
+      "link": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
+      "pubDate": "Tue, 01 Sep 2026 12:21:52 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
+      "link": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
+      "desc": "Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.",
+      "pubDate": "Tue, 01 Sep 2026 11:38:14 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a96971de5aa-1788253981.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
+      "link": "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss",
+      "desc": "Many Iranians in the diaspora remain caught in the paradox of opposing the war and the government in Tehran.",
+      "pubDate": "Tue, 01 Sep 2026 10:27:40 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a925d4100-1787977025.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
+      "link": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-eu-2092-rdf",
+      "desc": "Russia's finance minister is at the G20 meeting in Asheville but some key US press corps members are not. The mood was already tense amid the lengthy Iran war and Trump's renewed beef with neighbor Ca",
+      "pubDate": "2026-09-01T10:23:00Z",
+      "img": "https://static.dw.com/image/78580680_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
+    },
+    {
+      "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+      "link": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
+      "desc": "Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.",
+      "pubDate": "Tue, 01 Sep 2026 08:57:48 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26244211481992-1788252995.jpg?resize=1200%2C675",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
+      "link": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss",
+      "desc": "A price cap increase is on the way, the latest blow to people already struggling with rising costs.",
+      "pubDate": "Tue, 01 Sep 2026 08:14:07 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2022-10-01T131538Z_2051038290_RC2CSW9EYL6I_RTRMADP_3_BRITAIN-ENERGY-PROTEST-1788209096.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "White House unveils more details of Trump’s Venezuela oil deal",
       "link": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss",
@@ -423,6 +573,16 @@
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Tariffs spat: Carney bets Canada can defy Trump",
+      "link": "https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-bus-2091-rdf",
+      "desc": "Canada is facing new US import penalties after Prime Minister Mark Carney refused to match US tariffs on China. Other countries are watching as the Trump trade clash turns into a fight over economic s",
+      "pubDate": "2026-08-31T13:38:00Z",
+      "img": "https://static.dw.com/image/78500420_6.jpg",
+      "sourceId": "dwnews",
+      "sourceName": "DW News",
+      "sourceColor": "#002B55"
     },
     {
       "title": "More value in Cairo’s trash, but less for those who collect it",
@@ -13230,106 +13390,6 @@
       "desc": "Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.",
       "pubDate": "Sun, 02 Aug 2026 14:34:21 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785681252.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Hundreds mourn Moroccan footballer who died trying to reach Ceuta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss",
-      "desc": "Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.",
-      "pubDate": "Sun, 02 Aug 2026 13:46:23 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785678322.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "South Korea has hottest day on record amid extreme weather globally",
-      "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
-      "desc": "Scientists say the climate crisis driven by human activity is making heatwaves more frequent.",
-      "pubDate": "Sun, 02 Aug 2026 12:34:35 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6ee9fc23-1785653756.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Why has EU called an emergency meeting on Spain migrant surge?",
-      "link": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss",
-      "desc": "In joint letter, 22 member states call for &#039;strengthening of external borders&#039; after nearly 60,000 migrants enter Ceuta.",
-      "pubDate": "Sun, 02 Aug 2026 12:32:51 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a6f1675a467-1785665141.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "The Board of Peace is a failed body and should be abandoned",
-      "link": "https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned?traffic_source=rss",
-      "desc": "The Palestinian issue should be returned to the UN framework and anchored again in international law.",
-      "pubDate": "Sun, 02 Aug 2026 12:06:31 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-02-19T162838Z_1239067050_RC21PJA6TLWT_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-TRUMP-BOARD-1785672286.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
-      "desc": "Indigenous people protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.",
-      "pubDate": "Sun, 02 Aug 2026 11:09:25 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785668859.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
-      "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
-      "desc": "A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.",
-      "pubDate": "Sun, 02 Aug 2026 11:07:13 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/YouTube-Thumb_A-1785668052.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Israeli soldiers jailed over Sde Teiman walkout",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
-      "desc": "Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.",
-      "pubDate": "Sun, 02 Aug 2026 10:31:32 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785666598.jpg?resize=1920%2C1080&amp;quality=80",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-      "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-eu-2092-rdf",
-      "desc": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the dang",
-      "pubDate": "2026-08-02T09:24:00Z",
-      "img": "https://static.dw.com/image/77718987_6.jpg",
-      "sourceId": "dwnews",
-      "sourceName": "DW News",
-      "sourceColor": "#002B55"
-    },
-    {
-      "title": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
-      "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
-      "desc": "Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.",
-      "pubDate": "Sun, 02 Aug 2026 09:07:20 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6df6297e-1785591337.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
-      "desc": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
-      "pubDate": "Sun, 02 Aug 2026 08:43:15 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-tohid-tehran-1785660142.png?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"

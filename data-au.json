@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T08:27:09.471Z",
-  "summary": "Australia faces mounting climate and disaster challenges as Melbourne records its warmest winter on record while experts warn of escalating environmental risks, with particular focus on catastrophic flooding in Nepal highlighting global climate dangers. Domestically, political tensions simmer between Prime Minister Albanese and Pauline Hanson, while the Alan Jones trial continues to generate significant coverage with evidence from media figures including Ray Hadley. Economic pressures are evident across multiple sectors, from rising construction costs following natural disasters to a bond market sell-off affecting borrowers, alongside industrial action brewing in Brisbane's public transport ahead of Riverfire. Several corporate investigations have concluded without major consequences, including ASIC's probe into Mineral Resources, while school expulsions and security failures in venues underscore ongoing concerns about safety standards across Australian institutions.",
+  "fetchedAt": "2026-09-01T14:01:17.824Z",
+  "summary": "Australia's news agenda spans economic headwinds and political tensions alongside continuing crime and safety concerns. Financial markets are under pressure as global bond yields rise and commodity prices surge, while domestically a teen has been convicted of a shopping centre murder and a Melbourne school faces a potential 23 million dollar bill over disability classification issues. Prime Minister Albanese's escalating rhetoric against One Nation leader Pauline Hanson over Pacific security matters is drawing scrutiny, with political analysis questioning whether he's overstepped or fallen into a political trap. In regional news, a Western Australian man remains missing in Nepal following a glacial collapse disaster, and authorities are investigating reports of a former ADF soldier killed in Ukraine.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,246 @@
     }
   ],
   "articles": [
+    {
+      "title": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – business live",
+      "link": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
+      "desc": "<p>European stock markets fall and Brent crude jumps above $92 a barrel amid renewed fighting in Middle East</p><p>The FTSE 100 index is down just over 1%, driven by sharp falls in mining and manufact",
+      "pubDate": "Tue, 01 Sep 2026 13:36:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Could humans ever communicate with whales? - video",
+      "link": "https://www.theguardian.com/science/video/2026/sep/01/could-humans-ever-communicate-with-whales-video",
+      "desc": "<p><strong>Ever since the earliest known recording of </strong><a href=\"https://www.theguardian.com/environment/2026/mar/16/oldest-known-whale-song-recording-ocean-sounds\"><strong>whale song was made ",
+      "pubDate": "Tue, 01 Sep 2026 13:22:59 GMT",
+      "img": "https://i.guim.co.uk/img/media/b9482880fccfdc811b513f091f736f7036f7cd01/256_0_4192_3353/master/4192.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Perth doctor honoured for act of bravery",
+      "link": "https://www.smh.com.au/national/perth-doctor-honoured-for-act-of-bravery-20260901-p60tk3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A Perth doctor has been honoured for his bravery after taking on a man with an axe as he attacked a colleague.",
+      "pubDate": "Tue, 01 Sep 2026 21:00:06 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/5f0ad8cdc631e72dc3f7a47106f92748cbf52f38",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Forest Service chief faces scrutiny over logging ties as Trump plans to scrap protections",
+      "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests",
+      "desc": "<p>Rollback of ‘roadless rule’ expected to benefit companies US Forest Service chief, Tom Schultz, previously lobbied for</p><p>Donald Trump this month announced plans to rescind a landmark rule that ",
+      "pubDate": "Tue, 01 Sep 2026 11:00:03 GMT",
+      "img": "https://i.guim.co.uk/img/media/b6be0921e7c990c957f36f70c28abfc4af62e4d0/557_246_2577_2062/master/2577.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Drawn to a close",
+      "link": "https://www.smh.com.au/national/nsw/drawn-to-a-close-20260901-p60t95.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "And turning a page.",
+      "pubDate": "Tue, 01 Sep 2026 21:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_45/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Powerhouse big spending is at the expense of so much else",
+      "link": "https://www.smh.com.au/national/nsw/powerhouse-big-spending-is-at-the-expense-of-so-much-else-20260901-p60tc5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Many other worthy causes are going begging, like the Australian Print Museum and the Australian Design Centre.",
+      "pubDate": "Tue, 01 Sep 2026 20:01:52 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.3377%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/18b4712a57fb847b7fba9ca75e44ecdeb7555f30",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "The ‘lush oasis’ being built next to Sydney’s busiest motorway",
+      "link": "https://www.smh.com.au/national/nsw/the-lush-oasis-being-built-next-to-sydney-s-busiest-motorway-20260831-p60t0o.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Sydneysiders will be able to play pickleball at a new park right next to the Warringah Freeway when construction on the Western Harbour Tunnel is complete.",
+      "pubDate": "Tue, 01 Sep 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2759%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d77bffc05ec2244458fb85d68f858cd9f3da8b34",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Messages of hate strike wrong note at Sydney Marathon",
+      "link": "https://www.smh.com.au/national/nsw/messages-of-hate-strike-wrong-note-at-sydney-marathon-20260901-p60tag.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "If every public space becomes a site of protest, we give up something fundamentally Australian.",
+      "pubDate": "Tue, 01 Sep 2026 19:30:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.4433%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_431%2C$y_399/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/a1deb481a9879685bd525ab4c395b3efbb79b90f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "View from The Hill: Did Albanese’s language against One Nation ‘cross a line’ or is Pauline Hanson just playing victim politics?",
+      "link": "https://theconversation.com/view-from-the-hill-did-albaneses-language-against-one-nation-cross-a-line-or-is-pauline-hanson-just-playing-victim-politics-290824",
+      "desc": "The prime minister’s language fell far short of incitement. But the One Nation leader outsmarted him on the politics.",
+      "pubDate": "2026-09-01T09:22:13Z",
+      "img": "https://images.theconversation.com/files/757147/original/file-20260901-50-j2h3dd.jpg?ixlib=rb-4.1.1&amp;rect=0%2C142%2C3912%2C1956&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Family of WA man missing in Nepal ‘hoping for a miracle’ as search for survivors continues",
+      "link": "https://www.smh.com.au/national/western-australia/family-of-wa-man-missing-in-nepal-hoping-for-a-miracle-as-search-for-survivors-continues-20260901-p60tjo.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Luke Costanzo was travelling with a group that last made contact at the Gyirong Port border crossing between China and Nepal.",
+      "pubDate": "Tue, 01 Sep 2026 19:12:05 +1000",
+      "img": "https://static.ffx.io/images/$zoom_2.183505154639175%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_157/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/6b2afee8e331b0206af84d87b3877a84663be4216cc464e6966a79b2907b626d",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "A Melbourne school classified 90% of students as having ‘extensive’ needs. Now it could face a $23m bill",
+      "link": "https://www.smh.com.au/national/victoria/independent-school-over-claimed-23-million-in-disability-funds-20260901-p60tda.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A fast-growing independent school must repay tens of millions after a federal government audit of disability payments.",
+      "pubDate": "Tue, 01 Sep 2026 19:06:08 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.1293%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/q_86%2Cf_auto/de9ee572b17c3f9eac50de1e995efb4d281dd15f",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Nepal’s glacial collapse foreshadowed a future of climate disaster | Michael Mann",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/01/nepal-flooding-climate-disaster",
+      "desc": "<p>The deluge capped a summer of extreme climate events, from deadly heatwaves to wildfires. We must take action now</p><p>For millennia, the high peaks of the Himalayas were held together by an invis",
+      "pubDate": "Tue, 01 Sep 2026 09:00:05 GMT",
+      "img": "https://i.guim.co.uk/img/media/2a5e250ecb4073c4a24f652fd7e5cca62e248a42/346_0_4807_3845/master/4807.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Cattle farmer on trial over alleged murders",
+      "link": "https://www.smh.com.au/national/cattle-farmer-on-trial-over-alleged-murders-20260901-p60tjl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A North Queensland cattle farmer accused of carrying out a family massacre insists he wasn't the man who pulled the trigger.",
+      "pubDate": "Tue, 01 Sep 2026 18:55:17 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6b4d0e3b83ab611ead7eeb7938cfd695c08aca44",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Authorities investigate reports former ADF soldier killed in Ukraine",
+      "link": "https://www.abc.net.au/news/2026-09-01/australian-soldier-killed-ukraine-mozzie/107104370",
+      "desc": "The soldier, known by the nickname \"Mozzie\", was serving as a combat medic with Ukraine's 1st Foreign Legion Squadron.",
+      "pubDate": "Tue, 01 Sep 2026 08:55:01 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/2d68f1abd7c1d5dc1f551d06f86094ee?impolicy=wcms_crop_resize&amp;cropH=1219&amp;cropW=914&amp;xPos=0&amp;yPos=359&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Australia Post depot gutted by fire",
+      "link": "https://www.smh.com.au/national/australia-post-depot-gutted-by-fire-20260901-p60tjm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Posties in Adelaide’s northern suburbs have been forced to deliver mail on foot today after an Australia Post depot was gutted by fire.",
+      "pubDate": "Tue, 01 Sep 2026 18:54:07 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/50cb42125c936d0186bc3be4c092b58175e2aade",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Brawl sparks Melbourne CBD safety concerns",
+      "link": "https://www.smh.com.au/national/brawl-sparks-melbourne-cbd-safety-concerns-20260901-p60tjj.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Shocking new footage of a wild all-in brawl on a Melbourne street has again sparked concerns over safety in the CBD.",
+      "pubDate": "Tue, 01 Sep 2026 18:50:18 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/bd3bbfd56673cff2c9c10fa039a12013d2c50933",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Man charged over alleged cricket bat attack on 75-year-old",
+      "link": "https://www.smh.com.au/national/man-charged-over-alleged-cricket-bat-attack-on-75-year-old-20260901-p60tji.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 75-year-old man has been hospitalised after allegedly being assaulted with a cricket bat by a man attempting to steal from a donation bin in Melbourne’s south-east.",
+      "pubDate": "Tue, 01 Sep 2026 18:49:19 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/4ea0b0433ced82bf53dcfb9a046a91ea3bcf77c3",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "‘Justice is being served’: Heartbroken family breaks down as teen killer learns his fate for Melton murder",
+      "link": "https://www.smh.com.au/national/victoria/jury-rejects-heat-of-the-moment-claim-to-convict-teen-of-oscar-hamilton-s-murder-20260901-p60tj6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A jury took just two hours to find a teenager guilty of the fatal stabbing of 16-year-old Oscar Hamilton at a Melton shopping centre.",
+      "pubDate": "Tue, 01 Sep 2026 18:46:04 +1000",
+      "img": "https://static.ffx.io/images/$zoom_2.4068181818181817%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_273/t_crop_custom/q_86%2Cf_auto/a60a22b11d8e4fb6aaf387958416d433ad27128a",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Teenage boy found guilty of shopping centre murder",
+      "link": "https://www.smh.com.au/national/teenage-boy-found-guilty-of-shopping-centre-murder-20260901-p60tjg.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A 17-year-old who stabbed 16-year-old Oscar Hamilton to death at a Melton West shopping centre has been found guilty of murder.",
+      "pubDate": "Tue, 01 Sep 2026 18:45:22 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/334c371f47e4d0a116b17bc139440d769b48a198",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Toddler reunited with mum after wandering streets alone",
+      "link": "https://www.smh.com.au/national/toddler-reunited-with-mum-after-wandering-streets-alone-20260901-p60tjf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "A two-year-old boy has been reunited with his mother after being spotted in the street and rescued in Sydney's south.",
+      "pubDate": "Tue, 01 Sep 2026 18:44:51 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a519f058b03bcaf4af63b14bced2361209426d94",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Labor MP has 'no recollection' of serious car crash",
+      "link": "https://www.abc.net.au/news/2026-09-01/ed-husic-reveals-extent-of-injuries-after-car-crash/107104624",
+      "desc": "Backbencher Ed Husic returns to work after suffering a concussion and fractures as a result of the collision.",
+      "pubDate": "Tue, 01 Sep 2026 08:38:01 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/b1e1f7ff76317363871a2cbc131425dc?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=540&amp;xPos=5&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
+    {
+      "title": "Police face fresh questions after new footage surfaces from Town Hall protests",
+      "link": "https://www.smh.com.au/national/police-face-fresh-questions-after-new-footage-surfaces-from-town-hall-protests-20260901-p60tjc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "There are fresh questions about the actions of police during February's Town Hall Riots -- after footage surfaced of officers boasting about an alleged assault.",
+      "pubDate": "Tue, 01 Sep 2026 18:36:42 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/9a990d6a44327c64210988dac5710c72501be947",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Australia pushes back on China warning toward Pacific nations",
+      "link": "https://www.smh.com.au/national/australia-pushes-back-on-china-warning-toward-pacific-nations-20260901-p60tjd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Australia has pushed back at China for warning there would be &#34;consequences&#34; for Pacific nations after Taiwan was invited to the regional summit.",
+      "pubDate": "Tue, 01 Sep 2026 18:35:57 +1000",
+      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/2d171b5d9615cc4be686bda101459175929bdf30",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "76yo loses retirement savings as granny flat builder collapses",
+      "link": "https://www.abc.net.au/news/2026-09-01/liquidator-appointed-after-collapse-of-bella-modular/107101186",
+      "desc": "Customers detail their \"heartbreaking\" financial losses after the collapse of Bella Modular, as a liquidator is appointed to see if any money can be clawed back for creditors.",
+      "pubDate": "Tue, 01 Sep 2026 08:25:50 +0000",
+      "img": "https://live-production.wcms.abc-cdn.net.au/78c36608b0f1913258afb17eb032d343?impolicy=wcms_crop_resize&amp;cropH=3333&amp;cropW=2500&amp;xPos=1250&amp;yPos=0&amp;width=862&amp;height=1149",
+      "sourceId": "abcnews",
+      "sourceName": "ABC News",
+      "sourceColor": "#E64626"
+    },
     {
       "title": "Nepal knows only too well the devastating dangers of climate change",
       "link": "https://www.smh.com.au/environment/climate-change/nepal-knows-only-too-well-the-devastating-dangers-of-climate-change-20260901-p60tad.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_environment",
@@ -36738,216 +36978,6 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
-    },
-    {
-      "title": "Superquiz, Monday, August 3",
-      "link": "https://www.smh.com.au/national/superquiz-monday-august-3-20260731-p60kbf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
-      "pubDate": "Sun, 02 Aug 2026 23:59:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_285/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/24d8c9ba98147348592ea2ed292e48328b593d46",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "WA police race to track down offenders who cut off ankle monitors",
-      "link": "https://www.smh.com.au/national/wa-police-race-to-track-down-offenders-who-cut-off-ankle-monitors-20260802-p60krm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Two offenders are on the run after cutting off their electronic ankle monitors, leaving police trying to track them down.",
-      "pubDate": "Sun, 02 Aug 2026 23:51:37 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8580629e2a3ba32088221648834c41446964ce98",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Trump calls off new attack on Iran",
-      "link": "https://www.smh.com.au/national/trump-calls-off-new-attack-on-iran-20260802-p60krn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "US President Donald Trump has called off a new attack on Iran, saying “the perimeters of a deal has been agreed to”.",
-      "pubDate": "Sun, 02 Aug 2026 23:50:54 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/13c78c6b4c80c9a149127e4791c6c66a7295f698",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Western Europe’s wildfire crisis retreats as Greece evacuates hundreds near Athens",
-      "link": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
-      "desc": "<p>High winds prevent firefighting aircraft from collecting seawater as flames spread through Attica</p><p>Europe’s wildfire crisis fractured along starkly different fronts on Sunday: gale-force winds",
-      "pubDate": "Sun, 02 Aug 2026 13:19:53 GMT",
-      "img": "https://i.guim.co.uk/img/media/485ae932972d035de5428a185f0ec362fd2a790e/638_0_4583_3668/master/4583.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "‘There’s no nurdle fairy’: thousands mobilise to clean up plastic spillage in north-east England",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/02/nurdles-clean-up-plastic-spillage-beaches-north-east-england",
-      "desc": "<p>Volunteers painstakingly gather plastic pellets washing up on beaches after ship collision on 19 July</p><p>“You’ve got a local community that really cares about the coastline,” said Alice Laverty,",
-      "pubDate": "Sun, 02 Aug 2026 13:00:23 GMT",
-      "img": "https://i.guim.co.uk/img/media/b87bc9c64d30e642be7474e6940b1e3f40f9218e/291_0_3818_3055/master/3818.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Struggling to get through summer? Treat yourself like a beloved dog – and six other survival tips | Emma Beddington",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/02/summer-survival-tips-august",
-      "desc": "<p>August usually sends me into an anxious funk, but I think I’ve worked out how to handle 2026’s terrifying heat and apocalyptic images</p><p>Unfortunately for hairdressers, “How’s your summer going?",
-      "pubDate": "Sun, 02 Aug 2026 13:00:22 GMT",
-      "img": "https://i.guim.co.uk/img/media/57b4e45c99670bca33c3af615c28f80ba45344a9/4_0_3790_3031/master/3790.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Trump is determined to pursue his trade war – and he may be difficult to stop | Eduardo Porter",
-      "link": "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon",
-      "desc": "<p>The president’s minions have trawled the statutes to restore roadblocks to trade. The invocation of Smoot-Hawley looks especially dangerous</p><p>Donald Trump may have found the killer weapon to pu",
-      "pubDate": "Sun, 02 Aug 2026 12:00:22 GMT",
-      "img": "https://i.guim.co.uk/img/media/02958fcf45236506d02082d0c70d3e48fe9beec7/275_0_4493_3593/master/4493.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Putting faith in the paper trail",
-      "link": "https://www.smh.com.au/national/nsw/putting-faith-in-the-paper-trail-20260731-p60k96.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Holy Trinity have form.",
-      "pubDate": "Sun, 02 Aug 2026 21:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.6556000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d51781c5614995563bbf4ce4a8b06344486e0d25",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "‘Forever in the mountain’: Melbourne hiker, 28, found dead on US trail",
-      "link": "https://www.smh.com.au/national/forever-in-the-mountain-melbourne-hiker-28-found-dead-on-us-trail-20260802-p60kpe.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A passionate young hiker was attempting a gruelling trail in the US when he went missing. Now, his family say his soul will be “forever in the mountains”.",
-      "pubDate": "Sun, 02 Aug 2026 20:31:49 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_19%2C$y_444/t_crop_custom/q_86%2Cf_auto/56eec34c1d80e4daa3f0ec55b5f2f728edc4cbf3",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Holes in medical safety net: Millions of machines, thousands of problems, a few dozen staff",
-      "link": "https://www.smh.com.au/national/holes-in-medical-safety-net-millions-of-machines-thousands-of-problems-a-few-dozen-staff-20260722-p60hfn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The federal government refused the regulator’s request for funding to properly monitor the side effects of medical devices, leaving it reliant on an IT system that staff say is flawed.",
-      "pubDate": "Sun, 02 Aug 2026 19:52:00 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/df4c7562c5635f55f24b70cc850442d22ad17989061e2b93012d26c05c03f743",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Pre-dawn alarms and 17-hour days: The extreme commutes of Sydney’s top students",
-      "link": "https://www.smh.com.au/national/nsw/pre-dawn-alarms-and-17-hour-days-the-extreme-commutes-of-sydney-s-top-students-20260723-p60htv.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Postcode data reveals the extent families are prepared to travel to attend Sydney’s top-tier schools.",
-      "pubDate": "Sun, 02 Aug 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_1.4708%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/630f0eb802fd881f549501487fd6b55a76ce230d938c79769c5e8697d008f458",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Casa Catalano: Media mogul seeks approval for $67 million mega-compound in Byron Bay",
-      "link": "https://www.smh.com.au/national/victoria/casa-catalano-media-mogul-seeks-approval-for-67-million-mega-compound-in-byron-bay-20260802-p60kow.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The millionaire businessman wants permission to build a third luxury home to expand his planned controversial family estate in Byron Bay, in a proposal that would take his total outlay to more than $6",
-      "pubDate": "Sun, 02 Aug 2026 19:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2562%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/q_86%2Cf_auto/ab09544429e78d490b3c49483f37ebdf34370ea1",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Multiple people killed in shooting at In-N-Out Burger in US",
-      "link": "https://www.smh.com.au/national/multiple-people-killed-in-shooting-at-in-n-out-burger-in-us-20260802-p60krc.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A fatal shooting has rocked an In-N-Out Burger restaurant in Idaho.",
-      "pubDate": "Sun, 02 Aug 2026 19:26:24 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8cf8932ce221cbd2b4ab30abc580a2b8973e3df5",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Go to a club, sit down and read: Intrepid readers rave about Book Doof",
-      "link": "https://www.smh.com.au/national/victoria/go-to-a-club-sit-down-and-read-intrepid-readers-rave-about-book-doof-20260728-p60jao.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Book lovers are embracing a new way to experience clubs and bars – reading in a group.",
-      "pubDate": "Sun, 02 Aug 2026 19:24:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_77/t_crop_custom/q_86%2Cf_auto/a3ddd5a63c8d114736030f629ef6ac98dfdb4d98",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "How to benefit from the coming mortgage price war",
-      "link": "https://www.smh.com.au/business/banking-and-finance/how-to-benefit-from-the-coming-mortgage-price-war-20260729-p60jqt.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_business",
-      "desc": "Borrowers are in the box seat as competition between banks steps up in a weakening market. But price wars in banking are different to other sectors.",
-      "pubDate": "Sun, 02 Aug 2026 19:00:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/aa46c774bdf74aad2ba94b6a839461026a6aa162",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Teen dies after being hit by car in Adelaide CBD",
-      "link": "https://www.smh.com.au/national/teen-dies-after-being-hit-by-car-in-adelaide-cbd-20260802-p60kr9.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "An 18-year-old man has died after being hit by a car and falling into the path of another in Adelaide.",
-      "pubDate": "Sun, 02 Aug 2026 18:42:55 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/70eb3440befcbd29c57360fd37b6e940bb583344",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Death toll rises in migrant crisis",
-      "link": "https://www.smh.com.au/national/death-toll-rises-in-migrant-crisis-20260802-p60kr6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "Spain is accusing some of its allies of having a &#34;selfish attitude&#34;, as the EU prepares to hold an emergency meeting about the crisis in Spanish territory.",
-      "pubDate": "Sun, 02 Aug 2026 18:33:24 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/1d7de59e30eb34505905fb0548cf9eaf359c1b30",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Shopworker critical after trying to stop alleged thieves",
-      "link": "https://www.smh.com.au/national/shopworker-critical-after-trying-to-stop-alleged-thieves-20260802-p60kr7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "CCTV has captured an attack on a man in his 60s who was chasing alleged shoplifters in Melbourne.",
-      "pubDate": "Sun, 02 Aug 2026 18:33:17 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/8e045cc6ca4bde556ffe087013919d7a1572c5e0",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Catholic Schools’ double standards a bit rich",
-      "link": "https://www.smh.com.au/national/nsw/catholic-schools-double-standards-a-bit-rich-20260802-p60knw.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "The Catholic Church must face the same financial accountability and transparency that it demands from its hard-working educators.",
-      "pubDate": "Sun, 02 Aug 2026 18:30:00 +1000",
-      "img": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_86/t_crop_custom/q_86%2Cf_auto/9df81fffb6eab28840ab38e2b4ad74b22f5f3268e8654f90a9b93b007ebf7b05",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "Wanted woman allegedly drove at police",
-      "link": "https://www.smh.com.au/national/wanted-woman-allegedly-drove-at-police-20260802-p60kq3.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "A woman is accused of driving at police and hitting multiple cars before running away.",
-      "pubDate": "Sun, 02 Aug 2026 18:27:38 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/786293afa935a7cda3cf598533d1d16184f730b6",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
-    },
-    {
-      "title": "One Nation returns to top in poll",
-      "link": "https://www.smh.com.au/national/one-nation-returns-to-top-in-poll-20260802-p60kr5.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
-      "desc": "One Nation is back as the most popular party in the new Redbridge poll.",
-      "pubDate": "Sun, 02 Aug 2026 18:27:04 +1000",
-      "img": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/d8e547704603e5ca530985171a238411f455f2cf",
-      "sourceId": "smh",
-      "sourceName": "Sydney Morning Herald",
-      "sourceColor": "#0A5CA8"
     }
   ]
 }
