@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T14:01:17.824Z",
-  "summary": "Australia's news agenda spans economic headwinds and political tensions alongside continuing crime and safety concerns. Financial markets are under pressure as global bond yields rise and commodity prices surge, while domestically a teen has been convicted of a shopping centre murder and a Melbourne school faces a potential 23 million dollar bill over disability classification issues. Prime Minister Albanese's escalating rhetoric against One Nation leader Pauline Hanson over Pacific security matters is drawing scrutiny, with political analysis questioning whether he's overstepped or fallen into a political trap. In regional news, a Western Australian man remains missing in Nepal following a glacial collapse disaster, and authorities are investigating reports of a former ADF soldier killed in Ukraine.",
+  "fetchedAt": "2026-09-01T18:16:06.614Z",
+  "summary": "Australian domestic politics dominated today's news, with Prime Minister Albanese recording his lowest approval rating while One Nation's popularity slipped, and a heated debate emerging over his criticism of Pauline Hanson. Major local stories included a teenager found guilty of a shopping centre murder, safety concerns after a Melbourne CBD brawl, and ongoing investigations into serious incidents involving an alleged cricket bat attack and a missing Labor MP involved in a car crash. Several significant international stories relevant to Australia also ran including the impact of climate change on Nepal's glacial collapse and the potential for a Supreme Court ruling to undermine climate accountability measures. On lighter notes, conservation efforts highlighted tiny wallabies spotted in Western Australia and researchers investigating whale communication possibilities.",
   "sources": [
     {
       "id": "abcnews",
@@ -29,6 +29,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Auckland now has a plan for congestion charging. But where are the extra buses?",
+      "link": "https://theconversation.com/auckland-now-has-a-plan-for-congestion-charging-but-where-are-the-extra-buses-290629",
+      "desc": "Auckland has settled on how congestion charging could work. But overseas experience shows the alternatives to driving are just as important.",
+      "pubDate": "2026-09-01T18:12:02Z",
+      "img": "https://images.theconversation.com/files/757111/original/file-20260901-50-e14qwi.jpg?ixlib=rb-4.1.1&amp;rect=0%2C456%2C5472%2C2736&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "sourceId": "conversationau",
+      "sourceName": "The Conversation AU",
+      "sourceColor": "#D8352A"
+    },
+    {
+      "title": "Australia’s tiniest wallabies spotted in the north-west in a tale of survival against the odds",
+      "link": "https://www.smh.com.au/national/western-australia/australia-s-tiniest-wallabies-spotted-in-the-north-west-in-a-tale-of-survival-against-the-odds-20260901-p60tju.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "They’re smaller than a cat and weigh little more than a bag of sugar. So, when rangers found them in WA’s Kimberley region, it gave renewed hope for their survival.",
+      "pubDate": "Wed, 02 Sep 2026 03:00:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2853678253839935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/16e82db7ad53a75f0bba8976089da517e5778bc58c1fb667b07815d8db63a504",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "Judge strikes down New York law that forced climate polluters to pay damages",
+      "link": "https://www.theguardian.com/us-news/2026/sep/01/judge-strikes-new-york-law-climate-polluters-damage-pay",
+      "desc": "<p>State cannot enforce policy requiring oil firms to pay $75bn over 25 years for climate mitigation and adaptation</p><p>A federal judge has struck down a landmark New York law that forces major poll",
+      "pubDate": "Tue, 01 Sep 2026 16:11:11 GMT",
+      "img": "https://i.guim.co.uk/img/media/b947bba3ffaf607c486bb6c104d0c2bface9f0bd/463_0_5001_4000/master/5001.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Sydney’s beaches enter the drone age to get swimmers back in the water after spate of shark attacks",
+      "link": "https://www.theguardian.com/environment/2026/sep/02/sydneys-beaches-enter-the-drone-age-to-get-swimmers-back-in-the-water-after-spate-of-shark-attacks",
+      "desc": "<p>Seventy beaches across New South Wales are part of the $34m dawn-to-dusk drone monitoring program, which one expert has called ‘the best technology we have at the moment’</p><ul><li><p>Get our <a h",
+      "pubDate": "Tue, 01 Sep 2026 16:00:07 GMT",
+      "img": "https://i.guim.co.uk/img/media/337cf4a23cacb029fa43dc32c1dd2fbb7a0502d3/294_350_2767_2215/master/2767.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "Guardian Essential poll: One Nation’s popularity slips as Albanese records lowest approval as prime minister",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/02/guardian-essential-poll-one-nation-popularity-slips-albanese-records-lowest-approval-as-prime-minister-ntwnfb",
+      "desc": "<p>Coalition regains ground as support for Labor and Pauline Hanson’s party falls amid ‘messy immigration debate’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics",
+      "pubDate": "Tue, 01 Sep 2026 15:00:00 GMT",
+      "img": "https://i.guim.co.uk/img/media/fe72ea0ffc3ab358927bdb61a8edf1ce5ddb913d/440_0_4398_3518/master/4398.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "US border patrol expected to aid Grand Canyon search for missing person",
+      "link": "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood",
+      "desc": "<p>Nearly 80 people have been rescued, and two people confirmed dead, after flood hit national park</p><p>A US border patrol technical search team is expected to deploy in the Grand Canyon, as authori",
+      "pubDate": "Tue, 01 Sep 2026 14:19:17 GMT",
+      "img": "https://i.guim.co.uk/img/media/53cf806ddf069d18192e8c3501d1c78472a3af3c/23_0_4599_3678/master/4599.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
+    {
+      "title": "The greatest scientific mystery of our time may have just flashed in a gold mine",
+      "link": "https://www.smh.com.au/national/the-greatest-scientific-mystery-of-our-time-may-have-just-flashed-in-a-gold-mine-20260831-p60syd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_national",
+      "desc": "Sometimes it feels as if all the fundamental questions about existence have been solved. Scientists just found something they can’t explain.",
+      "pubDate": "Wed, 02 Sep 2026 00:01:00 +1000",
+      "img": "https://static.ffx.io/images/$zoom_0.2704290091930541%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_202/t_crop_custom/q_86%2Cf_auto/c187a1d7217d7715d6bfde8ed2fff15b4bbb2657",
+      "sourceId": "smh",
+      "sourceName": "Sydney Morning Herald",
+      "sourceColor": "#0A5CA8"
+    },
+    {
+      "title": "High winds during El Niño could be deadly for England’s stressed trees, say experts",
+      "link": "https://www.theguardian.com/environment/2026/sep/01/high-winds-el-nino-england-stressed-trees-heat-drought",
+      "desc": "<p>Head of tree collections at Kew ‘very worried about this autumn’ as hot, dry summer has caused brittleness</p><p>High winds associated with El Niño could cause widespread mortality among tree speci",
+      "pubDate": "Tue, 01 Sep 2026 14:00:00 GMT",
+      "img": "https://i.guim.co.uk/img/media/4bfec004caab3d683af2b8e27e9c9ffe212b7a76/156_0_3280_2624/master/3280.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
+    },
     {
       "title": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – business live",
       "link": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
@@ -388,6 +468,16 @@
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
+    },
+    {
+      "title": "Shein shares slide on fast-fashion retailer’s stock market debut",
+      "link": "https://www.theguardian.com/business/2026/sep/01/shein-shares-slide-fast-fashion-retailer-stock-market-debut-hong-kong",
+      "desc": "<p>Hong Kong flotation at $26bn by firm once valued at $100bn follows failure to list in US and UK</p><p>Shares in the fast-fashion brand Shein slumped by as much as 10% as the China-founded company m",
+      "pubDate": "Tue, 01 Sep 2026 07:11:16 GMT",
+      "img": "https://i.guim.co.uk/img/media/7fcf7e5dd65065994b8f99f70707aa0cca9b9c4c/1149_0_3695_2958/master/3695.jpg",
+      "sourceId": "guardianau",
+      "sourceName": "The Guardian AU",
+      "sourceColor": "#052962"
     },
     {
       "title": "Attorney-General calls on Pauline Hanson to reflect on her own behaviour",
@@ -36925,56 +37015,6 @@
       "desc": "For decades, major chocolate companies have pledged to eradicate child labour. Four Corners discovered that in Ghana, the promises don't always match the reality.",
       "pubDate": "Sun, 02 Aug 2026 18:39:58 +0000",
       "img": "https://live-production.wcms.abc-cdn.net.au/4494c05791ee606fe9288b4377bdb426?impolicy=wcms_crop_resize&amp;cropH=1079&amp;cropW=809&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=1149",
-      "sourceId": "abcnews",
-      "sourceName": "ABC News",
-      "sourceColor": "#E64626"
-    },
-    {
-      "title": "The Guardian view on drought: hot, dry conditions make inequality starker | Editorial",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/02/the-guardian-view-on-drought-hot-dry-conditions-make-inequality-starker",
-      "desc": "<p>Water is a vital shared resource, and privatisation has made a just transition harder </p><p>Compared with rising heat-related deaths, and devastating wildfires in the Cairngorms and Suffolk, the a",
-      "pubDate": "Sun, 02 Aug 2026 16:30:25 GMT",
-      "img": "https://i.guim.co.uk/img/media/45295863febdd28f6c872d46f43a08c4d1a7273b/623_0_6099_4879/master/6099.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Britain could face food shortages as drought continues, farmers warn",
-      "link": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
-      "desc": "<p>Wheat is half normal height, while England is seeing earliest ever harvest as farmers battle to salvage what they can of their crops</p><p>Britain could face shortages of certain foods after parts ",
-      "pubDate": "Sun, 02 Aug 2026 15:54:05 GMT",
-      "img": "https://i.guim.co.uk/img/media/264f6a189017278348b832a55d6ac2782e8a91cf/807_0_4607_3686/master/4607.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’",
-      "link": "https://www.theguardian.com/environment/2026/aug/03/the-great-net-zero-debate-was-anything-but-so-beware-coalition-claims-of-renewables-taking-over-two-tasmanias",
-      "desc": "<p>One expert described Nationals leader Matt Canavan’s claim of land used for clean energy as ‘plain wrong and plain silly’</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/",
-      "pubDate": "Sun, 02 Aug 2026 15:00:27 GMT",
-      "img": "https://i.guim.co.uk/img/media/5e2aa83daaebe8132e58884b078a71fe32f93ae1/735_0_5793_4635/master/5793.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/03/house-prices-slide-across-australia-as-middle-east-conflict-and-tax-changes-begin-to-bite",
-      "desc": "<p>Cotality data shows a drop in Brisbane, Adelaide and Perth, as nation’s median home price falls about $19,000 below its March peak</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/",
-      "pubDate": "Sun, 02 Aug 2026 14:01:23 GMT",
-      "img": "https://i.guim.co.uk/img/media/d0be91831d5c2e0453b63ed157e6461f6eb381c2/1039_0_6880_5504/master/6880.jpg",
-      "sourceId": "guardianau",
-      "sourceName": "The Guardian AU",
-      "sourceColor": "#052962"
-    },
-    {
-      "title": "Housing market seeing 'rapid deterioration' as property downturn deepens",
-      "link": "https://www.abc.net.au/news/2026-08-03/housing-market-downturn-spreads-property-prices-cotality/106975270",
-      "desc": "Australia's housing downturn is spreading across the country, with the latest property price data showing previously resilient markets that had recently set record-high prices are now experiencing a d",
-      "pubDate": "Sun, 02 Aug 2026 14:01:13 +0000",
-      "img": "https://live-production.wcms.abc-cdn.net.au/a99c8992995bca5c38efa7ea31fe53d9?impolicy=wcms_crop_resize&amp;cropH=1536&amp;cropW=1152&amp;xPos=448&amp;yPos=0&amp;width=862&amp;height=1149",
       "sourceId": "abcnews",
       "sourceName": "ABC News",
       "sourceColor": "#E64626"
