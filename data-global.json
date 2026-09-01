@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-31T20:43:46.128Z",
-  "summary": "Geopolitical tensions are escalating across multiple fronts, with the US and Iran trading military strikes for the first time in weeks, India's Modi calling for Ukraine peace talks with Putin, and Israel intensifying operations in occupied Palestinian territories. Economic pressures are mounting globally as AI expansion raises concerns about data centers and potential recession, music companies sue AI developers over training data, and Iran faces potential economic collapse. Regional crises continue to mount, from an Ebola outbreak claiming nearly 3,000 lives in the Democratic Republic of Congo to devastating flooding in the Grand Canyon and forest fires in Algeria, while trade tensions between the US and Canada add to economic headwinds. Domestically in the US, the Supreme Court cleared Trump's White House renovation plans as political figures position themselves ahead of November elections.",
+  "fetchedAt": "2026-09-01T00:28:09.098Z",
+  "summary": "Global tensions are escalating sharply, with the US and Iran trading military strikes for the first time in weeks as Trump threatens further action, while Russia and China are deepening their strategic partnership at the Shanghai Cooperation Organisation summit amid broader geopolitical uncertainty. In the Middle East, violence is intensifying across multiple fronts, including Israeli military actions in occupied territories, Russian strikes on Ukrainian civilians, and ongoing Israeli-Palestinian conflict. Major economic concerns are mounting, from warnings that AI could trigger a global downturn to allegations of corporate misconduct against Amazon and music industry lawsuits against AI companies. Meanwhile, regional crises continue to demand attention, including a severe Ebola outbreak in the Democratic Republic of Congo that has killed nearly 3,000 people and devastating environmental emergencies from Indonesian wildfires to North African forest fires.",
   "sources": [
     {
       "id": "bbcnews",
@@ -24,6 +24,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+      "link": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+      "desc": "Economic grievances persist while space for dissent has narrowed under President Kais Saied.",
+      "pubDate": "Tue, 01 Sep 2026 00:15:22 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8792bd00d4-1787269821.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "desc": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
+      "pubDate": "Tue, 01 Sep 2026 00:00:00 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T175100Z_942363201_RC2I9NAHPTC6_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1788215429.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+      "desc": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
+      "pubDate": "Mon, 31 Aug 2026 22:16:18 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/16x9-clean-1788214519.jpeg?resize=1920%2C1080&amp;quality=80",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
+    {
+      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "pubDate": "Mon, 31 Aug 2026 22:08:30 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/30249ee0-a502-11f1-bc78-771607c93ea6.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+      "pubDate": "Mon, 31 Aug 2026 22:07:19 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Orangutans in danger as wildfires blaze through Borneo",
+      "link": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
+      "pubDate": "Mon, 31 Aug 2026 22:05:43 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/954d/live/e2eff860-a545-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&amp;at_campaign=rss",
+      "desc": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+      "pubDate": "Mon, 31 Aug 2026 21:28:49 GMT",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "sourceColor": "#BB1919"
+    },
+    {
+      "title": "Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world",
+      "link": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+      "desc": "The Russian and Chinese leaders met on the sidelines of the SCO summit.",
+      "pubDate": "Mon, 31 Aug 2026 21:14:47 +0000",
+      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T123734Z_1822546573_RC2O9NA2JC94_RTRMADP_3_SCO-SUMMIT-PUTIN-XI-1788205560.jpg?resize=1920%2C1440",
+      "sourceId": "aljazeera",
+      "sourceName": "Al Jazeera",
+      "sourceColor": "#D2A02E"
+    },
     {
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
       "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&amp;at_campaign=rss",
@@ -13210,66 +13290,6 @@
       "desc": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
       "pubDate": "Sun, 02 Aug 2026 00:49:25 +0000",
       "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6e8b8573-1785629573.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
-      "desc": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
-      "pubDate": "Sun, 02 Aug 2026 00:00:00 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T103635Z_958657427_RC27OMAWQQQD_RTRMADP_3_IRAN-CRISIS-1785627529.jpg?resize=1920%2C1440",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
-      "link": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
-      "desc": "Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
-      "pubDate": "Sat, 01 Aug 2026 23:15:40 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2020/05/6a94f39b58124d81a1ad959c656538c6_18.jpeg?resize=1200%2C675",
-      "sourceId": "aljazeera",
-      "sourceName": "Al Jazeera",
-      "sourceColor": "#D2A02E"
-    },
-    {
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-      "pubDate": "Sat, 01 Aug 2026 23:03:23 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f867/live/e4bf7ee0-8cf4-11f1-b8ee-9b3c26ad07bb.png",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "pubDate": "Sat, 01 Aug 2026 22:57:55 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/c9f00e60-8df6-11f1-902e-fd8182e85c3f.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&amp;at_campaign=rss",
-      "desc": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-      "pubDate": "Sat, 01 Aug 2026 22:23:20 GMT",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "sourceColor": "#BB1919"
-    },
-    {
-      "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
-      "desc": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.",
-      "pubDate": "Sat, 01 Aug 2026 21:15:50 +0000",
-      "img": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785618936.jpg?resize=1920%2C1080&amp;quality=80",
       "sourceId": "aljazeera",
       "sourceName": "Al Jazeera",
       "sourceColor": "#D2A02E"
